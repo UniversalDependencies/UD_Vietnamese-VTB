@@ -1,11 +1,9 @@
-# UD_Vietnamese
-
 === Machine-readable metadata =================================================
 Documentation status: stub
 Data source: automatic
 Data available since: UD v2.0
-License:
+License: CC BY-SA 4.0
 Genre:
-Contributors:
+Contributors: Nguyễn Thị, Lương; Hà Mỹ, Linh; Lê Hồng, Phương; Nguyễn Thị Minh, Huyền
 Contact:
 ===============================================================================
