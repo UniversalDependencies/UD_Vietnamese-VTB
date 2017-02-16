@@ -1794,8 +1794,8 @@
     <feat name="bẻ" value="" upos="sừng">1</feat><!-- bẻ -->
     <feat name="bọc" value="" upos="thép">1</feat><!-- xe -->
     <feat name="bộ" value="" upos="đàm">1</feat><!-- bộ, câu, bắc, máy -->
-    <feat name="Cao" value="" upos="Toản">1</feat><!-- Nguyễn -->
     <feat name="cao" value="" upos="su">1</feat><!-- cao, kín, kẹo -->
+    <feat name="Cao" value="" upos="Toản">1</feat><!-- Nguyễn -->
     <feat name="carlyle" value="" upos=".">1</feat><!-- carlyle -->
     <feat name="CCONJ" value="" upos="Do,Dù,Dẫu,Hơn,Không,Lại,Mặc,Mặt,Ngoài,Ngược,Như,Thí,Thế,Tuy,Tóm,Tức,Vì,Ví,Vậy,cho,do,dù,dường,hay,hơn,mà,mặc,ngược,như,nhất,nếu,thế,vì,vậy">108</feat><!-- thì, nhưng, như, là, mà, nếu, rồi, nên, hay, Và -->
     <feat name="chiến" value="" upos="binh,thi">5</feat><!-- chiến, cựu -->
@@ -1803,8 +1803,8 @@
     <feat name="Chí" value="" upos="Minh,Thanh">4</feat><!-- Nguyễn, Hồ, Chí -->
     <feat name="chưa" value="" upos="cưới">1</feat><!-- chưa, Chồng -->
     <feat name="chị" value="" upos="em">1</feat><!-- chị, anh -->
-    <feat name="Chủ" value="" upos="tịch">1</feat><!-- Chủ, Phó -->
     <feat name="chủ" value="" upos="tịch">2</feat><!-- chủ, phó -->
+    <feat name="Chủ" value="" upos="tịch">1</feat><!-- Chủ, Phó -->
     <feat name="Cola" value="" upos="Mỹ">1</feat><!-- Coca -->
     <feat name="com." value="" upos="vn">1</feat><!-- khoailangbahao. -->
     <feat name="Công" value="" upos="Hào,Lân,sinh">3</feat><!-- Công, Nguyễn, Đặng -->
@@ -1884,8 +1884,8 @@
     <feat name="Raymonde" value="" upos="Dien">1</feat><!-- Hồ, Raymonde -->
     <feat name="South" value="" upos="Wales">1</feat><!-- New -->
     <feat name="Sĩ" value="" upos="Thành">1</feat><!-- Nguyễn -->
-    <feat name="Sơn" value="" upos="Nam">1</feat><!-- Sơn, Nguyễn, Mỹ -->
     <feat name="sơn" value="" upos="lâm">1</feat><!-- chúa -->
+    <feat name="Sơn" value="" upos="Nam">1</feat><!-- Sơn, Nguyễn, Mỹ -->
     <feat name="sở" value="" upos="trí">1</feat><!-- sở -->
     <feat name="T" value="" upos="hung">1</feat><!-- Bản, Đ -->
     <feat name="Thanh" value="" upos="Hải,Thủy">2</feat><!-- Thanh, Nguyễn, Lê, Phạm, Vũ -->
@@ -1900,8 +1900,8 @@
     <feat name="thường" value="" upos="trực">1</feat><!-- thường, phòng -->
     <feat name="Thường" value="" upos="Kiệt">1</feat><!-- Lý -->
     <feat name="thượng" value="" upos="hạ">1</feat><!-- thượng -->
-    <feat name="thế" value="" upos="nào,này">6</feat><!-- thế, như -->
     <feat name="Thế" value="" upos="Khanh,Vinh">2</feat><!-- Thế, Lương, Nguyễn -->
+    <feat name="thế" value="" upos="nào,này">6</feat><!-- thế, như -->
     <feat name="Thị" value="" upos="Hương,Loan,Sinh,Viện">4</feat><!-- Nguyễn, Nông -->
     <feat name="thị" value="" upos="dậu,lan">2</feat><!-- thị, bùi, nguyễn -->
     <feat name="Tiến" value="" upos="Đạt">1</feat><!-- Tiến, Nguyễn -->
@@ -1924,8 +1924,8 @@
     <feat name="VERB" value="" upos="Bắt,Bồi,Khảo,Sàng,Tiếp,Tổng,Xây,Xúc,am,an,ban,bao,biên,biến,biểu,buôn,buông,bàn,bày,bám,bán,báo,bâng,bãi,bênh,bêu,bí,bó,bóp,bù,bơ,bảo,bất,bắt,bế,bị,bịn,bỏ,bố,bốc,bối,bồi,bộc,bới,bực,cam,can,canh,che,chen,chi,chia,chiêu,chiến,cho,chu,chui,chung,chuyển,chuẩn,chào,chán,chát,chân,chép,chôn,chùng,chú,chúc,chăm,chăn,chơi,chạm,chạnh,chạy,chấm,chấn,chấp,chất,chần,chắc,chắt,chế,chết,chỉ,chỉnh,chịu,chọc,chọn,chống,chột,chờ,chủ,chứng,chữa,coi,cung,cài,cách,câm,cân,cãi,có,công,cúng,căm,căn,cư,cười,cạnh,cải,cảm,cảnh,cấp,cất,cấu,cầu,cập,cắm,cặp,cố,cứu,cử,di,diễn,du,dành,dâng,dính,dò,dòm,dưỡng,dẫn,dắt,dọn,dồn,dứt,dự,e,gay,ghen,ghi,ghê,gia,gian,giao,giám,giáo,giáp,giúp,giải,giảng,giận,giật,giới,gom,gánh,gây,gãi,gìn,góp,gõ,gầy,gắn,gặp,gặt,gợi,gừ,ham,hi,hoan,hoang,hoài,hoàn,hoành,hoạt,hoảng,huy,huấn,hy,hài,hành,hào,hát,héo,hì,hình,hò,hòa,hóa,hăm,hướng,hưởng,hạn,hả,hấp,hẹn,học,họp,hỏi,hối,hốt,hồ,hồi,hỗ,hội,hớ,hớn,hợp,hủy,hừng,im,khai,khen,khinh,khiếm,khiếp,khiếu,khoanh,khuyên,khuất,khuấy,khám,kháng,khâm,khó,khôi,khăn,khả,khảo,khẩn,khắc,khẳng,khởi,khủng,khứ,kinh,kiêng,kiến,kiểm,kiện,kéo,kêu,ký,kế,kết,kỷ,la,lan,lang,lao,lau,len,lim,liên,lo,loại,ly,làm,lân,lãng,lãnh,lên,lí,lôi,lúng,lăn,lơi,lưu,lạm,lảng,lấn,lấy,lập,lật,lắc,lắp,lặn,lễ,lọc,lọt,lớn,lợi,lựa,mai,mang,minh,miễn,miệt,mong,mua,mách,mâu,mãn,mô,môi,mại,mất,mặc,mổ,mời,mở,mủi,mừng,nao,ngao,nghi,nghiên,nghiệm,nghiện,nghênh,nghẹn,nghỉ,ngoại,nguôi,ngó,ngăn,ngạc,ngần,ngập,ngồi,ngờ,ngụy,nhao,nhân,nhìn,nhăn,nhũng,nhạt,nhấn,nhấp,nhất,nhận,nhập,nhậu,nhắc,nhắm,nhắn,nhớ,nâng,nín,nói,núp,năn,nạo,nảy,nấn,nắm,nắn,nối,nổ,oán,phiêu,phong,phá,phán,phát,phân,phê,phì,phòng,phó,phù,phúc,phạm,phản,phấn,phẫn,phẫu,phỏng,phối,phổ,phụ,phục,qua,quan,quay,quen,qui,quyết,quét,quăng,quơ,quản,quấy,ra,rong,ruồng,rà,ràng,ráp,rò,rôm,rùng,rút,rải,rối,rụt,sa,sai,san,sang,say,sinh,so,soi,suy,sám,sáng,sát,sôi,săn,sơ,sạt,sản,sắm,sắp,sặc,sống,sốt,sờ,sụp,sụt,sử,sửa,sửng,tan,tha,tham,than,thanh,thao,thay,theo,thi,thiết,thoi,thu,thuần,thành,thách,thám,thán,tháo,tháp,thì,thí,thông,thù,thú,thúc,thương,thường,thảng,thảo,thấp,thất,thẩm,thắc,thế,thều,thể,thỏa,thống,thờ,thở,thủ,thừa,thực,tin,tiêu,tiếc,tiến,tiếp,tiết,toại,trang,tranh,trao,trau,trinh,triển,trung,truy,trà,tràn,trách,trân,trêu,trình,trò,trông,trùng,trú,trưng,trả,trấn,trầm,trắc,trằn,trẻ,trị,trọng,trộm,trở,trợ,trực,tung,tuyên,tuyệt,tuân,tuần,tài,tá,tác,tâm,tìm,tình,tích,tóm,tôn,tù,tùy,túc,tăng,tư,tương,tường,tưởng,tản,tấn,tần,tận,tập,tắt,tằn,tỉnh,tỏ,tố,tốn,tốt,tồn,tổ,tổn,tổng,tụ,tứ,tức,từ,tự,va,vang,vay,vi,vinh,viết,viễn,vu,vui,vun,vòng,vô,văn,vận,vật,vẽ,vội,vỡ,xem,xen,xin,xinh,xoa,xung,xuất,xác,xâm,xâu,xây,xã,xét,xê,xì,xóa,xô,xôn,xúc,xảy,xấu,xử,yêu,yểm,ách,ám,áp,ân,ép,ùn,ăn,đa,đan,đau,đe,đeo,đi,điều,điểm,đo,đoàn,đoạn,đua,đàm,đàn,đào,đáng,đánh,đáp,đâm,đình,đòi,đón,đóng,đùa,đùm,đăng,đơm,đưa,được,đại,đạo,đảm,đấu,đầu,đẩy,đắc,đặt,đề,đền,để,định,đố,đối,đồng,đổ,đổi,động,đột,đứng,đứt,ưu,ước,ảnh,ấp,ốm,ồ,ổn,ở,ủng,ủy,ứng">2424</feat><!-- có, được, làm, đi, phải, nói, biết, bị, về, cho -->
     <feat name="vuông" value="" upos="sắc">1</feat><!-- vuông -->
     <feat name="vâng" value="" upos="dạ">1</feat><!-- vâng -->
-    <feat name="Văn" value="" upos="Chí,Cội,Huấn,Khuê,Khải,Luyến,Minh,Nam,Ngữ,Quán,Quí,Sung,Thanh,Thuật,Trương,Tình,Đực">21</feat><!-- Nguyễn, Phạm, Bùi, Hồ, Phan, Võ, Đặng, Dương, Mai, Tô -->
     <feat name="văn" value="" upos="hóa,linh,nhã,phòng,tường,đu">8</feat><!-- văn, nguyễn, phó, nhà, phan -->
+    <feat name="Văn" value="" upos="Chí,Cội,Huấn,Khuê,Khải,Luyến,Minh,Nam,Ngữ,Quán,Quí,Sung,Thanh,Thuật,Trương,Tình,Đực">21</feat><!-- Nguyễn, Phạm, Bùi, Hồ, Phan, Võ, Đặng, Dương, Mai, Tô -->
     <feat name="X" value="" upos="B,Bất,Coi,Có,Dường,Hình,Hóa,Hơn,Không,Khổ,Lâu,Lần,Lập,Lẽ,Mãi,Mặt,Nghĩa,Ngược,Như,Nhất,Phải,Quả,Thì,Thậm,Thật,Thế,Thỉnh,Tóm,Tại,Vì,biết,bất,chìm,chí,chưa,chẳng,chừng,có,cứ,dù,dường,dần,gần,gọi,hình,hóa,hơn,hầu,hết,không,kể,liên,làm,lâu,lần,lập,lục,một,nghĩa,ngày,như,nhất,nào,nói,ov,quá,quả,ra,rất,sau,sắp,thường,thậm,thật,thế,thỉnh,trái,trở,tại,tới,tức,vì,vô,vậy,vốn,xóc,ít,Đáng,Đến,đi,đáng,đôi,được,đối,đồng">320</feat><!-- không, đã, cũng, lại, sẽ, chỉ, được, rất, ra, đang -->
     <feat name="Xuân" value="" upos="Ái,Đại">3</feat><!-- Xuân, Trương, Phạm -->
     <feat name="xuất" value="" upos="nhập">1</feat><!-- xuất -->
