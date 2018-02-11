@@ -1,0 +1,42 @@
+Sun Feb 11 20:55:57 CET 2018
+perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Vietnamese
+Running the following version of tools/evaluate_treebank.pl:
+commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Feb 11 20:27:50 2018 +0100
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+Evaluating the following revision of UD_Vietnamese:
+commit e3774ad33f2b03a849497a3aa12457e6d4029402
+Merge: 0b525a7 32a0d03
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Size: counted 43754 of 43754 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.55716607439143.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.4.
+Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.1.
+Features: 1844 out of 43754 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 28 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.1.
+Udapi: found 12050 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 43754 words.
+Genres: found 1 out of 14 known.
+Availability: README does not say Includes text: yes
+(weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
+(weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
+(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
+(weight=0.256410256410256) * (score{size}=0.547005920822443) = 0.140257928416011
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.0823529411764706) = 0.00633484162895928
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.0756756756756757) = 0.00582120582120582
+(TOTAL score=0.252267455719656) * (availability=0.1) * (validity=1) = 0.0252267455719656
+STARS = 0
+UD_Vietnamese	0.0252267455719656	0
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
