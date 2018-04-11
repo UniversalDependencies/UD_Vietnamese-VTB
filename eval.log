@@ -1,14 +1,10 @@
-Sun Feb 11 20:55:57 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Vietnamese
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
-Evaluating the following revision of UD_Vietnamese:
-commit e3774ad33f2b03a849497a3aa12457e6d4029402
-Merge: 0b525a7 32a0d03
+Date:   Wed Apr 11 09:21:53 2018 +0200
+Evaluating the following revision of UD_Vietnamese-VTB:
+commit 66a0527f6c1c3f5eec6fb85a67e37432e97d56cd
+Merge: 8413399 186f858
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 43754 of 43754 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.55716607439143.
@@ -27,6 +23,13 @@ Udapi: found 12050 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 43754 words.
 Genres: found 1 out of 14 known.
 Availability: README does not say Includes text: yes
+validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
+*** PASSED ***
+validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
+*** PASSED ***
+validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
 (weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
@@ -37,6 +40,4 @@ Availability: README does not say Includes text: yes
 (weight=0.0769230769230769) * (score{udeprels}=0.0756756756756757) = 0.00582120582120582
 (TOTAL score=0.252267455719656) * (availability=0.1) * (validity=1) = 0.0252267455719656
 STARS = 0
-UD_Vietnamese	0.0252267455719656	0
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
+UD_Vietnamese-VTB	0.0252267455719656	0
