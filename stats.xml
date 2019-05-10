@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>3000</sentences><tokens>43754</tokens><words>43754</words><fused>0</fused></total>
+    <train><sentences>1400</sentences><tokens>20285</tokens><words>20285</words><fused>0</fused></train>
+    <dev><sentences>800</sentences><tokens>11514</tokens><words>11514</words><fused>0</fused></dev>
+    <test><sentences>800</sentences><tokens>11955</tokens><words>11955</words><fused>0</fused></test>
   </size>
   <lemmas unique="5419" /><!-- ., ,, ", và, là, không, có, của, người, ông, một, đã, được, ..., những -->
   <forms unique="5419" /><!-- ., ,, ", và, là, không, có, của, người, ông, một, đã, được, ..., những -->
