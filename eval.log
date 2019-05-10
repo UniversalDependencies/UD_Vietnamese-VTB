@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 2f4c3702e1ef25a1046e41dc9163d912e2943b6c
-Merge: 8c8f4a6 705ed98
+commit da82b01cb04e86aac2a86a648b367829f6a90359
+Merge: 88f1d08 0edef6d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 43754 of 43754 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.55716607439143.
