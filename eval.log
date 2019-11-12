@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit da82b01cb04e86aac2a86a648b367829f6a90359
-Merge: 88f1d08 0edef6d
+commit 4081380bcb38333276b92882b4c539fdab828bca
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 21:47:34 2019 +0200
 Size: counted 43754 of 43754 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.55716607439143.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,12 +23,48 @@ Udapi: found 12050 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 43754 words.
 Genres: found 1 out of 17 known.
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
-*** PASSED ***
+[Line 9 Sent dev-s1 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 19 Sent dev-s1 Node 17]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 37 Sent dev-s2 Node 7]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PROPN'
+[Line 38 Sent dev-s2 Node 8]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 42 Sent dev-s2 Node 12]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PROPN'
+[Line 43 Sent dev-s2 Node 13]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 44 Sent dev-s2 Node 14]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 41 Sent dev-s2 Node 14]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (14:đày:aux --> 11:chị:nsubj)
+[Line 43 Sent dev-s2 Node 14]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (14:đày:aux --> 13:bị:aux)
+...suppressing further errors regarding Syntax
+Syntax errors: 1540
+*** FAILED *** with 1540 errors
+Exit code: 1
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
-*** PASSED ***
+[Line 3 Sent test-s1 Node 1]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
+[Line 5 Sent test-s1 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 16 Sent test-s1 Node 14]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+[Line 15 Sent test-s1 Node 14]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (14:tách:mark --> 13:để:case)
+[Line 17 Sent test-s1 Node 14]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (14:tách:mark --> 15:chúng:obj)
+[Line 20 Sent test-s1 Node 18]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 34 Sent test-s2 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 36 Sent test-s2 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 45 Sent test-s3 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+...suppressing further errors regarding Syntax
+Syntax errors: 1566
+*** FAILED *** with 1566 errors
+Exit code: 1
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 8 Sent train-s1 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 20 Sent train-s2 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 74 Sent train-s4 Node 14]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PROPN'
+[Line 75 Sent train-s4 Node 15]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 86 Sent train-s5 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 94 Sent train-s5 Node 9]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 129 Sent train-s8 Node 3]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PROPN'
+[Line 149 Sent train-s10 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 168 Sent train-s11 Node 2]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PROPN'
+...suppressing further errors regarding Syntax
+Syntax errors: 2539
+*** FAILED *** with 2539 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -37,6 +73,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.376390169254134) * (availability=1) * (validity=1) = 0.376390169254134
-STARS = 2
-UD_Vietnamese-VTB	0.376390169254134	2
+(TOTAL score=0.376390169254134) * (availability=1) * (validity=0.01) = 0.00376390169254134
+STARS = 0
+UD_Vietnamese-VTB	0.00376390169254134	0
