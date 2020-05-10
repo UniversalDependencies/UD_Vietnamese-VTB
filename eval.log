@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 4081380bcb38333276b92882b4c539fdab828bca
+commit 90197ea399e4662dbb40396adaf940f4e344591b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 21:47:34 2019 +0200
+Date:   Tue Nov 12 17:49:51 2019 +0100
 Size: counted 43754 of 43754 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.55716607439143.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 1844 out of 43754 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 12050 bugs.
+Udapi: found 12057 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 43754 words.
 Genres: found 1 out of 17 known.
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
