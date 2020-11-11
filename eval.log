@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 90197ea399e4662dbb40396adaf940f4e344591b
+commit e9c5bc3113e3c04f3f1fe8c03547fa3532b6930c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:49:51 2019 +0100
+Date:   Sun May 10 18:49:21 2020 +0200
 Size: counted 43754 of 43754 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.55716607439143.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -33,8 +33,8 @@ validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
 [Line 41 Sent dev-s2 Node 14]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (14:đày:aux --> 11:chị:nsubj)
 [Line 43 Sent dev-s2 Node 14]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (14:đày:aux --> 13:bị:aux)
 ...suppressing further errors regarding Syntax
-Syntax errors: 1540
-*** FAILED *** with 1540 errors
+Syntax errors: 1527
+*** FAILED *** with 1527 errors
 Exit code: 1
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
 [Line 3 Sent test-s1 Node 1]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
@@ -47,8 +47,8 @@ validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
 [Line 36 Sent test-s2 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 [Line 45 Sent test-s3 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 ...suppressing further errors regarding Syntax
-Syntax errors: 1566
-*** FAILED *** with 1566 errors
+Syntax errors: 1544
+*** FAILED *** with 1544 errors
 Exit code: 1
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
 [Line 8 Sent train-s1 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
@@ -61,8 +61,8 @@ validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
 [Line 149 Sent train-s10 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 [Line 168 Sent train-s11 Node 2]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PROPN'
 ...suppressing further errors regarding Syntax
-Syntax errors: 2539
-*** FAILED *** with 2539 errors
+Syntax errors: 2521
+*** FAILED *** with 2521 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
