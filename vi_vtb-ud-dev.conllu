@@ -76,7 +76,7 @@
 4	tham gia	tham gia	VERB	V	_	0	root	_	_
 5	quân đội	quân đội	NOUN	N	_	4	obj	_	_
 6	để	để	ADP	E	_	7	mark	_	_
-7	chống	chống	VERB	V	_	4	advcl:objective	_	_
+7	chống	chống	VERB	V	_	4	advcl	_	_
 8	phát xít	phát xít	NOUN	N	_	7	obj	_	_
 9	Đức	Đức	NOUN	Np	_	8	compound	_	_
 10	tại	tại	ADP	E	_	11	case	_	_
@@ -91,8 +91,8 @@
 4	cử	cử	VERB	V	_	0	root	_	_
 5	sang	sang	VERB	V	_	4	xcomp	_	_
 6	VN	VN	NOUN	Np	_	4	obj	_	_
-7	để	để	ADP	E	_	8	case	_	_
-8	giúp	giúp	VERB	V	_	4	mark	_	_
+7	để	để	ADP	E	_	8	mark	_	_
+8	giúp	giúp	VERB	V	_	4	advcl	_	_
 9	người	người	NOUN	N	_	8	obj	_	_
 10	VN	VN	NOUN	Ny	_	9	compound	_	_
 11	chống	chống	VERB	V	_	8	iobj	_	_
@@ -157,8 +157,8 @@
 1	Tôi	Tôi	PRON	P	_	2	nsubj	_	_
 2	hoạt động	hoạt động	VERB	V	_	0	root	_	_
 3	bí mật	bí mật	ADJ	A	_	2	xcomp	_	_
-4	để	để	ADP	E	_	5	case	_	_
-5	chống	chống	VERB	V	_	2	mark	_	_
+4	để	để	ADP	E	_	5	mark	_	_
+5	chống	chống	VERB	V	_	2	advcl	_	_
 6	chiến tranh	chiến tranh	NOUN	N	_	5	obj	_	_
 7	và	và	SCONJ	CC	_	8	cc	_	_
 8	đi	đi	VERB	V	_	2	conj	_	_
@@ -467,8 +467,8 @@
 2	quyết định	quyết định	VERB	V	_	0	root	_	_
 3	trở về	trở về	VERB	V	_	2	xcomp	_	_
 4	ngay	ngay	ADV	R	_	3	advmod	_	_
-5	để	để	ADP	E	_	6	case	_	_
-6	tiếp tục	tiếp tục	VERB	V	_	3	mark	_	_
+5	để	để	ADP	E	_	6	mark	_	_
+6	tiếp tục	tiếp tục	VERB	V	_	3	advcl	_	_
 7	tham gia	tham gia	VERB	V	_	6	xcomp	_	_
 8	chống	chống	VERB	V	_	6	ccomp	_	_
 9	cuộc	cuộc	NOUN	N	_	8	obj	_	_
@@ -511,8 +511,8 @@
 2	chúng tôi	chúng tôi	PRON	P	_	4	nsubj	_	_
 3	vẫn	vẫn	ADV	R	_	4	advmod	_	_
 4	đấu tranh	đấu tranh	VERB	V	_	0	root	_	_
-5	để	để	ADP	E	_	6	case	_	_
-6	chống	chống	VERB	V	_	4	mark	_	_
+5	để	để	ADP	E	_	6	mark	_	_
+6	chống	chống	VERB	V	_	4	advcl	_	_
 7	lại	lại	ADV	R	_	6	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
 9	tố cáo	tố cáo	VERB	V	_	6	conj	_	_
@@ -1528,8 +1528,8 @@
 5	tìm	tìm	VERB	V	_	0	root	_	_
 6	mọi	mọi	DET	L	_	7	det	_	_
 7	cơ hội	cơ hội	NOUN	N	_	5	obj	_	_
-8	để	để	ADP	E	_	9	case	_	_
-9	xây dựng	xây dựng	VERB	V	_	5	mark	_	_
+8	để	để	ADP	E	_	9	mark	_	_
+9	xây dựng	xây dựng	VERB	V	_	5	advcl	_	_
 10	tình cảm	tình cảm	NOUN	N	_	9	obj	_	_
 11	cho	cho	ADP	E	_	13	case	_	_
 12	hai	hai	NUM	M	NumType=Card	13	nummod	_	_
@@ -1611,8 +1611,8 @@
 12	các	các	DET	L	_	13	det	_	_
 13	hoạt động	hoạt động	NOUN	N	_	2	nmod	_	_
 14	đó	đó	PRON	P	_	13	det	_	_
-15	để	để	ADP	E	_	16	case	_	_
-16	bồi bổ	bồi bổ	VERB	V	_	2	mark	_	_
+15	để	để	ADP	E	_	16	mark	_	_
+16	bồi bổ	bồi bổ	VERB	V	_	2	advcl	_	_
 17	cho	cho	ADP	E	_	18	case	_	_
 18	Tùng	Tùng	NOUN	Np	_	16	obl	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	2	punct	_	_
@@ -1662,8 +1662,8 @@
 17	sâu sắc	sâu sắc	ADJ	A	_	16	amod	_	_
 18	hay	hay	CCONJ	C	_	19	cc	_	_
 19	dí dỏm	dí dỏm	ADJ	A	_	17	conj	_	_
-20	để	để	ADP	E	_	21	case	_	_
-21	kể	kể	VERB	V	_	13	mark	_	SpaceAfter=No
+20	để	để	ADP	E	_	21	mark	_	_
+21	kể	kể	VERB	V	_	13	advcl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = dev-s102
@@ -2292,8 +2292,8 @@
 14	tới	tới	VERB	V	_	13	xcomp	_	_
 15	tìm	tìm	VERB	V	_	14	xcomp	_	_
 16	anh	anh	NOUN	N	_	15	obj	_	_
-17	để	để	ADP	E	_	18	case	_	_
-18	đặt hàng	đặt hàng	VERB	V	_	15	mark	_	_
+17	để	để	ADP	E	_	18	mark	_	_
+18	đặt hàng	đặt hàng	VERB	V	_	15	advcl	_	_
 19	mua	mua	VERB	V	_	18	xcomp	_	_
 20	kéo	kéo	NOUN	N	_	19	obj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	2	punct	_	_
@@ -2832,8 +2832,8 @@
 7	ngày	ngày	NOUN	N	_	5	obl	_	_
 8	thu hoạch	thu hoạch	VERB	V	_	7	xcomp	_	_
 9	lúa	lúa	NOUN	N	_	8	obj	_	_
-10	để	để	ADP	E	_	11	case	_	_
-11	đưa	đưa	VERB	V	_	5	mark	_	_
+10	để	để	ADP	E	_	11	mark	_	_
+11	đưa	đưa	VERB	V	_	5	advcl	_	_
 12	máy	máy	NOUN	N	_	11	obj	_	_
 13	xuống	xuống	VERB	V	_	11	ccomp	_	_
 14	ruộng	ruộng	NOUN	N	_	13	obj	_	SpaceAfter=No
@@ -3217,8 +3217,8 @@
 19	Hằng	Hằng	NOUN	Np	_	20	nsubj	_	_
 20	gửi	gửi	VERB	V	_	0	root	_	_
 21	lại	lại	ADV	R	_	20	advmod	_	_
-22	cho	cho	ADP	E	_	23	case	_	_
-23	xem	xem	VERB	V	_	20	mark	_	SpaceAfter=No
+22	cho	cho	ADP	E	_	23	mark	_	_
+23	xem	xem	VERB	V	_	20	advcl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	20	punct	_	_
 
 # sent_id = dev-s190
@@ -3753,8 +3753,8 @@
 4	ra	ra	ADV	R	_	3	advmod	_	_
 5	rất	rất	ADV	R	_	6	advmod	_	_
 6	bình thường	bình thường	ADJ	A	_	3	obj	_	_
-7	để	để	ADP	E	_	8	case	_	_
-8	âm thầm	âm thầm	ADJ	A	_	3	mark	_	_
+7	để	để	ADP	E	_	8	mark	_	_
+8	âm thầm	âm thầm	ADJ	A	_	3	advcl	_	_
 9	theo dõi	theo dõi	VERB	V	_	8	xcomp	_	_
 10	Hải	Hải	NOUN	Np	_	8	obj	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
@@ -3842,8 +3842,8 @@
 17	bánh	bánh	NOUN	N	_	15	obj	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
 19	sữa	sữa	NOUN	N	_	17	conj	_	_
-20	để	để	ADP	E	_	21	case	_	_
-21	mai phục	mai phục	VERB	V	_	15	mark	_	SpaceAfter=No
+20	để	để	ADP	E	_	21	mark	_	_
+21	mai phục	mai phục	VERB	V	_	15	advcl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = dev-s228
@@ -4463,11 +4463,11 @@
 9	cơn	cơn	NOUN	Nc	_	6	obl	_	_
 10	sốt	sốt	VERB	V	_	9	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	_	_
-12	chỉ	chỉ	ADV	R	_	14	advmod	_	_
-13	vì	vì	ADP	E	_	14	case	_	SpaceAfter=No
-14	...	...	PUNCT	...	_	9	punct	_	_
+12	chỉ	chỉ	ADV	R	_	16	advmod	_	_
+13	vì	vì	ADP	E	_	16	mark	_	SpaceAfter=No
+14	...	...	PUNCT	...	_	16	punct	_	_
 15	không	không	ADV	R	Polarity=Neg	16	advmod	_	_
-16	có	có	VERB	V	_	14	mark	_	_
+16	có	có	VERB	V	_	9	advcl	_	_
 17	thuốc	thuốc	NOUN	N	_	16	obj	_	_
 18	chữa	chữa	VERB	V	_	17	xcomp	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
@@ -4515,8 +4515,8 @@
 13	2	2	NUM	M	NumType=Card	14	compound	_	_
 14	triệu	triệu	NUM	M	NumType=Card	15	nummod	_	_
 15	đồng	đồng	NOUN	Nu	_	11	obj	_	_
-16	để	để	ADP	E	_	17	case	_	_
-17	ăn	ăn	VERB	V	_	11	mark	_	_
+16	để	để	ADP	E	_	17	mark	_	_
+17	ăn	ăn	VERB	V	_	11	advcl	_	_
 18	chênh lệch	chênh lệch	ADJ	A	_	17	xcomp	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -4656,8 +4656,8 @@
 9	vào	vào	ADP	E	_	10	case	_	_
 10	trung tâm	trung tâm	NOUN	N	_	6	nmod	_	_
 11	ngoại ngữ	ngoại ngữ	NOUN	N	_	10	compound	_	_
-12	để	để	ADP	E	_	13	case	_	_
-13	mua	mua	VERB	V	_	6	mark	_	_
+12	để	để	ADP	E	_	13	mark	_	_
+13	mua	mua	VERB	V	_	6	advcl	_	_
 14	phiếu	phiếu	NOUN	N	_	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -4897,8 +4897,8 @@
 2	chính	chính	PART	T	_	3	discourse	_	_
 3	anh	anh	NOUN	N	_	10	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	10	punct	_	_
-5	để	để	ADP	E	_	10	advcl	_	_
-6	xác minh	xác minh	VERB	V	_	5	mark	_	SpaceAfter=No
+5	để	để	ADP	E	_	10	mark	_	_
+6	xác minh	xác minh	VERB	V	_	5	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	_
 8	đã	đã	ADV	R	_	10	advmod	_	_
 9	từng	từng	ADV	R	_	10	advmod	_	_
@@ -4966,8 +4966,8 @@
 7	Koto	Koto	NOUN	Np	_	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	18	punct	_	_
 9	cùng	cùng	ADJ	A	_	18	advcl	_	_
-10	với	với	ADP	E	_	11	case	_	_
-11	học	học	VERB	V	_	9	mark	_	_
+10	với	với	ADP	E	_	11	mark	_	_
+11	học	học	VERB	V	_	9	advcl	_	_
 12	nghề	nghề	NOUN	N	_	11	obj	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	18	punct	_	_
 14	trẻ	trẻ	NOUN	N	_	15	nsubj	_	_
@@ -5081,8 +5081,8 @@
 9	của	của	ADP	E	_	10	case	_	_
 10	cảnh	cảnh	NOUN	N	_	8	nmod	_	_
 11	mẹ góa con côi	mẹ góa con côi	X	X	_	10	dep	_	_
-12	để	để	ADP	E	_	13	case	_	_
-13	vun vén	vun vén	VERB	V	_	5	mark	_	_
+12	để	để	ADP	E	_	13	mark	_	_
+13	vun vén	vun vén	VERB	V	_	5	advcl	_	_
 14	cho	cho	ADP	E	_	15	case	_	_
 15	nụ	nụ	NOUN	Np	_	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	_	_
@@ -6075,8 +6075,8 @@
 4	đi	đi	VERB	V	_	3	xcomp	_	_
 5	rồi	rồi	CCONJ	C	_	6	cc	_	_
 6	lảng tránh	lảng tránh	VERB	V	_	2	conj	_	_
-7	bằng	bằng	ADP	E	_	8	case	_	_
-8	hẹn hò	hẹn hò	VERB	V	_	6	mark	_	SpaceAfter=No
+7	bằng	bằng	ADP	E	_	8	mark	_	_
+8	hẹn hò	hẹn hò	VERB	V	_	6	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = dev-s362
@@ -6170,9 +6170,9 @@
 7	chính xác	chính xác	ADJ	A	_	6	xcomp	_	_
 8	một chút	một chút	NOUN	N	_	6	obj	_	_
 9	LBKT	LBKT	PUNCT	LBKT	_	6	punct	_	_
-10	vì	vì	ADP	E	_	12	case	_	_
+10	vì	vì	ADP	E	_	12	mark	_	_
 11	đang	đang	ADV	R	_	12	advmod	_	_
-12	học	học	VERB	V	_	6	mark	_	_
+12	học	học	VERB	V	_	6	advcl	_	_
 13	chứ	chứ	CCONJ	C	_	12	cc	_	_
 14	không	không	ADV	R	Polarity=Neg	17	advmod	_	_
 15	phải	phải	VERB	V	_	17	aux	_	_
@@ -7019,8 +7019,8 @@
 10	chờ	chờ	VERB	V	_	9	xcomp	_	_
 11	từ	từ	ADP	E	_	12	case	_	_
 12	trước	trước	ADJ	A	_	9	amod	_	_
-13	để	để	ADP	E	_	14	case	_	_
-14	lấy	lấy	VERB	V	_	9	mark	_	SpaceAfter=No
+13	để	để	ADP	E	_	14	mark	_	_
+14	lấy	lấy	VERB	V	_	9	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = dev-s416
@@ -7136,8 +7136,8 @@
 12	về	về	ADV	R	_	11	advmod	_	_
 13	thành phố	thành phố	NOUN	N	_	11	obj	_	_
 14	Lạng Sơn	Lạng Sơn	NOUN	Np	_	13	compound	_	_
-15	để	để	ADP	E	_	16	case	_	_
-16	tiêu thụ	tiêu thụ	VERB	V	_	11	mark	_	SpaceAfter=No
+15	để	để	ADP	E	_	16	mark	_	_
+16	tiêu thụ	tiêu thụ	VERB	V	_	11	advcl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = dev-s422
@@ -7585,8 +7585,8 @@
 10	gấp	gấp	ADJ	A	_	9	xcomp	_	_
 11	về	về	ADP	E	_	12	case	_	_
 12	thành phố	thành phố	NOUN	N	_	9	obl	_	_
-13	để	để	ADP	E	_	14	case	_	_
-14	bán	bán	VERB	V	_	9	mark	_	SpaceAfter=No
+13	để	để	ADP	E	_	14	mark	_	_
+14	bán	bán	VERB	V	_	9	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = dev-s445
@@ -7643,8 +7643,8 @@
 12	mọi	mọi	DET	L	_	13	det	_	_
 13	cách	cách	NOUN	N	_	11	obj	_	_
 14	đối phó	đối phó	VERB	V	_	13	xcomp	_	_
-15	để	để	ADP	E	_	16	case	_	_
-16	đưa	đưa	VERB	V	_	11	mark	_	_
+15	để	để	ADP	E	_	16	mark	_	_
+16	đưa	đưa	VERB	V	_	11	advcl	_	_
 17	hàng	hàng	NOUN	N	_	16	obj	_	_
 18	sang	sang	ADV	R	_	16	advmod	_	SpaceAfter=No
 19	"	"	PUNCT	"	_	11	punct	_	SpaceAfter=No
@@ -7755,8 +7755,8 @@
 9	có	có	VERB	V	_	0	root	_	_
 10	căn cứ	căn cứ	NOUN	N	_	9	obj	_	_
 11	pháp lý	pháp lý	NOUN	N	_	10	compound	_	_
-12	để	để	ADP	E	_	13	case	_	_
-13	chứng minh	chứng minh	VERB	V	_	9	mark	_	_
+12	để	để	ADP	E	_	13	mark	_	_
+13	chứng minh	chứng minh	VERB	V	_	9	advcl	_	_
 14	thực phẩm	thực phẩm	NOUN	N	_	17	nsubj	_	_
 15	nhập	nhập	VERB	V	_	14	xcomp	_	_
 16	lậu	lậu	ADJ	A	_	15	xcomp	_	_
@@ -8411,9 +8411,9 @@
 13	cho	cho	ADP	E	_	14	case	_	_
 14	thọ	thọ	NOUN	Np	_	12	obl	_	_
 15	xem	xem	VERB	V	_	14	xcomp	_	_
-16	để	để	ADP	E	_	18	case	_	_
+16	để	để	ADP	E	_	18	mark	_	_
 17	cùng	cùng	ADV	R	_	18	advmod	_	_
-18	có	có	VERB	V	_	12	mark	_	_
+18	có	có	VERB	V	_	12	advcl	_	_
 19	kế hoạch	kế hoạch	NOUN	N	_	18	obj	_	SpaceAfter=No
 20	...	...	PUNCT	...	_	12	punct	_	_
 
@@ -8569,8 +8569,8 @@
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	quấy rối	quấy rối	VERB	V	_	3	conj	_	_
 7	cuộc sống	cuộc sống	NOUN	N	_	6	obj	_	_
-8	vì	vì	ADP	E	_	9	case	_	_
-9	thù hằn	thù hằn	VERB	V	_	3	mark	_	_
+8	vì	vì	ADP	E	_	9	mark	_	_
+9	thù hằn	thù hằn	VERB	V	_	3	advcl	_	_
 10	tiền bạc	tiền bạc	NOUN	N	_	9	obj	_	_
 11	hay	hay	CCONJ	C	_	12	cc	_	_
 12	địa vị	địa vị	NOUN	N	_	10	conj	_	_
@@ -8973,8 +8973,8 @@
 11	chiếc	chiếc	NOUN	Nc	_	12	compound	_	_
 12	cần câu	cần câu	NOUN	N	_	8	iobj	_	SpaceAfter=No
 13	"	"	PUNCT	"	_	12	punct	_	_
-14	để	để	ADP	E	_	15	case	_	_
-15	buông	buông	VERB	V	_	2	mark	_	_
+14	để	để	ADP	E	_	15	mark	_	_
+15	buông	buông	VERB	V	_	2	advcl	_	_
 16	mồi	mồi	NOUN	N	_	15	obj	_	_
 17	và	và	SCONJ	CC	_	18	cc	_	_
 18	canh giữ	canh giữ	VERB	V	_	15	conj	_	_
@@ -9353,8 +9353,8 @@
 13	ra	ra	ADV	R	_	12	advmod	_	_
 14	một số	một số	DET	L	_	15	det	_	_
 15	nhân vật	nhân vật	NOUN	N	_	12	obj	_	_
-16	để	để	ADP	E	_	17	case	_	_
-17	đánh	đánh	VERB	V	_	12	mark	_	_
+16	để	để	ADP	E	_	17	mark	_	_
+17	đánh	đánh	VERB	V	_	12	advcl	_	_
 18	lạc	lạc	VERB	V	_	17	xcomp	_	_
 19	hướng	hướng	NOUN	N	_	18	obj	_	_
 20	Cường	Cường	NOUN	Np	_	18	obj	_	SpaceAfter=No
@@ -9417,8 +9417,8 @@
 7	thì	thì	CCONJ	C	_	2	cc	_	_
 8	mục tiêu	mục tiêu	NOUN	N	_	15	nsubj	_	_
 9	khủng bố	khủng bố	VERB	V	_	8	xcomp	_	_
-10	để	để	ADP	E	_	11	case	_	_
-11	lôi kéo	lôi kéo	VERB	V	_	9	mark	_	_
+10	để	để	ADP	E	_	11	mark	_	_
+11	lôi kéo	lôi kéo	VERB	V	_	9	advcl	_	_
 12	và	và	SCONJ	CC	_	13	cc	_	_
 13	trả thù	trả thù	VERB	V	_	11	conj	_	_
 14	là	là	AUX	V	_	15	cop	_	_
@@ -9478,9 +9478,9 @@
 14	những	những	DET	L	_	15	det	_	_
 15	giờ	giờ	NOUN	N	_	7	obl	_	_
 16	cao điểm	cao điểm	ADJ	A	_	15	amod	_	_
-17	để	để	ADP	E	_	19	case	_	_
+17	để	để	ADP	E	_	19	mark	_	_
 18	"	"	PUNCT	"	_	19	punct	_	SpaceAfter=No
-19	bắt	bắt	VERB	V	_	7	mark	_	SpaceAfter=No
+19	bắt	bắt	VERB	V	_	7	advcl	_	SpaceAfter=No
 20	"	"	PUNCT	"	_	19	punct	_	_
 21	ngài	ngài	NOUN	Nc	_	22	compound	_	_
 22	giám đốc	giám đốc	NOUN	N	_	19	obj	_	_
@@ -9635,9 +9635,9 @@
 7	với	với	ADP	E	_	8	case	_	_
 8	bà	bà	NOUN	N	_	4	obl	_	_
 9	LBKT	LBKT	PUNCT	LBKT	_	16	punct	_	_
-10	vì	vì	ADP	E	_	12	case	_	_
+10	vì	vì	ADP	E	_	12	mark	_	_
 11	là	là	AUX	V	_	12	cop	_	_
-12	chỗ	chỗ	NOUN	N	_	4	mark	_	_
+12	chỗ	chỗ	NOUN	N	_	4	advcl	_	_
 13	thân tình	thân tình	ADJ	A	_	12	amod	_	_
 14	LBKT	LBKT	PUNCT	LBKT	_	16	punct	_	_
 15	và	và	SCONJ	CC	_	16	cc	_	_
@@ -10109,9 +10109,9 @@
 7	:	:	PUNCT	:	_	6	punct	_	_
 8	học	học	VERB	V	_	6	xcomp	_	_
 9	văn khoa	văn khoa	NOUN	N	_	8	obj	_	_
-10	để	để	ADP	E	_	11	case	_	_
+10	để	để	ADP	E	_	11	mark	_	_
 11	sau này	sau này	NOUN	N	_	8	obl	_	_
-12	trở thành	trở thành	VERB	V	_	11	mark	_	_
+12	trở thành	trở thành	VERB	V	_	11	advcl	_	_
 13	cô giáo	cô giáo	NOUN	N	_	12	obj	_	_
 14	hoặc	hoặc	SCONJ	CC	_	15	cc	_	_
 15	người	người	NOUN	N	_	13	conj	_	_
@@ -10618,8 +10618,8 @@
 1	Không	Không	ADV	R	Polarity=Neg	2	advmod	_	_
 2	có	có	VERB	V	_	17	advcl	_	_
 3	cơ sở	cơ sở	NOUN	N	_	2	obj	_	_
-4	để	để	ADP	E	_	5	case	_	_
-5	phán đoán	phán đoán	VERB	V	_	3	mark	_	_
+4	để	để	ADP	E	_	5	mark	_	_
+5	phán đoán	phán đoán	VERB	V	_	3	advcl	_	_
 6	kẻ	kẻ	NOUN	N	_	8	nsubj	_	_
 7	khủng bố	khủng bố	VERB	V	_	6	xcomp	_	_
 8	quan hệ	quan hệ	VERB	V	_	5	obj	_	_
@@ -11370,8 +11370,8 @@
 
 # sent_id = dev-s662
 # text = để biết rõ hơn, Hùng phải dùng "thuốc thử" với đối tượng nghi vấn.
-1	để	để	ADP	E	_	8	advcl	_	_
-2	biết	biết	VERB	V	_	1	mark	_	_
+1	để	để	ADP	E	_	2	mark	_	_
+2	biết	biết	VERB	V	_	8	advcl	_	_
 3	rõ	rõ	ADJ	A	_	2	xcomp	_	_
 4	hơn	hơn	ADV	R	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
@@ -11635,8 +11635,8 @@
 4	rất	rất	ADV	R	_	5	advmod	_	_
 5	sôi nổi	sôi nổi	ADJ	A	_	2	amod	_	_
 6	như	như	CCONJ	C	_	2	cc	_	_
-7	để	để	ADP	E	_	8	case	_	_
-8	giải tỏa	giải tỏa	VERB	V	_	2	mark	_	_
+7	để	để	ADP	E	_	8	mark	_	_
+8	giải tỏa	giải tỏa	VERB	V	_	2	advcl	_	_
 9	đó	đó	PRON	P	_	2	det	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	_	_
 11	ông	ông	NOUN	Nc	_	12	compound	_	_
@@ -12251,8 +12251,8 @@
 4	bộ	bộ	NOUN	N	_	3	obj	_	_
 5	phía	phía	NOUN	N	_	3	obj	_	_
 6	trước	trước	ADJ	A	_	5	amod	_	_
-7	để	để	ADP	E	_	8	case	_	_
-8	dẹp	dẹp	VERB	V	_	3	mark	_	_
+7	để	để	ADP	E	_	8	mark	_	_
+8	dẹp	dẹp	VERB	V	_	3	advcl	_	_
 9	đường	đường	NOUN	N	_	8	obj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	3	punct	_	_
 11	đàn	đàn	NOUN	Nc	_	12	compound	_	_
@@ -13136,8 +13136,8 @@
 14	đất	đất	NOUN	N	_	10	obj	_	_
 15	ở	ở	ADP	E	_	16	case	_	_
 16	quê	quê	NOUN	N	_	14	nmod	_	_
-17	để	để	ADP	E	_	18	case	_	_
-18	có	có	VERB	V	_	9	mark	_	_
+17	để	để	ADP	E	_	18	mark	_	_
+18	có	có	VERB	V	_	9	advcl	_	_
 19	trên	trên	ADJ	A	_	21	amod	_	_
 20	200 triệu	200 triệu	NUM	M	NumType=Card	21	nummod	_	_
 21	đồng	đồng	NOUN	Nu	_	18	obj	_	_
@@ -13196,8 +13196,8 @@
 10	thêm	thêm	VERB	V	_	8	obl	_	_
 11	hai	hai	NUM	M	NumType=Card	12	nummod	_	_
 12	năm	năm	NOUN	N	_	10	obj	_	_
-13	để	để	ADP	E	_	14	case	_	_
-14	gỡ	gỡ	VERB	V	_	8	mark	_	_
+13	để	để	ADP	E	_	14	mark	_	_
+14	gỡ	gỡ	VERB	V	_	8	advcl	_	_
 15	bom	bom	NOUN	N	_	14	obj	_	_
 16	mìn	mìn	NOUN	N	_	15	compound	_	_
 17	ở	ở	ADP	E	_	18	case	_	_
@@ -13373,8 +13373,8 @@
 7	dám	dám	VERB	V	_	0	root	_	_
 8	tình nguyện	tình nguyện	VERB	V	_	7	xcomp	_	_
 9	nhập ngũ	nhập ngũ	VERB	V	_	8	xcomp	_	_
-10	để	để	ADP	E	_	11	case	_	_
-11	đi	đi	VERB	V	_	9	mark	_	_
+10	để	để	ADP	E	_	11	mark	_	_
+11	đi	đi	VERB	V	_	9	advcl	_	_
 12	đánh	đánh	VERB	V	_	11	xcomp	_	_
 13	Mỹ	Mỹ	NOUN	Np	_	12	obj	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	7	punct	_	_
@@ -13592,8 +13592,8 @@
 3	một	một	NUM	M	NumType=Card	5	nummod	_	_
 4	cái	cái	NOUN	Nc	_	5	compound	_	_
 5	nhà rường	nhà rường	NOUN	N	_	2	obj	_	_
-6	từ	từ	ADP	E	_	7	case	_	_
-7	xẻ	xẻ	VERB	V	_	5	mark	_	_
+6	từ	từ	ADP	E	_	7	mark	_	_
+7	xẻ	xẻ	VERB	V	_	5	advcl	_	_
 8	gỗ	gỗ	NOUN	N	_	7	obj	_	_
 9	đến	đến	ADP	E	_	10	case	_	_
 10	khi	khi	NOUN	N	_	7	obl	_	_
@@ -13905,8 +13905,8 @@
 10	sẽ	sẽ	ADV	R	_	11	advmod	_	_
 11	vào	vào	VERB	V	_	7	ccomp	_	_
 12	nam	nam	NOUN	Np	_	11	obj	_	_
-13	để	để	ADP	E	_	14	case	_	_
-14	đo	đo	VERB	V	_	12	mark	_	_
+13	để	để	ADP	E	_	14	mark	_	_
+14	đo	đo	VERB	V	_	12	advcl	_	_
 15	thái độ	thái độ	NOUN	N	_	14	obj	_	_
 16	của	của	ADP	E	_	17	case	_	_
 17	Kim	Kim	NOUN	Np	_	15	nmod	_	SpaceAfter=No
