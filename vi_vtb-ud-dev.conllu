@@ -75,7 +75,7 @@
 3	đã	đã	ADV	R	_	4	advmod	_	_
 4	tham gia	tham gia	VERB	V	_	0	root	_	_
 5	quân đội	quân đội	NOUN	N	_	4	obj	_	_
-6	để	để	ADP	E	_	7	mark:pcomp	_	_
+6	để	để	ADP	E	_	7	mark	_	_
 7	chống	chống	VERB	V	_	4	advcl:objective	_	_
 8	phát xít	phát xít	NOUN	N	_	7	obj	_	_
 9	Đức	Đức	NOUN	Np	_	8	compound	_	_
