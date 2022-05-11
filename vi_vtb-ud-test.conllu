@@ -200,7 +200,7 @@
 # sent_id = test-s14
 # text = Lâm Nhi được đưa về từ một cánh rừng ở Huế sau một vụ buôn bán động vật trái phép không thành.
 1	Lâm Nhi	Lâm Nhi	NOUN	Np	_	3	nsubj	_	_
-2	được	được	VERB	V	_	3	aux:pass	_	_
+2	được	được	AUX	V	_	3	aux:pass	_	_
 3	đưa	đưa	VERB	V	_	0	root	_	_
 4	về	về	ADV	R	_	3	advmod	_	_
 5	từ	từ	ADP	E	_	7	case	_	_
@@ -342,7 +342,7 @@
 5	dù	dù	CCONJ	C	_	6	cc	_	_
 6	ít nhiều	ít nhiều	ADJ	A	_	0	root	_	_
 7	đã	đã	ADV	R	_	6	advmod	_	_
-8	được	được	VERB	V	_	6	aux:pass	_	_
+8	được	được	AUX	V	_	6	aux:pass	_	_
 9	thuần hóa	thuần hóa	VERB	V	_	6	xcomp	_	_
 10	nhưng	nhưng	CCONJ	C	_	13	cc	_	_
 11	vẫn	vẫn	ADV	R	_	13	advmod	_	_
@@ -454,7 +454,7 @@
 3	số	số	NOUN	N	_	7	nsubj	_	_
 4	dứa	dứa	NOUN	N	_	3	compound	_	_
 5	tiêu chuẩn	tiêu chuẩn	NOUN	N	_	3	compound	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	đảm bảo	đảm bảo	VERB	V	_	2	ccomp	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	13	punct	_	_
 9	"	"	PUNCT	"	_	10	punct	_	SpaceAfter=No
@@ -472,7 +472,7 @@
 4	quên	quên	VERB	V	_	0	root	_	_
 5	được	được	ADV	R	_	4	advmod	_	_
 6	lần	lần	NOUN	N	_	4	obj	_	_
-7	bị	bị	VERB	V	_	8	aux:pass	_	_
+7	bị	bị	AUX	V	_	8	aux:pass	_	_
 8	ngựa	ngựa	NOUN	N	_	6	xcomp	_	_
 9	bổ	bổ	VERB	V	_	8	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_
@@ -1159,7 +1159,7 @@
 12	kiểm lâm	kiểm lâm	NOUN	N	_	0	root	_	_
 13	gần	gần	ADJ	A	_	12	advmod	_	_
 14	như	như	CCONJ	C	_	16	cc	_	_
-15	bị	bị	VERB	V	_	16	aux:pass	_	_
+15	bị	bị	AUX	V	_	16	aux:pass	_	_
 16	đẩy	đẩy	VERB	V	_	13	conj	_	_
 17	ra	ra	ADV	R	_	16	advmod	_	_
 18	ngoài	ngoài	ADP	E	_	19	case	_	_
@@ -1550,7 +1550,7 @@
 7	m3	m3	NOUN	Nu	_	11	nsubj	_	_
 8	đá	đá	NOUN	N	_	7	compound	_	_
 9	núi	núi	NOUN	N	_	7	compound	_	_
-10	được	được	VERB	V	_	11	aux:pass	_	_
+10	được	được	AUX	V	_	11	aux:pass	_	_
 11	đánh	đánh	VERB	V	_	19	aux:pass	_	_
 12	và	và	SCONJ	CC	_	19	cc	_	_
 13	80	80	NUM	M	NumType=Card	15	nummod	_	_
@@ -1783,7 +1783,7 @@
 3	chính	chính	PART	T	_	4	discourse	_	_
 4	họ	họ	PRON	P	_	8	nsubj	_	_
 5	đã	đã	ADV	R	_	8	advmod	_	_
-6	được	được	VERB	V	_	8	aux:pass	_	_
+6	được	được	AUX	V	_	8	aux:pass	_	_
 7	Nhà nước	Nhà nước	NOUN	N	_	8	nsubj	_	_
 8	phong tặng	phong tặng	VERB	V	_	0	root	_	_
 9	danh hiệu	danh hiệu	NOUN	N	_	8	obj	_	_
@@ -1868,7 +1868,7 @@
 9	trọng đại	trọng đại	ADJ	A	_	7	amod	_	_
 10	này	này	PRON	P	_	7	det	_	_
 11	sẽ	sẽ	ADV	R	_	13	advmod	_	_
-12	được	được	VERB	V	_	13	aux:pass	_	_
+12	được	được	AUX	V	_	13	aux:pass	_	_
 13	chọn	chọn	VERB	V	_	0	root	_	_
 14	vào	vào	ADP	E	_	15	case	_	_
 15	ngày lành tháng tốt	ngày lành tháng tốt	X	X	_	13	dep	_	SpaceAfter=No
@@ -2013,7 +2013,7 @@
 12	anh	anh	NOUN	N	_	13	nsubj	_	_
 13	hi sinh	hi sinh	VERB	V	_	11	ccomp	_	_
 14	và	và	SCONJ	CC	_	4	cc	_	_
-15	được	được	VERB	V	_	17	aux:pass	_	_
+15	được	được	AUX	V	_	17	aux:pass	_	_
 16	gia đình	gia đình	NOUN	N	_	17	nsubj	_	_
 17	gìn giữ	gìn giữ	VERB	V	_	4	aux:pass	_	_
 18	như	như	CCONJ	C	_	17	cc	_	_
@@ -2138,7 +2138,7 @@
 8	dòng	dòng	NOUN	N	_	4	obj	_	_
 9	nhật ký	nhật ký	NOUN	N	_	8	compound	_	_
 10	ấy	ấy	PRON	P	_	8	det	_	_
-11	được	được	VERB	V	_	12	aux:pass	_	_
+11	được	được	AUX	V	_	12	aux:pass	_	_
 12	viết	viết	VERB	V	_	8	xcomp	_	_
 13	ở	ở	ADP	E	_	14	case	_	_
 14	ái tử	ái tử	NOUN	Np	_	12	obl	_	SpaceAfter=No
@@ -2167,7 +2167,7 @@
 4	,	,	PUNCT	,	_	8	punct	_	_
 5	bầu trời	bầu trời	NOUN	N	_	8	nsubj	_	_
 6	như	như	CCONJ	C	_	8	cc	_	_
-7	được	được	VERB	V	_	8	aux:pass	_	_
+7	được	được	AUX	V	_	8	aux:pass	_	_
 8	vút	vút	VERB	V	_	0	root	_	_
 9	lên	lên	ADV	R	_	8	advmod	_	_
 10	cao	cao	ADJ	A	_	8	xcomp	_	SpaceAfter=No
@@ -2278,7 +2278,7 @@
 1	Đêm ngày	Đêm ngày	NOUN	N	_	5	obj	_	_
 2	giờ khắc	giờ khắc	NOUN	N	_	5	nsubj	_	_
 3	vẫn	vẫn	ADV	R	_	5	advmod	_	_
-4	được	được	VERB	V	_	5	aux:pass	_	_
+4	được	được	AUX	V	_	5	aux:pass	_	_
 5	tính	tính	VERB	V	_	0	root	_	_
 6	bằng	bằng	ADP	E	_	7	case	_	_
 7	khoảng cách	khoảng cách	NOUN	N	_	5	obl	_	_
@@ -2575,7 +2575,7 @@
 5	,	,	PUNCT	,	_	9	punct	_	_
 6	cuộc sống	cuộc sống	NOUN	N	_	9	nsubj	_	_
 7	sẽ	sẽ	ADV	R	_	9	advmod	_	_
-8	được	được	VERB	V	_	9	aux:pass	_	_
+8	được	được	AUX	V	_	9	aux:pass	_	_
 9	thiết kế	thiết kế	VERB	V	_	0	root	_	_
 10	trở lại	trở lại	ADV	R	_	9	advmod	_	_
 11	trên	trên	ADP	E	_	12	case	_	_
@@ -2732,7 +2732,7 @@
 14	có	có	VERB	V	_	0	root	_	_
 15	gốc	gốc	NOUN	N	_	14	obj	_	_
 16	cây	cây	NOUN	N	_	15	compound	_	_
-17	bị	bị	VERB	V	_	18	aux:pass	_	_
+17	bị	bị	AUX	V	_	18	aux:pass	_	_
 18	chặt	chặt	VERB	V	_	15	xcomp	_	_
 19	phá	phá	VERB	V	_	18	xcomp	_	_
 20	nham nhở	nham nhở	ADJ	A	_	18	xcomp	_	SpaceAfter=No
@@ -3092,7 +3092,7 @@
 2	Tôi	Tôi	PRON	P	_	4	nsubj	_	_
 3	không	không	ADV	R	Polarity=Neg	4	advmod	_	_
 4	muốn	muốn	VERB	V	_	0	root	_	_
-5	bị	bị	VERB	V	_	6	aux:pass	_	_
+5	bị	bị	AUX	V	_	6	aux:pass	_	_
 6	coi	coi	VERB	V	_	4	aux:pass	_	_
 7	là	là	CCONJ	C	_	6	cc	_	_
 8	kẻ	kẻ	NOUN	N	_	6	obj	_	_
@@ -3198,7 +3198,7 @@
 4	gặp	gặp	VERB	V	_	1	ccomp	_	_
 5	các	các	DET	L	_	6	det	_	_
 6	nạn nhân	nạn nhân	NOUN	N	_	4	obj	_	_
-7	bị	bị	VERB	V	_	8	aux:pass	_	_
+7	bị	bị	AUX	V	_	8	aux:pass	_	_
 8	nhiễm	nhiễm	VERB	V	_	6	xcomp	_	_
 9	chất độc	chất độc	NOUN	N	_	8	obj	_	_
 10	da cam	da cam	NOUN	N	_	9	compound	_	_
@@ -3232,7 +3232,7 @@
 11	nạn nhân	nạn nhân	NOUN	N	_	8	obl	_	_
 12	đó	đó	PRON	P	_	11	det	_	_
 13	sẽ	sẽ	ADV	R	_	15	advmod	_	_
-14	được	được	VERB	V	_	15	aux:pass	_	_
+14	được	được	AUX	V	_	15	aux:pass	_	_
 15	kể	kể	VERB	V	_	0	root	_	_
 16	lại	lại	ADV	R	_	15	advmod	_	_
 17	trong	trong	ADP	E	_	20	case	_	_
@@ -3523,7 +3523,7 @@
 8	sau	sau	ADP	E	_	12	obl	_	_
 9	đó	đó	PRON	P	_	8	nmod	_	_
 10	ông	ông	NOUN	N	_	12	nsubj	_	_
-11	được	được	VERB	V	_	12	aux:pass	_	_
+11	được	được	AUX	V	_	12	aux:pass	_	_
 12	đưa	đưa	VERB	V	_	0	root	_	_
 13	sang	sang	ADV	R	_	12	advmod	_	_
 14	học	học	VERB	V	_	12	ccomp	_	_
@@ -3574,7 +3574,7 @@
 5	,	,	PUNCT	,	_	9	punct	_	_
 6	ông	ông	NOUN	Nc	_	7	compound	_	_
 7	Vinh	Vinh	NOUN	Np	_	9	nsubj	_	_
-8	được	được	VERB	V	_	9	aux:pass	_	_
+8	được	được	AUX	V	_	9	aux:pass	_	_
 9	điều	điều	VERB	V	_	0	root	_	_
 10	vào	vào	ADV	R	_	9	advmod	_	_
 11	phân viện	phân viện	NOUN	N	_	9	obj	_	_
@@ -3653,7 +3653,7 @@
 3	các	các	DET	L	_	4	det	_	_
 4	kiến thức	kiến thức	NOUN	N	_	7	nsubj	_	_
 5	học	học	VERB	V	_	4	xcomp	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	mang	mang	VERB	V	_	0	root	_	_
 8	ra	ra	ADV	R	_	7	advmod	_	_
 9	áp dụng	áp dụng	VERB	V	_	7	ccomp	_	SpaceAfter=No
@@ -3687,7 +3687,7 @@
 1	Một	Một	NUM	M	NumType=Card	2	nummod	_	_
 2	chủ	chủ	NOUN	N	_	6	nsubj	_	_
 3	doanh nghiệp	doanh nghiệp	NOUN	N	_	2	compound	_	_
-4	bị	bị	VERB	V	_	5	aux:pass	_	_
+4	bị	bị	AUX	V	_	5	aux:pass	_	_
 5	hỏa hoạn	hỏa hoạn	NOUN	N	_	3	xcomp	_	_
 6	nói	nói	VERB	V	_	0	root	_	_
 7	trong	trong	ADP	E	_	8	case	_	_
@@ -3884,7 +3884,7 @@
 6	tham quan	tham quan	VERB	V	_	5	xcomp	_	_
 7	kho	kho	NOUN	N	_	10	nsubj	_	_
 8	TN	TN	NOUN	Ny	_	7	compound	_	_
-9	bị	bị	VERB	V	_	10	aux:pass	_	_
+9	bị	bị	AUX	V	_	10	aux:pass	_	_
 10	cháy	cháy	VERB	V	_	2	aux:pass	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -4295,7 +4295,7 @@
 6	việc	việc	NOUN	N	_	10	nsubj	_	_
 7	chi trả	chi trả	VERB	V	_	6	xcomp	_	_
 8	này	này	PRON	P	_	6	det	_	_
-9	được	được	VERB	V	_	10	aux:pass	_	_
+9	được	được	AUX	V	_	10	aux:pass	_	_
 10	thực hiện	thực hiện	VERB	V	_	0	root	_	_
 11	khi	khi	NOUN	N	_	10	obj	_	_
 12	mà	mà	CCONJ	C	_	18	cc	_	_
@@ -4316,7 +4316,7 @@
 # text = Như tôi được biết, tòa án tối cao Mỹ hồi năm ngoái đã phán quyết các cựu binh vẫn có thể đòi bồi thường về pháp lý.
 1	Như	Như	CCONJ	C	_	4	cc	_	_
 2	tôi	tôi	PRON	P	_	4	nsubj	_	_
-3	được	được	VERB	V	_	4	aux:pass	_	_
+3	được	được	AUX	V	_	4	aux:pass	_	_
 4	biết	biết	VERB	V	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	tòa án	tòa án	NOUN	N	_	12	nsubj	_	_
@@ -4409,7 +4409,7 @@
 1	cuộc	cuộc	NOUN	Nc	_	5	nsubj	_	_
 2	điều tra	điều tra	VERB	V	_	1	xcomp	_	_
 3	đã	đã	ADV	R	_	5	advmod	_	_
-4	được	được	VERB	V	_	5	aux:pass	_	_
+4	được	được	AUX	V	_	5	aux:pass	_	_
 5	tiến hành	tiến hành	VERB	V	_	0	root	_	_
 6	trong	trong	ADP	E	_	8	case	_	_
 7	một	một	NUM	M	NumType=Card	8	nummod	_	_
@@ -4550,7 +4550,7 @@
 # sent_id = test-s259
 # text = Sau bị nứa đâm vào đầu gối nên năm 1998 xin về.
 1	Sau	Sau	NOUN	N	_	4	obl	_	_
-2	bị	bị	VERB	V	_	4	aux:pass	_	_
+2	bị	bị	AUX	V	_	4	aux:pass	_	_
 3	nứa	nứa	NOUN	N	_	4	nsubj	_	_
 4	đâm	đâm	VERB	V	_	0	root	_	_
 5	vào	vào	ADP	E	_	6	case	_	_
@@ -4877,7 +4877,7 @@
 13	nên	nên	CCONJ	C	_	8	cc	_	_
 14	hai	hai	NUM	M	NumType=Card	15	nummod	_	_
 15	năm	năm	NOUN	N	_	17	obl	_	_
-16	được	được	VERB	V	_	17	aux:pass	_	_
+16	được	được	AUX	V	_	17	aux:pass	_	_
 17	phép	phép	VERB	V	_	8	aux:pass	_	_
 18	giám định	giám định	VERB	V	_	17	ccomp	_	_
 19	lại	lại	ADV	R	_	18	advmod	_	_
@@ -4975,7 +4975,7 @@
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	sau	sau	ADP	E	_	15	obl	_	_
 9	khi	khi	NOUN	N	_	8	nmod	_	_
-10	bị	bị	VERB	V	_	11	aux:pass	_	_
+10	bị	bị	AUX	V	_	11	aux:pass	_	_
 11	khai trừ	khai trừ	VERB	V	_	9	xcomp	_	_
 12	khỏi	khỏi	VERB	V	_	11	xcomp	_	_
 13	Đảng	Đảng	NOUN	Np	_	11	obj	_	_
@@ -5144,7 +5144,7 @@
 1	Riêng	Riêng	PART	T	_	3	discourse	_	_
 2	con	con	NOUN	Nc	_	3	compound	_	_
 3	bọ hà	bọ hà	NOUN	N	_	6	nsubj	_	_
-4	được	được	VERB	V	_	6	aux:pass	_	_
+4	được	được	AUX	V	_	6	aux:pass	_	_
 5	anh	anh	NOUN	N	_	6	nsubj	_	_
 6	phóng	phóng	VERB	V	_	0	root	_	_
 7	to đùng	to đùng	ADJ	A	_	6	xcomp	_	SpaceAfter=No
@@ -5835,7 +5835,7 @@
 2	ống nhòm	ống nhòm	NOUN	N	_	1	obj	_	_
 3	sẽ	sẽ	ADV	R	_	4	advmod	_	_
 4	xem	xem	VERB	V	_	0	root	_	_
-5	được	được	VERB	V	_	7	aux:pass	_	_
+5	được	được	AUX	V	_	7	aux:pass	_	_
 6	nhân công	nhân công	NOUN	N	_	7	nsubj	_	_
 7	thao tác	thao tác	VERB	V	_	4	aux:pass	_	_
 8	đúng	đúng	ADJ	A	_	7	xcomp	_	_
@@ -5873,7 +5873,7 @@
 10	ít	ít	ADJ	A	_	14	xcomp	_	_
 11	củ	củ	NOUN	N	_	10	obj	_	_
 12	chứ	chứ	CCONJ	C	_	14	cc	_	_
-13	được	được	VERB	V	_	14	aux:pass	_	_
+13	được	được	AUX	V	_	14	aux:pass	_	_
 14	gì	gì	PRON	P	_	2	aux:pass	_	SpaceAfter=No
 15	"	"	PUNCT	"	_	2	punct	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	2	punct	_	_
@@ -5933,10 +5933,10 @@
 9	đất	đất	NOUN	N	_	13	nsubj	_	_
 10	đủ	đủ	ADJ	A	_	9	amod	_	_
 11	hình thù	hình thù	NOUN	N	_	10	obj	_	_
-12	được	được	VERB	V	_	13	aux:pass	_	_
+12	được	được	AUX	V	_	13	aux:pass	_	_
 13	định hình	định hình	VERB	V	_	0	root	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
-15	được	được	VERB	V	_	16	aux:pass	_	_
+15	được	được	AUX	V	_	16	aux:pass	_	_
 16	rao	rao	VERB	V	_	13	aux:pass	_	_
 17	bán	bán	VERB	V	_	16	xcomp	_	_
 18	và	và	SCONJ	CC	_	19	cc	_	_
@@ -5955,7 +5955,7 @@
 6	KCN	KCN	NOUN	Ny	_	3	appos	_	_
 7	RBKT	RBKT	PUNCT	RBKT	_	3	punct	_	_
 8	Nhơn Trạch	Nhơn Trạch	NOUN	Np	_	3	appos	_	_
-9	được	được	VERB	V	_	10	aux:pass	_	_
+9	được	được	AUX	V	_	10	aux:pass	_	_
 10	phê duyệt	phê duyệt	VERB	V	_	0	root	_	_
 11	năm	năm	NOUN	N	_	10	obj	_	_
 12	1997	1997	NUM	M	NumType=Card	11	nummod	_	_
@@ -5980,7 +5980,7 @@
 10	một	một	NUM	M	NumType=Card	11	nummod	_	_
 11	đô thị	đô thị	NOUN	N	_	9	obj	_	_
 12	mới	mới	ADJ	A	_	11	amod	_	_
-13	được	được	VERB	V	_	14	aux:pass	_	_
+13	được	được	AUX	V	_	14	aux:pass	_	_
 14	qui hoạch	qui hoạch	VERB	V	_	11	xcomp	_	_
 15	theo	theo	ADP	E	_	16	case	_	_
 16	hướng	hướng	NOUN	N	_	14	obl	_	_
@@ -6011,7 +6011,7 @@
 15	cụm	cụm	NOUN	N	_	12	conj	_	_
 16	tiểu	tiểu	X	Z	_	17	discourse	_	_
 17	thủ công nghiệp	thủ công nghiệp	NOUN	N	_	15	compound	_	_
-18	được	được	VERB	V	_	19	aux:pass	_	_
+18	được	được	AUX	V	_	19	aux:pass	_	_
 19	qui hoạch	qui hoạch	VERB	V	_	10	aux:pass	_	_
 20	với	với	ADP	E	_	21	case	_	_
 21	tổng	tổng	NOUN	N	_	19	obl	_	_
@@ -6026,7 +6026,7 @@
 2	các	các	DET	L	_	3	det	_	_
 3	kcn	kcn	NOUN	Ny	_	1	compound	_	_
 4	đã	đã	ADV	R	_	7	advmod	_	_
-5	được	được	VERB	V	_	7	aux:pass	_	_
+5	được	được	AUX	V	_	7	aux:pass	_	_
 6	tỉnh	tỉnh	NOUN	N	_	7	nsubj	_	_
 7	giao	giao	VERB	V	_	0	root	_	_
 8	hết	hết	ADV	R	_	7	advmod	_	_
@@ -6087,7 +6087,7 @@
 14	trên	trên	ADJ	A	_	16	amod	_	_
 15	40	40	NUM	M	NumType=Card	16	nummod	_	_
 16	m	m	NOUN	Nu	_	12	compound	_	_
-17	được	được	VERB	V	_	18	aux:pass	_	_
+17	được	được	AUX	V	_	18	aux:pass	_	_
 18	trao	trao	VERB	V	_	0	root	_	_
 19	27	27	NUM	M	NumType=Card	20	compound	_	_
 20	triệu	triệu	NUM	M	NumType=Card	21	nummod	_	_
@@ -6272,7 +6272,7 @@
 # text = Một hợp đồng được ký kết, giá trị một năm lên tới cả ngàn usd.
 1	Một	Một	NUM	M	NumType=Card	2	nummod	_	_
 2	hợp đồng	hợp đồng	NOUN	N	_	4	nsubj	_	_
-3	được	được	VERB	V	_	4	aux:pass	_	_
+3	được	được	AUX	V	_	4	aux:pass	_	_
 4	ký kết	ký kết	VERB	V	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	giá trị	giá trị	NOUN	N	_	9	nsubj	_	_
@@ -6298,7 +6298,7 @@
 9	trắng	trắng	ADJ	A	_	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
 11	da mồi	da mồi	NOUN	N	_	7	conj	_	_
-12	được	được	VERB	V	_	13	aux:pass	_	_
+12	được	được	AUX	V	_	13	aux:pass	_	_
 13	chở	chở	VERB	V	_	0	root	_	_
 14	đến	đến	VERB	V	_	13	xcomp	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	13	punct	_	_
@@ -6477,7 +6477,7 @@
 10	cậu	cậu	NOUN	Nc	_	11	compound	_	_
 11	con	con	NOUN	N	_	14	nsubj	_	_
 12	út	út	ADJ	A	_	11	amod	_	_
-13	bị	bị	VERB	V	_	14	aux:pass	_	_
+13	bị	bị	AUX	V	_	14	aux:pass	_	_
 14	nghiện	nghiện	VERB	V	_	8	ccomp	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -6491,7 +6491,7 @@
 6	cho	cho	ADP	E	_	7	case	_	_
 7	ông	ông	NOUN	N	_	4	obl	_	_
 8	bao nhiêu	bao nhiêu	PRON	P	_	4	obj	_	_
-9	bị	bị	VERB	V	_	13	aux:pass	_	_
+9	bị	bị	AUX	V	_	13	aux:pass	_	_
 10	con	con	NOUN	N	_	13	nsubj	_	_
 11	út	út	ADJ	A	_	10	amod	_	_
 12	"	"	PUNCT	"	_	13	punct	_	SpaceAfter=No
@@ -6639,7 +6639,7 @@
 4	song song	song song	ADJ	A	_	3	amod	_	_
 5	nhau	nhau	NOUN	N	_	4	obj	_	_
 6	đang	đang	ADV	R	_	8	advmod	_	_
-7	được	được	VERB	V	_	8	aux:pass	_	_
+7	được	được	AUX	V	_	8	aux:pass	_	_
 8	lát	lát	VERB	V	_	0	root	_	_
 9	nền	nền	NOUN	N	_	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	8	punct	_	_
@@ -6727,7 +6727,7 @@
 15	25	25	NUM	M	NumType=Card	16	nummod	_	_
 16	m2	m2	NOUN	Nu	_	14	compound	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	19	punct	_	_
-18	được	được	VERB	V	_	19	aux:pass	_	_
+18	được	được	AUX	V	_	19	aux:pass	_	_
 19	thiết kế	thiết kế	VERB	V	_	6	aux:pass	_	_
 20	thuận lợi	thuận lợi	ADJ	A	_	19	xcomp	_	_
 21	cho	cho	ADP	E	_	22	case	_	_
@@ -6742,7 +6742,7 @@
 3	tỉ	tỉ	NUM	M	NumType=Card	4	nummod	_	_
 4	đồng	đồng	NOUN	Nu	_	7	nsubj	_	_
 5	đã	đã	ADV	R	_	7	advmod	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	đổ	đổ	VERB	V	_	0	root	_	_
 8	vào	vào	ADV	R	_	7	advmod	_	_
 9	để	để	ADP	E	_	10	case	_	_
@@ -6778,12 +6778,12 @@
 # text = Tất cả đều được vui vẻ đáp ứng vì để được vào đây thì phải trả tiền, có khi đến hơn 3 triệu đồng / tháng.
 1	Tất cả	Tất cả	PRON	P	_	4	nsubj	_	_
 2	đều	đều	ADV	R	_	4	advmod	_	_
-3	được	được	VERB	V	_	4	aux:pass	_	_
+3	được	được	AUX	V	_	4	aux:pass	_	_
 4	vui vẻ	vui vẻ	ADJ	A	_	0	root	_	_
 5	đáp ứng	đáp ứng	VERB	V	_	4	xcomp	_	_
 6	vì	vì	ADP	E	_	13	case	_	_
 7	để	để	ADP	E	_	13	advcl	_	_
-8	được	được	VERB	V	_	9	aux:pass	_	_
+8	được	được	AUX	V	_	9	aux:pass	_	_
 9	vào	vào	VERB	V	_	7	mark	_	_
 10	đây	đây	PRON	P	_	9	obj	_	_
 11	thì	thì	CCONJ	C	_	13	cc	_	_
@@ -7431,7 +7431,7 @@
 11	có	có	VERB	V	_	5	conj	_	_
 12	dấu hiệu	dấu hiệu	NOUN	N	_	11	obj	_	_
 13	đã	đã	ADV	R	_	15	advmod	_	_
-14	bị	bị	VERB	V	_	15	aux:pass	_	_
+14	bị	bị	AUX	V	_	15	aux:pass	_	_
 15	động	động	VERB	V	_	12	xcomp	_	_
 16	đến	đến	ADV	R	_	15	advmod	_	SpaceAfter=No
 17	!	!	PUNCT	!	_	3	punct	_	_
@@ -7517,7 +7517,7 @@
 3	bây giờ	bây giờ	PRON	P	_	7	obj	_	_
 4	thì	thì	CCONJ	C	_	7	cc	_	_
 5	không	không	ADV	R	Polarity=Neg	7	advmod	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	anh	anh	NOUN	N	_	0	root	_	_
 8	ạ	ạ	INTJ	I	_	7	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
@@ -7680,7 +7680,7 @@
 # text = ông Chương bị khủng bố ngày một căng nhưng Hùng thì vẫn chưa biết phải làm gì tiếp.
 1	ông	ông	NOUN	Nc	_	2	compound	_	_
 2	Chương	Chương	NOUN	Np	_	4	nsubj	_	_
-3	bị	bị	VERB	V	_	4	aux:pass	_	_
+3	bị	bị	AUX	V	_	4	aux:pass	_	_
 4	khủng bố	khủng bố	VERB	V	_	0	root	_	_
 5	ngày một	ngày một	X	X	_	6	amod	_	_
 6	căng	căng	ADJ	A	_	4	xcomp	_	_
@@ -8588,7 +8588,7 @@
 10	cô	cô	NOUN	Nc	_	11	compound	_	_
 11	gái	gái	NOUN	N	_	16	nsubj	_	_
 12	trẻ	trẻ	ADJ	A	_	11	amod	_	_
-13	bị	bị	VERB	V	_	16	aux:pass	_	_
+13	bị	bị	AUX	V	_	16	aux:pass	_	_
 14	đám	đám	NOUN	N	_	16	nsubj	_	_
 15	đông	đông	ADJ	A	_	14	amod	_	_
 16	giữ	giữ	VERB	V	_	8	obj	_	_
@@ -8615,7 +8615,7 @@
 9	đi	đi	VERB	V	_	6	xcomp	_	_
 10	trên	trên	ADP	E	_	11	case	_	_
 11	đường	đường	NOUN	N	_	9	obl	_	_
-12	bị	bị	VERB	V	_	14	aux:pass	_	_
+12	bị	bị	AUX	V	_	14	aux:pass	_	_
 13	xe	xe	NOUN	N	_	14	nsubj	_	_
 14	xô	xô	VERB	V	_	3	obj	_	_
 15	ngã	ngã	VERB	V	_	14	xcomp	_	_
@@ -8768,7 +8768,7 @@
 # sent_id = test-s487
 # text = Kim được minh oan, giấy tờ, xe máy của ông Chương lúc đó mới được trả.
 1	Kim	Kim	NOUN	Np	_	3	nsubj	_	_
-2	được	được	VERB	V	_	3	aux:pass	_	_
+2	được	được	AUX	V	_	3	aux:pass	_	_
 3	minh oan	minh oan	VERB	V	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	giấy tờ	giấy tờ	NOUN	N	_	15	nsubj	_	SpaceAfter=No
@@ -8780,7 +8780,7 @@
 11	lúc	lúc	NOUN	N	_	15	obl	_	_
 12	đó	đó	PRON	P	_	11	det	_	_
 13	mới	mới	ADV	R	_	15	advmod	_	_
-14	được	được	VERB	V	_	15	aux:pass	_	_
+14	được	được	AUX	V	_	15	aux:pass	_	_
 15	trả	trả	VERB	V	_	3	aux:pass	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -9094,7 +9094,7 @@
 3	thứ	thứ	NOUN	N	_	2	compound	_	_
 4	ba	ba	NUM	M	NumType=Card	3	nummod	_	_
 5	đã	đã	ADV	R	_	7	advmod	_	_
-6	bị	bị	VERB	V	_	7	aux:pass	_	_
+6	bị	bị	AUX	V	_	7	aux:pass	_	_
 7	loại	loại	VERB	V	_	0	root	_	_
 8	sau	sau	ADP	E	_	9	case	_	_
 9	khi	khi	NOUN	N	_	7	obl	_	_
@@ -9126,7 +9126,7 @@
 14	chuyện	chuyện	NOUN	N	_	7	obl	_	_
 15	ông	ông	NOUN	Nc	_	16	compound	_	_
 16	Chương	Chương	NOUN	Np	_	18	nsubj	_	_
-17	bị	bị	VERB	V	_	18	aux:pass	_	_
+17	bị	bị	AUX	V	_	18	aux:pass	_	_
 18	khủng bố	khủng bố	VERB	V	_	14	ccomp	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
 20	đe dọa	đe dọa	VERB	V	_	18	conj	_	SpaceAfter=No
@@ -9149,7 +9149,7 @@
 3	kể	kể	VERB	V	_	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	:	_	3	punct	_	_
 5	lần	lần	NOUN	N	_	11	nsubj	_	_
-6	bị	bị	VERB	V	_	9	aux:pass	_	_
+6	bị	bị	AUX	V	_	9	aux:pass	_	_
 7	kẻ	kẻ	NOUN	N	_	9	nsubj	_	_
 8	khủng bố	khủng bố	VERB	V	_	7	xcomp	_	_
 9	giáp mặt	giáp mặt	VERB	V	_	5	xcomp	_	_
@@ -9204,7 +9204,7 @@
 3	hai	hai	NUM	M	NumType=Card	2	nummod	_	_
 4	ông	ông	NOUN	Nc	_	5	compound	_	_
 5	Chương	Chương	NOUN	Np	_	7	nsubj	_	_
-6	bị	bị	VERB	V	_	7	aux:pass	_	_
+6	bị	bị	AUX	V	_	7	aux:pass	_	_
 7	khủng bố	khủng bố	VERB	V	_	1	ccomp	_	_
 8	là	là	AUX	V	_	9	cop	_	_
 9	chiều	chiều	NOUN	N	_	0	root	_	_
@@ -9616,7 +9616,7 @@
 7	lòng	lòng	NOUN	N	_	6	compound	_	_
 8	địch	địch	NOUN	N	_	7	compound	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	16	punct	_	_
-10	bị	bị	VERB	V	_	11	aux:pass	_	_
+10	bị	bị	AUX	V	_	11	aux:pass	_	_
 11	phong tỏa	phong tỏa	VERB	V	_	5	aux:pass	_	_
 12	bởi	bởi	ADP	E	_	13	case	_	_
 13	bốn bề	bốn bề	NOUN	N	_	11	obl	_	_
@@ -10043,7 +10043,7 @@
 # text = quy cách chuẩn được phổ biến của địa đạo là chiều rộng khoảng 9 tấc, chiều cao khoảng 1 , 1 m.
 1	quy cách	quy cách	NOUN	N	_	8	nsubj	_	_
 2	chuẩn	chuẩn	ADJ	A	_	1	amod	_	_
-3	được	được	VERB	V	_	4	aux:pass	_	_
+3	được	được	AUX	V	_	4	aux:pass	_	_
 4	phổ biến	phổ biến	VERB	V	_	1	xcomp	_	_
 5	của	của	ADP	E	_	6	case	_	_
 6	địa đạo	địa đạo	NOUN	N	_	1	nmod	_	_
@@ -10104,7 +10104,7 @@
 16	thì	thì	CCONJ	C	_	20	cc	_	_
 17	miệng	miệng	NOUN	N	_	20	nsubj	_	_
 18	thí	thí	NOUN	N	_	17	compound	_	_
-19	được	được	VERB	V	_	20	aux:pass	_	_
+19	được	được	AUX	V	_	20	aux:pass	_	_
 20	lấp	lấp	VERB	V	_	0	root	_	_
 21	lại	lại	ADV	R	_	20	advmod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	20	punct	_	_
@@ -10116,7 +10116,7 @@
 3	các	các	DET	L	_	4	det	_	_
 4	đoạn	đoạn	NOUN	N	_	7	nsubj	_	_
 5	địa đạo	địa đạo	NOUN	N	_	4	compound	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	nối	nối	VERB	V	_	0	root	_	_
 8	rộng	rộng	ADJ	A	_	7	xcomp	_	_
 9	ra	ra	ADV	R	_	8	advmod	_	SpaceAfter=No
@@ -10205,7 +10205,7 @@
 4	này	này	PRON	P	_	2	det	_	_
 5	có	có	VERB	V	_	0	root	_	_
 6	khi	khi	NOUN	N	_	5	obj	_	_
-7	được	được	VERB	V	_	8	aux:pass	_	_
+7	được	được	AUX	V	_	8	aux:pass	_	_
 8	bố trí	bố trí	VERB	V	_	6	xcomp	_	_
 9	chằng chịt	chằng chịt	ADJ	A	_	8	xcomp	_	_
 10	gần	gần	ADJ	A	_	8	xcomp	_	_
@@ -10230,10 +10230,10 @@
 3	thế	thế	PRON	P	_	2	det	_	_
 4	nên	nên	CCONJ	C	_	14	cc	_	_
 5	khi	khi	NOUN	N	_	14	obl	_	_
-6	bị	bị	VERB	V	_	7	aux:pass	_	_
+6	bị	bị	AUX	V	_	7	aux:pass	_	_
 7	lộ	lộ	VERB	V	_	5	xcomp	_	_
 8	hoặc	hoặc	SCONJ	CC	_	7	cc	_	_
-9	bị	bị	VERB	V	_	10	aux:pass	_	_
+9	bị	bị	AUX	V	_	10	aux:pass	_	_
 10	tấn công	tấn công	VERB	V	_	7	aux:pass	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	_
 12	du kích	du kích	NOUN	N	_	14	nsubj	_	_
@@ -10496,7 +10496,7 @@
 4	lòng	lòng	NOUN	N	_	1	nmod	_	_
 5	đất	đất	NOUN	N	_	4	compound	_	_
 6	còn	còn	ADV	R	_	8	advmod	_	_
-7	được	được	VERB	V	_	8	aux:pass	_	_
+7	được	được	AUX	V	_	8	aux:pass	_	_
 8	kết nối	kết nối	VERB	V	_	0	root	_	_
 9	với	với	ADP	E	_	10	case	_	_
 10	hệ thống	hệ thống	NOUN	N	_	8	obl	_	_
@@ -10617,7 +10617,7 @@
 13	"	"	PUNCT	"	_	9	punct	_	SpaceAfter=No
 14	Tôi	Tôi	PRON	P	_	19	nsubj	_	_
 15	đang	đang	ADV	R	_	19	advmod	_	_
-16	bị	bị	VERB	V	_	19	aux:pass	_	_
+16	bị	bị	AUX	V	_	19	aux:pass	_	_
 17	một	một	NUM	M	NumType=Card	18	nummod	_	_
 18	thằng	thằng	NOUN	N	_	19	nsubj	_	_
 19	theo dõi	theo dõi	VERB	V	_	9	aux:pass	_	SpaceAfter=No
@@ -10748,7 +10748,7 @@
 3	xuất phát	xuất phát	VERB	V	_	2	xcomp	_	_
 4	các	các	DET	L	_	5	det	_	_
 5	thám tử	thám tử	NOUN	N	_	7	nsubj	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	xác định	xác định	VERB	V	_	0	root	_	SpaceAfter=No
 8	:	:	PUNCT	:	_	7	punct	_	_
 9	tên	tên	NOUN	N	_	15	nsubj	_	_
@@ -10881,7 +10881,7 @@
 7	c ó lẽ	c ó lẽ	X	X	_	8	dep	_	_
 8	phát hiện	phát hiện	VERB	V	_	16	advcl	_	_
 9	đã	đã	ADV	R	_	11	advmod	_	_
-10	bị	bị	VERB	V	_	11	aux:pass	_	_
+10	bị	bị	AUX	V	_	11	aux:pass	_	_
 11	theo dõi	theo dõi	VERB	V	_	8	aux:pass	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	16	punct	_	_
 13	tên	tên	NOUN	N	_	16	nsubj	_	_
@@ -11026,7 +11026,7 @@
 11	có	có	VERB	V	_	9	xcomp	_	_
 12	đúng	đúng	ADJ	A	_	11	xcomp	_	_
 13	là	là	CCONJ	C	_	11	cc	_	_
-14	bị	bị	VERB	V	_	15	aux:pass	_	_
+14	bị	bị	AUX	V	_	15	aux:pass	_	_
 15	theo dõi	theo dõi	VERB	V	_	11	aux:pass	_	_
 16	không	không	ADV	R	Polarity=Neg	15	advmod	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	20	punct	_	_
@@ -11255,7 +11255,7 @@
 6	Chương	Chương	NOUN	Np	_	8	nsubj	_	_
 7	không	không	ADV	R	Polarity=Neg	8	advmod	_	_
 8	thấy	thấy	VERB	V	_	0	root	_	_
-9	bị	bị	VERB	V	_	11	aux:pass	_	_
+9	bị	bị	AUX	V	_	11	aux:pass	_	_
 10	ai	ai	PRON	P	_	11	nsubj	_	_
 11	theo dõi	theo dõi	VERB	V	_	8	aux:pass	_	_
 12	nữa	nữa	ADV	R	_	11	advmod	_	SpaceAfter=No
@@ -12608,7 +12608,7 @@
 3	gái	gái	NOUN	N	_	2	compound	_	_
 4	phòng	phòng	NOUN	N	_	2	compound	_	_
 5	321	321	NUM	M	NumType=Card	4	nummod	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	chia	chia	VERB	V	_	0	root	_	_
 8	hai	hai	NUM	M	NumType=Card	9	nummod	_	_
 9	ca	ca	NOUN	N	_	7	obj	_	_
@@ -12796,7 +12796,7 @@
 11	nhưng	nhưng	CCONJ	C	_	15	cc	_	_
 12	cũng	cũng	ADV	R	_	15	advmod	_	_
 13	không	không	ADV	R	Polarity=Neg	15	advmod	_	_
-14	được	được	VERB	V	_	15	aux:pass	_	_
+14	được	được	AUX	V	_	15	aux:pass	_	_
 15	bao lâu	bao lâu	PRON	P	_	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	_
 
@@ -12831,7 +12831,7 @@
 # text = cánh cửa bị phá trong tích tắc và một lđ nam VN được bảo vệ áp giải ra khỏi phòng.
 1	cánh	cánh	NOUN	N	_	4	nsubj	_	_
 2	cửa	cửa	NOUN	N	_	1	compound	_	_
-3	bị	bị	VERB	V	_	4	aux:pass	_	_
+3	bị	bị	AUX	V	_	4	aux:pass	_	_
 4	phá	phá	VERB	V	_	0	root	_	_
 5	trong	trong	ADP	E	_	6	case	_	_
 6	tích tắc	tích tắc	NOUN	N	_	4	obl	_	_
@@ -12840,7 +12840,7 @@
 9	lđ	lđ	NOUN	Ny	_	14	nsubj	_	_
 10	nam	nam	NOUN	N	_	9	compound	_	_
 11	VN	VN	NOUN	Ny	_	9	compound	_	_
-12	được	được	VERB	V	_	14	aux:pass	_	_
+12	được	được	AUX	V	_	14	aux:pass	_	_
 13	bảo vệ	bảo vệ	NOUN	N	_	14	nsubj	_	_
 14	áp giải	áp giải	VERB	V	_	4	aux:pass	_	_
 15	ra	ra	VERB	V	_	14	xcomp	_	_
@@ -13044,7 +13044,7 @@
 3	lắm	lắm	ADV	R	_	2	advmod	_	SpaceAfter=No
 4	"	"	PUNCT	"	_	2	punct	_	_
 5	là	là	AUX	V	_	7	cop	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	cấp	cấp	VERB	V	_	0	root	_	_
 8	súng	súng	NOUN	N	_	7	obj	_	_
 9	tự tạo	tự tạo	ADJ	A	_	8	amod	_	SpaceAfter=No
@@ -13055,7 +13055,7 @@
 1	xung quanh	xung quanh	NOUN	N	_	5	nsubj	_	_
 2	ổ	ổ	NOUN	N	_	1	compound	_	_
 3	chiến đấu	chiến đấu	VERB	V	_	2	xcomp	_	_
-4	được	được	VERB	V	_	5	aux:pass	_	_
+4	được	được	AUX	V	_	5	aux:pass	_	_
 5	bố trí	bố trí	VERB	V	_	0	root	_	_
 6	dày đặc	dày đặc	ADJ	A	_	5	xcomp	_	_
 7	các	các	DET	L	_	8	det	_	_
@@ -13398,7 +13398,7 @@
 6	từ	từ	ADP	E	_	7	case	_	_
 7	lòng	lòng	NOUN	N	_	5	obl	_	_
 8	đất	đất	NOUN	N	_	7	compound	_	_
-9	được	được	VERB	V	_	10	aux:pass	_	_
+9	được	được	AUX	V	_	10	aux:pass	_	_
 10	nhân	nhân	VERB	V	_	5	aux:pass	_	_
 11	rộng	rộng	ADJ	A	_	10	xcomp	_	_
 12	ra	ra	ADV	R	_	11	advmod	_	_
@@ -13473,7 +13473,7 @@
 7	cửa ngõ	cửa ngõ	NOUN	N	_	11	nsubj	_	_
 8	của	của	ADP	E	_	9	case	_	_
 9	địa đạo	địa đạo	NOUN	N	_	7	nmod	_	_
-10	được	được	VERB	V	_	11	aux:pass	_	_
+10	được	được	AUX	V	_	11	aux:pass	_	_
 11	thông	thông	VERB	V	_	4	aux:pass	_	_
 12	ra	ra	ADV	R	_	11	advmod	_	_
 13	lòng	lòng	NOUN	N	_	11	obj	_	_
@@ -13581,7 +13581,7 @@
 6	anh hùng	anh hùng	NOUN	N	_	8	nsubj	_	_
 7	Tô Văn Đực	Tô Văn Đực	NOUN	Np	_	6	compound	_	_
 8	chế tạo	chế tạo	VERB	V	_	3	ccomp	_	_
-9	được	được	VERB	V	_	10	aux:pass	_	_
+9	được	được	AUX	V	_	10	aux:pass	_	_
 10	cài	cài	VERB	V	_	0	root	_	_
 11	khắp	khắp	ADJ	A	_	10	xcomp	_	_
 12	nơi	nơi	NOUN	N	_	11	obj	_	_
@@ -13855,7 +13855,7 @@
 # sent_id = test-s771
 # text = Ông được tặng danh hiệu anh hùng lực lượng vũ trang nhân dân năm 1967.
 1	Ông	Ông	NOUN	N	_	3	nsubj	_	_
-2	được	được	VERB	V	_	3	aux:pass	_	_
+2	được	được	AUX	V	_	3	aux:pass	_	_
 3	tặng	tặng	VERB	V	_	0	root	_	_
 4	danh hiệu	danh hiệu	NOUN	N	_	3	obj	_	_
 5	anh hùng	anh hùng	NOUN	N	_	4	compound	_	_
@@ -13888,7 +13888,7 @@
 19	,	,	PUNCT	,	_	21	punct	_	_
 20	1 . 800	1 . 800	NUM	M	NumType=Card	21	nummod	_	_
 21	người	người	NOUN	N	_	8	conj	_	_
-22	được	được	VERB	V	_	23	aux:pass	_	_
+22	được	được	AUX	V	_	23	aux:pass	_	_
 23	phong	phong	VERB	V	_	21	xcomp	_	_
 24	dũng sĩ	dũng sĩ	NOUN	N	_	23	obj	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	6	punct	_	_
@@ -14273,7 +14273,7 @@
 11	mấy	mấy	DET	L	_	9	nmod	_	_
 12	cũng	cũng	ADV	R	_	15	advmod	_	_
 13	đều	đều	ADV	R	_	15	advmod	_	_
-14	được	được	VERB	V	_	15	aux:pass	_	_
+14	được	được	AUX	V	_	15	aux:pass	_	_
 15	gắn	gắn	VERB	V	_	0	root	_	_
 16	cho	cho	ADV	R	_	15	advmod	_	_
 17	những	những	DET	L	_	19	det	_	_
@@ -14317,7 +14317,7 @@
 10	hổ	hổ	NOUN	N	_	9	obj	_	_
 11	giao phối	giao phối	VERB	V	_	9	ccomp	_	_
 12	bằng	bằng	CCONJ	C	_	11	cc	_	_
-13	được	được	VERB	V	_	11	aux:pass	_	SpaceAfter=No
+13	được	được	AUX	V	_	11	aux:pass	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = test-s799
