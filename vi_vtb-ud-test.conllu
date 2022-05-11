@@ -379,7 +379,7 @@
 # text = chị Tiệp phải lấy tay bóp vào yết hầu nó mới nhả ra.
 1	chị	chị	NOUN	Nc	_	2	compound	_	_
 2	Tiệp	Tiệp	NOUN	Np	_	4	nsubj	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	V	_	4	aux	_	_
 4	lấy	lấy	VERB	V	_	0	root	_	_
 5	tay	tay	NOUN	N	_	4	obj	_	_
 6	bóp	bóp	VERB	V	_	4	ccomp	_	_
@@ -397,7 +397,7 @@
 2	là	là	AUX	V	_	4	cop	_	_
 3	chú	chú	NOUN	Nc	_	4	compound	_	_
 4	Ước	Ước	NOUN	Np	_	0	root	_	_
-5	phải	phải	VERB	V	_	6	xcomp	_	_
+5	phải	phải	AUX	V	_	6	xcomp	_	_
 6	mang	mang	VERB	V	_	4	xcomp	_	_
 7	vết	vết	NOUN	Nc	_	8	compound	_	_
 8	sẹo	sẹo	NOUN	N	_	6	obj	_	_
@@ -1530,7 +1530,7 @@
 10	hầm	hầm	NOUN	N	_	8	compound	_	_
 11	số	số	NOUN	N	_	8	compound	_	_
 12	1	1	NUM	M	NumType=Card	11	nummod	_	_
-13	phải	phải	VERB	V	_	14	aux	_	_
+13	phải	phải	AUX	V	_	14	aux	_	_
 14	thực hiện	thực hiện	VERB	V	_	3	xcomp	_	_
 15	trên	trên	ADJ	A	_	17	amod	_	_
 16	684	684	NUM	M	NumType=Card	17	nummod	_	_
@@ -2941,7 +2941,7 @@
 16	xuống	xuống	VERB	V	_	15	xcomp	_	_
 17	tòa	tòa	NOUN	N	_	16	obj	_	_
 18	lại	lại	ADV	R	_	20	advmod	_	_
-19	phải	phải	VERB	V	_	20	aux	_	_
+19	phải	phải	AUX	V	_	20	aux	_	_
 20	nhờ	nhờ	VERB	V	_	0	root	_	_
 21	mấy	mấy	DET	L	_	23	det	_	_
 22	người	người	NOUN	Nc	_	23	compound	_	_
@@ -3137,7 +3137,7 @@
 18	,	,	PUNCT	,	_	16	punct	_	_
 19	bên	bên	NOUN	N	_	22	nsubj	_	_
 20	nào	nào	PRON	P	_	19	det	_	_
-21	phải	phải	VERB	V	_	22	aux	_	_
+21	phải	phải	AUX	V	_	22	aux	_	_
 22	thi hành	thi hành	VERB	V	_	16	xcomp	_	_
 23	án	án	NOUN	N	_	22	obj	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	_	_
@@ -3151,7 +3151,7 @@
 5	gì	gì	PART	T	_	4	discourse	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	_	_
 7	nhưng	nhưng	CCONJ	C	_	3	cc	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	xử	xử	VERB	V	_	3	xcomp	_	_
 10	những	những	DET	L	_	11	det	_	_
 11	vụ việc	vụ việc	NOUN	N	_	9	obj	_	_
@@ -3611,7 +3611,7 @@
 16	trong	trong	ADP	E	_	17	case	_	_
 17	khi	khi	NOUN	N	_	8	nmod	_	_
 18	còn	còn	ADV	R	_	20	advmod	_	_
-19	phải	phải	VERB	V	_	20	ccomp	_	_
+19	phải	phải	AUX	V	_	20	ccomp	_	_
 20	tham gia	tham gia	VERB	V	_	17	xcomp	_	_
 21	công tác	công tác	NOUN	N	_	20	obj	_	_
 22	giảng dạy	giảng dạy	VERB	V	_	21	xcomp	_	SpaceAfter=No
@@ -4031,7 +4031,7 @@
 16	cha mẹ	cha mẹ	NOUN	N	_	20	nsubj	_	_
 17	các	các	DET	L	_	16	det	_	_
 18	bé	bé	NOUN	N	_	16	compound	_	_
-19	phải	phải	VERB	V	_	20	ccomp	_	_
+19	phải	phải	AUX	V	_	20	ccomp	_	_
 20	cam chịu	cam chịu	VERB	V	_	14	xcomp	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -4077,7 +4077,7 @@
 # text = Nhưng cần phải lên án những ai sản xuất, chuyên chở và sử dụng loại vũ khí khủng khiếp này mà không hề sám hối.
 1	Nhưng	Nhưng	CCONJ	C	_	2	cc	_	_
 2	cần	cần	VERB	V	_	0	root	_	_
-3	phải	phải	VERB	V	_	2	aux	_	_
+3	phải	phải	AUX	V	_	2	aux	_	_
 4	lên án	lên án	VERB	V	_	2	ccomp	_	_
 5	những	những	DET	L	_	6	det	_	_
 6	ai	ai	PRON	P	_	4	obj	_	_
@@ -4303,7 +4303,7 @@
 14	công ty	công ty	NOUN	N	_	18	nsubj	_	_
 15	hóa chất	hóa chất	NOUN	N	_	14	compound	_	_
 16	không	không	ADV	R	Polarity=Neg	18	advmod	_	_
-17	phải	phải	VERB	V	_	18	ccomp	_	_
+17	phải	phải	AUX	V	_	18	ccomp	_	_
 18	gánh chịu	gánh chịu	VERB	V	_	11	xcomp	_	_
 19	nghĩa vụ	nghĩa vụ	NOUN	N	_	18	obj	_	_
 20	pháp lý	pháp lý	NOUN	N	_	19	compound	_	_
@@ -4664,7 +4664,7 @@
 # text = ông Tuyết phải khai man tuổi để đủ năm làm huy chương kháng chiến chống Mỹ cứu nước hạng ba.
 1	ông	ông	NOUN	Nc	_	2	compound	_	_
 2	Tuyết	Tuyết	NOUN	Np	_	4	nsubj	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	V	_	4	aux	_	_
 4	khai man	khai man	VERB	V	_	0	root	_	_
 5	tuổi	tuổi	NOUN	N	_	4	obj	_	_
 6	để	để	ADP	E	_	7	case	_	_
@@ -5305,7 +5305,7 @@
 5	lấy	lấy	VERB	V	_	4	xcomp	_	_
 6	mẫu	mẫu	NOUN	N	_	5	obj	_	_
 7	bệnh	bệnh	NOUN	N	_	6	compound	_	_
-8	phải	phải	VERB	V	_	9	xcomp	_	_
+8	phải	phải	AUX	V	_	9	xcomp	_	_
 9	mang	mang	VERB	V	_	6	xcomp	_	_
 10	đến	đến	ADP	E	_	12	case	_	_
 11	các	các	DET	L	_	12	det	_	_
@@ -5598,7 +5598,7 @@
 # text = Chắc mình phải làm website cho khoai lang của mình, chẳng hạn: khoailangbahao. com. vn để tiếp thị đến khách hàng nước ngoài nữa chứ".
 1	Chắc	Chắc	ADV	R	_	4	advmod	_	_
 2	mình	mình	PRON	P	_	4	nsubj	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	V	_	4	aux	_	_
 4	làm	làm	VERB	V	_	0	root	_	_
 5	website	website	NOUN	Nb	_	4	obj	_	_
 6	cho	cho	ADP	E	_	7	case	_	_
@@ -5673,7 +5673,7 @@
 5	cũng	cũng	ADV	R	_	6	advmod	_	_
 6	bạc màu	bạc màu	ADJ	A	_	4	amod	_	_
 7	nên	nên	CCONJ	C	_	4	cc	_	_
-8	phải	phải	VERB	V	_	9	parataxis	_	_
+8	phải	phải	AUX	V	_	9	parataxis	_	_
 9	bồi bổ	bồi bổ	VERB	V	_	4	xcomp	_	_
 10	cho	cho	ADP	E	_	11	case	_	_
 11	nó	nó	PRON	P	_	9	obl	_	SpaceAfter=No
@@ -6175,7 +6175,7 @@
 2	nhìn	nhìn	VERB	V	_	0	root	_	_
 3	gần	gần	ADJ	A	_	2	xcomp	_	_
 4	mà	mà	CCONJ	C	_	2	cc	_	_
-5	phải	phải	VERB	V	_	6	aux	_	_
+5	phải	phải	AUX	V	_	6	aux	_	_
 6	gắn	gắn	VERB	V	_	2	xcomp	_	_
 7	việc	việc	NOUN	N	_	6	obj	_	_
 8	qui hoạch	qui hoạch	VERB	V	_	7	xcomp	_	_
@@ -6559,7 +6559,7 @@
 
 # sent_id = test-s362
 # text = phải cân nhắc đến lợi ích cho người già trước hết nên tôi đã gửi mẹ vào đây...".
-1	phải	phải	VERB	V	_	2	advcl	_	_
+1	phải	phải	AUX	V	_	2	advcl	_	_
 2	cân nhắc	cân nhắc	VERB	V	_	12	xcomp	_	_
 3	đến	đến	ADP	E	_	4	case	_	_
 4	lợi ích	lợi ích	NOUN	N	_	2	obl	_	_
@@ -6787,7 +6787,7 @@
 9	vào	vào	VERB	V	_	7	advcl	_	_
 10	đây	đây	PRON	P	_	9	obj	_	_
 11	thì	thì	CCONJ	C	_	13	cc	_	_
-12	phải	phải	VERB	V	_	13	aux	_	_
+12	phải	phải	AUX	V	_	13	aux	_	_
 13	trả	trả	VERB	V	_	4	xcomp	_	_
 14	tiền	tiền	NOUN	N	_	13	obj	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	21	punct	_	_
@@ -6819,7 +6819,7 @@
 # sent_id = test-s375
 # text = Không phải ngẫu nhiên người con việt kiều Mỹ của cụ chấp nhận mức giá cao bằng tiền thuê khách sạn hạng sang để đưa mẹ vào trung tâm.
 1	Không	Không	ADV	R	Polarity=Neg	3	advmod	_	_
-2	phải	phải	VERB	V	_	3	aux	_	_
+2	phải	phải	AUX	V	_	3	aux	_	_
 3	ngẫu nhiên	ngẫu nhiên	ADJ	A	_	0	root	_	_
 4	người	người	NOUN	Nc	_	5	compound	_	_
 5	con	con	NOUN	N	_	10	nsubj	_	_
@@ -7133,7 +7133,7 @@
 13	ngược lại	ngược lại	CCONJ	C	_	3	cc	_	_
 14	các	các	DET	L	_	15	det	_	_
 15	anh	anh	NOUN	N	_	17	nsubj	_	_
-16	phải	phải	VERB	V	_	17	aux	_	_
+16	phải	phải	AUX	V	_	17	aux	_	_
 17	nuôi	nuôi	VERB	V	_	3	xcomp	_	_
 18	tôi	tôi	PRON	P	_	17	obj	_	_
 19	đến	đến	PART	T	_	21	discourse	_	_
@@ -7362,7 +7362,7 @@
 1	Tuy nhiên	Tuy nhiên	CCONJ	C	_	5	cc	_	_
 2	ông	ông	NOUN	Nc	_	3	compound	_	_
 3	Chương	Chương	NOUN	Np	_	5	nsubj	_	_
-4	phải	phải	VERB	V	_	5	aux	_	_
+4	phải	phải	AUX	V	_	5	aux	_	_
 5	đánh dấu	đánh dấu	VERB	V	_	0	root	_	_
 6	vị trí	vị trí	NOUN	N	_	5	obj	_	_
 7	bì thư	bì thư	NOUN	N	_	6	compound	_	_
@@ -7378,7 +7378,7 @@
 4	xê dịch	xê dịch	NOUN	N	_	2	obj	_	_
 5	nào	nào	PRON	P	_	4	det	_	_
 6	là	là	AUX	V	_	8	cop	_	_
-7	phải	phải	VERB	V	_	8	aux	_	_
+7	phải	phải	AUX	V	_	8	aux	_	_
 8	biết	biết	VERB	V	_	0	root	_	SpaceAfter=No
 9	...	...	PUNCT	...	_	8	punct	_	_
 
@@ -7403,7 +7403,7 @@
 7	bì thư	bì thư	NOUN	N	_	6	obj	_	_
 8	thì	thì	CCONJ	C	_	4	cc	_	_
 9	ông	ông	NOUN	N	_	11	obj	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	kiếm	kiếm	VERB	V	_	4	xcomp	_	_
 12	cớ	cớ	NOUN	N	_	11	obj	_	_
 13	dắt	dắt	VERB	V	_	12	xcomp	_	_
@@ -7441,7 +7441,7 @@
 1	đến	đến	ADP	E	_	11	obl	_	_
 2	lúc	lúc	NOUN	N	_	1	nmod	_	_
 3	Kim	Kim	NOUN	Np	_	5	nsubj	_	_
-4	phải	phải	VERB	V	_	5	ccomp	_	_
+4	phải	phải	AUX	V	_	5	ccomp	_	_
 5	hỏi	hỏi	VERB	V	_	2	xcomp	_	_
 6	vì sao	vì sao	X	X	_	5	dep	_	_
 7	thì	thì	CCONJ	C	_	11	cc	_	_
@@ -7663,7 +7663,7 @@
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	Hùng	Hùng	NOUN	Np	_	11	nsubj	_	_
 9	lại	lại	ADV	R	_	11	advmod	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	chờ	chờ	VERB	V	_	6	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -7690,7 +7690,7 @@
 10	vẫn	vẫn	ADV	R	_	12	advmod	_	_
 11	chưa	chưa	ADV	R	_	12	advmod	_	_
 12	biết	biết	VERB	V	_	4	parataxis	_	_
-13	phải	phải	VERB	V	_	14	aux	_	_
+13	phải	phải	AUX	V	_	14	aux	_	_
 14	làm	làm	VERB	V	_	12	xcomp	_	_
 15	gì	gì	PRON	P	_	14	obj	_	_
 16	tiếp	tiếp	VERB	V	_	14	ccomp	_	SpaceAfter=No
@@ -7802,7 +7802,7 @@
 9	ông	ông	NOUN	N	_	14	nsubj	_	_
 10	này	này	PRON	P	_	9	det	_	_
 11	không	không	ADV	R	Polarity=Neg	14	advmod	_	_
-12	phải	phải	VERB	V	_	14	aux	_	_
+12	phải	phải	AUX	V	_	14	aux	_	_
 13	ông	ông	NOUN	Nc	_	14	compound	_	_
 14	Chương	Chương	NOUN	Np	_	1	obj	_	_
 15	mà	mà	CCONJ	C	_	18	cc	_	_
@@ -8324,7 +8324,7 @@
 2	hết	hết	ADV	R	_	3	advmod	_	_
 3	nghi	nghi	VERB	V	_	1	ccomp	_	_
 4	thì	thì	CCONJ	C	_	6	cc	_	_
-5	phải	phải	VERB	V	_	6	aux	_	_
+5	phải	phải	AUX	V	_	6	aux	_	_
 6	làm	làm	VERB	V	_	0	root	_	_
 7	rõ	rõ	ADJ	A	_	6	xcomp	_	_
 8	xem	xem	VERB	V	_	6	ccomp	_	_
@@ -8847,7 +8847,7 @@
 5	bố	bố	NOUN	N	_	6	nsubj	_	_
 6	ốm	ốm	VERB	V	_	3	parataxis	_	_
 7	nặng	nặng	ADJ	A	_	6	xcomp	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	nằm	nằm	VERB	V	_	6	xcomp	_	_
 10	viện	viện	NOUN	N	_	9	obj	_	_
 11	Hà Nội	Hà Nội	NOUN	Np	_	9	obj	_	SpaceAfter=No
@@ -9458,7 +9458,7 @@
 3	nhầm	nhầm	VERB	V	_	0	root	_	_
 4	thì	thì	CCONJ	C	_	3	cc	_	_
 5	cũng	cũng	ADV	R	_	7	advmod	_	_
-6	phải	phải	VERB	V	_	7	aux	_	_
+6	phải	phải	AUX	V	_	7	aux	_	_
 7	bóc	bóc	VERB	V	_	3	xcomp	_	_
 8	mới	mới	ADV	R	_	9	advmod	_	_
 9	biết	biết	VERB	V	_	7	ccomp	_	_
@@ -9700,7 +9700,7 @@
 12	,	,	PUNCT	,	_	16	punct	_	_
 13	địch	địch	NOUN	N	_	16	nsubj	_	_
 14	cũng	cũng	ADV	R	_	16	advmod	_	_
-15	phải	phải	VERB	V	_	16	aux	_	_
+15	phải	phải	AUX	V	_	16	aux	_	_
 16	càn	càn	VERB	V	_	0	root	_	_
 17	qua	qua	ADP	E	_	18	case	_	_
 18	Nhuận Đức	Nhuận Đức	NOUN	Np	_	16	obl	_	SpaceAfter=No
@@ -9755,7 +9755,7 @@
 7	Nhuận Đức	Nhuận Đức	NOUN	Np	_	6	compound	_	_
 8	đã	đã	ADV	R	_	9	advmod	_	_
 9	quyết định	quyết định	VERB	V	_	0	root	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	đào	đào	VERB	V	_	9	xcomp	_	_
 12	địa đạo	địa đạo	NOUN	N	_	11	obj	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	14	punct	_	_
@@ -10446,7 +10446,7 @@
 # text = Cuối cùng du kích phải nhờ người vào nội thành mua các loại dầu tắm, xà bông của lính Mỹ về bôi ở bên trên.
 1	Cuối cùng	Cuối cùng	ADJ	A	_	4	advcl	_	_
 2	du kích	du kích	NOUN	N	_	4	nsubj	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	V	_	4	aux	_	_
 4	nhờ	nhờ	VERB	V	_	0	root	_	_
 5	người	người	NOUN	N	_	4	obj	_	_
 6	vào	vào	VERB	V	_	4	ccomp	_	_
@@ -10789,7 +10789,7 @@
 12	bằng	bằng	ADP	E	_	16	advcl	_	_
 13	mọi	mọi	DET	L	_	14	det	_	_
 14	giá	giá	NOUN	N	_	12	nmod	_	_
-15	phải	phải	VERB	V	_	16	aux	_	_
+15	phải	phải	AUX	V	_	16	aux	_	_
 16	bám	bám	VERB	V	_	3	xcomp	_	_
 17	theo	theo	ADP	E	_	18	case	_	_
 18	tên	tên	NOUN	N	_	16	obl	_	_
@@ -10910,7 +10910,7 @@
 8	vào	vào	ADP	E	_	9	case	_	_
 9	ngõ	ngõ	NOUN	N	_	7	nmod	_	_
 10	lại	lại	ADV	R	_	12	advmod	_	_
-11	phải	phải	VERB	V	_	12	aux	_	_
+11	phải	phải	AUX	V	_	12	aux	_	_
 12	quay	quay	VERB	V	_	6	xcomp	_	_
 13	đầu	đầu	NOUN	N	_	12	obj	_	_
 14	lập tức	lập tức	ADV	R	_	15	advmod	_	_
@@ -11266,7 +11266,7 @@
 1	Và	Và	CCONJ	C	_	5	cc	_	_
 2	Hùng	Hùng	NOUN	Np	_	5	nsubj	_	_
 3	lại	lại	ADV	R	_	5	advmod	_	_
-4	phải	phải	VERB	V	_	5	aux	_	_
+4	phải	phải	AUX	V	_	5	aux	_	_
 5	chuyển hướng	chuyển hướng	VERB	V	_	0	root	_	SpaceAfter=No
 6	...	...	PUNCT	...	_	5	punct	_	_
 
@@ -11295,7 +11295,7 @@
 13	,	,	PUNCT	,	_	17	punct	_	_
 14	Hùng	Hùng	NOUN	Np	_	17	nsubj	_	_
 15	lại	lại	ADV	R	_	17	advmod	_	_
-16	phải	phải	VERB	V	_	17	aux	_	_
+16	phải	phải	AUX	V	_	17	aux	_	_
 17	dùng	dùng	VERB	V	_	0	root	_	_
 18	phép	phép	NOUN	N	_	17	obj	_	_
 19	thử	thử	VERB	V	_	18	xcomp	_	SpaceAfter=No
@@ -11316,7 +11316,7 @@
 11	địa chỉ	địa chỉ	NOUN	N	_	8	nmod	_	_
 12	nhà riêng	nhà riêng	NOUN	N	_	11	compound	_	_
 13	chắc chắn	chắc chắn	ADJ	A	_	5	xcomp	_	_
-14	phải	phải	VERB	V	_	15	xcomp	_	_
+14	phải	phải	AUX	V	_	15	xcomp	_	_
 15	có	có	VERB	V	_	13	xcomp	_	_
 16	dụng ý	dụng ý	NOUN	N	_	15	obj	_	_
 17	hoặc	hoặc	SCONJ	CC	_	18	cc	_	_
@@ -11382,7 +11382,7 @@
 6	là	là	CCONJ	C	_	10	mark	_	_
 7	hai	hai	NUM	M	NumType=Card	8	nummod	_	_
 8	người	người	NOUN	N	_	10	nsubj	_	_
-9	phải	phải	VERB	V	_	10	aux	_	_
+9	phải	phải	AUX	V	_	10	aux	_	_
 10	chuyển	chuyển	VERB	V	_	3	xcomp	_	_
 11	khỏi	khỏi	VERB	V	_	10	xcomp	_	_
 12	nhà	nhà	NOUN	N	_	10	obj	_	_
@@ -11603,7 +11603,7 @@
 3	tác giả	tác giả	NOUN	N	_	8	nsubj	_	SpaceAfter=No
 4	"	"	PUNCT	"	_	3	punct	_	_
 5	này	này	PRON	P	_	3	det	_	_
-6	phải	phải	VERB	V	_	8	aux	_	_
+6	phải	phải	AUX	V	_	8	aux	_	_
 7	là	là	AUX	V	_	8	cop	_	_
 8	người	người	NOUN	N	_	0	root	_	_
 9	kiên nhẫn	kiên nhẫn	ADJ	A	_	8	amod	_	SpaceAfter=No
@@ -11703,7 +11703,7 @@
 11	hoàn cảnh	hoàn cảnh	NOUN	N	_	12	nsubj	_	_
 12	xô đẩy	xô đẩy	VERB	V	_	15	advcl	_	_
 13	nên	nên	CCONJ	C	_	15	cc	_	_
-14	phải	phải	VERB	V	_	15	aux	_	_
+14	phải	phải	AUX	V	_	15	aux	_	_
 15	đa mang	đa mang	VERB	V	_	3	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -11958,7 +11958,7 @@
 7	toại nguyện	toại nguyện	VERB	V	_	4	ccomp	_	_
 8	và	và	SCONJ	CC	_	4	cc	_	_
 9	Hùng	Hùng	NOUN	Np	_	11	nsubj	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	đi	đi	VERB	V	_	4	xcomp	_	_
 12	trước	trước	ADJ	A	_	11	xcomp	_	_
 13	một	một	NUM	M	NumType=Card	14	nummod	_	_
@@ -11975,7 +11975,7 @@
 6	,	,	PUNCT	,	_	8	punct	_	_
 7	Hùng	Hùng	NOUN	Np	_	8	nsubj	_	_
 8	quyết định	quyết định	VERB	V	_	0	root	_	_
-9	phải	phải	VERB	V	_	10	aux	_	_
+9	phải	phải	AUX	V	_	10	aux	_	_
 10	dùng	dùng	VERB	V	_	8	xcomp	_	_
 11	kế	kế	NOUN	N	_	10	obj	_	_
 12	bắn	bắn	VERB	V	_	11	xcomp	_	_
@@ -13277,7 +13277,7 @@
 8	-	-	PUNCT	-	_	9	punct	_	_
 9	1969	1969	NUM	M	NumType=Card	6	conj	_	_
 10	gần như	gần như	ADV	R	_	12	advmod	_	_
-11	phải	phải	VERB	V	_	12	aux	_	_
+11	phải	phải	AUX	V	_	12	aux	_	_
 12	ở	ở	VERB	V	_	0	root	_	_
 13	dưới	dưới	ADP	E	_	14	case	_	_
 14	địa đạo	địa đạo	NOUN	N	_	12	obl	_	_
@@ -14312,7 +14312,7 @@
 5	vườn thú	vườn thú	NOUN	N	_	4	compound	_	_
 6	đã	đã	ADV	R	_	7	advmod	_	_
 7	quyết định	quyết định	VERB	V	_	0	root	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	cho	cho	VERB	V	_	7	xcomp	_	_
 10	hổ	hổ	NOUN	N	_	9	obj	_	_
 11	giao phối	giao phối	VERB	V	_	9	ccomp	_	_
@@ -14346,7 +14346,7 @@
 8	vườn	vườn	NOUN	N	_	4	nmod	_	_
 9	thú	thú	NOUN	N	_	8	compound	_	_
 10	vẫn	vẫn	ADV	R	_	12	advmod	_	_
-11	phải	phải	VERB	V	_	12	aux	_	_
+11	phải	phải	AUX	V	_	12	aux	_	_
 12	tính	tính	VERB	V	_	0	root	_	_
 13	cả	cả	PRON	P	_	14	det	_	_
 14	phương án	phương án	NOUN	N	_	12	obj	_	_

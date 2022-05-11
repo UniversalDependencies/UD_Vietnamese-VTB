@@ -121,7 +121,7 @@
 8	xâm lược	xâm lược	VERB	V	_	7	xcomp	_	_
 9	chứ	chứ	CCONJ	C	_	7	cc	_	_
 10	không	không	ADV	R	Polarity=Neg	12	advmod	_	_
-11	phải	phải	VERB	V	_	12	aux	_	_
+11	phải	phải	AUX	V	_	12	aux	_	_
 12	là	là	CCONJ	C	_	7	cc	_	_
 13	những	những	DET	L	_	14	det	_	_
 14	người	người	NOUN	N	_	12	obj	_	_
@@ -797,7 +797,7 @@
 5	:	:	PUNCT	:	_	4	punct	_	_
 6	"	"	PUNCT	"	_	4	punct	_	SpaceAfter=No
 7	Chúng ta	Chúng ta	PRON	P	_	9	nsubj	_	_
-8	phải	phải	VERB	V	_	9	obj	_	_
+8	phải	phải	AUX	V	_	9	obj	_	_
 9	đặt	đặt	VERB	V	_	4	xcomp	_	_
 10	tên	tên	NOUN	N	_	9	obj	_	_
 11	VN	VN	NOUN	Ny	_	10	compound	_	_
@@ -842,7 +842,7 @@
 2	bay	bay	VERB	V	_	1	xcomp	_	_
 3	sang	sang	VERB	V	_	1	xcomp	_	_
 4	châu Âu	châu Âu	NOUN	Np	_	3	obj	_	_
-5	phải	phải	VERB	V	_	6	aux	_	_
+5	phải	phải	AUX	V	_	6	aux	_	_
 6	hoãn	hoãn	VERB	V	_	0	root	_	_
 7	lại	lại	ADV	R	_	6	advmod	_	_
 8	do	do	ADP	E	_	10	case	_	_
@@ -995,7 +995,7 @@
 11	thứ	thứ	NOUN	N	_	12	nsubj	_	_
 12	làm	làm	VERB	V	_	0	root	_	_
 13	thiên hạ	thiên hạ	NOUN	N	_	12	obj	_	_
-14	phải	phải	VERB	V	_	15	aux	_	_
+14	phải	phải	AUX	V	_	15	aux	_	_
 15	khuất phục	khuất phục	VERB	V	_	12	xcomp	_	_
 16	chị	chị	NOUN	N	_	15	obj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	12	punct	_	_
@@ -1157,7 +1157,7 @@
 1	đổi	đổi	VERB	V	_	0	root	_	_
 2	lại	lại	ADV	R	_	1	advmod	_	_
 3	Tùng	Tùng	NOUN	Np	_	5	nsubj	_	_
-4	phải	phải	VERB	V	_	5	aux	_	_
+4	phải	phải	AUX	V	_	5	aux	_	_
 5	học	học	VERB	V	_	1	xcomp	_	_
 6	tiếng	tiếng	NOUN	N	_	5	obj	_	_
 7	Anh	Anh	NOUN	Np	_	6	compound	_	_
@@ -2687,7 +2687,7 @@
 16	gom	gom	VERB	V	_	15	xcomp	_	_
 17	được	được	ADV	R	_	16	advmod	_	_
 18	thì	thì	CCONJ	C	_	20	cc	_	_
-19	phải	phải	VERB	V	_	20	obj	_	SpaceAfter=No
+19	phải	phải	AUX	V	_	20	obj	_	SpaceAfter=No
 20	...	...	PUNCT	...	_	13	punct	_	_
 21	xúc	xúc	VERB	V	_	20	ccomp	_	_
 22	nó	nó	PRON	P	_	21	det	_	_
@@ -2771,7 +2771,7 @@
 13	nghĩ	nghĩ	VERB	V	_	1	parataxis	_	SpaceAfter=No
 14	:	:	PUNCT	:	_	13	punct	_	_
 15	"	"	PUNCT	"	_	13	punct	_	SpaceAfter=No
-16	phải	phải	VERB	V	_	17	aux	_	_
+16	phải	phải	AUX	V	_	17	aux	_	_
 17	có	có	VERB	V	_	13	xcomp	_	_
 18	cái	cái	NOUN	Nc	_	19	compound	_	_
 19	rơmooc	rơmooc	NOUN	N	_	17	obj	_	_
@@ -3058,7 +3058,7 @@
 2	mỗi	mỗi	NUM	M	NumType=Card	3	nummod	_	_
 3	ngày	ngày	NOUN	N	_	6	obl	_	_
 4	Hải	Hải	NOUN	Np	_	6	nsubj	_	_
-5	phải	phải	VERB	V	_	6	aux	_	_
+5	phải	phải	AUX	V	_	6	aux	_	_
 6	gửi	gửi	VERB	V	_	0	root	_	_
 7	về	về	ADV	R	_	6	advmod	_	_
 8	công ty	công ty	NOUN	N	_	6	obj	_	_
@@ -3721,7 +3721,7 @@
 1	Hai	Hai	NUM	M	NumType=Card	2	nummod	_	_
 2	kịch bản	kịch bản	NOUN	N	_	5	nsubj	_	_
 3	mới	mới	ADJ	A	_	2	amod	_	_
-4	phải	phải	VERB	V	_	5	aux	_	_
+4	phải	phải	AUX	V	_	5	aux	_	_
 5	thực hiện	thực hiện	VERB	V	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -4004,7 +4004,7 @@
 5	vội vàng	vội vàng	ADJ	A	_	4	xcomp	_	_
 6	mà	mà	CCONJ	C	_	4	cc	_	_
 7	mẹ	mẹ	NOUN	N	_	9	obj	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	âm thầm	âm thầm	ADJ	A	_	4	xcomp	_	_
 10	tìm hiểu	tìm hiểu	VERB	V	_	9	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
@@ -4016,7 +4016,7 @@
 3	"	"	PUNCT	"	_	4	punct	_	SpaceAfter=No
 4	đành	đành	VERB	V	_	0	root	_	SpaceAfter=No
 5	"	"	PUNCT	"	_	4	punct	_	_
-6	phải	phải	VERB	V	_	8	aux	_	_
+6	phải	phải	AUX	V	_	8	aux	_	_
 7	từng	từng	PRON	P	_	8	det	_	_
 8	bước	bước	NOUN	N	_	4	obj	_	_
 9	"	"	PUNCT	"	_	10	punct	_	SpaceAfter=No
@@ -4149,7 +4149,7 @@
 7	gia đình	gia đình	NOUN	N	_	6	compound	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	_	_
 9	Hải	Hải	NOUN	Np	_	12	nsubj	_	_
-10	phải	phải	VERB	V	_	12	aux	_	_
+10	phải	phải	AUX	V	_	12	aux	_	_
 11	tạm	tạm	ADJ	A	_	12	xcomp	_	_
 12	nghỉ	nghỉ	VERB	V	_	0	root	_	_
 13	một	một	NUM	M	NumType=Card	14	nummod	_	_
@@ -4672,7 +4672,7 @@
 7	muốn	muốn	VERB	V	_	11	csubj	_	_
 8	đi	đi	VERB	V	_	7	xcomp	_	_
 9	học	học	VERB	V	_	8	xcomp	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	có	có	VERB	V	_	5	xcomp	_	_
 12	quần áo	quần áo	NOUN	N	_	11	obj	_	_
 13	đàng hoàng	đàng hoàng	ADJ	A	_	12	amod	_	_
@@ -4736,7 +4736,7 @@
 6	trẻ	trẻ	NOUN	N	_	4	obl	_	_
 7	đường phố	đường phố	NOUN	N	_	6	compound	_	_
 8	nghĩa là	nghĩa là	X	X	_	10	dep	_	_
-9	phải	phải	VERB	V	_	10	aux	_	_
+9	phải	phải	AUX	V	_	10	aux	_	_
 10	chấp nhận	chấp nhận	VERB	V	_	4	xcomp	_	_
 11	tất cả	tất cả	PRON	P	_	12	det	_	_
 12	bụi bặm	bụi bặm	NOUN	N	_	10	obj	_	_
@@ -4942,7 +4942,7 @@
 3	chính	chính	PART	T	_	4	discourse	_	_
 4	anh	anh	NOUN	N	_	7	nsubj	_	_
 5	từng	từng	ADV	R	_	7	advmod	_	_
-6	phải	phải	VERB	V	_	7	aux	_	_
+6	phải	phải	AUX	V	_	7	aux	_	_
 7	dẫn	dẫn	VERB	V	_	2	xcomp	_	_
 8	một	một	NUM	M	NumType=Card	9	nummod	_	_
 9	em gái	em gái	NOUN	N	_	7	obj	_	_
@@ -6175,7 +6175,7 @@
 12	học	học	VERB	V	_	6	advcl	_	_
 13	chứ	chứ	CCONJ	C	_	12	cc	_	_
 14	không	không	ADV	R	Polarity=Neg	17	advmod	_	_
-15	phải	phải	VERB	V	_	17	aux	_	_
+15	phải	phải	AUX	V	_	17	aux	_	_
 16	đã	đã	ADV	R	_	17	advmod	_	_
 17	tốt nghiệp	tốt nghiệp	VERB	V	_	12	ccomp	_	_
 18	RBKT	RBKT	PUNCT	RBKT	_	6	punct	_	SpaceAfter=No
@@ -6191,7 +6191,7 @@
 2	bà	bà	NOUN	N	_	4	nsubj	_	_
 3	cũng	cũng	ADV	R	_	4	advmod	_	_
 4	cần	cần	VERB	V	_	0	root	_	_
-5	phải	phải	VERB	V	_	6	aux	_	_
+5	phải	phải	AUX	V	_	6	aux	_	_
 6	hợp lý hóa	hợp lý hóa	VERB	V	_	4	xcomp	_	_
 7	việc	việc	NOUN	N	_	6	obj	_	_
 8	vì sao	vì sao	X	X	_	10	dep	_	_
@@ -6261,7 +6261,7 @@
 2	đến	đến	VERB	V	_	0	root	_	_
 3	và	và	SCONJ	CC	_	2	cc	_	_
 4	tất nhiên	tất nhiên	ADJ	A	_	2	xcomp	_	_
-5	phải	phải	VERB	V	_	4	aux	_	_
+5	phải	phải	AUX	V	_	4	aux	_	_
 6	chờ	chờ	VERB	V	_	4	xcomp	_	_
 7	ở	ở	ADP	E	_	8	case	_	_
 8	phòng	phòng	NOUN	N	_	6	obl	_	_
@@ -7189,7 +7189,7 @@
 7	muốn	muốn	VERB	V	_	11	advcl	_	_
 8	mua	mua	VERB	V	_	7	xcomp	_	_
 9	hàng	hàng	NOUN	N	_	8	obj	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	mua	mua	VERB	V	_	0	root	_	_
 12	với	với	ADP	E	_	13	case	_	_
 13	số lượng	số lượng	NOUN	N	_	11	obl	_	_
@@ -7870,7 +7870,7 @@
 16	nữa	nữa	ADV	R	_	12	advmod	_	_
 17	thì	thì	CCONJ	C	_	5	cc	_	_
 18	cũng	cũng	ADV	R	_	20	advmod	_	_
-19	phải	phải	VERB	V	_	20	parataxis	_	_
+19	phải	phải	AUX	V	_	20	parataxis	_	_
 20	nói	nói	VERB	V	_	5	xcomp	_	_
 21	một	một	NUM	M	NumType=Card	22	nummod	_	_
 22	lời	lời	NOUN	N	_	20	obj	_	_
@@ -8406,7 +8406,7 @@
 8	ấy	ấy	PRON	P	_	7	det	_	_
 9	thì	thì	CCONJ	C	_	12	cc	_	_
 10	Thu	Thu	NOUN	Np	_	12	nsubj	_	_
-11	phải	phải	VERB	V	_	12	aux	_	_
+11	phải	phải	AUX	V	_	12	aux	_	_
 12	giữ	giữ	VERB	V	_	0	root	_	_
 13	cho	cho	ADP	E	_	14	case	_	_
 14	thọ	thọ	NOUN	Np	_	12	obl	_	_
@@ -8645,7 +8645,7 @@
 1	Mọi	Mọi	DET	L	_	2	det	_	_
 2	cơ hội	cơ hội	NOUN	N	_	5	nsubj	_	_
 3	đều	đều	ADV	R	_	5	advmod	_	_
-4	phải	phải	VERB	V	_	5	aux	_	_
+4	phải	phải	AUX	V	_	5	aux	_	_
 5	tận dụng	tận dụng	VERB	V	_	0	root	_	_
 6	triệt để	triệt để	ADJ	A	_	5	xcomp	_	_
 7	nhưng	nhưng	CCONJ	C	_	5	cc	_	_
@@ -8918,7 +8918,7 @@
 1	chuyện	chuyện	NOUN	N	_	5	obj	_	_
 2	này	này	PRON	P	_	1	det	_	_
 3	Thu	Thu	NOUN	Np	_	5	nsubj	_	_
-4	phải	phải	VERB	V	_	5	aux	_	_
+4	phải	phải	AUX	V	_	5	aux	_	_
 5	giấu	giấu	VERB	V	_	0	root	_	_
 6	Thọ	Thọ	NOUN	Np	_	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
@@ -9194,7 +9194,7 @@
 4	,	,	PUNCT	,	_	8	punct	_	_
 5	đáng lẽ	đáng lẽ	ADV	R	_	8	advmod	_	_
 6	Thu	Thu	NOUN	Np	_	8	obj	_	_
-7	phải	phải	VERB	V	_	8	aux	_	_
+7	phải	phải	AUX	V	_	8	aux	_	_
 8	sinh	sinh	VERB	V	_	2	conj	_	_
 9	nghi	nghi	VERB	V	_	8	xcomp	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
@@ -9830,7 +9830,7 @@
 4	hạnh phúc	hạnh phúc	NOUN	N	_	8	nsubj	_	_
 5	đôi	đôi	NUM	M	NumType=Card	6	nummod	_	_
 6	khi	khi	NOUN	N	_	8	obl	_	_
-7	phải	phải	VERB	V	_	8	aux	_	_
+7	phải	phải	AUX	V	_	8	aux	_	_
 8	sống	sống	VERB	V	_	2	xcomp	_	_
 9	trên	trên	ADP	E	_	11	case	_	_
 10	những	những	DET	L	_	11	det	_	_
@@ -10754,7 +10754,7 @@
 13	:	:	PUNCT	:	_	10	punct	_	_
 14	"	"	PUNCT	"	_	17	punct	_	SpaceAfter=No
 15	Mày	Mày	PRON	P	_	17	nsubj	_	_
-16	phải	phải	VERB	V	_	17	obj	_	_
+16	phải	phải	AUX	V	_	17	obj	_	_
 17	cút	cút	VERB	V	_	10	xcomp	_	_
 18	khỏi	khỏi	VERB	V	_	17	xcomp	_	_
 19	Hà Nội	Hà Nội	NOUN	Np	_	17	obj	_	_
@@ -11376,7 +11376,7 @@
 4	hơn	hơn	ADV	R	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
 6	Hùng	Hùng	NOUN	Np	_	8	nsubj	_	_
-7	phải	phải	VERB	V	_	8	aux	_	_
+7	phải	phải	AUX	V	_	8	aux	_	_
 8	dùng	dùng	VERB	V	_	0	root	_	_
 9	"	"	PUNCT	"	_	10	punct	_	SpaceAfter=No
 10	thuốc thử	thuốc thử	NOUN	N	_	8	obj	_	SpaceAfter=No
@@ -11889,7 +11889,7 @@
 1	tỉ lệ	tỉ lệ	NOUN	N	_	6	nsubj	_	_
 2	ấy	ấy	PRON	P	_	1	det	_	_
 3	chưa	chưa	ADV	R	_	4	advmod	_	_
-4	phải	phải	VERB	V	_	6	aux	_	_
+4	phải	phải	AUX	V	_	6	aux	_	_
 5	là	là	CCONJ	C	_	6	cop	_	_
 6	cao	cao	ADJ	A	_	0	root	_	_
 7	nhưng	nhưng	CCONJ	C	_	9	cc	_	_
@@ -11971,7 +11971,7 @@
 14	có	có	VERB	V	_	13	xcomp	_	_
 15	bốn	bốn	NUM	M	NumType=Card	16	nummod	_	_
 16	thế hệ	thế hệ	NOUN	N	_	14	obj	_	_
-17	phải	phải	VERB	V	_	18	xcomp	_	_
+17	phải	phải	AUX	V	_	18	xcomp	_	_
 18	xách	xách	VERB	V	_	16	xcomp	_	_
 19	bị gậy	bị gậy	NOUN	N	_	18	obj	_	_
 20	đi	đi	VERB	V	_	18	ccomp	_	_
@@ -11988,7 +11988,7 @@
 6	cô	cô	NOUN	N	_	10	nsubj	_	_
 7	bé	bé	NOUN	N	_	6	compound	_	_
 8	đã	đã	ADV	R	_	10	advmod	_	_
-9	phải	phải	VERB	V	_	10	aux	_	_
+9	phải	phải	AUX	V	_	10	aux	_	_
 10	quặt quẹo	quặt quẹo	ADJ	A	_	0	root	_	_
 11	sau	sau	ADP	E	_	12	case	_	_
 12	lưng	lưng	NOUN	N	_	10	nmod	_	_
@@ -12586,7 +12586,7 @@
 5	cảnh	cảnh	NOUN	N	_	20	advcl	_	_
 6	nghèo túng	nghèo túng	ADJ	A	_	5	amod	_	_
 7	nên	nên	CCONJ	C	_	20	cc	_	_
-8	phải	phải	VERB	V	_	10	nmod	_	_
+8	phải	phải	AUX	V	_	10	nmod	_	_
 9	đến	đến	PART	T	_	10	discourse	_	_
 10	tháng	tháng	NOUN	N	_	20	obj	_	_
 11	9	9	NUM	M	NumType=Card	10	nummod	_	_
@@ -12830,7 +12830,7 @@
 # sent_id = dev-s741
 # text = "phải sống, nó cũng là con người được mang nặng đẻ đau, cũng có tên có tuổi như mọi người...".
 1	"	"	PUNCT	"	_	8	punct	_	SpaceAfter=No
-2	phải	phải	VERB	V	_	3	advcl	_	_
+2	phải	phải	AUX	V	_	3	advcl	_	_
 3	sống	sống	VERB	V	_	8	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	8	punct	_	_
 5	nó	nó	PRON	P	_	8	nsubj	_	_
@@ -13148,7 +13148,7 @@
 
 # sent_id = dev-s757
 # text = phải sống.
-1	phải	phải	VERB	V	_	2	advcl	_	_
+1	phải	phải	AUX	V	_	2	advcl	_	_
 2	sống	sống	VERB	V	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -13262,7 +13262,7 @@
 4	người	người	NOUN	N	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	chúng	chúng	PRON	P	_	9	nsubj	_	_
-7	phải	phải	VERB	V	_	9	aux	_	_
+7	phải	phải	AUX	V	_	9	aux	_	_
 8	được	được	ADV	R	_	9	aux:pass	_	_
 9	sống	sống	VERB	V	_	4	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_
@@ -13381,7 +13381,7 @@
 15	giờ	giờ	NOUN	N	_	19	obl	_	_
 16	có	có	VERB	V	_	19	advcl	_	_
 17	gì	gì	PRON	P	_	16	det	_	_
-18	phải	phải	VERB	V	_	19	aux	_	_
+18	phải	phải	AUX	V	_	19	aux	_	_
 19	sợ	sợ	VERB	V	_	7	xcomp	_	_
 20	chứ	chứ	PART	T	_	19	discourse	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	7	punct	_	_
@@ -13484,7 +13484,7 @@
 18	,	,	PUNCT	,	_	19	punct	_	_
 19	văn hóa	văn hóa	NOUN	N	_	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	13	punct	_	_
-21	phải	phải	VERB	V	_	22	aux	_	_
+21	phải	phải	AUX	V	_	22	aux	_	_
 22	làm	làm	VERB	V	_	13	xcomp	_	_
 23	theo	theo	ADV	R	_	22	advmod	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	7	punct	_	_
@@ -13619,7 +13619,7 @@
 9	hay là	hay là	CCONJ	C	_	13	cc	_	_
 10	dân	dân	NOUN	N	_	13	nsubj	_	_
 11	mình	mình	PRON	P	_	10	det	_	_
-12	phải	phải	VERB	V	_	13	aux	_	_
+12	phải	phải	AUX	V	_	13	aux	_	_
 13	học	học	VERB	V	_	4	xcomp	_	_
 14	cho	cho	ADP	E	_	15	case	_	_
 15	được	được	ADJ	A	_	13	amod	_	_
@@ -13801,7 +13801,7 @@
 1	Hùng	Hùng	NOUN	Np	_	5	nsubj	_	_
 2	sẽ	sẽ	ADV	R	_	5	advmod	_	_
 3	lại	lại	ADV	R	_	5	advmod	_	_
-4	phải	phải	VERB	V	_	5	aux	_	_
+4	phải	phải	AUX	V	_	5	aux	_	_
 5	thử	thử	VERB	V	_	0	root	_	_
 6	Kim	Kim	NOUN	Np	_	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
