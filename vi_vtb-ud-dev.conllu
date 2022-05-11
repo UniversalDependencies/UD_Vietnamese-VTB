@@ -6,7 +6,7 @@
 4	lính	lính	NOUN	N	_	8	nsubj	_	_
 5	hải quân	hải quân	NOUN	N	_	4	compound	_	_
 6	Pháp	Pháp	NOUN	Np	_	5	compound	_	_
-7	đã	đã	X	R	_	8	advmod	_	_
+7	đã	đã	ADV	R	_	8	advmod	_	_
 8	rải	rải	VERB	V	_	0	root	_	_
 9	truyền đơn	truyền đơn	NOUN	N	_	8	obj	_	_
 10	cho	cho	ADP	E	_	12	case	_	_
