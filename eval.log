@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 09b4ea469ecea759b9946f42324d1876c23d8328
-Merge: 7c217b0 498ccf4
+commit 320bb5a7147b9657c027aafe566961716293f93d
+Merge: d0a3fca 1822fa6
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 43754 of 43754 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.55716607439143.
@@ -35,22 +35,22 @@ validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
 [Line 41 Sent dev-s2 Node 14]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (14:đày:aux --> 11:chị:nsubj)
 [Line 43 Sent dev-s2 Node 14]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (14:đày:aux --> 13:bị:aux)
 ...suppressing further errors regarding Syntax
-Syntax errors: 1527
-*** FAILED *** with 1527 errors
+Syntax errors: 1479
+*** FAILED *** with 1479 errors
 Exit code: 1
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
 [Line 3 Sent test-s1 Node 1]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'nsubj'
 [Line 5 Sent test-s1 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
-[Line 16 Sent test-s1 Node 14]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 15 Sent test-s1 Node 14]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (14:tách:mark --> 13:để:case)
 [Line 17 Sent test-s1 Node 14]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (14:tách:mark --> 15:chúng:obj)
 [Line 20 Sent test-s1 Node 18]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 [Line 34 Sent test-s2 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 [Line 36 Sent test-s2 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 [Line 45 Sent test-s3 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
+[Line 54 Sent test-s3 Node 14]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 ...suppressing further errors regarding Syntax
-Syntax errors: 1544
-*** FAILED *** with 1544 errors
+Syntax errors: 1498
+*** FAILED *** with 1498 errors
 Exit code: 1
 validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
 [Line 8 Sent train-s1 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
@@ -63,8 +63,8 @@ validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
 [Line 149 Sent train-s10 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'X'
 [Line 168 Sent train-s11 Node 2]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PROPN'
 ...suppressing further errors regarding Syntax
-Syntax errors: 2521
-*** FAILED *** with 2521 errors
+Syntax errors: 2444
+*** FAILED *** with 2444 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
