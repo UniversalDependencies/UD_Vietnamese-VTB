@@ -43,7 +43,7 @@
 13	bị	bị	AUX	V	_	14	aux:pass	_	_
 14	đày	đày	VERB	V	_	9	obj	_	_
 15	và	và	SCONJ	CC	_	9	cc	_	_
-16	anh trai	anh trai	NOUN	N	_	9	nsubj	_	_
+16	anh trai	anh trai	NOUN	N	_	20	nsubj	_	_
 17	tôi	tôi	PRON	P	_	16	det	_	_
 18	đã	đã	ADV	R	_	20	advmod	_	_
 19	bị	bị	AUX	V	_	20	aux:pass	_	_
@@ -500,7 +500,7 @@
 8	bằng	bằng	ADP	E	_	9	case	_	_
 9	chất độc	chất độc	NOUN	N	_	5	nmod	_	_
 10	da cam	da cam	NOUN	N	_	9	compound	_	_
-11	/	/	PUNCT	NP	_	9	dep	_	_
+11	/	/	PUNCT	NP	_	9	punct	_	_
 12	dioxin	dioxin	NOUN	Nb	_	9	compound	_	_
 13	hủy diệt	hủy diệt	VERB	V	_	12	xcomp	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
