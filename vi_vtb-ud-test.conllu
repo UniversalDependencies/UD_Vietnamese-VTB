@@ -13,7 +13,7 @@
 11	ông	ông	NOUN	N	_	10	obj	_	_
 12	quen quen	quen quen	VERB	V	_	10	compound:redup	_	_
 13	?	?	PUNCT	?	_	10	punct	_	_
-14	"	"	PUNCT	``	_	10	punct	_	_
+14	"	"	PUNCT	``	_	10	punct	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s2
@@ -29,7 +29,7 @@
 9	ông	ông	NOUN	N	_	8	obj	_	_
 10	nhỉ	nhỉ	INTJ	I	_	8	discourse	_	_
 11	?	?	PUNCT	?	_	8	punct	_	_
-12	"	"	PUNCT	``	_	8	punct	_	_
+12	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s3
@@ -43,7 +43,7 @@
 7	ông	ông	NOUN	N	_	8	nsubj	_	_
 8	quê	quê	NOUN	N	_	2	parataxis	_	_
 9	đâu	đâu	PRON	Pro	_	8	det:pmod	_	_
-10	nhỉ	nhỉ	INTJ	I	_	9	discourse	_	_
+10	nhỉ	nhỉ	INTJ	I	_	9	discourse	_	_	SpaceAfter=No
 11	?	?	PUNCT	?	_	2	punct	_	_
 
 # sent_id = text-s4
@@ -57,7 +57,7 @@
 7	lớp	lớp	NOUN	N	_	6	nmod	_	_
 8	đây	đây	PART	Prt	_	5	discourse	_	_
 9	này	này	PART	Prt	_	5	discourse	_	_
-10	"	"	PUNCT	``	_	5	punct	_	_
+10	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s5
@@ -76,7 +76,7 @@
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	điện thoại	điện thoại	NOUN	N	_	9	conj	_	_
 14	của	của	ADP	Pre	_	15	case	_	_
-15	Hùng	Hùng	PROPN	NNP	_	9	nmod:poss	_	_
+15	Hùng	Hùng	PROPN	NNP	_	9	nmod:poss	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s6
@@ -97,7 +97,7 @@
 14	ông	ông	NOUN	N	_	13	obj	_	_
 15	ở	ở	ADP	Pre	_	16	case	_	_
 16	đâu	đâu	PRON	Pro	_	13	obl:comp	_	_
-17	"	"	PUNCT	``	_	11	punct	_	_
+17	"	"	PUNCT	``	_	11	punct	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s7
@@ -115,7 +115,7 @@
 11	bà	bà	NOUN	Nc	_	12	det:clf	_	_
 12	Loan	Loan	PROPN	NNP	_	10	obj	_	_
 13	thưa	thưa	VERB	V	_	10	advcl:objective	_	_
-14	chuyện	chuyện	NOUN	N	_	13	obj	_	_
+14	chuyện	chuyện	NOUN	N	_	13	obj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s8
@@ -135,7 +135,7 @@
 13	cả	cả	PRON	Pro	_	14	det	_	_
 14	ban nhạc	ban nhạc	NOUN	N	_	10	obl:comp	_	_
 15	trong	trong	ADP	Pre	_	16	case	_	_
-16	lòng	lòng	NOUN	N	_	14	obl:comp	_	_
+16	lòng	lòng	NOUN	N	_	14	obl:comp	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s9
@@ -161,7 +161,7 @@
 19	phần	phần	NOUN	N	_	20	det:clf	_	_
 20	tinh vi	tinh vi	ADJ	Adj	_	14	conj	_	_
 21	,	,	PUNCT	,	_	22	punct	_	_
-22	phức tạp	phức tạp	ADJ	Adj	_	20	conj	_	_
+22	phức tạp	phức tạp	ADJ	Adj	_	20	conj	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s10
@@ -179,7 +179,7 @@
 11	"	"	PUNCT	``	_	13	punct	_	_
 12	Thôi	thôi	PART	Prt	_	13	discourse	_	_
 13	chết	chết	VERB	V	_	2	parataxis	_	_
-14	rồi	rồi	PART	Prt	_	13	discourse	_	_
+14	rồi	rồi	PART	Prt	_	13	discourse	_	_	SpaceAfter=No
 15	!	!	PUNCT	!	_	2	punct	_	_
 
 # sent_id = text-s11
@@ -207,7 +207,7 @@
 21	lớp	lớp	NOUN	N	_	19	obj	_	_
 22	tại chức	tại chức	ADJ	Adj	_	21	amod	_	_
 23	với	với	ADP	Pre	_	24	case	_	_
-24	cháu	cháu	NOUN	N	_	19	obl:with	_	_
+24	cháu	cháu	NOUN	N	_	19	obl:with	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s12
@@ -229,7 +229,7 @@
 15	mấy	mấy	DET	Det	_	16	det	_	_
 16	năm	năm	NOUN	N	_	13	obl:tmod	_	_
 17	rồi	rồi	ADV	Adv	_	13	advmod	_	_
-18	"	"	PUNCT	``	_	12	punct	_	_
+18	"	"	PUNCT	``	_	12	punct	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s13
@@ -255,7 +255,7 @@
 19	lậu	lậu	ADJ	Adj	_	18	amod	_	_
 20	đi	đi	VERB	V	_	18	acl:subj	_	_
 21	về	về	ADV	Adv	_	20	compound:dir	_	_
-22	Lạng Sơn	Lạng Sơn	PROPN	NNP	_	20	obl	_	_
+22	Lạng Sơn	Lạng Sơn	PROPN	NNP	_	20	obl	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s14
@@ -276,7 +276,7 @@
 14	đang	đang	ADV	Adv	_	15	advmod	_	_
 15	chờ	chờ	VERB	V	_	11	acl:subj	_	_
 16	mang	mang	VERB	V	_	15	advcl:objective	_	_
-17	đi	đi	ADV	Adv	_	16	compound:svc	_	_
+17	đi	đi	ADV	Adv	_	16	compound:svc	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s15
@@ -294,7 +294,7 @@
 11	từ	từ	ADP	Pre	_	12	case	_	_
 12	trước	trước	ADJ	Adj	_	9	advmod:adj	_	_
 13	để	để	ADP	Pre	_	14	mark:pcomp	_	_
-14	lấy	lấy	VERB	V	_	9	advcl:objective	_	_
+14	lấy	lấy	VERB	V	_	9	advcl:objective	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s16
@@ -305,7 +305,7 @@
 4	thì	thì	SCONJ	SC	_	5	mark	_	_
 5	bán	bán	VERB	V	_	0	root	_	_
 6	như	như	SCONJ	SC	_	7	mark	_	_
-7	cho	cho	VERB	V	_	5	advcl	_	_
+7	cho	cho	VERB	V	_	5	advcl	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s17
@@ -323,7 +323,7 @@
 11	,	,	PUNCT	,	_	14	punct	_	_
 12	hơn nữa	hơn nữa	ADV	Adv	_	14	advmod	_	_
 13	lại	lại	ADV	Adv	_	14	advmod	_	_
-14	cồng kềnh	cồng kềnh	ADJ	Adj	_	10	conj	_	_
+14	cồng kềnh	cồng kềnh	ADJ	Adj	_	10	conj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s18
@@ -348,7 +348,7 @@
 18	hàng	hàng	ADV	Adv	_	20	nmod	_	_
 19	trăm	trăm	NUM	Num	_	18	compound	_	_
 20	mét	mét	NOUN	Nu	_	16	obl	_	_
-21	vuông	vuông	ADJ	Adj	_	20	compound	_	_
+21	vuông	vuông	ADJ	Adj	_	20	compound	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s19
@@ -374,7 +374,7 @@
 19	,	,	PUNCT	,	_	2	punct	_	_
 20	nhưng	nhưng	SCONJ	SC	_	22	mark	_	_
 21	có thể	có thể	ADJ	Adj	_	22	advmod	_	_
-22	thông cảm	thông cảm	VERB	V	_	0	root	_	_
+22	thông cảm	thông cảm	VERB	V	_	0	root	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	22	punct	_	_
 
 # sent_id = text-s20
@@ -390,7 +390,7 @@
 9	không thể	không thể	ADV	Adv	_	10	advmod:neg	_	_
 10	chặn	chặn	VERB	V	_	0	root	_	_
 11	hết	hết	VERB	V	_	10	compound:svc	_	_
-12	được	được	ADV	Adv	_	10	advmod	_	_
+12	được	được	ADV	Adv	_	10	advmod	_	_	SpaceAfter=No
 13	...	...	PUNCT	...	_	10	punct	_	_
 
 # sent_id = text-s21
@@ -404,7 +404,7 @@
 7	nhập	nhập	VERB	V	_	6	acl	_	_
 8	lậu	lậu	ADJ	Adj	_	7	advmod:adj	_	_
 9	hay	hay	CCONJ	CC	_	10	cc	_	_
-10	nội địa	nội địa	ADJ	Adj	_	7	advmod:adj	_	_
+10	nội địa	nội địa	ADJ	Adj	_	7	advmod:adj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s22
@@ -429,13 +429,13 @@
 18	ngày	ngày	NOUN	N	_	15	obl:tmod	_	_
 19	quên	quên	VERB	V	_	15	xcomp	_	_
 20	cả	cả	PRON	Pro	_	21	det	_	_
-21	cơm nước	cơm nước	NOUN	N	_	19	obj	_	_
+21	cơm nước	cơm nước	NOUN	N	_	19	obj	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = text-s23
 # text =Thọ về . 
 1	Thọ	thọ	PROPN	NNP	_	2	nsubj	_	_
-2	về	về	VERB	V	_	0	root	_	_
+2	về	về	VERB	V	_	0	root	_	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s24
@@ -449,7 +449,7 @@
 7	đầy	đầy	ADJ	Adj	_	8	advmod:adj	_	_
 8	lo toan	lo toan	VERB	V	_	6	acl	_	_
 9	,	,	PUNCT	,	_	10	punct	_	_
-10	bận rộn	bận rộn	ADJ	Adj	_	8	conj	_	_
+10	bận rộn	bận rộn	ADJ	Adj	_	8	conj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s25
@@ -472,7 +472,7 @@
 16	,	,	PUNCT	,	_	19	punct	_	_
 17	nhất là	nhất là	X	X	_	15	obl	_	_
 18	về	về	ADP	Pre	_	19	case	_	_
-19	đầu óc	đầu óc	NOUN	N	_	15	obl:about	_	_
+19	đầu óc	đầu óc	NOUN	N	_	15	obl:about	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s26
@@ -500,7 +500,7 @@
 21	làm	làm	VERB	V	_	19	xcomp	_	_
 22	gì	gì	PRON	Pro	_	21	obj	_	_
 23	?	?	PUNCT	?	_	19	punct	_	_
-24	"	"	PUNCT	``	_	19	punct	_	_
+24	"	"	PUNCT	``	_	19	punct	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s27
@@ -520,7 +520,7 @@
 13	mày	mày	PRON	Pro	_	14	nsubj	_	_
 14	đi	đi	VERB	V	_	12	ccomp	_	_
 15	làm	làm	VERB	V	_	14	compound:svc	_	_
-16	xa	xa	ADJ	Adj	_	15	advmod:adj	_	_
+16	xa	xa	ADJ	Adj	_	15	advmod:adj	_	_	SpaceAfter=No
 17	...	...	PUNCT	...	_	6	punct	_	_
 
 # sent_id = text-s28
@@ -534,7 +534,7 @@
 7	mẹ	mẹ	NOUN	N	_	9	nsubj	_	_
 8	phải	phải	VERB	V	_	9	aux	_	_
 9	âm thầm	âm thầm	ADJ	Adj	_	5	conj	_	_
-10	tìm hiểu	tìm hiểu	VERB	V	_	9	xcomp:adj	_	_
+10	tìm hiểu	tìm hiểu	VERB	V	_	9	xcomp:adj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s29
@@ -555,7 +555,7 @@
 14	lao	lao	VERB	V	_	11	xcomp	_	_
 15	về	về	ADP	Pre	_	14	compound:dir	_	_
 16	điểm	điểm	NOUN	N	_	14	obj	_	_
-17	tập kết	tập kết	VERB	V	_	16	compound:vmod	_	_
+17	tập kết	tập kết	VERB	V	_	16	compound:vmod	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s30
@@ -577,7 +577,7 @@
 15	thành	thành	NOUN	N	_	13	obj	_	_
 16	mũ	mũ	NOUN	N	_	15	compound	_	_
 17	chạm	chạm	VERB	V	_	15	acl:subj	_	_
-18	nhau	nhau	NOUN	N	_	17	obj	_	_
+18	nhau	nhau	NOUN	N	_	17	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s31
@@ -596,7 +596,7 @@
 12	các	các	DET	Det	_	13	det	_	_
 13	chủ	chủ	NOUN	N	_	9	obl:comp	_	_
 14	hàng	hàng	NOUN	N	_	13	nmod	_	_
-15	VN	vn	NOUN	Ny	_	13	nmod	_	_
+15	VN	vn	NOUN	Ny	_	13	nmod	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s32
@@ -622,7 +622,7 @@
 19	tăng	tăng	VERB	V	_	10	ccomp	_	_
 20	lên	lên	ADV	Adv	_	19	compound:prt	_	_
 21	gấp	gấp	VERB	V	_	19	xcomp	_	_
-22	rưỡi	rưỡi	NUM	Num	_	21	nummod	_	_
+22	rưỡi	rưỡi	NUM	Num	_	21	nummod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s33
@@ -642,7 +642,7 @@
 13	thành phố	thành phố	NOUN	N	_	11	obl	_	_
 14	Lạng Sơn	Lạng Sơn	PROPN	NNP	_	13	compound	_	_
 15	để	để	ADP	Pre	_	16	mark:pcomp	_	_
-16	tiêu thụ	tiêu thụ	VERB	V	_	11	advcl:objective	_	_
+16	tiêu thụ	tiêu thụ	VERB	V	_	11	advcl:objective	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s34
@@ -664,7 +664,7 @@
 15	sang	sang	VERB	V	_	14	xcomp	_	_
 16	đây	đây	PRON	Pro	_	15	det:pmod	_	_
 17	bán	bán	VERB	V	_	15	advcl	_	_
-18	"	"	PUNCT	``	_	9	punct	_	_
+18	"	"	PUNCT	``	_	9	punct	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s35
@@ -691,7 +691,7 @@
 20	thời kỳ	thời kỳ	NOUN	N	_	17	obl:tmod	_	_
 21	Hải	Hải	PROPN	NNP	_	22	nsubj	_	_
 22	ở	ở	VERB	V	_	20	acl:tmod	_	_
-23	đó	đó	PRON	Pro	_	22	obj	_	_
+23	đó	đó	PRON	Pro	_	22	obj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s36
@@ -715,7 +715,7 @@
 17	Hải	Hải	PROPN	NNP	_	16	nmod	_	_
 18	vẫn	vẫn	ADV	Adv	_	19	advmod	_	_
 19	ở	ở	VERB	V	_	13	obj	_	_
-20	Bưởi	Bưởi	PROPN	NNP	_	19	obj	_	_
+20	Bưởi	Bưởi	PROPN	NNP	_	19	obj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s37
@@ -740,7 +740,7 @@
 18	sao	sao	NOUN	N	_	17	obj	_	_
 19	trên	trên	ADP	Pre	_	20	case	_	_
 20	trời	trời	NOUN	N	_	17	obl:comp	_	_
-21	vậy	vậy	PART	Prt	_	15	discourse	_	_
+21	vậy	vậy	PART	Prt	_	15	discourse	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s38
@@ -765,7 +765,7 @@
 18	chúng	chúng	PRON	Pro	_	17	iobj	_	_
 19	một	một	NUM	Num	_	21	nummod	_	_
 20	cái	cái	PART	Prt	_	19	det:clf	_	_
-21	nghề	nghề	NOUN	N	_	17	obj	_	_
+21	nghề	nghề	NOUN	N	_	17	obj	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s39
@@ -783,7 +783,7 @@
 11	gay gắt	gay gắt	ADJ	Adj	_	8	xcomp:adj	_	_
 12	như	như	SCONJ	SC	_	14	case	_	_
 13	gần	gần	ADJ	Adj	_	14	advmod:adj	_	_
-14	đây	đây	PRON	Pro	_	11	obl	_	_
+14	đây	đây	PRON	Pro	_	11	obl	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s40
@@ -800,7 +800,7 @@
 10	hơn	hơn	ADV	Adv	_	9	advmod	_	_
 11	khi	khi	NOUN	N	_	9	obl:tmod	_	_
 12	chưa	chưa	ADV	Adv	_	13	advmod	_	_
-13	thực hiện	thực hiện	VERB	V	_	11	acl:tmod	_	_
+13	thực hiện	thực hiện	VERB	V	_	11	acl:tmod	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s41
@@ -813,7 +813,7 @@
 6	ai	ai	PRON	Pro	_	5	det:pmod	_	_
 7	thực thi	thực thi	VERB	V	_	5	acl:subj	_	_
 8	nhiệm vụ	nhiệm vụ	NOUN	N	_	7	obj	_	_
-9	này	này	PRON	Pro	_	8	det:pmod	_	_
+9	này	này	PRON	Pro	_	8	det:pmod	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s42
@@ -839,7 +839,7 @@
 19	phải	phải	ADJ	Adj	_	18	compound:apr	_	_
 20	hàng	hàng	NOUN	N	_	16	ccomp	_	_
 21	nội địa	nội địa	NOUN	N	_	20	nmod	_	_
-22	"	"	PUNCT	``	_	16	punct	_	_
+22	"	"	PUNCT	``	_	16	punct	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s43
@@ -857,7 +857,7 @@
 11	những	những	DET	Det	_	13	det	_	_
 12	đứa	đứa	NOUN	Nc	_	13	clf	_	_
 13	trẻ	trẻ	NOUN	N	_	8	obl:about	_	_
-14	lang thang	lang thang	VERB	V	_	13	compound:vmod	_	_
+14	lang thang	lang thang	VERB	V	_	13	compound:vmod	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s44
@@ -883,7 +883,7 @@
 19	kết nạp	kết nạp	VERB	V	_	18	xcomp	_	_
 20	Đảng	Đảng	PROPN	NNP	_	19	compound:verbnoun	_	_
 21	cho	cho	ADP	Pre	_	22	case	_	_
-22	Hùng	Hùng	PROPN	NNP	_	18	obl:iobj	_	_
+22	Hùng	Hùng	PROPN	NNP	_	18	obl:iobj	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s45
@@ -905,7 +905,7 @@
 15	như	như	SCONJ	SC	_	18	mark	_	_
 16	bà	bà	NOUN	Nc	_	17	det:clf	_	_
 17	Loan	Loan	PROPN	NNP	_	18	nsubj	_	_
-18	biết	biết	VERB	V	_	14	advcl	_	_
+18	biết	biết	VERB	V	_	14	advcl	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s46
@@ -930,7 +930,7 @@
 18	bà	bà	NOUN	Nc	_	19	det:clf	_	_
 19	Loan	Loan	PROPN	NNP	_	17	dep	_	_
 20	đổ	đổ	VERB	V	_	13	conj	_	_
-21	chuông	chuông	NOUN	N	_	20	compound:verbnoun	_	_
+21	chuông	chuông	NOUN	N	_	20	compound:verbnoun	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s47
@@ -948,7 +948,7 @@
 11	để	để	ADP	Pre	_	12	mark:pcomp	_	_
 12	lấy	lấy	VERB	V	_	7	advcl:objective	_	_
 13	tiền	tiền	NOUN	N	_	12	obj	_	_
-14	"	"	PUNCT	``	_	7	punct	_	_
+14	"	"	PUNCT	``	_	7	punct	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s48
@@ -975,7 +975,7 @@
 20	con trai	con trai	NOUN	N	_	19	obj	_	_
 21	đang	đang	ADV	Adv	_	22	advmod	_	_
 22	ở	ở	VERB	V	_	20	acl:subj	_	_
-23	Đức	Đức	PROPN	NNP	_	22	obl	_	_
+23	Đức	Đức	PROPN	NNP	_	22	obl	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s49
@@ -995,7 +995,7 @@
 13	mà	mà	SCONJ	SC	_	15	mark	_	_
 14	chẳng	chẳng	ADV	Adv	_	15	advmod	_	_
 15	muốn	muốn	VERB	V	_	0	root	_	_
-16	làm	làm	VERB	V	_	15	xcomp	_	_
+16	làm	làm	VERB	V	_	15	xcomp	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = text-s50
@@ -1009,7 +1009,7 @@
 7	tay	tay	NOUN	N	_	6	obj	_	_
 8	Thọ	Thọ	PROPN	NNP	_	9	nsubj	_	_
 9	bấm	bấm	VERB	V	_	0	root	_	_
-10	đọc	đọc	VERB	V	_	9	xcomp	_	_
+10	đọc	đọc	VERB	V	_	9	xcomp	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s51
@@ -1030,7 +1030,7 @@
 14	dân tộc	dân tộc	NOUN	N	_	10	nmod:poss	_	_
 15	nên	nên	SCONJ	SC	_	17	cc	_	_
 16	rất	rất	ADV	Adv	_	17	advmod	_	_
-17	an toàn	an toàn	ADJ	Adj	_	6	conj	_	_
+17	an toàn	an toàn	ADJ	Adj	_	6	conj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s52
@@ -1050,7 +1050,7 @@
 13	nông sản	nông sản	NOUN	N	_	8	ccomp	_	_
 14	,	,	PUNCT	,	_	15	punct	_	_
 15	thực phẩm	thực phẩm	NOUN	N	_	13	conj	_	_
-16	Trung Quốc	Trung Quốc	PROPN	NNP	_	15	nmod	_	_
+16	Trung Quốc	Trung Quốc	PROPN	NNP	_	15	nmod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s53
@@ -1069,7 +1069,7 @@
 12	cá chim	cá chim	NOUN	N	_	9	obl	_	_
 13	trắng	trắng	ADJ	Adj	_	12	amod	_	_
 14	,	,	PUNCT	,	_	15	punct	_	_
-15	ba ba	ba ba	NOUN	N	_	12	conj	_	_
+15	ba ba	ba ba	NOUN	N	_	12	conj	_	_	SpaceAfter=No
 16	...	...	PUNCT	...	_	4	punct	_	_
 
 # sent_id = text-s54
@@ -1081,7 +1081,7 @@
 5	là	là	SCONJ	SC	_	6	cop	_	_
 6	đánh cuộc	đánh cuộc	VERB	V	_	0	root	_	_
 7	với	với	ADP	Pre	_	8	case	_	_
-8	may rủi	may rủi	NOUN	N	_	6	obl:with	_	_
+8	may rủi	may rủi	NOUN	N	_	6	obl:with	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s55
@@ -1091,7 +1091,7 @@
 3	điện thoại	điện thoại	NOUN	N	_	1	obl	_	_
 4	:	:	PUNCT	:	_	5	punct	_	_
 5	thả	thả	VERB	V	_	1	parataxis	_	_
-6	mồi	mồi	NOUN	N	_	5	obj	_	_
+6	mồi	mồi	NOUN	N	_	5	obj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s56
@@ -1106,7 +1106,7 @@
 8	số	số	NOUN	N	_	11	nsubj	_	_
 9	máy	máy	NOUN	N	_	8	nmod	_	_
 10	này	này	PRON	Pro	_	8	det:pmod	_	_
-11	tắt	tắt	VERB	V	_	0	root	_	_
+11	tắt	tắt	VERB	V	_	0	root	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s57
@@ -1129,7 +1129,7 @@
 16	anh	anh	NOUN	N	_	17	nsubj:xsubj	_	_
 17	chờ	chờ	VERB	V	_	15	xcomp	_	_
 18	cả	cả	PRON	Pro	_	19	det	_	_
-19	buổi	buổi	NOUN	N	_	17	obl:tmod	_	_
+19	buổi	buổi	NOUN	N	_	17	obl:tmod	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s58
@@ -1152,7 +1152,7 @@
 16	số	số	NOUN	N	_	14	obl:comp	_	_
 17	máy	máy	NOUN	N	_	16	nmod	_	_
 18	bí ẩn	bí ẩn	ADJ	Adj	_	16	amod	_	_
-19	kia	kia	PRON	Pro	_	16	det:pmod	_	_
+19	kia	kia	PRON	Pro	_	16	det:pmod	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s59
@@ -1169,7 +1169,7 @@
 10	trong	trong	ADP	Pre	_	11	case	_	_
 11	nước	nước	NOUN	N	_	9	obl	_	_
 12	không	không	ADV	Adv	_	13	advmod:neg	_	_
-13	đỗ	đỗ	VERB	V	_	6	ccomp	_	_
+13	đỗ	đỗ	VERB	V	_	6	ccomp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s60
@@ -1190,7 +1190,7 @@
 14	bữa	bữa	NOUN	N	_	12	obl:comp	_	_
 15	tiệc	tiệc	NOUN	N	_	14	nmod	_	_
 16	cuối	cuối	NOUN	N	_	14	obl:tmod	_	_
-17	tuần	tuần	NOUN	N	_	16	nmod	_	_
+17	tuần	tuần	NOUN	N	_	16	nmod	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s61
@@ -1207,7 +1207,7 @@
 10	lại	lại	ADV	Adv	_	11	advmod	_	_
 11	nói	nói	VERB	V	_	5	conj	_	_
 12	không	không	ADV	Adv	_	13	advmod:neg	_	_
-13	biết	biết	VERB	V	_	11	xcomp	_	_
+13	biết	biết	VERB	V	_	11	xcomp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s62
@@ -1231,7 +1231,7 @@
 17	giận	giận	VERB	V	_	11	advcl:objective	_	_
 18	này	này	PRON	Pro	_	17	discourse	_	_
 19	!	!	PUNCT	!	_	11	punct	_	_
-20	"	"	PUNCT	``	_	11	punct	_	_
+20	"	"	PUNCT	``	_	11	punct	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s63
@@ -1240,7 +1240,7 @@
 2	vợ chồng	vợ chồng	NOUN	N	_	3	nsubj	_	_
 3	lời qua tiếng lại	lời qua tiếng lại	X	X	_	0	root	_	_
 4	khá	khá	ADV	Adv	_	5	advmod	_	_
-5	căng thẳng	căng thẳng	ADJ	Adj	_	3	acomp	_	_
+5	căng thẳng	căng thẳng	ADJ	Adj	_	3	acomp	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s64
@@ -1254,7 +1254,7 @@
 7	,	,	PUNCT	,	_	8	punct	_	_
 8	trách móc	trách móc	VERB	V	_	2	conj	_	_
 9	,	,	PUNCT	,	_	10	punct	_	_
-10	nghi ngờ	nghi ngờ	VERB	V	_	2	conj	_	_
+10	nghi ngờ	nghi ngờ	VERB	V	_	2	conj	_	_	SpaceAfter=No
 11	...	...	PUNCT	...	_	1	punct	_	_
 
 # sent_id = text-s65
@@ -1272,7 +1272,7 @@
 11	tổ	tổ	PART	Prt	_	12	discourse	_	_
 12	bực mình	bực mình	VERB	V	_	3	conj	_	_
 13	và	và	CCONJ	CC	_	14	cc	_	_
-14	khó chịu	khó chịu	VERB	V	_	12	conj	_	_
+14	khó chịu	khó chịu	VERB	V	_	12	conj	_	_	SpaceAfter=No
 15	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s66
@@ -1293,7 +1293,7 @@
 14	không	không	ADV	Adv	_	15	advmod:neg	_	_
 15	có	có	VERB	V	_	7	conj	_	_
 16	người	người	NOUN	N	_	15	obj	_	_
-17	nghe	nghe	VERB	V	_	16	compound:vmod	_	_
+17	nghe	nghe	VERB	V	_	16	compound:vmod	_	_	SpaceAfter=No
 18	...	...	PUNCT	...	_	5	punct	_	_
 
 # sent_id = text-s67
@@ -1310,7 +1310,7 @@
 10	chơi xỏ	chơi xỏ	VERB	V	_	8	conj	_	_
 11	mình	mình	PRON	Pro	_	8	obj	_	_
 12	nên	nên	SCONJ	SC	_	13	cc	_	_
-13	mặc kệ	mặc kệ	VERB	V	_	2	conj	_	_
+13	mặc kệ	mặc kệ	VERB	V	_	2	conj	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s68
@@ -1337,7 +1337,7 @@
 20	nói	nói	VERB	V	_	7	xcomp	_	_
 21	một	một	NUM	Num	_	22	nummod	_	_
 22	lời	lời	NOUN	N	_	20	obj	_	_
-23	rõ ràng	rõ ràng	ADJ	Adj	_	22	amod	_	_
+23	rõ ràng	rõ ràng	ADJ	Adj	_	22	amod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s69
@@ -1349,7 +1349,7 @@
 5	chống	chống	VERB	V	_	4	advcl	_	_
 6	"	"	PUNCT	``	_	7	punct	_	_
 7	tin tặc	tin tặc	NOUN	N	_	5	obj	_	_
-8	"	"	PUNCT	``	_	7	punct	_	_
+8	"	"	PUNCT	``	_	7	punct	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s70
@@ -1364,7 +1364,7 @@
 8	không	không	ADV	Adv	_	9	advmod:neg	_	_
 9	có	có	VERB	V	_	6	conj	_	_
 10	người	người	NOUN	N	_	9	obj	_	_
-11	nhận	nhận	VERB	V	_	10	compound:vmod	_	_
+11	nhận	nhận	VERB	V	_	10	compound:vmod	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s71
@@ -1388,7 +1388,7 @@
 17	như	như	SCONJ	SC	_	18	case	_	_
 18	người	người	NOUN	N	_	16	obl	_	_
 19	cảm	cảm	VERB	V	_	18	compound:vmod	_	_
-20	lạnh	lạnh	ADJ	Adj	_	19	compound:verbnoun	_	_
+20	lạnh	lạnh	ADJ	Adj	_	19	compound:verbnoun	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s72
@@ -1404,7 +1404,7 @@
 9	vợ	vợ	NOUN	N	_	7	obj	_	_
 10	Thọ	Thọ	PROPN	NNP	_	9	nmod:poss	_	_
 11	hằng	hằng	ADV	Adv	_	12	advmod	_	_
-12	ngày	ngày	NOUN	N	_	7	obl:tmod	_	_
+12	ngày	ngày	NOUN	N	_	7	obl:tmod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s73
@@ -1424,7 +1424,7 @@
 13	không	không	ADV	Adv	_	14	advmod:neg	_	_
 14	mâu thuẫn	mâu thuẫn	VERB	V	_	2	conj	_	_
 15	với	với	ADP	Pre	_	16	case	_	_
-16	ai	ai	NOUN	N	_	14	obl:with	_	_
+16	ai	ai	NOUN	N	_	14	obl:with	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s74
@@ -1450,7 +1450,7 @@
 19	không	không	ADV	Adv	_	20	advmod:neg	_	_
 20	mâu thuẫn	mâu thuẫn	VERB	V	_	6	conj	_	_
 21	với	với	ADP	Pre	_	22	case	_	_
-22	ai	ai	PRON	Pro	_	20	obl:with	_	_
+22	ai	ai	PRON	Pro	_	20	obl:with	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s75
@@ -1469,7 +1469,7 @@
 12	nguy hiểm	nguy hiểm	ADJ	Adj	_	4	conj	_	_
 13	vì	vì	ADP	Pre	_	14	mark	_	_
 14	dễ	dễ	ADJ	Adj	_	12	advcl	_	_
-15	sơ suất	sơ suất	VERB	V	_	14	xcomp:adj	_	_
+15	sơ suất	sơ suất	VERB	V	_	14	xcomp:adj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s76
@@ -1484,7 +1484,7 @@
 8	quan hệ	quan hệ	NOUN	N	_	7	compound	_	_
 9	của	của	ADP	Pre	_	11	case	_	_
 10	người	người	NOUN	Nc	_	11	det:clf	_	_
-11	chồng	chồng	NOUN	N	_	7	nmod:poss	_	_
+11	chồng	chồng	NOUN	N	_	7	nmod:poss	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s77
@@ -1502,7 +1502,7 @@
 11	ai	ai	PRON	Pro	_	12	nsubj	_	_
 12	có	có	VERB	V	_	9	ccomp	_	_
 13	dấu hiệu	dấu hiệu	NOUN	N	_	12	obj	_	_
-14	khả nghi	khả nghi	VERB	V	_	13	compound:vmod	_	_
+14	khả nghi	khả nghi	VERB	V	_	13	compound:vmod	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s78
@@ -1513,7 +1513,7 @@
 4	lại	lại	ADV	Adv	_	5	advmod	_	_
 5	gặp	gặp	VERB	V	_	0	root	_	_
 6	riêng	riêng	ADJ	Adj	_	5	advmod:adj	_	_
-7	Thu	Thu	PROPN	NNP	_	5	obj	_	_
+7	Thu	Thu	PROPN	NNP	_	5	obj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s79
@@ -1528,7 +1528,7 @@
 8	ăn	ăn	VERB	V	_	7	compound:vmod	_	_
 9	đến	đến	ADP	Pre	_	10	case	_	_
 10	trình độ	trình độ	NOUN	N	_	2	obl:comp	_	_
-11	y tá	y tá	NOUN	N	_	10	nmod	_	_
+11	y tá	y tá	NOUN	N	_	10	nmod	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s80
@@ -1542,7 +1542,7 @@
 7	quay	quay	VERB	V	_	0	root	_	_
 8	về	về	VERB	V	_	7	compound:svc	_	_
 9	phòng	phòng	NOUN	N	_	7	obj	_	_
-10	giám đốc	giám đốc	NOUN	N	_	9	nmod	_	_
+10	giám đốc	giám đốc	NOUN	N	_	9	nmod	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s81
@@ -1553,7 +1553,7 @@
 4	vẫn	vẫn	ADV	Adv	_	6	advmod	_	_
 5	là	là	AUX	V	_	6	cop	_	_
 6	vấn đề	vấn đề	NOUN	N	_	0	root	_	_
-7	qui hoạch	qui hoạch	VERB	V	_	6	compound:vmod	_	_
+7	qui hoạch	qui hoạch	VERB	V	_	6	compound:vmod	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s82
@@ -1563,7 +1563,7 @@
 3	có thể	có thể	ADV	Adv	_	4	advmod	_	_
 4	tốn	tốn	VERB	V	_	0	root	_	_
 5	nhiều	nhiều	ADJ	Adj	_	6	amod	_	_
-6	thời gian	thời gian	NOUN	N	_	4	obj	_	_
+6	thời gian	thời gian	NOUN	N	_	4	obj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s83
@@ -1571,7 +1571,7 @@
 1	Sự	sự	NOUN	Nc	_	4	nsubj	_	_
 2	dối trá	dối trá	ADJ	Adj	_	1	compound:amod	_	_
 3	đã	đã	ADV	Adv	_	4	advmod	_	_
-4	chấm dứt	chấm dứt	VERB	V	_	0	root	_	_
+4	chấm dứt	chấm dứt	VERB	V	_	0	root	_	_	SpaceAfter=No
 5	!	!	PUNCT	!	_	4	punct	_	_
 
 # sent_id = text-s84
@@ -1579,7 +1579,7 @@
 1	Đua	đua	VERB	V	_	0	root	_	_
 2	nhau	nhau	NOUN	N	_	1	obj	_	_
 3	làm	làm	VERB	V	_	1	xcomp	_	_
-4	giả	giả	ADJ	Adj	_	3	advmod:adj	_	_
+4	giả	giả	ADJ	Adj	_	3	advmod:adj	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s85
@@ -1594,7 +1594,7 @@
 8	năm	năm	NOUN	N	_	10	obl:tmod	_	_
 9	1998	1998	NUM	Num	_	8	nummod	_	_
 10	xin	xin	VERB	V	_	4	parataxis	_	_
-11	về	về	VERB	V	_	10	compound:dir	_	_
+11	về	về	VERB	V	_	10	compound:dir	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s86
@@ -1603,7 +1603,7 @@
 2	biết	biết	VERB	V	_	0	root	_	_
 3	họ	họ	PRON	Pro	_	4	nsubj	_	_
 4	ở	ở	VERB	V	_	2	ccomp	_	_
-5	đâu	đâu	PRON	Pro	_	4	obj	_	_
+5	đâu	đâu	PRON	Pro	_	4	obj	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s87
@@ -1612,7 +1612,7 @@
 2	của	của	ADP	Pre	_	3	case	_	_
 3	tôi	tôi	PRON	Pro	_	1	nmod:poss	_	_
 4	là	là	AUX	V	_	5	cop	_	_
-5	596 . 094	596 . 094	NUM	Num	_	0	root	_	_
+5	596 . 094	596 . 094	NUM	Num	_	0	root	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s88
@@ -1622,7 +1622,7 @@
 3	vén	vén	VERB	V	_	0	root	_	_
 4	mây	mây	NOUN	N	_	3	obj	_	_
 5	thấy	thấy	VERB	V	_	3	xcomp	_	_
-6	mặt trời	mặt trời	NOUN	N	_	5	obj	_	_
+6	mặt trời	mặt trời	NOUN	N	_	5	obj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s89
@@ -1637,7 +1637,7 @@
 8	chạy	chạy	VERB	V	_	5	xcomp	_	_
 9	phăm phăm	phăm phăm	ADJ	Adj	_	8	advmod:adj	_	_
 10	ra	ra	ADP	Pre	_	8	xcomp	_	_
-11	đường	đường	NOUN	N	_	8	obj	_	_
+11	đường	đường	NOUN	N	_	8	obj	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s90
@@ -1648,14 +1648,14 @@
 4	liên quan	liên quan	VERB	V	_	2	advcl	_	_
 5	càng	càng	ADV	Adv	_	6	advmod	_	_
 6	dễ	dễ	ADJ	Adj	_	4	xcomp:adj	_	_
-7	tìm	tìm	VERB	V	_	6	xcomp:adj	_	_
+7	tìm	tìm	VERB	V	_	6	xcomp:adj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s91
 # text =Nhất nghệ tinh ! 
 1	Nhất	nhất	ADJ	Adj	_	0	root	_	_
 2	nghệ	nghệ	NOUN	N	_	1	obj	_	_
-3	tinh	tinh	ADJ	Adj	_	2	amod	_	_
+3	tinh	tinh	ADJ	Adj	_	2	amod	_	_	SpaceAfter=No
 4	!	!	PUNCT	!	_	1	punct	_	_
 
 # sent_id = text-s92
@@ -1663,14 +1663,14 @@
 1	Riêng	riêng	PART	Prt	_	2	discourse	_	_
 2	mình	mình	PRON	Pro	_	3	nsubj	_	_
 3	nghĩ	nghĩ	VERB	V	_	0	root	_	_
-4	khác	khác	ADJ	Adj	_	3	advmod:adj	_	_
+4	khác	khác	ADJ	Adj	_	3	advmod:adj	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s93
 # text =Công lý không biên giới . 
 1	Công lý	công lý	NOUN	N	_	0	root	_	_
 2	không	không	ADV	Adv	_	3	advmod:neg	_	_
-3	biên giới	biên giới	NOUN	N	_	1	nmod	_	_
+3	biên giới	biên giới	NOUN	N	_	1	nmod	_	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s94
@@ -1682,7 +1682,7 @@
 5	nghề	nghề	NOUN	N	_	4	obj	_	_
 6	quả	quả	ADV	Adv	_	8	advmod	_	_
 7	là	là	AUX	V	_	8	cop	_	_
-8	khó	khó	ADJ	Adj	_	0	root	_	_
+8	khó	khó	ADJ	Adj	_	0	root	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s95
@@ -1694,7 +1694,7 @@
 5	lấy	lấy	VERB	V	_	1	xcomp	_	_
 6	một	một	NUM	Num	_	7	nummod	_	_
 7	nụ	nụ	NOUN	N	_	5	obj	_	_
-8	cười	cười	VERB	V	_	7	compound:vmod	_	_
+8	cười	cười	VERB	V	_	7	compound:vmod	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s96
@@ -1716,7 +1716,7 @@
 15	là	là	SCONJ	SC	_	17	mark	_	_
 16	mình	mình	PRON	Pro	_	17	nsubj	_	_
 17	mất	mất	VERB	V	_	3	ccomp	_	_
-18	điện thoại	điện thoại	NOUN	N	_	17	obj	_	_
+18	điện thoại	điện thoại	NOUN	N	_	17	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s97
@@ -1735,7 +1735,7 @@
 12	hay	hay	CCONJ	CC	_	13	cc	_	_
 13	chuyện	chuyện	NOUN	N	_	10	conj	_	_
 14	gì	gì	PRON	Pro	_	13	det:pmod	_	_
-15	khác	khác	ADJ	Adj	_	13	amod	_	_
+15	khác	khác	ADJ	Adj	_	13	amod	_	_	SpaceAfter=No
 16	...	...	PUNCT	...	_	9	punct	_	_
 
 # sent_id = text-s98
@@ -1746,7 +1746,7 @@
 4	Thu	Thu	PROPN	NNP	_	2	nmod:poss	_	_
 5	có	có	VERB	V	_	0	root	_	_
 6	tin	tin	NOUN	N	_	5	obj	_	_
-7	nhắn	nhắn	VERB	V	_	6	compound:vmod	_	_
+7	nhắn	nhắn	VERB	V	_	6	compound:vmod	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s99
@@ -1766,7 +1766,7 @@
 13	thêm	thêm	ADV	Adv	_	12	advmod	_	_
 14	đối tượng	đối tượng	NOUN	N	_	12	obj	_	_
 15	nào	nào	ADV	Adv	_	14	advmod	_	_
-16	nữa	nữa	ADV	Adv	_	14	advmod	_	_
+16	nữa	nữa	ADV	Adv	_	14	advmod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s100
@@ -1776,7 +1776,7 @@
 3	Thu	Thu	PROPN	NNP	_	5	nsubj	_	_
 4	phải	phải	VERB	V	_	5	aux	_	_
 5	giấu	giấu	VERB	V	_	0	root	_	_
-6	Thọ	Thọ	PROPN	NNP	_	5	iobj	_	_
+6	Thọ	Thọ	PROPN	NNP	_	5	iobj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s101
@@ -1795,7 +1795,7 @@
 12	"	"	PUNCT	``	_	8	punct	_	_
 13	và	và	CCONJ	CC	_	14	cc	_	_
 14	cúp	cúp	VERB	V	_	8	conj	_	_
-15	máy	máy	NOUN	N	_	14	obj	_	_
+15	máy	máy	NOUN	N	_	14	obj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s102
@@ -1815,7 +1815,7 @@
 13	cuộc	cuộc	NOUN	Nc	_	14	clf	_	_
 14	thoại	thoại	NOUN	N	_	10	obj	_	_
 15	trong	trong	ADP	Pre	_	16	case	_	_
-16	nhà	nhà	NOUN	N	_	14	obl:comp	_	_
+16	nhà	nhà	NOUN	N	_	14	obl:comp	_	_	SpaceAfter=No
 17	...	...	PUNCT	...	_	2	punct	_	_
 
 # sent_id = text-s103
@@ -1825,7 +1825,7 @@
 3	Thọ	Thọ	PROPN	NNP	_	2	obj	_	_
 4	nên	nên	VERB	V	_	5	aux	_	_
 5	tiếp tục	tiếp tục	VERB	V	_	3	acl:subj	_	_
-6	theo dõi	theo dõi	VERB	V	_	5	xcomp	_	_
+6	theo dõi	theo dõi	VERB	V	_	5	xcomp	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s104
@@ -1850,7 +1850,7 @@
 18	cùng	cùng	ADJ	Adj	_	14	advcl:objective	_	_
 19	nhau	nhau	NOUN	N	_	18	obj	_	_
 20	truy tìm	truy tìm	VERB	V	_	18	xcomp	_	_
-21	thủ phạm	thủ phạm	NOUN	N	_	20	obj	_	_
+21	thủ phạm	thủ phạm	NOUN	N	_	20	obj	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s105
@@ -1862,7 +1862,7 @@
 5	là	là	AUX	V	_	6	cop	_	_
 6	người	người	NOUN	N	_	2	parataxis	_	_
 7	đáng	đáng	VERB	V	_	6	compound:vmod	_	_
-8	tin	tin	VERB	V	_	7	compound:svc	_	_
+8	tin	tin	VERB	V	_	7	compound:svc	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s106
@@ -1878,7 +1878,7 @@
 9	người	người	NOUN	N	_	7	nmod:poss	_	_
 10	cùng	cùng	ADJ	Adj	_	9	amod	_	_
 11	công ty	công ty	NOUN	N	_	10	obj	_	_
-12	Thu	Thu	PROPN	NNP	_	11	nmod	_	_
+12	Thu	Thu	PROPN	NNP	_	11	nmod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s107
@@ -1894,7 +1894,7 @@
 9	hổ	hổ	NOUN	N	_	8	obj	_	_
 10	nuốt	nuốt	VERB	V	_	8	xcomp	_	_
 11	sói	sói	NOUN	N	_	10	obj	_	_
-12	"	"	PUNCT	``	_	8	punct	_	_
+12	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s108
@@ -1908,7 +1908,7 @@
 7	và	và	CCONJ	CC	_	9	cc	_	_
 8	không	không	ADV	Adv	_	9	advmod:neg	_	_
 9	báo	báo	VERB	V	_	5	conj	_	_
-10	gì	gì	PRON	Pro	_	9	obj	_	_
+10	gì	gì	PRON	Pro	_	9	obj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s109
@@ -1928,7 +1928,7 @@
 13	lên	lên	ADV	Adv	_	12	compound:dir	_	_
 14	tiếng nói	tiếng nói	NOUN	N	_	12	obj	_	_
 15	của	của	ADP	Pre	_	16	case	_	_
-16	mình	mình	PRON	Pro	_	14	nmod:poss	_	_
+16	mình	mình	PRON	Pro	_	14	nmod:poss	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s110
@@ -1946,7 +1946,7 @@
 11	có	có	VERB	V	_	10	acl:subj	_	_
 12	quan hệ	quan hệ	NOUN	N	_	11	obj	_	_
 13	với	với	ADP	Pre	_	14	case	_	_
-14	thủ phạm	thủ phạm	NOUN	N	_	12	obl:with	_	_
+14	thủ phạm	thủ phạm	NOUN	N	_	12	obl:with	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s111
@@ -1971,7 +1971,7 @@
 18	hết	hết	ADV	Adv	_	17	advmod	_	_
 19	một	một	NUM	Num	_	20	nummod	_	_
 20	đám	đám	NOUN	Nc	_	17	obj	_	_
-21	cháy	cháy	VERB	V	_	20	acl:tonp	_	_
+21	cháy	cháy	VERB	V	_	20	acl:tonp	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	17	punct	_	_
 
 # sent_id = text-s112
@@ -1990,7 +1990,7 @@
 12	do	do	ADP	Pre	_	13	case	_	_
 13	sự cố	sự cố	NOUN	N	_	10	acl:subj	_	_
 14	về	về	ADP	Pre	_	15	case	_	_
-15	điện	điện	NOUN	N	_	13	obl:about	_	_
+15	điện	điện	NOUN	N	_	13	obl:about	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s113
@@ -2007,7 +2007,7 @@
 10	nghề	nghề	NOUN	N	_	8	obl	_	_
 11	quả	quả	ADV	Adv	_	13	advmod	_	_
 12	cũng	cũng	ADV	Adv	_	13	advmod	_	_
-13	khó	khó	ADJ	Adj	_	0	root	_	_
+13	khó	khó	ADJ	Adj	_	0	root	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s114
@@ -2024,7 +2024,7 @@
 10	,	,	PUNCT	,	_	13	punct	_	_
 11	thậm chí	thậm chí	ADV	Adv	_	13	advmod	_	_
 12	không	không	ADV	Adv	_	13	advmod:neg	_	_
-13	trung thực	trung thực	ADJ	Adj	_	5	conj	_	_
+13	trung thực	trung thực	ADJ	Adj	_	5	conj	_	_	SpaceAfter=No
 14	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s115
@@ -2034,7 +2034,7 @@
 3	mù	mù	ADJ	Adj	_	2	amod	_	_
 4	trên	trên	ADP	Pre	_	5	case	_	_
 5	đất	đất	NOUN	N	_	2	obl:comp	_	_
-6	Mỹ	Mỹ	PROPN	NNP	_	5	nmod	_	_
+6	Mỹ	Mỹ	PROPN	NNP	_	5	nmod	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s116
@@ -2058,7 +2058,7 @@
 17	mới	mới	ADV	Adv	_	18	advmod	_	_
 18	sinh	sinh	VERB	V	_	16	acl	_	_
 19	ra	ra	ADV	Adv	_	18	advmod	_	_
-20	đã	đã	ADV	Adv	_	11	advmod	_	_
+20	đã	đã	ADV	Adv	_	11	advmod	_	_	SpaceAfter=No
 21	...	...	PUNCT	...	_	11	punct	_	_
 
 # sent_id = text-s117
@@ -2067,7 +2067,7 @@
 2	tấm	tấm	NOUN	N	_	0	root	_	_
 3	lòng	lòng	NOUN	N	_	2	nmod	_	_
 4	người	người	NOUN	Nc	_	5	det:clf	_	_
-5	Mỹ	Mỹ	PROPN	NNP	_	2	nmod	_	_
+5	Mỹ	Mỹ	PROPN	NNP	_	2	nmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s118
@@ -2077,7 +2077,7 @@
 3	tiếp tục	tiếp tục	VERB	V	_	0	root	_	_
 4	thi	thi	VERB	V	_	3	xcomp	_	_
 5	cấp	cấp	NOUN	N	_	4	obj	_	_
-6	thành phố	thành phố	NOUN	N	_	5	nmod	_	_
+6	thành phố	thành phố	NOUN	N	_	5	nmod	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s119
@@ -2088,7 +2088,7 @@
 4	học	học	VERB	V	_	0	root	_	_
 5	bằng	bằng	ADP	Pre	_	7	case	_	_
 6	...	...	PUNCT	...	_	7	punct	_	_
-7	tai	tai	NOUN	N	_	4	obl	_	_
+7	tai	tai	NOUN	N	_	4	obl	_	_	SpaceAfter=No
 8	!	!	PUNCT	!	_	4	punct	_	_
 
 # sent_id = text-s120
@@ -2106,7 +2106,7 @@
 11	đến	đến	VERB	V	_	10	acl:subj	_	_
 12	với	với	SCONJ	SC	_	11	compound:svc	_	_
 13	đời	đời	NOUN	N	_	11	obj	_	_
-14	tôi	tôi	PRON	Pro	_	13	nmod	_	_
+14	tôi	tôi	PRON	Pro	_	13	nmod	_	_	SpaceAfter=No
 15	...	...	PUNCT	...	_	10	punct	_	_
 
 # sent_id = text-s121
@@ -2116,7 +2116,7 @@
 3	ra	ra	VERB	V	_	0	root	_	_
 4	sân bay	sân bay	NOUN	N	_	3	obj	_	_
 5	về	về	VERB	V	_	3	xcomp	_	_
-6	nước	nước	NOUN	N	_	5	obj	_	_
+6	nước	nước	NOUN	N	_	5	obj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s122
@@ -2144,7 +2144,7 @@
 21	,	,	PUNCT	,	_	9	punct	_	_
 22	ùa	ùa	VERB	V	_	0	root	_	_
 23	ra	ra	ADV	Adv	_	22	compound:dir	_	_
-24	xâu xé	xâu xé	VERB	V	_	22	xcomp	_	_
+24	xâu xé	xâu xé	VERB	V	_	22	xcomp	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	22	punct	_	_
 
 # sent_id = text-s123
@@ -2172,7 +2172,7 @@
 21	đi	đi	VERB	V	_	0	root	_	_
 22	vào	vào	ADP	Pre	_	24	case	_	_
 23	nhiều	nhiều	ADJ	Adj	_	24	advmod:adj	_	_
-24	nhà vườn	nhà vườn	NOUN	N	_	21	obl:comp	_	_
+24	nhà vườn	nhà vườn	NOUN	N	_	21	obl:comp	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	21	punct	_	_
 
 # sent_id = text-s124
@@ -2185,7 +2185,7 @@
 6	sao	sao	PRON	Pro	_	8	obl	_	_
 7	không	không	ADV	Adv	_	8	advmod:neg	_	_
 8	mắc	mắc	VERB	V	_	4	conj	_	_
-9	điện thoại	điện thoại	NOUN	N	_	8	obj	_	_
+9	điện thoại	điện thoại	NOUN	N	_	8	obj	_	_	SpaceAfter=No
 10	?	?	PUNCT	?	_	4	punct	_	_
 
 # sent_id = text-s125
@@ -2202,7 +2202,7 @@
 10	nước ngoài	nước ngoài	NOUN	N	_	8	obl:comp	_	_
 11	tài trợ	tài trợ	VERB	V	_	7	ccomp	_	_
 12	nay	nay	PRON	Pro	_	4	obl:tmod	_	_
-13	du học	du học	VERB	V	_	4	conj	_	_
+13	du học	du học	VERB	V	_	4	conj	_	_	SpaceAfter=No
 14	...	...	PUNCT	...	_	4	punct	_	_
 
 # sent_id = text-s126
@@ -2230,7 +2230,7 @@
 21	vẫn	vẫn	ADV	Adv	_	22	advmod	_	_
 22	giữ	giữ	VERB	V	_	16	conj	_	_
 23	được	được	ADV	Adv	_	22	advmod	_	_
-24	mình	mình	PRON	Pro	_	22	obj	_	_
+24	mình	mình	PRON	Pro	_	22	obj	_	_	SpaceAfter=No
 25	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s127
@@ -2240,7 +2240,7 @@
 3	mãi	mãi	ADV	Adv	_	2	advmod	_	_
 4	nhưng	nhưng	SCONJ	SC	_	6	cc	_	_
 5	không	không	ADV	Adv	_	6	advmod:neg	_	_
-6	ra	ra	VERB	V	_	2	conj	_	_
+6	ra	ra	VERB	V	_	2	conj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s128
@@ -2265,7 +2265,7 @@
 18	biết	biết	VERB	V	_	16	acl:subj	_	_
 19	thiên đường	thiên đường	NOUN	N	_	18	obj	_	_
 20	hay	hay	CCONJ	CC	_	21	cc	_	_
-21	địa ngục	địa ngục	NOUN	N	_	19	conj	_	_
+21	địa ngục	địa ngục	NOUN	N	_	19	conj	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s129
@@ -2290,13 +2290,13 @@
 18	gì	gì	PRON	Pro	_	17	det:pmod	_	_
 19	và	và	CCONJ	CC	_	20	cc	_	_
 20	ở	ở	VERB	V	_	12	conj	_	_
-21	bao lâu	bao lâu	PRON	Pro	_	20	obl:tmod	_	_
+21	bao lâu	bao lâu	PRON	Pro	_	20	obl:tmod	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s130
 # text =Chiến hữu đắc lực . 
 1	Chiến hữu	chiến hữu	NOUN	N	_	2	nsubj	_	_
-2	đắc lực	đắc lực	VERB	V	_	0	root	_	_
+2	đắc lực	đắc lực	VERB	V	_	0	root	_	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s131
@@ -2306,7 +2306,7 @@
 3	đây	đây	PRON	Pro	_	6	obl:tmod	_	_
 4	cần	cần	VERB	V	_	6	aux	_	_
 5	hết sức	hết sức	ADV	Adv	_	6	advmod	_	_
-6	tinh tế	tinh tế	ADJ	Adj	_	0	root	_	_
+6	tinh tế	tinh tế	ADJ	Adj	_	0	root	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s132
@@ -2324,7 +2324,7 @@
 11	lại	lại	ADV	Adv	_	10	advmod	_	_
 12	quan hệ	quan hệ	NOUN	N	_	10	obj	_	_
 13	với	với	ADP	Pre	_	14	case	_	_
-14	Thu	Thu	PROPN	NNP	_	12	obl:with	_	_
+14	Thu	Thu	PROPN	NNP	_	12	obl:with	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s133
@@ -2337,7 +2337,7 @@
 6	ta	ta	PRON	Pro	_	5	compound:pron	_	_
 7	vừa	vừa	ADV	Adv	_	8	advmod	_	_
 8	ra	ra	VERB	V	_	4	ccomp	_	_
-9	ngoài	ngoài	NOUN	N	_	8	compound:verbnoun	_	_
+9	ngoài	ngoài	NOUN	N	_	8	compound:verbnoun	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s134
@@ -2355,7 +2355,7 @@
 11	đây	đây	PART	Prt	_	3	discourse	_	_
 12	mà	mà	PART	Prt	_	3	discourse	_	_
 13	...	...	PUNCT	...	_	3	punct	_	_
-14	"	"	PUNCT	``	_	3	punct	_	_
+14	"	"	PUNCT	``	_	3	punct	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s135
@@ -2380,7 +2380,7 @@
 18	của	của	ADP	Pre	_	19	case	_	_
 19	tao	tao	PRON	Pro	_	16	nmod:poss	_	_
 20	?	?	PUNCT	?	_	15	punct	_	_
-21	"	"	PUNCT	``	_	15	punct	_	_
+21	"	"	PUNCT	``	_	15	punct	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s136
@@ -2396,7 +2396,7 @@
 9	một	một	NUM	Num	_	11	nummod	_	_
 10	cái	cái	NOUN	Nc	_	9	clf	_	_
 11	tên	tên	NOUN	N	_	5	obl	_	_
-12	khác	khác	ADJ	Adj	_	11	amod	_	_
+12	khác	khác	ADJ	Adj	_	11	amod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s137
@@ -2421,7 +2421,7 @@
 18	ảnh	ảnh	NOUN	N	_	17	obj	_	_
 19	mình	mình	PRON	Pro	_	18	nmod	_	_
 20	như	như	SCONJ	SC	_	21	case	_	_
-21	vậy	vậy	PRON	Pro	_	17	obl	_	_
+21	vậy	vậy	PRON	Pro	_	17	obl	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s138
@@ -2441,7 +2441,7 @@
 13	trường	trường	NOUN	N	_	12	obj	_	_
 14	Nguyễn Đình Chiểu	Nguyễn Đình Chiểu	PROPN	NNP	_	13	nmod	_	_
 15	học	học	VERB	V	_	12	advcl:objective	_	_
-16	chữ nổi	chữ nổi	NOUN	N	_	15	obj	_	_
+16	chữ nổi	chữ nổi	NOUN	N	_	15	obj	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s139
@@ -2459,7 +2459,7 @@
 11	những	những	DET	Det	_	12	det	_	_
 12	thông tin	thông tin	NOUN	N	_	10	obj	_	_
 13	Hùng	Hùng	PROPN	NNP	_	14	nsubj	_	_
-14	nói dối	nói dối	VERB	V	_	12	acl	_	_
+14	nói dối	nói dối	VERB	V	_	12	acl	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s140
@@ -2481,7 +2481,7 @@
 15	không	không	ADV	Adv	_	16	advmod:neg	_	_
 16	được	được	VERB	V	_	17	aux	_	_
 17	thi	thi	VERB	V	_	8	acl	_	_
-18	chưa	chưa	ADV	Adv	_	3	advmod	_	_
+18	chưa	chưa	ADV	Adv	_	3	advmod	_	_	SpaceAfter=No
 19	?	?	PUNCT	?	_	3	punct	_	_
 
 # sent_id = text-s141
@@ -2496,7 +2496,7 @@
 8	số	số	NOUN	N	_	1	conj	_	_
 9	máy	máy	NOUN	N	_	8	compound	_	_
 10	lần	lần	NOUN	N	_	8	obl:tmod	_	_
-11	trước	trước	ADJ	Adj	_	10	amod	_	_
+11	trước	trước	ADJ	Adj	_	10	amod	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s142
@@ -2506,7 +2506,7 @@
 3	ai	ai	PRON	Pro	_	0	root	_	_
 4	và	và	CCONJ	CC	_	5	cc	_	_
 5	muốn	muốn	VERB	V	_	3	conj	_	_
-6	gì	gì	PRON	Pro	_	5	obj	_	_
+6	gì	gì	PRON	Pro	_	5	obj	_	_	SpaceAfter=No
 7	?	?	PUNCT	?	_	3	punct	_	_
 
 # sent_id = text-s143
@@ -2534,7 +2534,7 @@
 21	cho	cho	ADP	Pre	_	22	case	_	_
 22	nhau	nhau	NOUN	N	_	19	obl:with	_	_
 23	...	...	PUNCT	...	_	19	punct	_	_
-24	"	"	PUNCT	``	_	19	punct	_	_
+24	"	"	PUNCT	``	_	19	punct	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s144
@@ -2547,7 +2547,7 @@
 6	tặng phẩm	tặng phẩm	NOUN	N	_	1	parataxis	_	_
 7	"	"	PUNCT	``	_	6	punct	_	_
 8	cho	cho	ADP	Pre	_	9	case	_	_
-9	thủ phạm	thủ phạm	NOUN	N	_	6	obl:iobj	_	_
+9	thủ phạm	thủ phạm	NOUN	N	_	6	obl:iobj	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s145
@@ -2569,7 +2569,7 @@
 15	được	được	ADV	Adv	_	14	advmod	_	_
 16	tôi	tôi	PRON	Pro	_	14	obj	_	_
 17	!	!	PUNCT	!	_	14	punct	_	_
-18	"	"	PUNCT	``	_	14	punct	_	_
+18	"	"	PUNCT	``	_	14	punct	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s146
@@ -2580,7 +2580,7 @@
 4	có	có	VERB	V	_	0	root	_	_
 5	gì	gì	PRON	Pro	_	4	obj	_	_
 6	đáng	đáng	ADV	Adv	_	7	advmod	_	_
-7	nghi	nghi	VERB	V	_	4	xcomp	_	_
+7	nghi	nghi	VERB	V	_	4	xcomp	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s147
@@ -2603,7 +2603,7 @@
 16	đây	đây	PART	Prt	_	11	discourse	_	_
 17	này	này	PART	Prt	_	11	discourse	_	_
 18	!	!	PUNCT	!	_	11	punct	_	_
-19	"	"	PUNCT	``	_	3	punct	_	_
+19	"	"	PUNCT	``	_	3	punct	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s148
@@ -2621,7 +2621,7 @@
 11	con	con	NOUN	Nc	_	12	clf	_	_
 12	đường mòn	đường mòn	NOUN	N	_	9	obj	_	_
 13	lầy	lầy	ADJ	Adj	_	12	acl:subj	_	_
-14	đất	đất	NOUN	N	_	13	obj	_	_
+14	đất	đất	NOUN	N	_	13	obj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s149
@@ -2646,7 +2646,7 @@
 18	khỏi	khỏi	VERB	V	_	17	compound:svc	_	_
 19	Hà Nội	Hà Nội	PROPN	NNP	_	17	obl	_	_
 20	ngay	ngay	PART	Prt	_	17	discourse	_	_
-21	"	"	PUNCT	``	_	17	punct	_	_
+21	"	"	PUNCT	``	_	17	punct	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s150
@@ -2668,7 +2668,7 @@
 15	bằng	bằng	ADP	Pre	_	18	case	_	_
 16	những	những	DET	Det	_	18	det	_	_
 17	tấm	tấm	NOUN	Nc	_	18	clf	_	_
-18	bạt	bạt	NOUN	N	_	13	obl	_	_
+18	bạt	bạt	NOUN	N	_	13	obl	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s151
@@ -2694,7 +2694,7 @@
 19	quăng quật	quăng quật	VERB	V	_	13	conj	_	_
 20	ghê	ghê	ADJ	Adj	_	19	acomp	_	_
 21	lắm	lắm	ADV	Adv	_	20	advmod	_	_
-22	"	"	PUNCT	``	_	13	punct	_	_
+22	"	"	PUNCT	``	_	13	punct	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s152
@@ -2716,7 +2716,7 @@
 15	mà	mà	SCONJ	SC	_	17	cc	_	_
 16	chẳng	chẳng	ADV	Adv	_	17	advmod:neg	_	_
 17	việc	việc	NOUN	N	_	10	conj	_	_
-18	gì	gì	PRON	Pro	_	17	compound	_	_
+18	gì	gì	PRON	Pro	_	17	compound	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s153
@@ -2737,7 +2737,7 @@
 14	Minsk	Minsk	PROPN	NNP	_	13	compound	_	_
 15	phóng	phóng	VERB	V	_	11	conj	_	_
 16	đi	đi	ADV	Adv	_	15	compound:svc	_	_
-17	"	"	PUNCT	``	_	6	punct	_	_
+17	"	"	PUNCT	``	_	6	punct	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s154
@@ -2764,7 +2764,7 @@
 20	chất lượng	chất lượng	NOUN	N	_	19	obj	_	_
 21	ồ ạt	ồ ạt	VERB	V	_	0	root	_	_
 22	tràn	tràn	VERB	V	_	21	xcomp	_	_
-23	về	về	ADV	Adv	_	22	compound:dir	_	_
+23	về	về	ADV	Adv	_	22	compound:dir	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	21	punct	_	_
 
 # sent_id = text-s155
@@ -2786,7 +2786,7 @@
 15	ngàn	ngàn	NUM	Num	_	16	nummod	_	_
 16	chiếc	chiếc	NOUN	N	_	13	nmod	_	_
 17	mới	mới	ADV	Adv	_	18	advmod	_	_
-18	bán	bán	VERB	V	_	11	xcomp	_	_
+18	bán	bán	VERB	V	_	11	xcomp	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s156
@@ -2800,7 +2800,7 @@
 7	gia đình	gia đình	NOUN	N	_	10	nsubj	_	_
 8	Thọ	Thọ	PROPN	NNP	_	7	nmod	_	_
 9	vẫn	vẫn	ADV	Adv	_	10	advmod	_	_
-10	trong ấm ngoài êm	trong ấm ngoài êm	X	X	_	5	conj	_	_
+10	trong ấm ngoài êm	trong ấm ngoài êm	X	X	_	5	conj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s157
@@ -2811,7 +2811,7 @@
 4	tôi	tôi	PRON	Pro	_	3	nmod	_	_
 5	liên tục	liên tục	ADV	Adv	_	6	advmod	_	_
 6	lên	lên	VERB	V	_	0	root	_	_
-7	giá	giá	NOUN	N	_	6	obj	_	_
+7	giá	giá	NOUN	N	_	6	obj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s158
@@ -2823,7 +2823,7 @@
 5	không	không	ADV	Adv	_	6	advmod:neg	_	_
 6	chung đụng	chung đụng	VERB	V	_	3	conj	_	_
 7	thứ	thứ	NOUN	N	_	6	obj	_	_
-8	gì	gì	PRON	Pro	_	7	det:pmod	_	_
+8	gì	gì	PRON	Pro	_	7	det:pmod	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s159
@@ -2838,7 +2838,7 @@
 8	của	của	ADP	Pre	_	9	obl	_	_
 9	ông	ông	PRON	Pro	_	7	nmod:poss	_	_
 10	?	?	PUNCT	?	_	6	punct	_	_
-11	"	"	PUNCT	``	_	6	punct	_	_
+11	"	"	PUNCT	``	_	6	punct	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s160
@@ -2847,7 +2847,7 @@
 2	chán ngán	chán ngán	VERB	V	_	0	root	_	_
 3	Hà Nội	Hà Nội	PROPN	NNP	_	2	obj	_	_
 4	lắm	lắm	ADV	Adv	_	2	advmod	_	_
-5	rồi	rồi	PART	Prt	_	2	discourse	_	_
+5	rồi	rồi	PART	Prt	_	2	discourse	_	_	SpaceAfter=No
 6	...	...	PUNCT	...	_	2	punct	_	_
 
 # sent_id = text-s161
@@ -2857,7 +2857,7 @@
 3	thì	thì	SCONJ	SC	_	5	mark	_	_
 4	không	không	ADV	Adv	_	5	advmod:neg	_	_
 5	nói	nói	VERB	V	_	0	root	_	_
-6	gì	gì	PRON	Pro	_	5	obj	_	_
+6	gì	gì	PRON	Pro	_	5	obj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s162
@@ -2884,7 +2884,7 @@
 20	đi	đi	VERB	V	_	19	acl:subj	_	_
 21	chợ	chợ	NOUN	N	_	20	obl	_	_
 22	biết	biết	VERB	V	_	17	conj	_	_
-23	hết	hết	VERB	V	_	22	xcomp	_	_
+23	hết	hết	VERB	V	_	22	xcomp	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s163
@@ -2892,7 +2892,7 @@
 1	Dấu hỏi	dấu hỏi	NOUN	N	_	0	root	_	_
 2	bên	bên	NOUN	N	_	1	nmod	_	_
 3	kia	kia	PRON	Pro	_	2	det:pmod	_	_
-4	bờ rào	bờ rào	NOUN	N	_	2	nmod	_	_
+4	bờ rào	bờ rào	NOUN	N	_	2	nmod	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s164
@@ -2909,7 +2909,7 @@
 10	,	,	PUNCT	,	_	12	punct	_	_
 11	thỉnh thoảng	thỉnh thoảng	ADV	Adv	_	12	obl:tmod	_	_
 12	chào hỏi	chào hỏi	VERB	V	_	4	conj	_	_
-13	xã giao	xã giao	ADJ	Adj	_	12	advmod:adj	_	_
+13	xã giao	xã giao	ADJ	Adj	_	12	advmod:adj	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s165
@@ -2917,7 +2917,7 @@
 1	Nhưng	nhưng	SCONJ	SC	_	3	mark	_	_
 2	,	,	PUNCT	,	_	3	punct	_	_
 3	mất	mất	VERB	V	_	0	root	_	_
-4	tất cả	tất cả	PRON	Pro	_	3	obj	_	_
+4	tất cả	tất cả	PRON	Pro	_	3	obj	_	_	SpaceAfter=No
 5	!	!	PUNCT	!	_	3	punct	_	_
 
 # sent_id = text-s166
@@ -2930,14 +2930,14 @@
 6	hàng xóm	hàng xóm	NOUN	N	_	5	nmod	_	_
 7	"	"	PUNCT	``	_	8	punct	_	_
 8	trong sáng	trong sáng	ADJ	Adj	_	3	parataxis	_	_
-9	"	"	PUNCT	``	_	8	punct	_	_
+9	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 10	!	!	PUNCT	!	_	3	punct	_	_
 
 # sent_id = text-s167
 # text =Chúng tôi cũng vậy . 
 1	Chúng tôi	chúng tôi	PRON	Pro	_	0	root	_	_
 2	cũng	cũng	ADV	Adv	_	3	advmod	_	_
-3	vậy	vậy	PRON	Pro	_	1	obl	_	_
+3	vậy	vậy	PRON	Pro	_	1	obl	_	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s168
@@ -2948,7 +2948,7 @@
 4	bà	bà	NOUN	N	_	2	iobj	_	_
 5	ấy	ấy	PRON	Pro	_	4	det:pmod	_	_
 6	...	...	PUNCT	...	_	2	punct	_	_
-7	"	"	PUNCT	``	_	2	punct	_	_
+7	"	"	PUNCT	``	_	2	punct	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s169
@@ -2960,7 +2960,7 @@
 5	thi	thi	NOUN	N	_	6	nsubj	_	_
 6	chờ đợi	chờ đợi	VERB	V	_	1	acl	_	_
 7	chưa	chưa	ADV	Adv	_	8	advmod	_	_
-8	đến	đến	VERB	V	_	0	root	_	_
+8	đến	đến	VERB	V	_	0	root	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s170
@@ -2982,7 +2982,7 @@
 15	28 . 000	28 . 000	NUM	Num	_	18	nummod	_	_
 16	-	-	PUNCT	-	_	17	punct	_	_
 17	35 . 1000	35 . 1000	NUM	Num	_	18	nummod	_	_
-18	đ	đ	NOUN	Nu	_	14	obj	_	_
+18	đ	đ	NOUN	Nu	_	14	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s171
@@ -3002,7 +3002,7 @@
 13	vi phạm	vi phạm	VERB	V	_	0	root	_	_
 14	nghiêm trọng	nghiêm trọng	ADJ	Adj	_	13	advmod:adj	_	_
 15	quyền	quyền	NOUN	N	_	13	obj	_	_
-16	sở hữu trí tuệ	sở hữu trí tuệ	NOUN	N	_	15	nmod	_	_
+16	sở hữu trí tuệ	sở hữu trí tuệ	NOUN	N	_	15	nmod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s172
@@ -3024,7 +3024,7 @@
 15	phải	phải	ADJ	Adj	_	16	aux	_	_
 16	mất	mất	VERB	V	_	12	conj	_	_
 17	nhiều	nhiều	ADJ	Adj	_	18	amod	_	_
-18	sức	sức	NOUN	N	_	16	obj	_	_
+18	sức	sức	NOUN	N	_	16	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s173
@@ -3037,7 +3037,7 @@
 6	nhập	nhập	VERB	V	_	5	acl:subj	_	_
 7	lậu	lậu	ADJ	Adj	_	6	acomp	_	_
 8	nông sản	nông sản	NOUN	N	_	7	obj	_	_
-9	thực phẩm	thực phẩm	NOUN	N	_	8	nmod	_	_
+9	thực phẩm	thực phẩm	NOUN	N	_	8	nmod	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s174
@@ -3062,7 +3062,7 @@
 18	gặp	gặp	VERB	V	_	8	ccomp	_	_
 19	bất kỳ	bất kỳ	ADV	Adv	_	20	advmod	_	_
 20	cản trở	cản trở	NOUN	N	_	18	obj	_	_
-21	nào	nào	PRON	Pro	_	20	nmod	_	_
+21	nào	nào	PRON	Pro	_	20	nmod	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s175
@@ -3088,7 +3088,7 @@
 19	không	không	ADV	Adv	_	20	advmod:neg	_	_
 20	bị	bị	VERB	V	_	21	aux	_	_
 21	ảnh hưởng	ảnh hưởng	VERB	V	_	0	root	_	_
-22	gì	gì	PRON	Pro	_	21	obj	_	_
+22	gì	gì	PRON	Pro	_	21	obj	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	21	punct	_	_
 
 # sent_id = text-s176
@@ -3108,7 +3108,7 @@
 13	,	,	PUNCT	,	_	14	punct	_	_
 14	thực phẩm	thực phẩm	NOUN	N	_	12	conj	_	_
 15	nhập	nhập	VERB	V	_	12	acl:subj	_	_
-16	lậu	lậu	ADJ	Adj	_	15	acomp	_	_
+16	lậu	lậu	ADJ	Adj	_	15	acomp	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s177
@@ -3131,7 +3131,7 @@
 16	lậu	lậu	ADJ	Adj	_	15	acomp	_	_
 17	vào	vào	VERB	V	_	18	case	_	_
 18	tỉnh	tỉnh	NOUN	N	_	14	obj	_	_
-19	Lạng Sơn	Lạng Sơn	PROPN	NNP	_	18	compound	_	_
+19	Lạng Sơn	Lạng Sơn	PROPN	NNP	_	18	compound	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s178
@@ -3146,7 +3146,7 @@
 8	di động	di động	VERB	V	_	7	compound:amod	_	_
 9	kia	kia	PRON	Pro	_	7	det:pmod	_	_
 10	vẫn	vẫn	ADV	Adv	_	11	advmod	_	_
-11	im lặng	im lặng	ADJ	Adj	_	0	root	_	_
+11	im lặng	im lặng	ADJ	Adj	_	0	root	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s179
@@ -3172,7 +3172,7 @@
 19	lại	lại	ADV	Adv	_	20	advmod	_	_
 20	có	có	VERB	V	_	0	root	_	_
 21	tin	tin	NOUN	N	_	20	obj	_	_
-22	nhắn	nhắn	VERB	V	_	21	compound:vmod	_	_
+22	nhắn	nhắn	VERB	V	_	21	compound:vmod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	20	punct	_	_
 
 # sent_id = text-s180
@@ -3195,7 +3195,7 @@
 16	máy	máy	NOUN	N	_	15	obj	_	_
 17	nữa	nữa	ADV	Adv	_	15	advmod	_	_
 18	I	i	INTJ	I	_	15	discourse	_	_
-19	"	"	PUNCT	``	_	15	punct	_	_
+19	"	"	PUNCT	``	_	15	punct	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s181
@@ -3215,7 +3215,7 @@
 13	cô	cô	NOUN	N	_	15	nsubj	_	_
 14	thường	thường	ADV	Adv	_	15	advmod	_	_
 15	tắt	tắt	VERB	V	_	5	parataxis	_	_
-16	máy	máy	NOUN	N	_	15	obj	_	_
+16	máy	máy	NOUN	N	_	15	obj	_	_	SpaceAfter=No
 17	?	?	PUNCT	?	_	5	punct	_	_
 
 # sent_id = text-s182
@@ -3234,7 +3234,7 @@
 12	địa vị	địa vị	NOUN	N	_	10	conj	_	_
 13	là	là	AUX	V	_	14	cop	_	_
 14	thiếu	thiếu	ADJ	Adj	_	0	root	_	_
-15	căn cứ	căn cứ	NOUN	N	_	14	obj	_	_
+15	căn cứ	căn cứ	NOUN	N	_	14	obj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s183
@@ -3252,7 +3252,7 @@
 11	cho	cho	ADP	Pre	_	12	case	_	_
 12	cô	cô	NOUN	N	_	10	obl:iobj	_	_
 13	?	?	PUNCT	?	_	10	punct	_	_
-14	"	"	PUNCT	``	_	1	punct	_	_
+14	"	"	PUNCT	``	_	1	punct	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s184
@@ -3269,7 +3269,7 @@
 10	có	có	VERB	V	_	0	root	_	_
 11	lời	lời	NOUN	N	_	10	obj	_	_
 12	giải thích	giải thích	VERB	V	_	11	compound:vmod	_	_
-13	thuyết phục	thuyết phục	ADJ	Adj	_	11	amod	_	_
+13	thuyết phục	thuyết phục	ADJ	Adj	_	11	amod	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s185
@@ -3292,7 +3292,7 @@
 16	để	để	ADP	Pre	_	17	mark:pcomp	_	_
 17	cùng	cùng	ADV	Adv	_	12	advcl:objective	_	_
 18	có	có	VERB	V	_	17	xcomp:adj	_	_
-19	kế hoạch	kế hoạch	NOUN	N	_	18	obj	_	_
+19	kế hoạch	kế hoạch	NOUN	N	_	18	obj	_	_	SpaceAfter=No
 20	...	...	PUNCT	...	_	12	punct	_	_
 
 # sent_id = text-s186
@@ -3305,7 +3305,7 @@
 6	chịu đựng	chịu đựng	VERB	V	_	0	root	_	_
 7	hơn	hơn	ADJ	Adj	_	6	advmod:adj	_	_
 8	được	được	ADV	Adv	_	6	advmod	_	_
-9	nữa	nữa	ADV	Adv	_	6	advmod	_	_
+9	nữa	nữa	ADV	Adv	_	6	advmod	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s187
@@ -3321,7 +3321,7 @@
 9	không	không	ADV	Adv	_	11	advmod:neg	_	_
 10	là	là	AUX	V	_	11	cop	_	_
 11	người	người	NOUN	N	_	6	conj	_	_
-12	khác	khác	ADJ	Adj	_	11	amod	_	_
+12	khác	khác	ADJ	Adj	_	11	amod	_	_	SpaceAfter=No
 13	?	?	PUNCT	?	_	6	punct	_	_
 
 # sent_id = text-s188
@@ -3346,7 +3346,7 @@
 18	này	này	PRON	Pro	_	17	det:pmod	_	_
 19	thuộc	thuộc	VERB	V	_	15	parataxis	_	_
 20	quan hệ	quan hệ	NOUN	N	_	19	obj	_	_
-21	tình cảm	tình cảm	NOUN	N	_	20	nmod	_	_
+21	tình cảm	tình cảm	NOUN	N	_	20	nmod	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = text-s189
@@ -3363,7 +3363,7 @@
 10	anh	anh	PRON	Pro	_	9	nmod	_	_
 11	không	không	ADV	Adv	_	8	advmod:neg	_	_
 12	?	?	PUNCT	?	_	8	punct	_	_
-13	"	"	PUNCT	``	_	8	punct	_	_
+13	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s190
@@ -3382,7 +3382,7 @@
 12	giám đốc	giám đốc	NOUN	N	_	8	nmod:poss	_	_
 13	tới	tới	ADP	Pre	_	14	case	_	_
 14	vợ	vợ	NOUN	N	_	8	obl:pcomp	_	_
-15	mình	mình	PRON	Pro	_	14	nmod	_	_
+15	mình	mình	PRON	Pro	_	14	nmod	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s191
@@ -3395,7 +3395,7 @@
 6	đang	đang	ADV	Adv	_	7	advmod	_	_
 7	theo đuổi	theo đuổi	VERB	V	_	5	acl:subj	_	_
 8	Thu	Thu	PROPN	NNP	_	7	obj	_	_
-9	không	không	ADV	Adv	_	4	advmod	_	_
+9	không	không	ADV	Adv	_	4	advmod	_	_	SpaceAfter=No
 10	?	?	PUNCT	?	_	4	punct	_	_
 
 # sent_id = text-s192
@@ -3403,7 +3403,7 @@
 1	Thu	thu	PROPN	NNP	_	2	obj	_	_
 2	nói	nói	VERB	V	_	0	root	_	_
 3	không	không	ADV	Adv	_	4	advmod:neg	_	_
-4	loại trừ	loại trừ	VERB	V	_	2	xcomp	_	_
+4	loại trừ	loại trừ	VERB	V	_	2	xcomp	_	_	SpaceAfter=No
 5	...	...	PUNCT	...	_	4	punct	_	_
 
 # sent_id = text-s193
@@ -3416,7 +3416,7 @@
 6	tạm	tạm	VERB	V	_	2	ccomp	_	_
 7	không	không	ADV	Adv	_	8	advmod:neg	_	_
 8	dùng	dùng	VERB	V	_	6	xcomp	_	_
-9	điện thoại di động	điện thoại di động	NOUN	N	_	8	obj	_	_
+9	điện thoại di động	điện thoại di động	NOUN	N	_	8	obj	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s194
@@ -3438,7 +3438,7 @@
 15	mua	mua	VERB	V	_	13	xcomp	_	_
 16	loại	loại	NOUN	N	_	15	obj	_	_
 17	điện thoại	điện thoại	NOUN	N	_	16	nmod	_	_
-18	nào	nào	PRON	Pro	_	16	det:pmod	_	_
+18	nào	nào	PRON	Pro	_	16	det:pmod	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s195
@@ -3451,7 +3451,7 @@
 6	Cường	Cường	PROPN	NNP	_	3	nmod:poss	_	_
 7	sẽ	sẽ	ADV	Adv	_	8	advmod	_	_
 8	dính	dính	VERB	V	_	0	root	_	_
-9	cá	cá	NOUN	N	_	8	obj	_	_
+9	cá	cá	NOUN	N	_	8	obj	_	_	SpaceAfter=No
 10	?	?	PUNCT	?	_	8	punct	_	_
 
 # sent_id = text-s196
@@ -3460,7 +3460,7 @@
 2	dưới	dưới	ADP	Pre	_	1	nmod	_	_
 3	vành	vành	NOUN	N	_	1	nmod	_	_
 4	mũ	mũ	NOUN	N	_	3	compound	_	_
-5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_
+5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s197
@@ -3483,7 +3483,7 @@
 16	mồi	mồi	NOUN	N	_	15	obj	_	_
 17	và	và	CCONJ	CC	_	18	cc	_	_
 18	canh giữ	canh giữ	VERB	V	_	15	conj	_	_
-19	nó	nó	PRON	Pro	_	18	obj	_	_
+19	nó	nó	PRON	Pro	_	18	obj	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s198
@@ -3491,7 +3491,7 @@
 1	Thời gian	thời gian	NOUN	N	_	4	nsubj	_	_
 2	đàm thoại	đàm thoại	VERB	V	_	1	acl	_	_
 3	4	4	NUM	Num	_	4	nummod	_	_
-4	giây	giây	NOUN	Nu	_	0	root	_	_
+4	giây	giây	NOUN	Nu	_	0	root	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s199
@@ -3512,7 +3512,7 @@
 14	có	có	VERB	V	_	15	advmod	_	_
 15	liên quan	liên quan	VERB	V	_	13	xcomp	_	_
 16	đến	đến	ADP	Pre	_	17	case	_	_
-17	thủ phạm	thủ phạm	NOUN	N	_	15	obl:comp	_	_
+17	thủ phạm	thủ phạm	NOUN	N	_	15	obl:comp	_	_	SpaceAfter=No
 18	?	?	PUNCT	?	_	13	punct	_	_
 
 # sent_id = text-s200
@@ -3523,7 +3523,7 @@
 4	trong	trong	ADP	Pre	_	5	case	_	_
 5	buồng	buồng	NOUN	N	_	2	obl:comp	_	_
 6	điện thoại	điện thoại	NOUN	N	_	5	nmod	_	_
-7	công cộng	công cộng	ADJ	Adj	_	6	amod	_	_
+7	công cộng	công cộng	ADJ	Adj	_	6	amod	_	_	SpaceAfter=No
 8	?	?	PUNCT	?	_	2	punct	_	_
 
 # sent_id = text-s201
@@ -3538,7 +3538,7 @@
 8	công cộng	công cộng	ADJ	Adj	_	7	amod	_	_
 9	trên	trên	ADP	Pre	_	10	case	_	_
 10	đường	đường	NOUN	N	_	6	nmod	_	_
-11	Nguyễn Chí Thanh	Nguyễn Chí Thanh	PROPN	NNP	_	10	compound	_	_
+11	Nguyễn Chí Thanh	Nguyễn Chí Thanh	PROPN	NNP	_	10	compound	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s202
@@ -3564,7 +3564,7 @@
 19	sang	sang	ADV	Adv	_	18	compound:dir	_	_
 20	tấn công	tấn công	VERB	V	_	19	xcomp	_	_
 21	điện thoại	điện thoại	NOUN	N	_	20	obj	_	_
-22	cố định	cố định	NOUN	N	_	21	compound	_	_
+22	cố định	cố định	NOUN	N	_	21	compound	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s203
@@ -3580,7 +3580,7 @@
 9	kẻ	kẻ	NOUN	Nc	_	12	nsubj	_	_
 10	quấy rối	quấy rối	VERB	V	_	9	compound:vmod	_	_
 11	là	là	AUX	V	_	12	cop	_	_
-12	ai	ai	PRON	Pro	_	8	ccomp	_	_
+12	ai	ai	PRON	Pro	_	8	ccomp	_	_	SpaceAfter=No
 13	...	...	PUNCT	...	_	8	punct	_	_
 
 # sent_id = text-s204
@@ -3595,7 +3595,7 @@
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	Cường	Cường	PROPN	NNP	_	10	nsubj	_	_
 10	khuyên	khuyên	VERB	V	_	0	root	_	_
-11	thôi	thôi	VERB	V	_	10	xcomp	_	_
+11	thôi	thôi	VERB	V	_	10	xcomp	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s205
@@ -3618,7 +3618,7 @@
 16	gì	gì	PRON	Pro	_	15	nmod	_	_
 17	đó	đó	PRON	Pro	_	15	det:pmod	_	_
 18	của	của	ADP	Pre	_	19	case	_	_
-19	vợ	vợ	NOUN	N	_	15	nmod:poss	_	_
+19	vợ	vợ	NOUN	N	_	15	nmod:poss	_	_	SpaceAfter=No
 20	...	...	PUNCT	...	_	7	punct	_	_
 
 # sent_id = text-s206
@@ -3642,7 +3642,7 @@
 17	đánh	đánh	VERB	V	_	12	advcl:objective	_	_
 18	lạc	lạc	VERB	V	_	17	compound:svc	_	_
 19	hướng	hướng	NOUN	N	_	18	obj	_	_
-20	Cường	Cường	PROPN	NNP	_	18	obj	_	_
+20	Cường	Cường	PROPN	NNP	_	18	obj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s207
@@ -3656,7 +3656,7 @@
 7	cho	cho	ADP	Pre	_	9	case	_	_
 8	một	một	NUM	Num	_	9	nummod	_	_
 9	kẻ	kẻ	NOUN	Nc	_	6	obl:iobj	_	_
-10	khác	khác	ADJ	Adj	_	9	amod	_	_
+10	khác	khác	ADJ	Adj	_	9	amod	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s208
@@ -3673,7 +3673,7 @@
 10	có	có	VERB	V	_	0	root	_	_
 11	khả năng	khả năng	NOUN	N	_	10	obj	_	_
 12	nhiều	nhiều	ADJ	Adj	_	11	amod	_	_
-13	hơn	hơn	ADV	Adv	_	11	advmod	_	_
+13	hơn	hơn	ADV	Adv	_	11	advmod	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s209
@@ -3681,7 +3681,7 @@
 1	Có lẽ	có lẽ	ADV	Adv	_	3	advmod	_	_
 2	là	là	SCONJ	SC	_	3	cop	_	_
 3	nhầm	nhầm	VERB	V	_	0	root	_	_
-4	"	"	PUNCT	``	_	3	punct	_	_
+4	"	"	PUNCT	``	_	3	punct	_	_	SpaceAfter=No
 5	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s210
@@ -3708,7 +3708,7 @@
 20	"	"	PUNCT	``	_	19	punct	_	_
 21	ngài	ngài	NOUN	Nc	_	22	det:clf	_	_
 22	giám đốc	giám đốc	NOUN	N	_	19	obj	_	_
-23	nọ	nọ	PRON	Pro	_	22	det:pmod	_	_
+23	nọ	nọ	PRON	Pro	_	22	det:pmod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s211
@@ -3734,7 +3734,7 @@
 19	câu chuyện	câu chuyện	NOUN	N	_	21	nsubj	_	_
 20	sẽ	sẽ	ADV	Adv	_	21	advmod	_	_
 21	phức tạp	phức tạp	ADJ	Adj	_	8	conj	_	_
-22	hơn	hơn	ADV	Adv	_	21	advmod:adj	_	_
+22	hơn	hơn	ADV	Adv	_	21	advmod:adj	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s212
@@ -3753,7 +3753,7 @@
 12	xử lý	xử lý	VERB	V	_	10	acl:subj	_	_
 13	kẻ thù	kẻ thù	NOUN	N	_	12	obj	_	_
 14	của	của	ADP	Pre	_	15	case	_	_
-15	mình	mình	PRON	Pro	_	13	nmod:poss	_	_
+15	mình	mình	PRON	Pro	_	13	nmod:poss	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s213
@@ -3772,7 +3772,7 @@
 12	giờ	giờ	NOUN	N	_	7	obl:tmod	_	_
 13	"	"	PUNCT	``	_	14	punct	_	_
 14	cao điểm	cao điểm	NOUN	N	_	12	amod	_	_
-15	"	"	PUNCT	``	_	14	punct	_	_
+15	"	"	PUNCT	``	_	14	punct	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s214
@@ -3788,7 +3788,7 @@
 9	đi	đi	VERB	V	_	6	ccomp	_	_
 10	bộ	bộ	NOUN	N	_	9	compound:verbnoun	_	_
 11	ra	ra	ADP	Pre	_	12	case	_	_
-12	ngoài	ngoài	NOUN	N	_	9	obl:comp	_	_
+12	ngoài	ngoài	NOUN	N	_	9	obl:comp	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s215
@@ -3816,7 +3816,7 @@
 21	gọi	gọi	VERB	V	_	0	root	_	_
 22	về	về	ADP	Pre	_	23	case	_	_
 23	nhà	nhà	NOUN	N	_	21	obl	_	_
-24	giám đốc	giám đốc	NOUN	N	_	23	nmod	_	_
+24	giám đốc	giám đốc	NOUN	N	_	23	nmod	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	21	punct	_	_
 
 # sent_id = text-s216
@@ -3841,7 +3841,7 @@
 18	gia đình	gia đình	NOUN	N	_	20	nsubj	_	_
 19	đang	đang	ADV	Adv	_	20	advmod	_	_
 20	có	có	VERB	V	_	17	ccomp	_	_
-21	rắc rối	rắc rối	ADJ	Adj	_	20	acomp	_	_
+21	rắc rối	rắc rối	ADJ	Adj	_	20	acomp	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s217
@@ -3855,7 +3855,7 @@
 7	nhờ	nhờ	VERB	V	_	4	advcl:objective	_	_
 8	tư vấn	tư vấn	VERB	V	_	7	xcomp	_	_
 9	,	,	PUNCT	,	_	10	punct	_	_
-10	chỉ bảo	chỉ bảo	VERB	V	_	8	conj	_	_
+10	chỉ bảo	chỉ bảo	VERB	V	_	8	conj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s218
@@ -3881,7 +3881,7 @@
 19	với	với	ADP	Pre	_	21	case	_	_
 20	bà	bà	NOUN	N	_	21	det:clf	_	_
 21	vợ	vợ	NOUN	N	_	15	obl:with	_	_
-22	giám đốc	giám đốc	NOUN	N	_	21	nmod	_	_
+22	giám đốc	giám đốc	NOUN	N	_	21	nmod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = text-s219
@@ -3897,7 +3897,7 @@
 9	người	người	NOUN	N	_	3	ccomp	_	_
 10	cùng	cùng	ADJ	Adj	_	9	amod	_	_
 11	công ty	công ty	NOUN	N	_	10	obl:adj	_	_
-12	Thu	Thu	PROPN	NNP	_	11	nmod	_	_
+12	Thu	Thu	PROPN	NNP	_	11	nmod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s220
@@ -3921,7 +3921,7 @@
 17	anh	anh	NOUN	N	_	16	obj	_	_
 18	tìm	tìm	VERB	V	_	17	acl:subj	_	_
 19	ra	ra	ADV	Adv	_	18	compound:svc	_	_
-20	thủ phạm	thủ phạm	NOUN	N	_	18	obj	_	_
+20	thủ phạm	thủ phạm	NOUN	N	_	18	obj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s221
@@ -3936,7 +3936,7 @@
 8	ông	ông	NOUN	Nc	_	11	nsubj	_	_
 9	giám đốc	giám đốc	VERB	V	_	8	compound:vmod	_	_
 10	cũng	cũng	ADV	Adv	_	11	advmod	_	_
-11	chột dạ	chột dạ	VERB	V	_	0	root	_	_
+11	chột dạ	chột dạ	VERB	V	_	0	root	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s222
@@ -3954,7 +3954,7 @@
 11	điều	điều	NOUN	N	_	8	obl:comp	_	_
 12	không	không	ADV	Adv	_	13	advmod:neg	_	_
 13	quá	quá	ADV	Adv	_	14	advmod	_	_
-14	tỏ tường	tỏ tường	ADJ	Adj	_	11	amod	_	_
+14	tỏ tường	tỏ tường	ADJ	Adj	_	11	amod	_	_	SpaceAfter=No
 15	...	...	PUNCT	...	_	2	punct	_	_
 
 # sent_id = text-s223
@@ -3974,13 +3974,13 @@
 13	của	của	ADP	Pre	_	15	case	_	_
 14	chính	chính	PART	Prt	_	15	discourse	_	_
 15	nhà	nhà	NOUN	N	_	12	nmod:poss	_	_
-16	mình	mình	PRON	Pro	_	15	nmod	_	_
+16	mình	mình	PRON	Pro	_	15	nmod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s224
 # text =Thật tiếc . 
 1	Thật	thật	ADV	Adv	_	2	advmod	_	_
-2	tiếc	tiếc	VERB	V	_	0	root	_	_
+2	tiếc	tiếc	VERB	V	_	0	root	_	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s225
@@ -3998,7 +3998,7 @@
 11	thấy	thấy	VERB	V	_	0	root	_	_
 12	một	một	NUM	Num	_	13	nummod	_	_
 13	điều	điều	NOUN	N	_	11	obj	_	_
-14	tiếc	tiếc	ADJ	Adj	_	13	amod	_	_
+14	tiếc	tiếc	ADJ	Adj	_	13	amod	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s226
@@ -4009,7 +4009,7 @@
 4	và	và	CCONJ	CC	_	5	cc	_	_
 5	nỗi	nỗi	NOUN	N	_	1	conj	_	_
 6	đau	đau	VERB	V	_	5	compound:vmod	_	_
-7	da cam	da cam	NOUN	N	_	5	nmod	_	_
+7	da cam	da cam	NOUN	N	_	5	nmod	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s227
@@ -4034,7 +4034,7 @@
 18	đọc	đọc	VERB	V	_	3	parataxis	_	_
 19	thấy	thấy	VERB	V	_	18	xcomp	_	_
 20	ấm	ấm	ADJ	Adj	_	19	acomp	_	_
-21	lòng	lòng	NOUN	N	_	20	obj	_	_
+21	lòng	lòng	NOUN	N	_	20	obj	_	_	SpaceAfter=No
 22	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s228
@@ -4042,7 +4042,7 @@
 1	Nỗi	nỗi	NOUN	N	_	0	root	_	_
 2	đau	đau	VERB	V	_	1	compound:vmod	_	_
 3	sau	sau	ADP	Pre	_	4	case	_	_
-4	cuộc chiến	cuộc chiến	NOUN	N	_	1	nmod	_	_
+4	cuộc chiến	cuộc chiến	NOUN	N	_	1	nmod	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s229
@@ -4054,7 +4054,7 @@
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	ngất	ngất	VERB	V	_	3	conj	_	_
 7	lịm	lịm	ADJ	Adj	_	6	advmod:adj	_	_
-8	đi	đi	ADV	Adv	_	6	advmod	_	_
+8	đi	đi	ADV	Adv	_	6	advmod	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s230
@@ -4067,7 +4067,7 @@
 6	nỗi	nỗi	NOUN	N	_	4	obl:about	_	_
 7	đau	đau	VERB	V	_	6	compound:vmod	_	_
 8	của	của	ADP	Pre	_	9	case	_	_
-9	mình	mình	PRON	Pro	_	6	nmod:poss	_	_
+9	mình	mình	PRON	Pro	_	6	nmod:poss	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s231
@@ -4085,7 +4085,7 @@
 11	,	,	PUNCT	,	_	14	punct	_	_
 12	đầu	đầu	NOUN	N	_	14	nsubj	_	_
 13	thì	thì	SCONJ	SC	_	14	mark	_	_
-14	dài ngoẵng	dài ngoẵng	ADJ	Adj	_	9	conj	_	_
+14	dài ngoẵng	dài ngoẵng	ADJ	Adj	_	9	conj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s232
@@ -4099,7 +4099,7 @@
 7	đưa	đưa	VERB	V	_	0	root	_	_
 8	vợ	vợ	NOUN	N	_	7	obj	_	_
 9	đi	đi	VERB	V	_	7	xcomp	_	_
-10	đẻ	đẻ	VERB	V	_	9	compound:svc	_	_
+10	đẻ	đẻ	VERB	V	_	9	compound:svc	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s233
@@ -4124,7 +4124,7 @@
 18	cô giáo	cô giáo	NOUN	N	_	17	obj	_	_
 19	Nguyễn Thị Loan	Nguyễn Thị Loan	PROPN	NNP	_	18	nmod	_	_
 20	cho	cho	VERB	V	_	17	advcl:objective	_	_
-21	học	học	VERB	V	_	20	ccomp	_	_
+21	học	học	VERB	V	_	20	ccomp	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	16	punct	_	_
 
 # sent_id = text-s234
@@ -4143,7 +4143,7 @@
 12	trường	trường	NOUN	N	_	9	obl:comp	_	_
 13	mù	mù	ADJ	Adj	_	12	amod	_	_
 14	ở	ở	ADP	Pre	_	15	case	_	_
-15	Washington	Washington	PROPN	NNP	_	12	obl:comp	_	_
+15	Washington	Washington	PROPN	NNP	_	12	obl:comp	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s235
@@ -4169,7 +4169,7 @@
 19	tờ	tờ	NOUN	N	_	18	nmod	_	_
 20	Olympian Newspaper	Olympian Newspaper	PROPN	NNP	_	19	compound	_	_
 21	của	của	ADP	Pre	_	22	case	_	_
-22	thành phố	thành phố	NOUN	N	_	18	nmod:poss	_	_
+22	thành phố	thành phố	NOUN	N	_	18	nmod:poss	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s236
@@ -4193,7 +4193,7 @@
 17	cho	cho	ADP	Pre	_	18	case	_	_
 18	cô	cô	NOUN	N	_	16	obl:iobj	_	_
 19	30 . 000	30 . 000	NUM	Num	_	20	nummod	_	_
-20	usd	usd	NOUN	Nu	_	16	obj	_	_
+20	usd	usd	NOUN	Nu	_	16	obj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s237
@@ -4220,7 +4220,7 @@
 20	với	với	SCONJ	SC	_	21	case	_	_
 21	gia đình	gia đình	NOUN	N	_	19	obl:with	_	_
 22	ở	ở	ADP	Pre	_	23	case	_	_
-23	Sơn Tây	Sơn Tây	PROPN	NNP	_	19	obl:comp	_	_
+23	Sơn Tây	Sơn Tây	PROPN	NNP	_	19	obl:comp	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s238
@@ -4238,7 +4238,7 @@
 11	sẽ	sẽ	ADV	Adv	_	12	advmod	_	_
 12	tốt nghiệp	tốt nghiệp	VERB	V	_	0	root	_	_
 13	đại học	đại học	NOUN	N	_	12	obl	_	_
-14	Mỹ	Mỹ	PROPN	NNP	_	13	nmod	_	_
+14	Mỹ	Mỹ	PROPN	NNP	_	13	nmod	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s239
@@ -4260,7 +4260,7 @@
 15	người	người	NOUN	N	_	13	conj	_	_
 16	nghiên cứu	nghiên cứu	VERB	V	_	15	acl:subj	_	_
 17	văn học	văn học	NOUN	N	_	16	obj	_	_
-18	nước ngoài	nước ngoài	NOUN	N	_	17	nmod	_	_
+18	nước ngoài	nước ngoài	NOUN	N	_	17	nmod	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s240
@@ -4283,7 +4283,7 @@
 16	"	"	PUNCT	``	_	6	punct	_	_
 17	-	-	PUNCT	-	_	6	punct	_	_
 18	cô	cô	NOUN	N	_	19	nsubj	_	_
-19	kể	kể	VERB	V	_	6	parataxis	_	_
+19	kể	kể	VERB	V	_	6	parataxis	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s241
@@ -4300,7 +4300,7 @@
 10	đón	đón	VERB	V	_	8	advcl:objective	_	_
 11	xe buýt	xe buýt	NOUN	N	_	10	obj	_	_
 12	tới	tới	ADP	Pre	_	13	case	_	_
-13	trường	trường	NOUN	N	_	10	obl:comp	_	_
+13	trường	trường	NOUN	N	_	10	obl:comp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s242
@@ -4324,7 +4324,7 @@
 17	riêng	riêng	ADJ	Adj	_	19	discourse	_	_
 18	tôi	tôi	PRON	Pro	_	19	nsubj:nn	_	_
 19	sinh viên	sinh viên	NOUN	N	_	13	conj	_	_
-20	mù	mù	ADJ	Adj	_	19	amod	_	_
+20	mù	mù	ADJ	Adj	_	19	amod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s243
@@ -4351,7 +4351,7 @@
 20	xuống	xuống	ADV	Adv	_	19	compound:dir	_	_
 21	VN	VN	PROPN	NNP	_	19	obj	_	_
 22	thuở	thuở	NOUN	N	_	19	obl:tmod	_	_
-23	trước	trước	ADJ	Adj	_	22	compound:amod	_	_
+23	trước	trước	ADJ	Adj	_	22	compound:amod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s244
@@ -4377,7 +4377,7 @@
 19	các	các	DET	Det	_	20	det	_	_
 20	tri thức	tri thức	NOUN	N	_	18	obj	_	_
 21	vào	vào	ADP	Pre	_	22	case	_	_
-22	băng	băng	NOUN	N	_	18	obl:comp	_	_
+22	băng	băng	NOUN	N	_	18	obl:comp	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s245
@@ -4404,7 +4404,7 @@
 20	loại	loại	NOUN	N	_	19	obj	_	_
 21	sách	sách	NOUN	N	_	20	nmod	_	_
 22	ấy	ấy	PRON	Pro	_	20	det:pmod	_	_
-23	hàng loạt	hàng loạt	NOUN	N	_	20	det	_	_
+23	hàng loạt	hàng loạt	NOUN	N	_	20	det	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s246
@@ -4425,7 +4425,7 @@
 14	,	,	PUNCT	,	_	1	punct	_	_
 15	Mai	Mai	PROPN	NNP	_	17	nsubj	_	_
 16	đã	đã	ADV	Adv	_	17	advmod	_	_
-17	khóc	khóc	VERB	V	_	0	root	_	_
+17	khóc	khóc	VERB	V	_	0	root	_	_	SpaceAfter=No
 18	...	...	PUNCT	...	_	17	punct	_	_
 
 # sent_id = text-s247
@@ -4434,7 +4434,7 @@
 2	dưới	dưới	ADP	Pre	_	1	nmod	_	_
 3	vành	vành	NOUN	N	_	1	nmod	_	_
 4	mũ	mũ	NOUN	N	_	3	compound	_	_
-5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_
+5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s248
@@ -4447,7 +4447,7 @@
 6	ham muốn	ham muốn	VERB	V	_	1	parataxis	_	_
 7	của	của	ADP	Pre	_	9	case	_	_
 8	người	người	NOUN	Nc	_	9	det:clf	_	_
-9	hàng xóm	hàng xóm	NOUN	N	_	6	nmod:poss	_	_
+9	hàng xóm	hàng xóm	NOUN	N	_	6	nmod:poss	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s249
@@ -4474,7 +4474,7 @@
 20	hằn	hằn	VERB	V	_	8	advcl	_	_
 21	trên	trên	ADP	Pre	_	22	case	_	_
 22	nét	nét	NOUN	N	_	20	obl	_	_
-23	mặt	mặt	NOUN	N	_	22	nmod	_	_
+23	mặt	mặt	NOUN	N	_	22	nmod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s250
@@ -4492,7 +4492,7 @@
 11	từ	từ	ADP	Pre	_	13	case	_	_
 12	ba	ba	NUM	Num	_	13	nummod	_	_
 13	tháng	tháng	NOUN	N	_	5	obl:tmod	_	_
-14	nay	nay	PRON	Pro	_	13	det:pmod	_	_
+14	nay	nay	PRON	Pro	_	13	det:pmod	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s251
@@ -4516,7 +4516,7 @@
 17	qua	qua	ADP	Pre	_	18	case	_	_
 18	bưu điện	bưu điện	NOUN	N	_	15	obl	_	_
 19	đe dọa	đe dọa	VERB	V	_	15	advcl:objective	_	_
-20	ông	ông	NOUN	N	_	19	obj	_	_
+20	ông	ông	NOUN	N	_	19	obj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s252
@@ -4529,7 +4529,7 @@
 6	có	có	VERB	V	_	0	root	_	_
 7	địa chỉ	địa chỉ	NOUN	N	_	6	obj	_	_
 8	ở	ở	ADP	Pre	_	9	case	_	_
-9	Hà Nội	Hà Nội	PROPN	NNP	_	6	obl:comp	_	_
+9	Hà Nội	Hà Nội	PROPN	NNP	_	6	obl:comp	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s253
@@ -4547,7 +4547,7 @@
 11	trong	trong	ADP	Pre	_	12	case	_	_
 12	hành vi	hành vi	NOUN	N	_	7	obl:comp	_	_
 13	của	của	ADP	Pre	_	14	case	_	_
-14	mình	mình	PRON	Pro	_	12	nmod:poss	_	_
+14	mình	mình	PRON	Pro	_	12	nmod:poss	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s254
@@ -4572,7 +4572,7 @@
 18	gửi	gửi	VERB	V	_	16	xcomp	_	_
 19	thư	thư	NOUN	N	_	18	obj	_	_
 20	qua	qua	ADP	Pre	_	21	case	_	_
-21	bưu điện	bưu điện	NOUN	N	_	18	obl	_	_
+21	bưu điện	bưu điện	NOUN	N	_	18	obl	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	16	punct	_	_
 
 # sent_id = text-s255
@@ -4589,7 +4589,7 @@
 10	g	g	NOUN	Nu	_	9	flat:time	_	_
 11	mới	mới	ADV	Adv	_	12	advmod	_	_
 12	về	về	VERB	V	_	3	conj	_	_
-13	nhà	nhà	NOUN	N	_	12	obl	_	_
+13	nhà	nhà	NOUN	N	_	12	obl	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s256
@@ -4611,7 +4611,7 @@
 15	người	người	NOUN	N	_	14	obj	_	_
 16	khác	khác	ADJ	Adj	_	15	amod	_	_
 17	lên	lên	VERB	V	_	15	acl:subj	_	_
-18	thay	thay	VERB	V	_	17	compound:svc	_	_
+18	thay	thay	VERB	V	_	17	compound:svc	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s257
@@ -4626,7 +4626,7 @@
 8	không	không	ADV	Adv	_	11	advmod:neg	_	_
 9	một	một	NUM	Num	_	10	nummod	_	_
 10	lần	lần	NOUN	N	_	11	obl	_	_
-11	va chạm	va chạm	VERB	V	_	0	root	_	_
+11	va chạm	va chạm	VERB	V	_	0	root	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s258
@@ -4642,7 +4642,7 @@
 9	này	này	PRON	Pro	_	8	det:pmod	_	_
 10	rất	rất	ADV	Adv	_	11	advmod	_	_
 11	kém	kém	ADJ	Adj	_	0	root	_	_
-12	hiệu quả	hiệu quả	NOUN	N	_	11	obl:adj	_	_
+12	hiệu quả	hiệu quả	NOUN	N	_	11	obl:adj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s259
@@ -4664,7 +4664,7 @@
 15	và	và	CCONJ	CC	_	18	cc	_	_
 16	những	những	DET	Det	_	18	det	_	_
 17	người	người	NOUN	Nc	_	18	clf	_	_
-18	hàng xóm	hàng xóm	NOUN	N	_	8	conj	_	_
+18	hàng xóm	hàng xóm	NOUN	N	_	8	conj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s260
@@ -4686,7 +4686,7 @@
 15	với	với	ADP	Pre	_	16	case	_	_
 16	họ	họ	PRON	Pro	_	12	obl:with	_	_
 17	?	?	PUNCT	?	_	12	punct	_	_
-18	"	"	PUNCT	``	_	12	punct	_	_
+18	"	"	PUNCT	``	_	12	punct	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s261
@@ -4703,7 +4703,7 @@
 10	thuê	thuê	VERB	V	_	8	acl:relcl	_	_
 11	cơ mà	cơ mà	PART	Prt	_	8	discourse	_	_
 12	?	?	PUNCT	?	_	8	punct	_	_
-13	"	"	PUNCT	``	_	8	punct	_	_
+13	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s262
@@ -4731,7 +4731,7 @@
 21	với	với	ADP	Pre	_	23	case	_	_
 22	cô	cô	NOUN	Nc	_	23	det:clf	_	_
 23	Kim	Kim	PROPN	NNP	_	20	obl:with	_	_
-24	"	"	PUNCT	``	_	8	punct	_	_
+24	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s263
@@ -4750,7 +4750,7 @@
 12	thích	thích	VERB	V	_	10	xcomp	_	_
 13	căn	căn	NOUN	Nc	_	14	det:clf	_	_
 14	nhà	nhà	NOUN	N	_	12	obj	_	_
-15	ông	ông	NOUN	N	_	14	nmod	_	_
+15	ông	ông	NOUN	N	_	14	nmod	_	_	SpaceAfter=No
 16	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s264
@@ -4764,7 +4764,7 @@
 7	với	với	ADP	Pre	_	8	case	_	_
 8	họ	họ	PRON	Pro	_	5	obl:with	_	_
 9	?	?	PUNCT	?	_	5	punct	_	_
-10	"	"	PUNCT	``	_	5	punct	_	_
+10	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s265
@@ -4792,7 +4792,7 @@
 21	ưu tiên	ưu tiên	VERB	V	_	16	ccomp	_	_
 22	cho	cho	ADP	Pre	_	23	case	_	_
 23	họ	họ	PRON	Pro	_	21	obl:iobj	_	_
-24	"	"	PUNCT	``	_	21	punct	_	_
+24	"	"	PUNCT	``	_	21	punct	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	16	punct	_	_
 
 # sent_id = text-s266
@@ -4811,7 +4811,7 @@
 12	đều	đều	ADV	Adv	_	13	advmod	_	_
 13	đơn thuần	đơn thuần	ADJ	Adj	_	0	root	_	_
 14	vì	vì	ADP	Pre	_	15	case	_	_
-15	công việc	công việc	NOUN	N	_	13	obl:comp	_	_
+15	công việc	công việc	NOUN	N	_	13	obl:comp	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s267
@@ -4822,7 +4822,7 @@
 4	đây	đây	PRON	Pro	_	6	nsubj	_	_
 5	là	là	AUX	V	_	6	cop	_	_
 6	chuyện	chuyện	NOUN	N	_	2	ccomp	_	_
-7	bình thường	bình thường	ADJ	Adj	_	6	amod	_	_
+7	bình thường	bình thường	ADJ	Adj	_	6	amod	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s268
@@ -4839,7 +4839,7 @@
 10	gì	gì	PART	Prt	_	9	advmod	_	_
 11	săn đón	săn đón	VERB	V	_	0	root	_	_
 12	ông	ông	NOUN	Nc	_	13	det:clf	_	_
-13	Chương	Chương	PROPN	NNP	_	11	obj	_	_
+13	Chương	Chương	PROPN	NNP	_	11	obj	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s269
@@ -4852,7 +4852,7 @@
 6	thám tử	thám tử	NOUN	N	_	8	nsubj	_	_
 7	Hùng	Hùng	PROPN	NNP	_	6	nmod	_	_
 8	khai thác	khai thác	VERB	V	_	3	acl	_	_
-9	ngày mai	ngày mai	NOUN	N	_	8	obl:tmod	_	_
+9	ngày mai	ngày mai	NOUN	N	_	8	obl:tmod	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s270
@@ -4871,7 +4871,7 @@
 12	giải khát	giải khát	NOUN	N	_	10	conj	_	_
 13	mở	mở	VERB	V	_	9	acl	_	_
 14	tại	tại	ADP	Pre	_	15	case	_	_
-15	nhà	nhà	NOUN	N	_	13	obl:comp	_	_
+15	nhà	nhà	NOUN	N	_	13	obl:comp	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s271
@@ -4890,7 +4890,7 @@
 12	ông	ông	NOUN	N	_	13	nsubj	_	_
 13	chán nản	chán nản	VERB	V	_	4	parataxis	_	_
 14	và	và	CCONJ	CC	_	15	cc	_	_
-15	sốt ruột	sốt ruột	VERB	V	_	13	conj	_	_
+15	sốt ruột	sốt ruột	VERB	V	_	13	conj	_	_	SpaceAfter=No
 16	...	...	PUNCT	...	_	4	punct	_	_
 
 # sent_id = text-s272
@@ -4916,7 +4916,7 @@
 19	nữa	nữa	ADV	Adv	_	18	advmod	_	_
 20	mà	mà	SCONJ	SC	_	22	mark	_	_
 21	chưa	chưa	ADV	Adv	_	22	advmod	_	_
-22	thực hiện	thực hiện	VERB	V	_	17	ccomp	_	_
+22	thực hiện	thực hiện	VERB	V	_	17	ccomp	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s273
@@ -4939,7 +4939,7 @@
 16	từ	từ	VERB	V	_	12	conj	_	_
 17	miền	miền	NOUN	N	_	16	obj	_	_
 18	Nam	Nam	PROPN	NNP	_	17	nmod	_	_
-19	ra	ra	VERB	V	_	16	advmod:dir	_	_
+19	ra	ra	VERB	V	_	16	advmod:dir	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s274
@@ -4964,7 +4964,7 @@
 18	xách	xách	VERB	V	_	16	acl:subj	_	_
 19	bị gậy	bị gậy	NOUN	N	_	18	obj	_	_
 20	đi	đi	VERB	V	_	18	xcomp	_	_
-21	ăn xin	ăn xin	VERB	V	_	20	xcomp	_	_
+21	ăn xin	ăn xin	VERB	V	_	20	xcomp	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s275
@@ -4983,7 +4983,7 @@
 12	có	có	VERB	V	_	5	conj	_	_
 13	khả năng	khả năng	NOUN	N	_	12	obj	_	_
 14	xung đột	xung đột	VERB	V	_	13	acl	_	_
-15	quyền lợi	quyền lợi	NOUN	N	_	14	obj	_	_
+15	quyền lợi	quyền lợi	NOUN	N	_	14	obj	_	_	SpaceAfter=No
 16	...	...	PUNCT	...	_	5	punct	_	_
 
 # sent_id = text-s276
@@ -5001,7 +5001,7 @@
 11	ép	ép	VERB	V	_	7	conj	_	_
 12	ông	ông	NOUN	N	_	11	obj	_	_
 13	vào	vào	ADP	Pre	_	14	case	_	_
-14	tường	tường	NOUN	N	_	11	obl:comp	_	_
+14	tường	tường	NOUN	N	_	11	obl:comp	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s277
@@ -5017,7 +5017,7 @@
 9	tiên	tiên	NOUN	N	_	8	compound	_	_
 10	nhỏ	nhỏ	ADJ	Adj	_	8	amod	_	_
 11	...	...	PUNCT	...	_	4	punct	_	_
-12	"	"	PUNCT	``	_	4	punct	_	_
+12	"	"	PUNCT	``	_	4	punct	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s278
@@ -5038,7 +5038,7 @@
 14	sẽ	sẽ	ADV	Adv	_	15	advmod	_	_
 15	nhớ	nhớ	VERB	V	_	5	conj	_	_
 16	đến	đến	ADP	Pre	_	17	case	_	_
-17	họ	họ	PRON	Pro	_	15	obl:comp	_	_
+17	họ	họ	PRON	Pro	_	15	obl:comp	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s279
@@ -5050,7 +5050,7 @@
 5	ông	ông	NOUN	N	_	7	nsubj	_	_
 6	chưa	chưa	ADV	Adv	_	7	advmod:neg	_	_
 7	đi	đi	VERB	V	_	0	root	_	_
-8	được	được	ADV	Adv	_	7	advmod	_	_
+8	được	được	ADV	Adv	_	7	advmod	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s280
@@ -5063,7 +5063,7 @@
 6	chúng	chúng	PRON	Pro	_	9	nsubj:pass	_	_
 7	phải	phải	VERB	V	_	9	aux	_	_
 8	được	được	ADV	Adv	_	9	aux:pass	_	_
-9	sống	sống	VERB	V	_	4	conj	_	_
+9	sống	sống	VERB	V	_	4	conj	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s281
@@ -5076,7 +5076,7 @@
 6	người	người	NOUN	N	_	5	obj	_	_
 7	thân thiết	thân thiết	ADJ	Adj	_	6	amod	_	_
 8	của	của	ADP	Pre	_	9	case	_	_
-9	Kim	Kim	PROPN	NNP	_	6	nmod:poss	_	_
+9	Kim	Kim	PROPN	NNP	_	6	nmod:poss	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s282
@@ -5094,7 +5094,7 @@
 11	tần số	tần số	NOUN	N	_	8	obl	_	_
 12	lẫn	lẫn	SCONJ	SC	_	13	cc	_	_
 13	mức độ	mức độ	NOUN	N	_	11	conj	_	_
-14	gay gắt	gay gắt	VERB	V	_	13	amod	_	_
+14	gay gắt	gay gắt	VERB	V	_	13	amod	_	_	SpaceAfter=No
 15	...	...	PUNCT	...	_	8	punct	_	_
 
 # sent_id = text-s283
@@ -5122,7 +5122,7 @@
 21	cách thức	cách thức	NOUN	N	_	19	conj	_	_
 22	khủng bố	khủng bố	VERB	V	_	21	acl:subj	_	_
 23	của	của	ADP	Pre	_	24	case	_	_
-24	họ	họ	PRON	Pro	_	22	nmod:poss	_	_
+24	họ	họ	PRON	Pro	_	22	nmod:poss	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	17	punct	_	_
 
 # sent_id = text-s284
@@ -5133,7 +5133,7 @@
 4	rất	rất	ADV	Adv	_	5	advmod	_	_
 5	có	có	VERB	V	_	0	root	_	_
 6	hy vọng	hy vọng	NOUN	N	_	5	obj	_	_
-7	tháo gỡ	tháo gỡ	VERB	V	_	6	acl:subj	_	_
+7	tháo gỡ	tháo gỡ	VERB	V	_	6	acl:subj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s285
@@ -5158,7 +5158,7 @@
 18	khác	khác	ADJ	Adj	_	11	conj	_	_
 19	những	những	DET	Det	_	20	det	_	_
 20	lần	lần	NOUN	N	_	18	obj	_	_
-21	trước	trước	ADJ	Adj	_	20	amod	_	_
+21	trước	trước	ADJ	Adj	_	20	amod	_	_	SpaceAfter=No
 22	...	...	PUNCT	...	_	11	punct	_	_
 
 # sent_id = text-s286
@@ -5174,7 +5174,7 @@
 9	cũng	cũng	ADV	Adv	_	10	advmod	_	_
 10	đến	đến	VERB	V	_	4	xcomp	_	_
 11	bắt chuyện	bắt chuyện	VERB	V	_	10	advcl:objective	_	_
-12	chia sẻ	chia sẻ	VERB	V	_	11	xcomp	_	_
+12	chia sẻ	chia sẻ	VERB	V	_	11	xcomp	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s287
@@ -5197,7 +5197,7 @@
 16	nhà	nhà	NOUN	N	_	14	nmod:poss	_	_
 17	hàng xóm	hàng xóm	NOUN	N	_	16	nmod	_	_
 18	uống	uống	VERB	V	_	13	xcomp	_	_
-19	nước	nước	NOUN	N	_	18	obj	_	_
+19	nước	nước	NOUN	N	_	18	obj	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s288
@@ -5213,7 +5213,7 @@
 9	đó	đó	PRON	Pro	_	8	fixed	_	_
 10	của	của	ADP	Pre	_	11	case	_	_
 11	gia đình	gia đình	NOUN	N	_	7	nmod:poss	_	_
-12	này	này	PRON	Pro	_	11	det:pmod	_	_
+12	này	này	PRON	Pro	_	11	det:pmod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s289
@@ -5232,7 +5232,7 @@
 12	gái	gái	NOUN	N	_	11	nmod	_	_
 13	đang	đang	ADV	Adv	_	14	advmod	_	_
 14	học	học	VERB	V	_	11	acl:subj	_	_
-15	phổ thông	phổ thông	NOUN	N	_	14	obj	_	_
+15	phổ thông	phổ thông	NOUN	N	_	14	obj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s290
@@ -5253,7 +5253,7 @@
 14	nhau	nhau	NOUN	N	_	13	obj	_	_
 15	xã giao	xã giao	VERB	V	_	13	xcomp:vcomp	_	_
 16	...	...	PUNCT	...	_	4	punct	_	_
-17	"	"	PUNCT	``	_	4	punct	_	_
+17	"	"	PUNCT	``	_	4	punct	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s291
@@ -5273,7 +5273,7 @@
 13	này	này	PRON	Pro	_	12	det:pmod	_	_
 14	cũng	cũng	ADV	Adv	_	15	advmod	_	_
 15	có	có	VERB	V	_	0	root	_	_
-16	logic	logic	NOUN	N	_	15	obj	_	_
+16	logic	logic	NOUN	N	_	15	obj	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = text-s292
@@ -5295,7 +5295,7 @@
 15	do	do	ADP	Pre	_	18	mark	_	_
 16	lãnh đạo	lãnh đạo	NOUN	N	_	18	nsubj	_	_
 17	công ty	công ty	NOUN	N	_	16	nmod	_	_
-18	quyết định	quyết định	VERB	V	_	6	advcl	_	_
+18	quyết định	quyết định	VERB	V	_	6	advcl	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s293
@@ -5310,7 +5310,7 @@
 8	và	và	CCONJ	CC	_	10	cc	_	_
 9	có thể	có thể	ADV	Adv	_	10	advmod	_	_
 10	mất	mất	VERB	V	_	5	conj	_	_
-11	gì	gì	PRON	Pro	_	10	obj	_	_
+11	gì	gì	PRON	Pro	_	10	obj	_	_	SpaceAfter=No
 12	?	?	PUNCT	?	_	5	punct	_	_
 
 # sent_id = text-s294
@@ -5328,7 +5328,7 @@
 11	cái	cái	NOUN	Nc	_	12	det:clf	_	_
 12	đẹp	đẹp	NOUN	N	_	10	obj	_	_
 13	trong	trong	ADP	Pre	_	14	case	_	_
-14	cuộc sống	cuộc sống	NOUN	N	_	10	obl	_	_
+14	cuộc sống	cuộc sống	NOUN	N	_	10	obl	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s295
@@ -5355,7 +5355,7 @@
 20	527	527	NUM	Num	_	21	nummod	_	_
 21	bài	bài	NOUN	N	_	17	obj	_	_
 22	dự	dự	VERB	V	_	21	acl:subj	_	_
-23	thi	thi	VERB	V	_	22	compound:svc	_	_
+23	thi	thi	VERB	V	_	22	compound:svc	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	17	punct	_	_
 
 # sent_id = text-s296
@@ -5382,7 +5382,7 @@
 20	không	không	ADV	Adv	_	21	advmod:neg	_	_
 21	thể hiện	thể hiện	VERB	V	_	18	conj	_	_
 22	gì	gì	PRON	Pro	_	21	obj	_	_
-23	lạ	lạ	ADJ	Adj	_	22	amod	_	_
+23	lạ	lạ	ADJ	Adj	_	22	amod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s297
@@ -5404,7 +5404,7 @@
 15	kế hoạch	kế hoạch	NOUN	N	_	14	obj	_	_
 16	rút	rút	VERB	V	_	15	acl:subj	_	_
 17	ông	ông	NOUN	N	_	16	obj	_	_
-18	về	về	VERB	V	_	16	advmod:dir	_	_
+18	về	về	VERB	V	_	16	advmod:dir	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s298
@@ -5430,7 +5430,7 @@
 19	đó	đó	NOUN	N	_	20	obl	_	_
 20	có	có	VERB	V	_	12	appos	_	_
 21	gia đình	gia đình	NOUN	N	_	20	obj	_	_
-22	hàng xóm	hàng xóm	NOUN	N	_	21	compound	_	_
+22	hàng xóm	hàng xóm	NOUN	N	_	21	compound	_	_	SpaceAfter=No
 23	...	...	PUNCT	...	_	9	punct	_	_
 
 # sent_id = text-s299
@@ -5448,7 +5448,7 @@
 11	huyện	huyện	NOUN	N	_	10	compound	_	_
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	cấp	cấp	NOUN	N	_	8	conj	_	_
-14	tỉnh	tỉnh	NOUN	N	_	13	compound	_	_
+14	tỉnh	tỉnh	NOUN	N	_	13	compound	_	_	SpaceAfter=No
 15	...	...	PUNCT	...	_	2	punct	_	_
 
 # sent_id = text-s300
@@ -5469,7 +5469,7 @@
 14	:	:	PUNCT	:	_	9	punct	_	_
 15	đi	đi	VERB	V	_	9	parataxis	_	_
 16	khỏi	khỏi	VERB	V	_	15	compound:dir	_	_
-17	Hà Nội	Hà Nội	PROPN	NNP	_	15	obj	_	_
+17	Hà Nội	Hà Nội	PROPN	NNP	_	15	obj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s301
@@ -5489,7 +5489,7 @@
 13	nàng	nàng	NOUN	N	_	10	obl:with	_	_
 14	tiên	tiên	NOUN	N	_	13	compound	_	_
 15	nhỏ	nhỏ	ADJ	Adj	_	13	amod	_	_
-16	"	"	PUNCT	``	_	13	punct	_	_
+16	"	"	PUNCT	``	_	13	punct	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s302
@@ -5507,7 +5507,7 @@
 11	và	và	CCONJ	CC	_	12	cc	_	_
 12	nội dung	nội dung	NOUN	N	_	8	conj	_	_
 13	không	không	ADV	Adv	_	14	advmod:neg	_	_
-14	thay đổi	thay đổi	ADJ	Adj	_	12	acl:subj	_	_
+14	thay đổi	thay đổi	ADJ	Adj	_	12	acl:subj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s303
@@ -5534,7 +5534,7 @@
 20	ông	ông	NOUN	Nc	_	21	det:clf	_	_
 21	Chương	Chương	PROPN	NNP	_	18	nmod:poss	_	_
 22	đổ	đổ	VERB	V	_	12	conj	_	_
-23	chuông	chuông	NOUN	N	_	22	obj	_	_
+23	chuông	chuông	NOUN	N	_	22	obj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s304
@@ -5559,7 +5559,7 @@
 18	đe dọa	đe dọa	VERB	V	_	17	acl:subj	_	_
 19	tính mạng	tính mạng	NOUN	N	_	18	obj	_	_
 20	ông	ông	NOUN	Nc	_	21	det:clf	_	_
-21	Chương	Chương	PROPN	NNP	_	19	nmod	_	_
+21	Chương	Chương	PROPN	NNP	_	19	nmod	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s305
@@ -5583,7 +5583,7 @@
 17	thi	thi	VERB	V	_	16	compound:vmod	_	_
 18	đã	đã	ADV	Adv	_	19	advmod	_	_
 19	nói	nói	VERB	V	_	3	parataxis	_	_
-20	thế	thế	PART	Prt	_	19	discourse	_	_
+20	thế	thế	PART	Prt	_	19	discourse	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s306
@@ -5604,7 +5604,7 @@
 14	)	)	PUNCT	)	_	13	punct	_	_
 15	là	là	AUX	V	_	17	cop	_	_
 16	một	một	NUM	Num	_	17	nummod	_	_
-17	trường hợp	trường hợp	NOUN	N	_	0	root	_	_
+17	trường hợp	trường hợp	NOUN	N	_	0	root	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
 
 # sent_id = text-s307
@@ -5628,7 +5628,7 @@
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	đòi	đòi	VERB	V	_	11	conj	_	_
 19	đi	đi	VERB	V	_	18	xcomp	_	_
-20	học	học	VERB	V	_	19	compound:svc	_	_
+20	học	học	VERB	V	_	19	compound:svc	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s308
@@ -5642,7 +5642,7 @@
 7	mẹ	mẹ	NOUN	N	_	6	obj	_	_
 8	con	con	NOUN	N	_	7	compound	_	_
 9	chị	chị	NOUN	N	_	7	nmod	_	_
-10	ấy	ấy	PRON	Pro	_	9	compound:pron	_	_
+10	ấy	ấy	PRON	Pro	_	9	compound:pron	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s309
@@ -5667,7 +5667,7 @@
 18	đọc	đọc	VERB	V	_	0	root	_	_
 19	cứ	cứ	ADV	Adv	_	20	advmod	_	_
 20	nghe	nghe	VERB	V	_	18	xcomp	_	_
-21	rờn rợn	rờn rợn	ADJ	Adj	_	20	acomp	_	_
+21	rờn rợn	rờn rợn	ADJ	Adj	_	20	acomp	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	18	punct	_	_
 
 # sent_id = text-s310
@@ -5691,7 +5691,7 @@
 17	xin	xin	VERB	V	_	15	advcl:objective	_	_
 18	ăn	ăn	VERB	V	_	17	xcomp	_	_
 19	khắp	khắp	ADJ	Adj	_	20	advmod:adj	_	_
-20	đầu đường xó chợ	đầu đường xó chợ	X	X	_	17	obl	_	_
+20	đầu đường xó chợ	đầu đường xó chợ	X	X	_	17	obl	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s311
@@ -5715,7 +5715,7 @@
 17	đề tài	đề tài	NOUN	N	_	16	obj	_	_
 18	và	và	CCONJ	CC	_	19	cc	_	_
 19	thể hiện	thể hiện	VERB	V	_	16	conj	_	_
-20	đề tài	đề tài	NOUN	N	_	19	obj	_	_
+20	đề tài	đề tài	NOUN	N	_	19	obj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s312
@@ -5734,7 +5734,7 @@
 12	đáng giá	đáng giá	VERB	V	_	10	acl	_	_
 13	nổi	nổi	ADV	Adv	_	12	advmod	_	_
 14	10 . 000	10 . 000	NUM	Num	_	15	nummod	_	_
-15	đồng	đồng	NOUN	Nu	_	12	obj	_	_
+15	đồng	đồng	NOUN	Nu	_	12	obj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s313
@@ -5747,7 +5747,7 @@
 6	chọn	chọn	VERB	V	_	3	xcomp	_	_
 7	được	được	ADV	Adv	_	6	advmod	_	_
 8	giải	giải	NOUN	N	_	6	obj	_	_
-9	nhất	nhất	NUM	Num	_	8	nummod	_	_
+9	nhất	nhất	NUM	Num	_	8	nummod	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s314
@@ -5771,7 +5771,7 @@
 17	nhiều	nhiều	ADJ	Adj	_	18	advmod:adj	_	_
 18	bài	bài	NOUN	N	_	13	obj	_	_
 19	viết	viết	VERB	V	_	18	compound:vmod	_	_
-20	thú vị	thú vị	ADJ	Adj	_	18	amod	_	_
+20	thú vị	thú vị	ADJ	Adj	_	18	amod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s315
@@ -5786,7 +5786,7 @@
 8	quốc lộ	quốc lộ	NOUN	N	_	6	obj	_	_
 9	7	7	NUM	Num	_	8	compound	_	_
 10	...	...	PUNCT	...	_	6	punct	_	_
-11	"	"	PUNCT	``	_	6	punct	_	_
+11	"	"	PUNCT	``	_	6	punct	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s316
@@ -5800,7 +5800,7 @@
 7	nước mắt	nước mắt	NOUN	N	_	6	obj	_	_
 8	nữa	nữa	ADV	Adv	_	6	advmod	_	_
 9	mà	mà	SCONJ	SC	_	10	mark	_	_
-10	khóc	khóc	VERB	V	_	6	xcomp	_	_
+10	khóc	khóc	VERB	V	_	6	xcomp	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s317
@@ -5824,7 +5824,7 @@
 17	vùng	vùng	NOUN	N	_	16	nmod	_	_
 18	biên giới	biên giới	NOUN	N	_	17	nmod	_	_
 19	ở	ở	ADP	Pre	_	20	case	_	_
-20	Thanh Hóa	Thanh Hóa	PROPN	NNP	_	10	obl	_	_
+20	Thanh Hóa	Thanh Hóa	PROPN	NNP	_	10	obl	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s318
@@ -5851,7 +5851,7 @@
 20	Minsk	Minsk	PROPN	NNP	_	19	compound	_	_
 21	áp giải	áp giải	VERB	V	_	3	parataxis	_	_
 22	phía	phía	NOUN	N	_	21	obl:comp	_	_
-23	sau	sau	ADJ	Adj	_	22	amod	_	_
+23	sau	sau	ADJ	Adj	_	22	amod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s319
@@ -5875,7 +5875,7 @@
 17	người	người	NOUN	N	_	16	obj	_	_
 18	gửi	gửi	VERB	V	_	13	xcomp	_	_
 19	dự	dự	VERB	V	_	18	xcomp	_	_
-20	thi	thi	VERB	V	_	19	compound:vmod	_	_
+20	thi	thi	VERB	V	_	19	compound:vmod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s320
@@ -5897,7 +5897,7 @@
 15	đang	đang	ADV	Adv	_	16	advmod	_	_
 16	nối tiếp	nối tiếp	VERB	V	_	6	conj	_	_
 17	...	...	PUNCT	...	_	16	punct	_	_
-18	"	"	PUNCT	``	_	16	punct	_	_
+18	"	"	PUNCT	``	_	16	punct	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s321
@@ -5915,7 +5915,7 @@
 11	cũng	cũng	ADV	Adv	_	12	advmod	_	_
 12	coi trọng	coi trọng	VERB	V	_	3	conj	_	_
 13	việc	việc	NOUN	N	_	12	obj	_	_
-14	thiện	thiện	ADJ	Adj	_	13	amod	_	_
+14	thiện	thiện	ADJ	Adj	_	13	amod	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s322
@@ -5943,7 +5943,7 @@
 21	ông	ông	NOUN	N	_	18	obl	_	_
 22	càng	càng	ADV	Adv	_	23	advmod	_	_
 23	lớn	lớn	ADJ	Adj	_	0	root	_	_
-24	hơn	hơn	ADV	Adv	_	23	advmod	_	_
+24	hơn	hơn	ADV	Adv	_	23	advmod	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	23	punct	_	_
 
 # sent_id = text-s323
@@ -5958,7 +5958,7 @@
 8	đã	đã	ADV	Adv	_	10	advmod	_	_
 9	không	không	ADV	Adv	_	10	advmod:neg	_	_
 10	xảy	xảy	VERB	V	_	4	parataxis	_	_
-11	ra	ra	ADV	Adv	_	10	compound:svc	_	_
+11	ra	ra	ADV	Adv	_	10	compound:svc	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s324
@@ -5979,7 +5979,7 @@
 14	chẳng	chẳng	ADV	Adv	_	15	advmod:neg	_	_
 15	dám	dám	VERB	V	_	10	conj	_	_
 16	oán thán	oán thán	VERB	V	_	15	xcomp	_	_
-17	ai	ai	PRON	Pro	_	16	obj	_	_
+17	ai	ai	PRON	Pro	_	16	obj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s325
@@ -5997,7 +5997,7 @@
 11	người	người	NOUN	N	_	9	obl	_	_
 12	rụng	rụng	VERB	V	_	5	parataxis	_	_
 13	gần	gần	ADV	Adv	_	14	advmod	_	_
-14	hết	hết	VERB	V	_	12	xcomp	_	_
+14	hết	hết	VERB	V	_	12	xcomp	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s326
@@ -6009,7 +6009,7 @@
 5	câm điếc	câm điếc	VERB	V	_	0	root	_	_
 6	không	không	ADV	Adv	_	7	advmod:neg	_	_
 7	biết	biết	VERB	V	_	5	xcomp	_	_
-8	gì	gì	PRON	Pro	_	7	obj	_	_
+8	gì	gì	PRON	Pro	_	7	obj	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s327
@@ -6024,7 +6024,7 @@
 8	nào	nào	PRON	Pro	_	7	det:pmod	_	_
 9	cũng	cũng	ADV	Adv	_	10	advmod	_	_
 10	đòi	đòi	VERB	V	_	4	conj	_	_
-11	ăn	ăn	VERB	V	_	10	xcomp	_	_
+11	ăn	ăn	VERB	V	_	10	xcomp	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s328
@@ -6038,7 +6038,7 @@
 7	vẫn	vẫn	ADV	Adv	_	8	advmod	_	_
 8	câm	câm	ADJ	Adj	_	5	conj	_	_
 9	điếc	điếc	ADJ	Adj	_	8	compound:adj	_	_
-10	"	"	PUNCT	``	_	5	punct	_	_
+10	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s329
@@ -6053,7 +6053,7 @@
 8	từ	từ	NOUN	N	_	6	obl:comp	_	_
 9	"	"	PUNCT	``	_	10	punct	_	_
 10	xóc chéo	xóc chéo	X	X	_	8	nmod	_	_
-11	"	"	PUNCT	``	_	10	punct	_	_
+11	"	"	PUNCT	``	_	10	punct	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s330
@@ -6069,7 +6069,7 @@
 9	phát	phát	VERB	V	_	0	root	_	_
 10	bệnh	bệnh	NOUN	N	_	9	obj	_	_
 11	ung thư	ung thư	NOUN	N	_	10	nmod	_	_
-12	dạ dày	dạ dày	NOUN	N	_	11	compound	_	_
+12	dạ dày	dạ dày	NOUN	N	_	11	compound	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s331
@@ -6090,7 +6090,7 @@
 14	công ty	công ty	NOUN	N	_	12	obj	_	_
 15	sản xuất	sản xuất	VERB	V	_	14	compound:vmod	_	_
 16	hóa chất	hóa chất	NOUN	N	_	15	obj	_	_
-17	Mỹ	Mỹ	PROPN	NNP	_	14	nmod	_	_
+17	Mỹ	Mỹ	PROPN	NNP	_	14	nmod	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s332
@@ -6116,7 +6116,7 @@
 19	nhà	nhà	NOUN	N	_	18	nmod	_	_
 20	mình	mình	PRON	Pro	_	19	compound:pron	_	_
 21	lắm	lắm	ADV	Adv	_	14	advmod	_	_
-22	rồi	rồi	ADV	Adv	_	14	advmod	_	_
+22	rồi	rồi	ADV	Adv	_	14	advmod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s333
@@ -6140,7 +6140,7 @@
 17	An Lão	An Lão	PROPN	NNP	_	16	compound	_	_
 18	(	(	PUNCT	(	_	19	punct	_	_
 19	Hải Phòng	Hải Phòng	PROPN	NNP	_	16	appos:nmod	_	_
-20	)	)	PUNCT	)	_	19	punct	_	_
+20	)	)	PUNCT	)	_	19	punct	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s334
@@ -6158,7 +6158,7 @@
 11	cứ	cứ	ADV	Adv	_	13	advmod	_	_
 12	âm thầm	âm thầm	ADJ	Adj	_	13	advmod:adj	_	_
 13	chịu	chịu	VERB	V	_	7	conj	_	_
-14	thôi	thôi	PART	Prt	_	13	discourse	_	_
+14	thôi	thôi	PART	Prt	_	13	discourse	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s335
@@ -6177,7 +6177,7 @@
 12	cả	cả	PART	Prt	_	13	discourse	_	_
 13	ngày	ngày	NOUN	N	_	10	obl:tmod	_	_
 14	lẫn	lẫn	SCONJ	SC	_	15	cc	_	_
-15	đêm	đêm	NOUN	N	_	13	conj	_	_
+15	đêm	đêm	NOUN	N	_	13	conj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s336
@@ -6197,13 +6197,13 @@
 13	từ	từ	ADP	Pre	_	15	case	_	_
 14	một	một	NUM	Num	_	15	nummod	_	_
 15	người	người	NOUN	N	_	11	conj	_	_
-16	khác	khác	ADJ	Adj	_	15	amod	_	_
+16	khác	khác	ADJ	Adj	_	15	amod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s337
 # text =Phải sống . 
 1	Phải	phải	VERB	V	_	2	aux	_	_
-2	sống	sống	VERB	V	_	0	root	_	_
+2	sống	sống	VERB	V	_	0	root	_	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s338
@@ -6225,7 +6225,7 @@
 15	đã	đã	ADV	Adv	_	16	advmod	_	_
 16	chạy	chạy	VERB	V	_	0	root	_	_
 17	sang	sang	ADV	Adv	_	16	compound:prt	_	_
-18	gan	gan	NOUN	N	_	16	obj	_	_
+18	gan	gan	NOUN	N	_	16	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	16	punct	_	_
 
 # sent_id = text-s339
@@ -6239,7 +6239,7 @@
 7	chết	chết	VERB	V	_	6	xcomp	_	_
 8	lúc	lúc	NOUN	N	_	6	obl	_	_
 9	nào	nào	PRON	Pro	_	8	det:pmod	_	_
-10	"	"	PUNCT	``	_	5	punct	_	_
+10	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s340
@@ -6250,7 +6250,7 @@
 4	tủi	tủi	VERB	V	_	1	conj	_	_
 5	lắm	lắm	ADV	Adv	_	4	advmod	_	_
 6	...	...	PUNCT	...	_	1	punct	_	_
-7	"	"	PUNCT	``	_	1	punct	_	_
+7	"	"	PUNCT	``	_	1	punct	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s341
@@ -6264,7 +6264,7 @@
 7	)	)	PUNCT	)	_	5	punct	_	_
 8	Nguyễn Văn Quí	Nguyễn Văn Quí	PROPN	NNP	_	9	nsubj	_	_
 9	tình nguyện	tình nguyện	VERB	V	_	0	root	_	_
-10	nhập ngũ	nhập ngũ	VERB	V	_	9	xcomp	_	_
+10	nhập ngũ	nhập ngũ	VERB	V	_	9	xcomp	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s342
@@ -6288,7 +6288,7 @@
 17	ở	ở	ADP	Pre	_	18	case	_	_
 18	quảng nam	quảng nam	PROPN	NNP	_	15	obl	_	_
 19	-	-	PUNCT	-	_	20	punct	_	_
-20	Đà Nẵng	Đà Nẵng	PROPN	NNP	_	18	appos:nmod	_	_
+20	Đà Nẵng	Đà Nẵng	PROPN	NNP	_	18	appos:nmod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s343
@@ -6304,7 +6304,7 @@
 9	2	2	NUM	Num	_	8	flat:name	_	_
 10	,	,	PUNCT	,	_	11	punct	_	_
 11	quân khu	quân khu	NOUN	N	_	8	appos	_	_
-12	5	5	NUM	Num	_	11	flat:name	_	_
+12	5	5	NUM	Num	_	11	flat:name	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s344
@@ -6330,7 +6330,7 @@
 19	mới	mới	ADV	Adv	_	20	advmod	_	_
 20	lấy	lấy	VERB	V	_	0	root	_	_
 21	được	được	ADV	Adv	_	20	advmod	_	_
-22	vợ	vợ	NOUN	N	_	20	obj	_	_
+22	vợ	vợ	NOUN	N	_	20	obj	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	20	punct	_	_
 
 # sent_id = text-s345
@@ -6351,7 +6351,7 @@
 14	ông	ông	PRON	Pro	_	15	nsubj	_	_
 15	đi	đi	VERB	V	_	13	acl:tmod	_	_
 16	làm	làm	VERB	V	_	15	compound:svc	_	_
-17	về	về	ADV	Adv	_	15	advmod:dir	_	_
+17	về	về	ADV	Adv	_	15	advmod:dir	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s346
@@ -6378,7 +6378,7 @@
 20	choáng váng	choáng váng	ADJ	Adj	_	18	acomp	_	_
 21	,	,	PUNCT	,	_	22	punct	_	_
 22	nhức	nhức	VERB	V	_	20	conj	_	_
-23	đầu	đầu	NOUN	N	_	22	obj	_	_
+23	đầu	đầu	NOUN	N	_	22	obj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s347
@@ -6406,7 +6406,7 @@
 21	cháu	cháu	NOUN	N	_	24	nsubj:pass	_	_
 22	nó	nó	PRON	Pro	_	21	det:pmod	_	_
 23	bị	bị	VERB	V	_	24	aux:pass	_	_
-24	làm sao	làm sao	X	X	_	20	ccomp	_	_
+24	làm sao	làm sao	X	X	_	20	ccomp	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s348
@@ -6429,7 +6429,7 @@
 16	tướng quân	tướng quân	NOUN	N	_	12	obl	_	_
 17	Tây Sơn	Tây Sơn	PROPN	NNP	_	16	compound	_	_
 18	năm	năm	NOUN	N	_	16	obl:tmod	_	_
-19	nào	nào	PRON	Pro	_	18	det:pmod	_	_
+19	nào	nào	PRON	Pro	_	18	det:pmod	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s349
@@ -6446,7 +6446,7 @@
 10	chất độc	chất độc	NOUN	N	_	9	nmod	_	_
 11	da cam	da cam	NOUN	N	_	10	compound	_	_
 12	là	là	AUX	V	_	13	cop	_	_
-13	gì	gì	PRON	Pro	_	8	ccomp	_	_
+13	gì	gì	PRON	Pro	_	8	ccomp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s350
@@ -6463,7 +6463,7 @@
 10	nuôi	nuôi	VERB	V	_	2	ccomp	_	_
 11	lâu	lâu	ADJ	Adj	_	10	acomp	_	_
 12	cũng	cũng	ADV	Adv	_	13	advmod	_	_
-13	lớn	lớn	ADJ	Adj	_	10	xcomp	_	_
+13	lớn	lớn	ADJ	Adj	_	10	xcomp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s351
@@ -6488,7 +6488,7 @@
 18	cứ	cứ	ADV	Adv	_	19	advmod	_	_
 19	sờ sờ	sờ sờ	ADJ	Adj	_	8	acl:tmod	_	_
 20	ra	ra	ADV	Adv	_	19	advmod	_	_
-21	đó	đó	PART	Prt	_	19	discourse	_	_
+21	đó	đó	PART	Prt	_	19	discourse	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s352
@@ -6513,7 +6513,7 @@
 18	mọi	mọi	DET	Det	_	19	det	_	_
 19	người	người	NOUN	N	_	13	obl	_	_
 20	...	...	PUNCT	...	_	3	punct	_	_
-21	"	"	PUNCT	``	_	3	punct	_	_
+21	"	"	PUNCT	``	_	3	punct	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s353
@@ -6530,7 +6530,7 @@
 10	cúng bái	cúng bái	VERB	V	_	4	xcomp	_	_
 11	,	,	PUNCT	,	_	10	punct	_	_
 12	lễ lạt	lễ lạt	VERB	V	_	10	conj	_	_
-13	suốt	suốt	ADJ	Adj	_	12	advmod:adj	_	_
+13	suốt	suốt	ADJ	Adj	_	12	advmod:adj	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s354
@@ -6555,7 +6555,7 @@
 18	đẻ	đẻ	VERB	V	_	16	conj	_	_
 19	con	con	NOUN	N	_	18	obj	_	_
 20	...	...	PUNCT	...	_	15	punct	_	_
-21	"	"	PUNCT	``	_	8	punct	_	_
+21	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s355
@@ -6581,7 +6581,7 @@
 19	cả	cả	PRON	Pro	_	20	det	_	_
 20	nhà	nhà	NOUN	N	_	17	iobj	_	_
 21	người	người	NOUN	N	_	20	nmod	_	_
-22	khác	khác	ADJ	Adj	_	21	amod	_	_
+22	khác	khác	ADJ	Adj	_	21	amod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s356
@@ -6609,7 +6609,7 @@
 21	đồng	đồng	NOUN	Nu	_	18	nmod	_	_
 22	cho	cho	ADP	Pre	_	24	case	_	_
 23	ông	ông	NOUN	N	_	24	nsubj	_	_
-24	chạy chữa	chạy chữa	VERB	V	_	21	obl	_	_
+24	chạy chữa	chạy chữa	VERB	V	_	21	obl	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s357
@@ -6637,7 +6637,7 @@
 21	,	,	PUNCT	,	_	22	punct	_	_
 22	cắm đầu	cắm đầu	VERB	V	_	18	conj	_	_
 23	xuống	xuống	VERB	V	_	22	compound:dir	_	_
-24	gối	gối	NOUN	N	_	23	obj	_	_
+24	gối	gối	NOUN	N	_	23	obj	_	_	SpaceAfter=No
 25	...	...	PUNCT	...	_	2	punct	_	_
 
 # sent_id = text-s358
@@ -6655,7 +6655,7 @@
 11	vì	vì	ADP	Pre	_	12	mark	_	_
 12	đau đớn	đau đớn	ADJ	Adj	_	9	advcl	_	_
 13	,	,	PUNCT	,	_	14	punct	_	_
-14	bệnh tật	bệnh tật	ADJ	Adj	_	12	conj	_	_
+14	bệnh tật	bệnh tật	ADJ	Adj	_	12	conj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s359
@@ -6666,7 +6666,7 @@
 4	sẽ	sẽ	ADV	Adv	_	5	advmod	_	_
 5	thắng	thắng	VERB	V	_	2	ccomp	_	_
 6	...	...	PUNCT	...	_	2	punct	_	_
-7	"	"	PUNCT	``	_	2	punct	_	_
+7	"	"	PUNCT	``	_	2	punct	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s360
@@ -6683,7 +6683,7 @@
 10	suốt	suốt	ADJ	Adj	_	11	advmod:adj	_	_
 11	câu chuyện	câu chuyện	NOUN	N	_	8	obl	_	_
 12	của	của	ADP	Pre	_	13	case	_	_
-13	bố	bố	NOUN	N	_	11	nmod:poss	_	_
+13	bố	bố	NOUN	N	_	11	nmod:poss	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s361
@@ -6704,7 +6704,7 @@
 14	cha	cha	NOUN	N	_	9	obl:with	_	_
 15	tội nghiệp	tội nghiệp	ADJ	Adj	_	14	amod	_	_
 16	của	của	ADP	Pre	_	17	case	_	_
-17	chúng	chúng	PRON	Pro	_	14	nmod:poss	_	_
+17	chúng	chúng	PRON	Pro	_	14	nmod:poss	_	_	SpaceAfter=No
 18	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s362
@@ -6715,7 +6715,7 @@
 4	hạt	hạt	NOUN	Nc	_	5	det:clf	_	_
 5	gạo	gạo	NOUN	N	_	2	appos	_	_
 6	giữa	giữa	ADP	Pre	_	7	case	_	_
-7	Trường Sơn	Trường Sơn	PROPN	NNP	_	2	obl	_	_
+7	Trường Sơn	Trường Sơn	PROPN	NNP	_	2	obl	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s363
@@ -6742,7 +6742,7 @@
 20	,	,	PUNCT	,	_	22	punct	_	_
 21	phải	phải	VERB	V	_	22	aux	_	_
 22	làm	làm	VERB	V	_	13	xcomp	_	_
-23	theo	theo	ADV	Adv	_	22	advmod	_	_
+23	theo	theo	ADV	Adv	_	22	advmod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s364
@@ -6762,7 +6762,7 @@
 13	nhanh	nhanh	ADJ	Adj	_	9	advmod:adj	_	_
 14	lắm	lắm	ADV	Adv	_	13	advmod	_	_
 15	...	...	PUNCT	...	_	9	punct	_	_
-16	"	"	PUNCT	``	_	9	punct	_	_
+16	"	"	PUNCT	``	_	9	punct	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s365
@@ -6772,7 +6772,7 @@
 3	về	về	ADP	Pre	_	6	case	_	_
 4	những	những	DET	Det	_	6	det	_	_
 5	ngôi	ngôi	NOUN	Nc	_	6	clf	_	_
-6	nhà	nhà	NOUN	N	_	2	obl	_	_
+6	nhà	nhà	NOUN	N	_	2	obl	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s366
@@ -6787,7 +6787,7 @@
 8	hình thành	hình thành	VERB	V	_	6	acl:subj	_	_
 9	một	một	NUM	Num	_	10	nummod	_	_
 10	đội	đội	NOUN	N	_	8	obj	_	_
-11	thợ mộc	thợ mộc	NOUN	N	_	10	nmod	_	_
+11	thợ mộc	thợ mộc	NOUN	N	_	10	nmod	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s367
@@ -6811,7 +6811,7 @@
 17	gì	gì	PRON	Pro	_	16	obj	_	_
 18	phải	phải	VERB	V	_	19	aux	_	_
 19	sợ	sợ	VERB	V	_	0	root	_	_
-20	chứ	chứ	PART	Prt	_	19	discourse	_	_
+20	chứ	chứ	PART	Prt	_	19	discourse	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	19	punct	_	_
 
 # sent_id = text-s368
@@ -6836,7 +6836,7 @@
 18	và	và	CCONJ	CC	_	19	cc	_	_
 19	đường	đường	NOUN	N	_	16	conj	_	_
 20	vào	vào	ADP	Pre	_	21	case	_	_
-21	làng	làng	NOUN	N	_	19	obl	_	_
+21	làng	làng	NOUN	N	_	19	obl	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s369
@@ -6859,7 +6859,7 @@
 16	người	người	NOUN	Nc	_	17	clf	_	_
 17	thợ	thợ	NOUN	N	_	13	nmod:poss	_	_
 18	miền	miền	NOUN	N	_	17	nmod	_	_
-19	xuôi	xuôi	ADJ	Adj	_	18	amod	_	_
+19	xuôi	xuôi	ADJ	Adj	_	18	amod	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s370
@@ -6870,7 +6870,7 @@
 4	"	"	PUNCT	``	_	5	punct	_	_
 5	lúa	lúa	NOUN	N	_	1	obl	_	_
 6	nhà nước	nhà nước	NOUN	N	_	5	nmod	_	_
-7	"	"	PUNCT	``	_	5	punct	_	_
+7	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s371
@@ -6885,7 +6885,7 @@
 8	đến	đến	ADP	Pre	_	9	case	_	_
 9	trường	trường	NOUN	N	_	6	obl:comp	_	_
 10	mà	mà	SCONJ	SC	_	11	mark	_	_
-11	thèm	thèm	VERB	V	_	0	root	_	_
+11	thèm	thèm	VERB	V	_	0	root	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s372
@@ -6896,7 +6896,7 @@
 4	loại	loại	NOUN	N	_	2	obj	_	_
 5	,	,	PUNCT	,	_	7	punct	_	_
 6	nhiều	nhiều	ADJ	Adj	_	7	advmod:adj	_	_
-7	tên	tên	NOUN	N	_	4	conj	_	_
+7	tên	tên	NOUN	N	_	4	conj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s373
@@ -6915,7 +6915,7 @@
 12	"	"	PUNCT	``	_	13	punct	_	_
 13	lúa	lúa	NOUN	N	_	8	conj	_	_
 14	biên phòng	biên phòng	NOUN	N	_	13	nmod	_	_
-15	"	"	PUNCT	``	_	13	punct	_	_
+15	"	"	PUNCT	``	_	13	punct	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s374
@@ -6924,7 +6924,7 @@
 2	dưới	dưới	ADP	Pre	_	1	case	_	_
 3	vành	vành	NOUN	N	_	1	nmod	_	_
 4	mũ	mũ	NOUN	N	_	1	nmod	_	_
-5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_
+5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s375
@@ -6935,7 +6935,7 @@
 4	mà	mà	SCONJ	SC	_	7	mark	_	_
 5	bộ đội	bộ đội	NOUN	N	_	7	nsubj	_	_
 6	cũng	cũng	ADV	Adv	_	7	advmod	_	_
-7	mừng	mừng	VERB	V	_	3	conj	_	_
+7	mừng	mừng	VERB	V	_	3	conj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s376
@@ -6951,7 +6951,7 @@
 9	đến	đến	VERB	V	_	3	parataxis	_	_
 10	từ	từ	ADP	Pre	_	11	case	_	_
 11	phương	phương	NOUN	N	_	9	obl:comp	_	_
-12	Nam	Nam	PROPN	NNP	_	11	compound	_	_
+12	Nam	Nam	PROPN	NNP	_	11	compound	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s377
@@ -6961,7 +6961,7 @@
 3	lại	lại	ADV	Adv	_	5	advmod	_	_
 4	phải	phải	VERB	V	_	5	aux	_	_
 5	thử	thử	VERB	V	_	0	root	_	_
-6	Kim	Kim	PROPN	NNP	_	5	obj	_	_
+6	Kim	Kim	PROPN	NNP	_	5	obj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s378
@@ -6985,7 +6985,7 @@
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	nhậu nhẹt	nhậu nhẹt	VERB	V	_	15	conj	_	_
 19	với	với	ADP	Pre	_	20	case	_	_
-20	bạn bè	bạn bè	NOUN	N	_	15	obl:with	_	_
+20	bạn bè	bạn bè	NOUN	N	_	15	obl:with	_	_	SpaceAfter=No
 21	...	...	PUNCT	...	_	11	punct	_	_
 
 # sent_id = text-s379
@@ -7005,7 +7005,7 @@
 13	đã	đã	ADV	Adv	_	15	advmod	_	_
 14	bị	bị	VERB	V	_	15	aux:pass	_	_
 15	động	động	VERB	V	_	12	acl:subj	_	_
-16	đến	đến	ADV	Adv	_	15	advmod	_	_
+16	đến	đến	ADV	Adv	_	15	advmod	_	_	SpaceAfter=No
 17	!	!	PUNCT	!	_	5	punct	_	_
 
 # sent_id = text-s380
@@ -7026,7 +7026,7 @@
 14	có	có	VERB	V	_	11	parataxis	_	_
 15	chuyện	chuyện	NOUN	N	_	14	obj	_	_
 16	gì	gì	PRON	Pro	_	15	det:pmod	_	_
-17	quan trọng	quan trọng	ADJ	Adj	_	15	amod	_	_
+17	quan trọng	quan trọng	ADJ	Adj	_	15	amod	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s381
@@ -7050,7 +7050,7 @@
 17	công ty	công ty	NOUN	N	_	16	nmod	_	_
 18	cho	cho	ADP	Pre	_	19	case	_	_
 19	cô	cô	NOUN	N	_	13	obl:iobj	_	_
-20	xem	xem	VERB	V	_	13	xcomp	_	_
+20	xem	xem	VERB	V	_	13	xcomp	_	_	SpaceAfter=No
 21	...	...	PUNCT	...	_	13	punct	_	_
 
 # sent_id = text-s382
@@ -7061,7 +7061,7 @@
 4	:	:	PUNCT	:	_	7	punct	_	_
 5	kim	kim	PROPN	NNP	_	7	nsubj	_	_
 6	rất	rất	ADV	Adv	_	7	advmod	_	_
-7	buồn	buồn	ADJ	Adj	_	3	parataxis	_	_
+7	buồn	buồn	ADJ	Adj	_	3	parataxis	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s383
@@ -7079,7 +7079,7 @@
 11	anh	anh	NOUN	N	_	8	obl:with	_	_
 12	không	không	ADV	Adv	_	8	advmod	_	_
 13	?	?	PUNCT	?	_	8	punct	_	_
-14	"	"	PUNCT	``	_	8	punct	_	_
+14	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s384
@@ -7088,7 +7088,7 @@
 2	còn	còn	VERB	V	_	0	root	_	_
 3	họ hàng	họ hàng	NOUN	N	_	2	obj	_	_
 4	,	,	PUNCT	,	_	5	punct	_	_
-5	quê quán	quê quán	NOUN	N	_	3	conj	_	_
+5	quê quán	quê quán	NOUN	N	_	3	conj	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s385
@@ -7108,7 +7108,7 @@
 13	một	một	NUM	Num	_	14	nummod	_	_
 14	chỗ	chỗ	NOUN	N	_	12	obl	_	_
 15	sai bảo	sai bảo	VERB	V	_	12	xcomp	_	_
-16	chúng	chúng	PRON	Pro	_	15	obj	_	_
+16	chúng	chúng	PRON	Pro	_	15	obj	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s386
@@ -7120,7 +7120,7 @@
 5	không	không	ADV	Adv	_	6	advmod:neg	_	_
 6	được	được	VERB	V	_	0	root	_	_
 7	anh	anh	NOUN	N	_	6	obj	_	_
-8	ạ	ạ	INTJ	I	_	6	discourse	_	_
+8	ạ	ạ	INTJ	I	_	6	discourse	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s387
@@ -7130,7 +7130,7 @@
 3	lạ lẫm	lạ lẫm	ADJ	Adj	_	1	advmod:adj	_	_
 4	,	,	PUNCT	,	_	6	punct	_	_
 5	em	em	NOUN	N	_	6	nsubj	_	_
-6	sợ	sợ	VERB	V	_	0	root	_	_
+6	sợ	sợ	VERB	V	_	0	root	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s388
@@ -7144,7 +7144,7 @@
 7	không	không	ADV	Adv	_	8	advmod:neg	_	_
 8	trung thực	trung thực	ADJ	Adj	_	6	acl	_	_
 9	với	với	ADP	Pre	_	10	case	_	_
-10	Hùng	Hùng	PROPN	NNP	_	8	obl:with	_	_
+10	Hùng	Hùng	PROPN	NNP	_	8	obl:with	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s389
@@ -7159,7 +7159,7 @@
 8	Hùng	Hùng	PROPN	NNP	_	11	nsubj	_	_
 9	lại	lại	ADV	Adv	_	11	advmod	_	_
 10	phải	phải	VERB	V	_	11	aux	_	_
-11	chờ	chờ	VERB	V	_	6	parataxis	_	_
+11	chờ	chờ	VERB	V	_	6	parataxis	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s390
@@ -7168,7 +7168,7 @@
 2	từ	từ	ADP	Pre	_	3	case	_	_
 3	miền	miền	NOUN	N	_	1	obl	_	_
 4	Nam	Nam	PROPN	NNP	_	3	compound	_	_
-5	ra	ra	VERB	V	_	0	root	_	_
+5	ra	ra	VERB	V	_	0	root	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s391
@@ -7195,7 +7195,7 @@
 20	anh	anh	NOUN	N	_	17	obl:with	_	_
 21	một	một	NUM	Num	_	22	nummod	_	_
 22	khách hàng	khách hàng	NOUN	N	_	17	obj	_	_
-23	nữa	nữa	ADV	Adv	_	22	advmod	_	_
+23	nữa	nữa	ADV	Adv	_	22	advmod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s392
@@ -7221,7 +7221,7 @@
 19	đẹp	đẹp	ADJ	Adj	_	18	amod	_	_
 20	,	,	PUNCT	,	_	21	punct	_	_
 21	kiên cố	kiên cố	ADJ	Adj	_	19	conj	_	_
-22	thế này	thế này	PRON	Pro	_	21	det:pmod	_	_
+22	thế này	thế này	PRON	Pro	_	21	det:pmod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s393
@@ -7244,7 +7244,7 @@
 16	có	có	VERB	V	_	5	conj	_	_
 17	dấu hiệu	dấu hiệu	NOUN	N	_	16	obj	_	_
 18	bồ bịch	bồ bịch	NOUN	N	_	17	nmod	_	_
-19	"	"	PUNCT	``	_	5	punct	_	_
+19	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s394
@@ -7258,7 +7258,7 @@
 7	Chương	Chương	PROPN	NNP	_	9	nsubj	_	_
 8	đang	đang	ADV	Adv	_	9	advmod	_	_
 9	có	có	VERB	V	_	2	parataxis	_	_
-10	vợ con	vợ con	NOUN	N	_	9	obj	_	_
+10	vợ con	vợ con	NOUN	N	_	9	obj	_	_	SpaceAfter=No
 11	!	!	PUNCT	!	_	9	punct	_	_
 
 # sent_id = text-s395
@@ -7275,7 +7275,7 @@
 10	một	một	NUM	Num	_	11	nummod	_	_
 11	doanh nghiệp	doanh nghiệp	NOUN	N	_	7	nmod:poss	_	_
 12	miền	miền	NOUN	N	_	11	nmod	_	_
-13	Nam	Nam	PROPN	NNP	_	12	compound	_	_
+13	Nam	Nam	PROPN	NNP	_	12	compound	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s396
@@ -7293,7 +7293,7 @@
 11	máy tính	máy tính	NOUN	N	_	13	nsubj	_	_
 12	sẽ	sẽ	ADV	Adv	_	13	advmod	_	_
 13	báo	báo	VERB	V	_	0	root	_	_
-14	ngay	ngay	PART	Prt	_	13	discourse	_	_
+14	ngay	ngay	PART	Prt	_	13	discourse	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s397
@@ -7314,7 +7314,7 @@
 14	rất	rất	ADV	Adv	_	15	advmod	_	_
 15	nhiều	nhiều	ADJ	Adj	_	13	acomp	_	_
 16	công	công	NOUN	N	_	15	obl:adj	_	_
-17	thợ	thợ	NOUN	N	_	16	nmod	_	_
+17	thợ	thợ	NOUN	N	_	16	nmod	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s398
@@ -7341,7 +7341,7 @@
 20	để	để	ADP	Pre	_	21	mark:pcomp	_	_
 21	tìm hiểu	tìm hiểu	VERB	V	_	17	advcl:objective	_	_
 22	ông	ông	NOUN	Nc	_	23	det:clf	_	_
-23	Học	Học	PROPN	NNP	_	21	obj	_	_
+23	Học	Học	PROPN	NNP	_	21	obj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s399
@@ -7357,7 +7357,7 @@
 9	và	và	CCONJ	CC	_	12	cc	_	_
 10	của	của	ADP	Pre	_	12	case	_	_
 11	đa số	đa số	DET	Det	_	12	det	_	_
-12	anh em	anh em	NOUN	N	_	8	conj	_	_
+12	anh em	anh em	NOUN	N	_	8	conj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s400
@@ -7374,13 +7374,13 @@
 10	ra	ra	ADV	Adv	_	9	compound:svc	_	_
 11	một	một	NUM	Num	_	12	nummod	_	_
 12	cuộc	cuộc	NOUN	N	_	9	obj	_	_
-13	tranh luận	tranh luận	VERB	V	_	12	compound:vmod	_	_
+13	tranh luận	tranh luận	VERB	V	_	12	compound:vmod	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s401
 # text =Nhận vợ . 
 1	Nhận	nhận	VERB	V	_	0	root	_	_
-2	vợ	vợ	NOUN	N	_	1	obj	_	_
+2	vợ	vợ	NOUN	N	_	1	obj	_	_	SpaceAfter=No
 3	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s402
@@ -7406,7 +7406,7 @@
 19	còn	còn	ADV	Adv	_	15	advmod	_	_
 20	gì	gì	ADV	Adv	_	19	advmod	_	_
 21	?	?	PUNCT	?	_	15	punct	_	_
-22	"	"	PUNCT	``	_	15	punct	_	_
+22	"	"	PUNCT	``	_	15	punct	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s403
@@ -7419,7 +7419,7 @@
 6	đúng	đúng	ADJ	Adj	_	4	advmod:adj	_	_
 7	không	không	ADV	Adv	_	6	advmod	_	_
 8	?	?	PUNCT	?	_	4	punct	_	_
-9	"	"	PUNCT	``	_	4	punct	_	_
+9	"	"	PUNCT	``	_	4	punct	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s404
@@ -7429,7 +7429,7 @@
 3	,	,	PUNCT	,	_	4	punct	_	_
 4	bỏ	bỏ	VERB	V	_	0	root	_	_
 5	sao	sao	PART	Prt	_	4	discourse	_	_
-6	được	được	ADV	Adv	_	4	advmod	_	_
+6	được	được	ADV	Adv	_	4	advmod	_	_	SpaceAfter=No
 7	!	!	PUNCT	!	_	4	punct	_	_
 
 # sent_id = text-s405
@@ -7456,7 +7456,7 @@
 20	điều	điều	NOUN	N	_	22	nsubj	_	_
 21	gì	gì	PRON	Pro	_	20	det:pmod	_	_
 22	ngăn cản	ngăn cản	VERB	V	_	6	conj	_	_
-23	họ	họ	PRON	Pro	_	22	obj	_	_
+23	họ	họ	PRON	Pro	_	22	obj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s406
@@ -7473,7 +7473,7 @@
 10	ông	ông	PRON	Pro	_	9	obj	_	_
 11	chứ	chứ	ADV	Adv	_	9	advmod	_	_
 12	?	?	PUNCT	?	_	9	punct	_	_
-13	"	"	PUNCT	``	_	9	punct	_	_
+13	"	"	PUNCT	``	_	9	punct	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s407
@@ -7490,7 +7490,7 @@
 10	không	không	ADV	Adv	_	11	advmod:neg	_	_
 11	quan tâm	quan tâm	VERB	V	_	0	root	_	_
 12	...	...	PUNCT	...	_	11	punct	_	_
-13	"	"	PUNCT	``	_	11	punct	_	_
+13	"	"	PUNCT	``	_	11	punct	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s408
@@ -7502,7 +7502,7 @@
 5	sống	sống	VERB	V	_	0	root	_	_
 6	thế nào	thế nào	PRON	Pro	_	5	det:pmod	_	_
 7	?	?	PUNCT	?	_	5	punct	_	_
-8	"	"	PUNCT	``	_	5	punct	_	_
+8	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s409
@@ -7512,7 +7512,7 @@
 3	vẫn	vẫn	ADV	Adv	_	5	advmod	_	_
 4	thường xuyên	thường xuyên	ADJ	Adj	_	5	advmod:adj	_	_
 5	liên hệ	liên hệ	VERB	V	_	0	root	_	_
-6	"	"	PUNCT	``	_	5	punct	_	_
+6	"	"	PUNCT	``	_	5	punct	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s410
@@ -7528,7 +7528,7 @@
 9	ở	ở	ADP	Pre	_	10	case	_	_
 10	Hà Nội	Hà Nội	PROPN	NNP	_	7	obl:comp	_	_
 11	?	?	PUNCT	?	_	4	punct	_	_
-12	"	"	PUNCT	``	_	4	punct	_	_
+12	"	"	PUNCT	``	_	4	punct	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s411
@@ -7550,7 +7550,7 @@
 15	được	được	ADJ	Adj	_	13	obl:comp	_	_
 16	cái	cái	NOUN	Nc	_	17	det:clf	_	_
 17	nghề	nghề	NOUN	N	_	13	obj	_	_
-18	ni	ni	PRON	Pro	_	17	det:pmod	_	_
+18	ni	ni	PRON	Pro	_	17	det:pmod	_	_	SpaceAfter=No
 19	?	?	PUNCT	?	_	13	punct	_	_
 
 # sent_id = text-s412
@@ -7568,7 +7568,7 @@
 11	nhà	nhà	NOUN	N	_	10	nmod	_	_
 12	tôi	tôi	PRON	Pro	_	11	compound:pron	_	_
 13	mà	mà	PART	Prt	_	7	discourse	_	_
-14	"	"	PUNCT	``	_	2	punct	_	_
+14	"	"	PUNCT	``	_	2	punct	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s413
@@ -7580,7 +7580,7 @@
 5	với	với	ADP	Pre	_	6	case	_	_
 6	mẹ	mẹ	NOUN	N	_	4	obl:with	_	_
 7	?	?	PUNCT	?	_	4	punct	_	_
-8	"	"	PUNCT	``	_	4	punct	_	_
+8	"	"	PUNCT	``	_	4	punct	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s414
@@ -7603,7 +7603,7 @@
 16	,	,	PUNCT	,	_	18	punct	_	_
 17	cái	cái	NOUN	Nc	_	18	det:clf	_	_
 18	rìu	rìu	NOUN	N	_	15	conj	_	_
-19	thôi	thôi	PART	Prt	_	12	discourse	_	_
+19	thôi	thôi	PART	Prt	_	12	discourse	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s415
@@ -7630,7 +7630,7 @@
 20	phó văn phòng	phó văn phòng	NOUN	N	_	18	appos:nmod	_	_
 21	của	của	ADP	Pre	_	23	case	_	_
 22	ông	ông	NOUN	Nc	_	23	det:clf	_	_
-23	Chương	Chương	PROPN	NNP	_	20	nmod:poss	_	_
+23	Chương	Chương	PROPN	NNP	_	20	nmod:poss	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	18	punct	_	_
 
 # sent_id = text-s416
@@ -7642,7 +7642,7 @@
 5	với	với	ADP	Pre	_	6	case	_	_
 6	mẹ	mẹ	NOUN	N	_	4	obl:with	_	_
 7	...	...	PUNCT	...	_	4	punct	_	_
-8	"	"	PUNCT	``	_	4	punct	_	_
+8	"	"	PUNCT	``	_	4	punct	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s417
@@ -7663,14 +7663,14 @@
 14	tôi	tôi	PRON	Pro	_	13	nmod	_	_
 15	à	à	INTJ	I	_	12	discourse	_	_
 16	?	?	PUNCT	?	_	12	punct	_	_
-17	"	"	PUNCT	``	_	12	punct	_	_
+17	"	"	PUNCT	``	_	12	punct	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s418
 # text =Kẻ khủng bố xuất hiện ! 
 1	Kẻ	kẻ	NOUN	N	_	3	nsubj	_	_
 2	khủng bố	khủng bố	VERB	V	_	1	compound:vmod	_	_
-3	xuất hiện	xuất hiện	VERB	V	_	0	root	_	_
+3	xuất hiện	xuất hiện	VERB	V	_	0	root	_	_	SpaceAfter=No
 4	!	!	PUNCT	!	_	3	punct	_	_
 
 # sent_id = text-s419
@@ -7679,7 +7679,7 @@
 2	dưới	dưới	ADP	Pre	_	1	nmod	_	_
 3	vành	vành	NOUN	N	_	1	nmod	_	_
 4	mũ	mũ	NOUN	N	_	3	compound	_	_
-5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_
+5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s420
@@ -7695,7 +7695,7 @@
 9	là	là	AUX	V	_	10	cop	_	_
 10	người	người	NOUN	N	_	0	root	_	_
 11	nhu mì	nhu mì	ADJ	Adj	_	10	amod	_	_
-12	hiền lành	hiền lành	ADJ	Adj	_	11	conj	_	_
+12	hiền lành	hiền lành	ADJ	Adj	_	11	conj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s421
@@ -7722,7 +7722,7 @@
 20	gươl	gươl	NOUN	N	_	16	obl:pcomp	_	_
 21	,	,	PUNCT	,	_	23	punct	_	_
 22	cái	cái	NOUN	Nc	_	23	det:clf	_	_
-23	nhà mồ	nhà mồ	NOUN	N	_	20	conj	_	_
+23	nhà mồ	nhà mồ	NOUN	N	_	20	conj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s422
@@ -7742,7 +7742,7 @@
 13	phải	phải	VERB	V	_	14	aux	_	_
 14	làm	làm	VERB	V	_	12	xcomp	_	_
 15	gì	gì	PRON	Pro	_	14	obj	_	_
-16	tiếp	tiếp	VERB	V	_	14	xcomp	_	_
+16	tiếp	tiếp	VERB	V	_	14	xcomp	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s423
@@ -7758,7 +7758,7 @@
 9	đã	đã	ADV	Adv	_	11	advmod	_	_
 10	vội vã	vội vã	ADJ	Adj	_	11	advmod:adj	_	_
 11	cầu cứu	cầu cứu	VERB	V	_	0	root	_	_
-12	Hùng	Hùng	PROPN	NNP	_	11	obj	_	_
+12	Hùng	Hùng	PROPN	NNP	_	11	obj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s424
@@ -7786,7 +7786,7 @@
 21	vợ con	vợ con	NOUN	N	_	19	conj	_	_
 22	vẫn	vẫn	ADV	Adv	_	23	advmod	_	_
 23	đoàn tụ	đoàn tụ	VERB	V	_	2	parataxis	_	_
-24	bình thường	bình thường	ADJ	Adj	_	23	advmod:adj	_	_
+24	bình thường	bình thường	ADJ	Adj	_	23	advmod:adj	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s425
@@ -7805,7 +7805,7 @@
 12	con	con	NOUN	N	_	9	conj	_	_
 13	trong	trong	ADP	Pre	_	14	case	_	_
 14	miền	miền	NOUN	N	_	8	obl	_	_
-15	Nam	Nam	PROPN	NNP	_	14	compound	_	_
+15	Nam	Nam	PROPN	NNP	_	14	compound	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s426
@@ -7824,7 +7824,7 @@
 12	đúng	đúng	ADJ	Adj	_	11	acomp	_	_
 13	thủ phạm	thủ phạm	NOUN	N	_	11	obj	_	_
 14	không	không	ADV	Adv	_	11	advmod:neg	_	_
-15	"	"	PUNCT	``	_	8	punct	_	_
+15	"	"	PUNCT	``	_	8	punct	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s427
@@ -7840,7 +7840,7 @@
 9	đem	đem	VERB	V	_	3	conj	_	_
 10	theo	theo	ADP	Pre	_	11	case	_	_
 11	giấy tờ	giấy tờ	NOUN	N	_	9	obl:comp	_	_
-12	tùy thân	tùy thân	VERB	V	_	11	compound:vmod	_	_
+12	tùy thân	tùy thân	VERB	V	_	11	compound:vmod	_	_	SpaceAfter=No
 13	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s428
@@ -7852,7 +7852,7 @@
 5	thủ phạm	thủ phạm	NOUN	N	_	3	nmod	_	_
 6	:	:	PUNCT	:	_	7	punct	_	_
 7	người tình	người tình	NOUN	N	_	2	parataxis	_	_
-8	bí ẩn	bí ẩn	ADJ	Adj	_	7	amod	_	_
+8	bí ẩn	bí ẩn	ADJ	Adj	_	7	amod	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s429
@@ -7872,7 +7872,7 @@
 13	với	với	ADP	Pre	_	14	case	_	_
 14	nhau	nhau	NOUN	N	_	12	obl:with	_	_
 15	điều	điều	NOUN	N	_	12	obj	_	_
-16	gì	gì	PRON	Pro	_	15	det:pmod	_	_
+16	gì	gì	PRON	Pro	_	15	det:pmod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s430
@@ -7895,7 +7895,7 @@
 16	về	về	ADP	Pre	_	17	case	_	_
 17	quyền	quyền	NOUN	N	_	14	obl:about	_	_
 18	và	và	CCONJ	CC	_	19	cc	_	_
-19	lợi	lợi	NOUN	N	_	17	conj	_	_
+19	lợi	lợi	NOUN	N	_	17	conj	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s431
@@ -7914,7 +7914,7 @@
 12	là	là	AUX	V	_	13	cop	_	_
 13	thủ phạm	thủ phạm	NOUN	N	_	9	acl	_	_
 14	rất	rất	ADV	Adv	_	15	advmod	_	_
-15	mơ hồ	mơ hồ	ADJ	Adj	_	7	ccomp	_	_
+15	mơ hồ	mơ hồ	ADJ	Adj	_	7	ccomp	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s432
@@ -7937,7 +7937,7 @@
 16	cũng	cũng	ADV	Adv	_	17	advmod	_	_
 17	có	có	VERB	V	_	8	parataxis	_	_
 18	quyền	quyền	NOUN	N	_	17	obj	_	_
-19	nghi	nghi	VERB	V	_	18	compound:vmod	_	_
+19	nghi	nghi	VERB	V	_	18	compound:vmod	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s433
@@ -7958,7 +7958,7 @@
 14	giải quyết	giải quyết	VERB	V	_	11	advcl:objective	_	_
 15	vụ	vụ	NOUN	N	_	14	obj	_	_
 16	tai nạn	tai nạn	NOUN	N	_	15	nmod	_	_
-17	giao thông	giao thông	NOUN	N	_	16	compound	_	_
+17	giao thông	giao thông	NOUN	N	_	16	compound	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s434
@@ -7977,12 +7977,12 @@
 12	đó	đó	PRON	Pro	_	11	det:pmod	_	_
 13	mới	mới	ADV	Adv	_	15	advmod	_	_
 14	được	được	VERB	V	_	15	aux:pass	_	_
-15	trả	trả	VERB	V	_	3	parataxis	_	_
+15	trả	trả	VERB	V	_	3	parataxis	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s435
 # text =Thiên duyên . 
-1	Thiên duyên	thiên duyên	NOUN	N	_	0	root	_	_
+1	Thiên duyên	thiên duyên	NOUN	N	_	0	root	_	_	SpaceAfter=No
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s436
@@ -8009,7 +8009,7 @@
 20	là	là	AUX	V	_	21	discourse	_	_
 21	thử	thử	VERB	V	_	13	advcl	_	_
 22	cả	cả	PART	Prt	_	23	det	_	_
-23	kim	kim	PROPN	NNP	_	21	obj	_	_
+23	kim	kim	PROPN	NNP	_	21	obj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s437
@@ -8029,7 +8029,7 @@
 13	trong	trong	ADP	Pre	_	14	case	_	_
 14	xa lạ	xa lạ	ADJ	Adj	_	12	obl	_	_
 15	và	và	CCONJ	CC	_	16	cc	_	_
-16	buồn tẻ	buồn tẻ	ADJ	Adj	_	14	conj	_	_
+16	buồn tẻ	buồn tẻ	ADJ	Adj	_	14	conj	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s438
@@ -8049,7 +8049,7 @@
 13	xe	xe	NOUN	N	_	14	obl:agent	_	_
 14	xô	xô	VERB	V	_	4	ccomp	_	_
 15	ngã	ngã	VERB	V	_	14	xcomp	_	_
-16	bất tỉnh	bất tỉnh	ADJ	Adj	_	15	advmod:adj	_	_
+16	bất tỉnh	bất tỉnh	ADJ	Adj	_	15	advmod:adj	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s439
@@ -8067,7 +8067,7 @@
 11	em	em	NOUN	N	_	10	obj	_	_
 12	bé	bé	NOUN	N	_	11	det:clf	_	_
 13	đó	đó	PRON	Pro	_	11	det:pmod	_	_
-14	dậy	dậy	VERB	V	_	11	acl:subj	_	_
+14	dậy	dậy	VERB	V	_	11	acl:subj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s440
@@ -8086,7 +8086,7 @@
 12	không	không	ADV	Adv	_	13	advmod:neg	_	_
 13	đành	đành	VERB	V	_	0	root	_	_
 14	dời	dời	VERB	V	_	13	xcomp	_	_
-15	bước	bước	NOUN	N	_	14	obj	_	_
+15	bước	bước	NOUN	N	_	14	obj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s441
@@ -8099,7 +8099,7 @@
 6	cô	cô	NOUN	Nc	_	7	det:clf	_	_
 7	gái	gái	NOUN	N	_	5	obj	_	_
 8	đến	đến	VERB	V	_	2	xcomp	_	_
-9	bệnh viện	bệnh viện	NOUN	N	_	8	obj	_	_
+9	bệnh viện	bệnh viện	NOUN	N	_	8	obj	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s442
@@ -8117,7 +8117,7 @@
 11	thì	thì	SCONJ	SC	_	12	mark	_	_
 12	được	được	VERB	V	_	0	root	_	_
 13	thôi	thôi	PART	Prt	_	12	discourse	_	_
-14	"	"	PUNCT	``	_	12	punct	_	_
+14	"	"	PUNCT	``	_	12	punct	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s443
@@ -8131,7 +8131,7 @@
 7	tình nhân	tình nhân	NOUN	N	_	0	root	_	_
 8	của	của	ADP	Pre	_	10	case	_	_
 9	ông	ông	NOUN	Nc	_	10	det:clf	_	_
-10	Chương	Chương	PROPN	NNP	_	7	nmod:poss	_	_
+10	Chương	Chương	PROPN	NNP	_	7	nmod:poss	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s444
@@ -8151,7 +8151,7 @@
 13	cảnh	cảnh	NOUN	N	_	7	obl:comp	_	_
 14	cô độc	cô độc	ADJ	Adj	_	13	amod	_	_
 15	trên	trên	ADP	Pre	_	16	case	_	_
-16	giường bệnh	giường bệnh	NOUN	N	_	7	obl:comp	_	_
+16	giường bệnh	giường bệnh	NOUN	N	_	7	obl:comp	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s445
@@ -8171,7 +8171,7 @@
 13	một	một	NUM	Num	_	14	nummod	_	_
 14	bọc	bọc	NOUN	N	_	11	obj	_	_
 15	trứng	trứng	NOUN	N	_	14	nmod	_	_
-16	gà	gà	NOUN	N	_	15	compound	_	_
+16	gà	gà	NOUN	N	_	15	compound	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s446
@@ -8186,7 +8186,7 @@
 8	của	của	ADP	Pre	_	9	case	_	_
 9	cô	cô	NOUN	N	_	4	nmod:poss	_	_
 10	lúc	lúc	NOUN	N	_	4	obl:tmod	_	_
-11	đó	đó	PRON	Pro	_	10	det:pmod	_	_
+11	đó	đó	PRON	Pro	_	10	det:pmod	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s447
@@ -8204,7 +8204,7 @@
 11	cần	cần	VERB	V	_	5	conj	_	_
 12	có	có	VERB	V	_	11	xcomp	_	_
 13	giới hạn	giới hạn	NOUN	N	_	12	obj	_	_
-14	nhất định	nhất định	ADJ	Adj	_	13	amod	_	_
+14	nhất định	nhất định	ADJ	Adj	_	13	amod	_	_	SpaceAfter=No
 15	...	...	PUNCT	...	_	5	punct	_	_
 
 # sent_id = text-s448
@@ -8223,7 +8223,7 @@
 12	ở	ở	ADP	Pre	_	13	case	_	_
 13	lục ngạn	lục ngạn	NOUN	N	_	11	nmod	_	_
 14	,	,	PUNCT	,	_	15	punct	_	_
-15	Bắc Giang	Bắc Giang	PROPN	NNP	_	13	appos	_	_
+15	Bắc Giang	Bắc Giang	PROPN	NNP	_	13	appos	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s449
@@ -8238,7 +8238,7 @@
 8	phải	phải	VERB	V	_	9	aux	_	_
 9	nằm	nằm	VERB	V	_	3	parataxis	_	_
 10	viện	viện	NOUN	N	_	9	obj	_	_
-11	Hà Nội	Hà Nội	PROPN	NNP	_	10	obl	_	_
+11	Hà Nội	Hà Nội	PROPN	NNP	_	10	obl	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s450
@@ -8253,7 +8253,7 @@
 8	vừa	vừa	ADV	Adv	_	9	advmod	_	_
 9	kiếm	kiếm	VERB	V	_	2	conj	_	_
 10	việc	việc	NOUN	N	_	9	obj	_	_
-11	làm thuê	làm thuê	VERB	V	_	10	xcomp:vcomp	_	_
+11	làm thuê	làm thuê	VERB	V	_	10	xcomp:vcomp	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s451
@@ -8267,7 +8267,7 @@
 7	đã	đã	ADV	Adv	_	8	advmod	_	_
 8	cho	cho	VERB	V	_	3	parataxis	_	_
 9	Kim	Kim	PROPN	NNP	_	8	obj	_	_
-10	nghỉ việc	nghỉ việc	VERB	V	_	9	acl:subj	_	_
+10	nghỉ việc	nghỉ việc	VERB	V	_	9	acl:subj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s452
@@ -8294,7 +8294,7 @@
 20	là	là	SCONJ	SC	_	21	mark	_	_
 21	nhận	nhận	VERB	V	_	17	xcomp	_	_
 22	ra	ra	ADV	Adv	_	21	compound:svc	_	_
-23	ngay	ngay	PART	Prt	_	21	discourse	_	_
+23	ngay	ngay	PART	Prt	_	21	discourse	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s453
@@ -8313,7 +8313,7 @@
 12	cũng	cũng	ADV	Adv	_	14	advmod	_	_
 13	không	không	ADV	Adv	_	14	advmod:neg	_	_
 14	còn	còn	VERB	V	_	3	advcl	_	_
-15	vườn ruộng	vườn ruộng	NOUN	N	_	14	obj	_	_
+15	vườn ruộng	vườn ruộng	NOUN	N	_	14	obj	_	_	SpaceAfter=No
 16	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s454
@@ -8332,7 +8332,7 @@
 12	căn	căn	NOUN	Nc	_	11	clf	_	_
 13	nhà trọ	nhà trọ	NOUN	N	_	9	conj	_	_
 14	ở	ở	ADP	Pre	_	15	case	_	_
-15	Hà Nội	Hà Nội	PROPN	NNP	_	9	obl	_	_
+15	Hà Nội	Hà Nội	PROPN	NNP	_	9	obl	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s455
@@ -8344,7 +8344,7 @@
 5	buổi	buổi	NOUN	N	_	1	obj	_	_
 6	thì	thì	SCONJ	SC	_	8	mark	_	_
 7	Kim	Kim	PROPN	NNP	_	8	nsubj	_	_
-8	ốm	ốm	VERB	V	_	0	root	_	_
+8	ốm	ốm	VERB	V	_	0	root	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s456
@@ -8357,7 +8357,7 @@
 6	chính	chính	PART	Prt	_	9	discourse	_	_
 7	là	là	AUX	V	_	9	cop	_	_
 8	ông	ông	NOUN	Nc	_	9	det:clf	_	_
-9	Chương	Chương	PROPN	NNP	_	0	root	_	_
+9	Chương	Chương	PROPN	NNP	_	0	root	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s457
@@ -8381,7 +8381,7 @@
 17	bị	bị	VERB	V	_	18	aux:pass	_	_
 18	khủng bố	khủng bố	VERB	V	_	14	acl	_	_
 19	,	,	PUNCT	,	_	20	punct	_	_
-20	đe dọa	đe dọa	VERB	V	_	18	conj	_	_
+20	đe dọa	đe dọa	VERB	V	_	18	conj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s458
@@ -8391,14 +8391,14 @@
 3	trước	trước	ADP	Pre	_	1	nmod	_	_
 4	những	những	DET	Det	_	5	det	_	_
 5	cuộc	cuộc	NOUN	N	_	1	nmod	_	_
-6	khủng bố	khủng bố	VERB	V	_	5	compound:vmod	_	_
+6	khủng bố	khủng bố	VERB	V	_	5	compound:vmod	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s459
 # text =Đành khai thác tiếp . 
 1	Đành	đành	VERB	V	_	0	root	_	_
 2	khai thác	khai thác	VERB	V	_	1	xcomp	_	_
-3	tiếp	tiếp	ADV	Adv	_	2	advmod	_	_
+3	tiếp	tiếp	ADV	Adv	_	2	advmod	_	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s460
@@ -8419,7 +8419,7 @@
 14	Kim	Kim	PROPN	NNP	_	12	conj	_	_
 15	cùng	cùng	ADJ	Adj	_	16	advmod:adj	_	_
 16	ở	ở	VERB	V	_	9	parataxis	_	_
-17	nhà	nhà	NOUN	N	_	16	obl	_	_
+17	nhà	nhà	NOUN	N	_	16	obl	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s461
@@ -8442,7 +8442,7 @@
 16	Kim	Kim	PROPN	NNP	_	15	obj	_	_
 17	đến	đến	VERB	V	_	15	xcomp	_	_
 18	sống	sống	VERB	V	_	17	xcomp	_	_
-19	cùng	cùng	ADJ	Adj	_	18	advmod:adj	_	_
+19	cùng	cùng	ADJ	Adj	_	18	advmod:adj	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s462
@@ -8455,7 +8455,7 @@
 6	nói	nói	VERB	V	_	0	root	_	_
 7	gì	gì	PRON	Pro	_	6	obj	_	_
 8	với	với	ADP	Pre	_	9	case	_	_
-9	Kim	Kim	PROPN	NNP	_	6	obl:with	_	_
+9	Kim	Kim	PROPN	NNP	_	6	obl:with	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s463
@@ -8463,7 +8463,7 @@
 1	"	"	PUNCT	``	_	4	punct	_	_
 2	Em	em	NOUN	N	_	4	nsubj	_	_
 3	không	không	ADV	Adv	_	4	advmod:neg	_	_
-4	thấy	thấy	VERB	V	_	0	root	_	_
+4	thấy	thấy	VERB	V	_	0	root	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s464
@@ -8474,7 +8474,7 @@
 4	vậy	vậy	PRON	Pro	_	1	obj	_	_
 5	anh	anh	NOUN	N	_	1	obj	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
-7	"	"	PUNCT	``	_	1	punct	_	_
+7	"	"	PUNCT	``	_	1	punct	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s465
@@ -8482,7 +8482,7 @@
 1	"	"	PUNCT	``	_	3	punct	_	_
 2	Không	không	ADV	Adv	_	3	advmod:neg	_	_
 3	có	có	VERB	V	_	0	root	_	_
-4	gì	gì	PRON	Pro	_	3	obj	_	_
+4	gì	gì	PRON	Pro	_	3	obj	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s466
@@ -8501,7 +8501,7 @@
 12	nên	nên	SCONJ	SC	_	13	mark	_	_
 13	gọi	gọi	VERB	V	_	7	conj	_	_
 14	về	về	ADP	Pre	_	15	case	_	_
-15	đây	đây	PRON	Pro	_	13	obl:comp	_	_
+15	đây	đây	PRON	Pro	_	13	obl:comp	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s467
@@ -8510,7 +8510,7 @@
 2	vâng	vâng	INTJ	I	_	0	root	_	_
 3	ạ	ạ	INTJ	I	_	2	discourse	_	_
 4	!	!	PUNCT	!	_	2	punct	_	_
-5	"	"	PUNCT	``	_	2	punct	_	_
+5	"	"	PUNCT	``	_	2	punct	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s468
@@ -8520,7 +8520,7 @@
 3	rất	rất	ADV	Adv	_	4	advmod	_	_
 4	lo lắng	lo lắng	ADJ	Adj	_	2	obj	_	_
 5	cho	cho	ADP	Pre	_	6	case	_	_
-6	ông	ông	NOUN	N	_	4	obl:comp	_	_
+6	ông	ông	NOUN	N	_	4	obl:comp	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s469
@@ -8534,7 +8534,7 @@
 7	thấy	thấy	VERB	V	_	6	acl:subj	_	_
 8	khác	khác	ADJ	Adj	_	7	advmod:adj	_	_
 9	lần	lần	NOUN	N	_	8	obj	_	_
-10	trước	trước	ADJ	Adj	_	9	amod	_	_
+10	trước	trước	ADJ	Adj	_	9	amod	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s470
@@ -8558,14 +8558,14 @@
 17	để	để	VERB	V	_	13	conj	_	_
 18	ông	ông	NOUN	Nc	_	19	det:clf	_	_
 19	Chương	Chương	PROPN	NNP	_	17	obj	_	_
-20	nhấc	nhấc	VERB	V	_	19	acl:subj	_	_
+20	nhấc	nhấc	VERB	V	_	19	acl:subj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s471
 # text =Vậy Kim trong sáng ? 
 1	Vậy	vậy	PRON	Pro	_	3	discourse	_	_
 2	Kim	Kim	PROPN	NNP	_	3	nsubj	_	_
-3	trong sáng	trong sáng	ADJ	Adj	_	0	root	_	_
+3	trong sáng	trong sáng	ADJ	Adj	_	0	root	_	_	SpaceAfter=No
 4	?	?	PUNCT	?	_	3	punct	_	_
 
 # sent_id = text-s472
@@ -8587,7 +8587,7 @@
 15	Kim	Kim	PROPN	NNP	_	13	conj	_	_
 16	cùng	cùng	ADJ	Adj	_	17	advmod:adj	_	_
 17	ở	ở	ADP	Pre	_	12	acl:tmod	_	_
-18	nhà	nhà	NOUN	N	_	17	obj	_	_
+18	nhà	nhà	NOUN	N	_	17	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s473
@@ -8604,7 +8604,7 @@
 10	lúc	lúc	NOUN	N	_	7	obl:tmod	_	_
 11	nào	nào	PRON	Pro	_	10	det:pmod	_	_
 12	chẳng	chẳng	ADV	Adv	_	13	advmod:neg	_	_
-13	biết	biết	VERB	V	_	7	ccomp	_	_
+13	biết	biết	VERB	V	_	7	ccomp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s474
@@ -8631,7 +8631,7 @@
 20	xin	xin	VERB	V	_	2	advcl:objective	_	_
 21	việc	việc	NOUN	N	_	20	obj	_	_
 22	cho	cho	ADP	Pre	_	23	case	_	_
-23	cô	cô	NOUN	N	_	20	obl:iobj	_	_
+23	cô	cô	NOUN	N	_	20	obl:iobj	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s475
@@ -8652,7 +8652,7 @@
 14	có	có	VERB	V	_	12	parataxis	_	_
 15	người	người	NOUN	N	_	14	nsubj	_	_
 16	cần	cần	VERB	V	_	17	aux	_	_
-17	gặp	gặp	VERB	V	_	15	acl:subj	_	_
+17	gặp	gặp	VERB	V	_	15	acl:subj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s476
@@ -8661,7 +8661,7 @@
 2	không thể	không thể	ADJ	Adj	_	4	advmod	_	_
 3	là	là	SCONJ	SC	_	4	cc	_	_
 4	đóng kịch	đóng kịch	VERB	V	_	0	root	_	_
-5	được	được	ADV	Adv	_	4	advmod	_	_
+5	được	được	ADV	Adv	_	4	advmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s477
@@ -8675,7 +8675,7 @@
 7	khủng bố	khủng bố	VERB	V	_	6	compound:vmod	_	_
 8	gửi	gửi	VERB	V	_	5	ccomp	_	_
 9	về	về	ADP	Pre	_	8	compound:svc	_	_
-10	nhà	nhà	NOUN	N	_	9	obj	_	_
+10	nhà	nhà	NOUN	N	_	9	obj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s478
@@ -8686,7 +8686,7 @@
 4	không	không	ADV	Adv	_	5	advmod:neg	_	_
 5	giấu	giấu	VERB	V	_	0	root	_	_
 6	Kim	Kim	PROPN	NNP	_	5	obj	_	_
-7	nữa	nữa	ADV	Adv	_	5	advmod	_	_
+7	nữa	nữa	ADV	Adv	_	5	advmod	_	_	SpaceAfter=No
 8	...	...	PUNCT	...	_	5	punct	_	_
 
 # sent_id = text-s479
@@ -8701,7 +8701,7 @@
 8	quốc khánh	quốc khánh	NOUN	N	_	4	conj	_	_
 9	2	2	NUM	Num	_	8	compound	_	_
 10	-	-	PUNCT	-	_	9	flat:date	_	_
-11	9	9	NUM	Num	_	9	flat:date	_	_
+11	9	9	NUM	Num	_	9	flat:date	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s480
@@ -8710,7 +8710,7 @@
 2	giữa	giữa	ADP	Pre	_	3	case	_	_
 3	lòng	lòng	NOUN	N	_	1	obl	_	_
 4	đất	đất	NOUN	N	_	3	nmod	_	_
-5	thép	thép	NOUN	N	_	4	nmod	_	_
+5	thép	thép	NOUN	N	_	4	nmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s481
@@ -8726,7 +8726,7 @@
 9	HCM	HCM	PROPN	NNP	_	7	compound	_	_
 10	:	:	PUNCT	:	_	11	punct	_	_
 11	địa đạo	địa đạo	NOUN	N	_	3	appos:nmod	_	_
-12	Củ Chi	Củ Chi	PROPN	NNP	_	11	compound	_	_
+12	Củ Chi	Củ Chi	PROPN	NNP	_	11	compound	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s482
@@ -8742,7 +8742,7 @@
 9	xấu	xấu	ADJ	Adj	_	7	conj	_	_
 10	đều	đều	ADV	Adv	_	11	advmod	_	_
 11	có	có	VERB	V	_	2	ccomp	_	_
-12	cơ sở	cơ sở	NOUN	N	_	11	obj	_	_
+12	cơ sở	cơ sở	NOUN	N	_	11	obj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s483
@@ -8763,7 +8763,7 @@
 14	thành	thành	VERB	V	_	11	advcl:objective	_	_
 15	hào	hào	NOUN	N	_	14	obl	_	_
 16	thành	thành	VERB	V	_	14	conj	_	_
-17	lũy	lũy	NOUN	N	_	16	obl	_	_
+17	lũy	lũy	NOUN	N	_	16	obl	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s484
@@ -8773,7 +8773,7 @@
 3	suốt	suốt	ADJ	Adj	_	1	obl:adj	_	_
 4	...	...	PUNCT	...	_	3	punct	_	_
 5	15	15	NUM	Num	_	6	nummod	_	_
-6	năm	năm	NOUN	N	_	3	obj	_	_
+6	năm	năm	NOUN	N	_	3	obj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s485
@@ -8782,7 +8782,7 @@
 2	đồng bào	đồng bào	NOUN	N	_	5	nsubj	_	_
 3	,	,	PUNCT	,	_	4	punct	_	_
 4	đồng chí	đồng chí	NOUN	N	_	2	conj	_	_
-5	hi sinh	hi sinh	VERB	V	_	0	root	_	_
+5	hi sinh	hi sinh	VERB	V	_	0	root	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s486
@@ -8790,7 +8790,7 @@
 1	Lực lượng	lực lượng	NOUN	N	_	4	nsubj	_	_
 2	cách mạng	cách mạng	VERB	V	_	1	compound:vmod	_	_
 3	ngày càng	ngày càng	ADV	Adv	_	4	advmod	_	_
-4	mất mát	mất mát	VERB	V	_	0	root	_	_
+4	mất mát	mất mát	VERB	V	_	0	root	_	_	SpaceAfter=No
 5	...	...	PUNCT	...	_	4	punct	_	_
 
 # sent_id = text-s487
@@ -8811,7 +8811,7 @@
 14	cách mạng	cách mạng	VERB	V	_	13	compound:vmod	_	_
 15	càng	càng	ADV	Adv	_	16	advmod	_	_
 16	thêm	thêm	VERB	V	_	10	parataxis	_	_
-17	cam go	cam go	ADJ	Adj	_	16	advmod:adj	_	_
+17	cam go	cam go	ADJ	Adj	_	16	advmod:adj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s488
@@ -8822,7 +8822,7 @@
 4	,	,	PUNCT	,	_	7	punct	_	_
 5	người	người	NOUN	N	_	7	nsubj	_	_
 6	sau	sau	ADJ	Adj	_	5	amod	_	_
-7	tiến	tiến	VERB	V	_	3	conj	_	_
+7	tiến	tiến	VERB	V	_	3	conj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s489
@@ -8839,7 +8839,7 @@
 10	từng	từng	ADV	Adv	_	11	advmod	_	_
 11	nhóm	nhóm	NOUN	N	_	13	nsubj	_	_
 12	người	người	NOUN	N	_	11	nmod	_	_
-13	lố nhố	lố nhố	ADJ	Adj	_	0	root	_	_
+13	lố nhố	lố nhố	ADJ	Adj	_	0	root	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s490
@@ -8863,7 +8863,7 @@
 17	lao	lao	VERB	V	_	0	root	_	_
 18	vào	vào	ADP	Pre	_	17	compound:svc	_	_
 19	trận	trận	NOUN	N	_	17	obj	_	_
-20	mới	mới	ADJ	Adj	_	19	amod	_	_
+20	mới	mới	ADJ	Adj	_	19	amod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	17	punct	_	_
 
 # sent_id = text-s491
@@ -8878,7 +8878,7 @@
 8	phát động	phát động	VERB	V	_	0	root	_	_
 9	phong trào	phong trào	NOUN	N	_	8	obj	_	_
 10	đào	đào	VERB	V	_	9	acl	_	_
-11	địa đạo	địa đạo	NOUN	N	_	10	obj	_	_
+11	địa đạo	địa đạo	NOUN	N	_	10	obj	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s492
@@ -8894,7 +8894,7 @@
 9	mình	mình	PRON	Pro	_	10	nsubj	_	_
 10	tính	tính	VERB	V	_	3	parataxis	_	_
 11	...	...	PUNCT	...	_	3	punct	_	_
-12	"	"	PUNCT	``	_	3	punct	_	_
+12	"	"	PUNCT	``	_	3	punct	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s493
@@ -8922,7 +8922,7 @@
 21	chiến tranh	chiến tranh	NOUN	N	_	20	nmod	_	_
 22	mỹ	mỹ	PROPN	NNP	_	21	nmod	_	_
 23	-	-	PUNCT	-	_	24	punct	_	_
-24	ngụy	ngụy	PROPN	NNP	_	22	conj	_	_
+24	ngụy	ngụy	PROPN	NNP	_	22	conj	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s494
@@ -8944,7 +8944,7 @@
 15	phải	phải	VERB	V	_	16	aux	_	_
 16	càn	càn	VERB	V	_	0	root	_	_
 17	qua	qua	ADP	Pre	_	18	case	_	_
-18	Nhuận Đức	Nhuận Đức	PROPN	NNP	_	16	obl:comp	_	_
+18	Nhuận Đức	Nhuận Đức	PROPN	NNP	_	16	obl:comp	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	16	punct	_	_
 
 # sent_id = text-s495
@@ -8972,7 +8972,7 @@
 21	phản công	phản công	VERB	V	_	20	xcomp	_	_
 22	,	,	PUNCT	,	_	23	punct	_	_
 23	phòng thủ	phòng thủ	VERB	V	_	17	conj	_	_
-24	tiến công	tiến công	VERB	V	_	23	xcomp	_	_
+24	tiến công	tiến công	VERB	V	_	23	xcomp	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s496
@@ -8993,7 +8993,7 @@
 14	nấu	nấu	VERB	V	_	3	parataxis	_	_
 15	cơm	cơm	NOUN	N	_	14	obj	_	_
 16	nấu	nấu	VERB	V	_	14	conj	_	_
-17	khoai	khoai	NOUN	N	_	16	obj	_	_
+17	khoai	khoai	NOUN	N	_	16	obj	_	_	SpaceAfter=No
 18	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s497
@@ -9005,7 +9005,7 @@
 5	làng	làng	NOUN	N	_	2	conj	_	_
 6	hừng hực	hừng hực	VERB	V	_	0	root	_	_
 7	khí thế	khí thế	NOUN	N	_	6	obj	_	_
-8	cách mạng	cách mạng	VERB	V	_	7	compound:vmod	_	_
+8	cách mạng	cách mạng	VERB	V	_	7	compound:vmod	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s498
@@ -9021,7 +9021,7 @@
 9	tháng	tháng	NOUN	N	_	6	obl:tmod	_	_
 10	,	,	PUNCT	,	_	12	punct	_	_
 11	một	một	NUM	Num	_	12	nummod	_	_
-12	năm	năm	NOUN	N	_	9	conj	_	_
+12	năm	năm	NOUN	N	_	9	conj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s499
@@ -9035,7 +9035,7 @@
 7	người	người	NOUN	N	_	8	nsubj	_	_
 8	còn	còn	VERB	V	_	0	root	_	_
 9	người	người	NOUN	N	_	10	nsubj	_	_
-10	mất	mất	VERB	V	_	8	conj	_	_
+10	mất	mất	VERB	V	_	8	conj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s500
@@ -9056,7 +9056,7 @@
 14	địa đạo	địa đạo	NOUN	N	_	13	obj	_	_
 15	thời	thời	NOUN	N	_	5	obl:tmod	_	_
 16	chống	chống	VERB	V	_	15	acl:tmod	_	_
-17	Mỹ	Mỹ	PROPN	NNP	_	16	obj	_	_
+17	Mỹ	Mỹ	PROPN	NNP	_	16	obj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s501
@@ -9082,7 +9082,7 @@
 19	3	3	NUM	Num	_	22	nummod	_	_
 20	-	-	PUNCT	-	_	21	punct	_	_
 21	4	4	NUM	Num	_	19	conj	_	_
-22	tấc	tấc	NOUN	Nu	_	17	nmod	_	_
+22	tấc	tấc	NOUN	Nu	_	17	nmod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s502
@@ -9096,7 +9096,7 @@
 7	đường kính	đường kính	NOUN	N	_	5	appos:nmod	_	_
 8	chừng	chừng	NOUN	N	_	7	nmod	_	_
 9	6	6	NUM	Num	_	10	nummod	_	_
-10	tấc	tấc	NOUN	Nu	_	7	nmod	_	_
+10	tấc	tấc	NOUN	Nu	_	7	nmod	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s503
@@ -9107,7 +9107,7 @@
 4	cách	cách	VERB	V	_	0	root	_	_
 5	nhau	nhau	NOUN	N	_	4	obj	_	_
 6	10	10	NUM	Num	_	7	nummod	_	_
-7	m	m	NOUN	Nu	_	4	obl	_	_
+7	m	m	NOUN	Nu	_	4	obl	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s504
@@ -9119,7 +9119,7 @@
 5	mỗi	mỗi	DET	Det	_	6	det	_	_
 6	bên	bên	NOUN	N	_	4	obj	_	_
 7	5	5	NUM	Num	_	8	nummod	_	_
-8	m	m	NOUN	Nu	_	4	obl	_	_
+8	m	m	NOUN	Nu	_	4	obl	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s505
@@ -9137,7 +9137,7 @@
 11	mỗi	mỗi	DET	Det	_	12	det	_	_
 12	ngày	ngày	NOUN	N	_	7	obl	_	_
 13	một	một	NUM	Num	_	14	nummod	_	_
-14	chút	chút	NOUN	N	_	12	nmod	_	_
+14	chút	chút	NOUN	N	_	12	nmod	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s506
@@ -9154,7 +9154,7 @@
 10	lỗ	lỗ	NOUN	N	_	2	conj	_	_
 11	thông	thông	VERB	V	_	10	acl	_	_
 12	hơi	hơi	NOUN	N	_	11	obj	_	_
-13	kỳ diệu	kỳ diệu	ADJ	Adj	_	10	amod	_	_
+13	kỳ diệu	kỳ diệu	ADJ	Adj	_	10	amod	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s507
@@ -9170,7 +9170,7 @@
 9	ngoắt	ngoắt	ADJ	Adj	_	4	conj	_	_
 10	qua	qua	ADV	Adv	_	9	advmod	_	_
 11	ngoắt	ngoắt	ADJ	Adj	_	9	conj	_	_
-12	lại	lại	ADV	Adv	_	11	advmod	_	_
+12	lại	lại	ADV	Adv	_	11	advmod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s508
@@ -9187,7 +9187,7 @@
 10	lựu đạn	lựu đạn	NOUN	N	_	8	appos	_	_
 11	)	)	PUNCT	)	_	10	punct	_	_
 12	của	của	ADP	Pre	_	13	case	_	_
-13	địch	địch	NOUN	N	_	8	nmod:poss	_	_
+13	địch	địch	NOUN	N	_	8	nmod:poss	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s509
@@ -9196,7 +9196,7 @@
 2	tổn thất	tổn thất	NOUN	N	_	4	nsubj	_	_
 3	đã	đã	ADV	Adv	_	4	advmod	_	_
 4	xảy	xảy	VERB	V	_	0	root	_	_
-5	ra	ra	ADV	Adv	_	4	compound:svc	_	_
+5	ra	ra	ADV	Adv	_	4	compound:svc	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s510
@@ -9208,7 +9208,7 @@
 5	"	"	PUNCT	``	_	2	punct	_	_
 6	bất lực	bất lực	VERB	V	_	0	root	_	_
 7	và	và	CCONJ	CC	_	8	cc	_	_
-8	thất bại	thất bại	VERB	V	_	6	conj	_	_
+8	thất bại	thất bại	VERB	V	_	6	conj	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s511
@@ -9232,7 +9232,7 @@
 17	chó	chó	NOUN	N	_	19	nsubj	_	_
 18	không	không	ADV	Adv	_	19	advmod:neg	_	_
 19	đánh hơi	đánh hơi	VERB	V	_	13	advcl:objective	_	_
-20	được	được	ADV	Adv	_	19	advmod	_	_
+20	được	được	ADV	Adv	_	19	advmod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s512
@@ -9258,7 +9258,7 @@
 19	bôi	bôi	VERB	V	_	4	advcl:objective	_	_
 20	ở	ở	ADP	Pre	_	21	case	_	_
 21	bên	bên	NOUN	N	_	19	obl:comp	_	_
-22	trên	trên	ADJ	Adj	_	21	amod	_	_
+22	trên	trên	ADJ	Adj	_	21	amod	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s513
@@ -9267,7 +9267,7 @@
 2	dưới	dưới	ADP	Pre	_	1	nmod	_	_
 3	vành	vành	NOUN	N	_	1	nmod	_	_
 4	mũ	mũ	NOUN	N	_	3	compound	_	_
-5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_
+5	thám tử	thám tử	NOUN	N	_	1	nmod	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s514
@@ -9284,7 +9284,7 @@
 10	rút	rút	VERB	V	_	7	xcomp	_	_
 11	vào	vào	ADP	Pre	_	12	case	_	_
 12	lòng	lòng	NOUN	N	_	10	obl:comp	_	_
-13	đất	đất	NOUN	N	_	12	nmod	_	_
+13	đất	đất	NOUN	N	_	12	nmod	_	_	SpaceAfter=No
 14	...	...	PUNCT	...	_	7	punct	_	_
 
 # sent_id = text-s515
@@ -9307,7 +9307,7 @@
 16	bị	bị	VERB	V	_	19	aux:pass	_	_
 17	một	một	NUM	Num	_	18	nummod	_	_
 18	thằng	thằng	NOUN	N	_	19	obl:agent	_	_
-19	theo dõi	theo dõi	VERB	V	_	9	parataxis	_	_
+19	theo dõi	theo dõi	VERB	V	_	9	parataxis	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s516
@@ -9317,7 +9317,7 @@
 3	ngay	ngay	PART	Prt	_	2	discourse	_	_
 4	nhé	nhé	PART	Prt	_	2	discourse	_	_
 5	!	!	PUNCT	!	_	2	punct	_	_
-6	"	"	PUNCT	``	_	2	punct	_	_
+6	"	"	PUNCT	``	_	2	punct	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s517
@@ -9342,7 +9342,7 @@
 18	,	,	PUNCT	,	_	19	punct	_	_
 19	đội	đội	VERB	V	_	5	conj	_	_
 20	mũ	mũ	NOUN	N	_	19	obl	_	_
-21	đen	đen	ADJ	Adj	_	20	amod	_	_
+21	đen	đen	ADJ	Adj	_	20	amod	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s518
@@ -9351,7 +9351,7 @@
 2	đuổi	đuổi	VERB	V	_	1	xcomp	_	_
 3	kẻ	kẻ	NOUN	N	_	1	obj	_	_
 4	rượt	rượt	VERB	V	_	3	acl	_	_
-5	đuổi	đuổi	VERB	V	_	4	xcomp	_	_
+5	đuổi	đuổi	VERB	V	_	4	xcomp	_	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s519
@@ -9361,7 +9361,7 @@
 3	nó	nó	PRON	Pro	_	2	obj	_	_
 4	ra sao	ra sao	X	X	_	2	obl	_	_
 5	?	?	PUNCT	?	_	2	punct	_	_
-6	"	"	PUNCT	``	_	2	punct	_	_
+6	"	"	PUNCT	``	_	2	punct	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s520
@@ -9385,7 +9385,7 @@
 17	bố	bố	NOUN	N	_	11	obl	_	_
 18	cô	cô	NOUN	N	_	17	nmod	_	_
 19	đã	đã	ADV	Adv	_	20	advmod	_	_
-20	mất	mất	VERB	V	_	17	acl:subj	_	_
+20	mất	mất	VERB	V	_	17	acl:subj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s521
@@ -9410,7 +9410,7 @@
 18	đưa	đưa	VERB	V	_	10	conj	_	_
 19	Kim	Kim	PROPN	NNP	_	20	nsubj:xsubj	_	_
 20	giữ	giữ	VERB	V	_	18	xcomp	_	_
-21	hộ	hộ	VERB	V	_	20	compound:svc	_	_
+21	hộ	hộ	VERB	V	_	20	compound:svc	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s522
@@ -9425,7 +9425,7 @@
 8	kẻ	kẻ	VERB	V	_	7	compound:vmod	_	_
 9	bám	bám	VERB	V	_	3	conj	_	_
 10	theo	theo	ADP	Pre	_	11	case	_	_
-11	sau	sau	ADJ	Adj	_	9	obl:comp	_	_
+11	sau	sau	ADJ	Adj	_	9	obl:comp	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s523
@@ -9445,7 +9445,7 @@
 13	mặt	mặt	NOUN	N	_	12	obj	_	_
 14	lộ	lộ	VERB	V	_	12	xcomp:adj	_	_
 15	vẻ	vẻ	NOUN	N	_	14	obj	_	_
-16	hốt hoảng	hốt hoảng	VERB	V	_	15	compound:vmod	_	_
+16	hốt hoảng	hốt hoảng	VERB	V	_	15	compound:vmod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s524
@@ -9464,7 +9464,7 @@
 12	ông	ông	NOUN	Nc	_	13	det:clf	_	_
 13	Chương	Chương	PROPN	NNP	_	15	nsubj	_	_
 14	không	không	ADV	Adv	_	15	advmod:neg	_	_
-15	tiết lộ	tiết lộ	VERB	V	_	3	parataxis	_	_
+15	tiết lộ	tiết lộ	VERB	V	_	3	parataxis	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s525
@@ -9486,7 +9486,7 @@
 15	mà	mà	SCONJ	SC	_	17	cc	_	_
 16	chỉ	chỉ	ADV	Adv	_	17	advmod	_	_
 17	ghi	ghi	VERB	V	_	10	conj	_	_
-18	tên	tên	NOUN	N	_	17	obj	_	_
+18	tên	tên	NOUN	N	_	17	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s526
@@ -9502,7 +9502,7 @@
 9	biết	biết	VERB	V	_	7	xcomp	_	_
 10	chứ	chứ	PART	Prt	_	9	discourse	_	_
 11	!	!	PUNCT	!	_	7	punct	_	_
-12	"	"	PUNCT	``	_	7	punct	_	_
+12	"	"	PUNCT	``	_	7	punct	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s527
@@ -9530,7 +9530,7 @@
 21	"	"	PUNCT	``	_	20	punct	_	_
 22	đến	đến	PART	Prt	_	23	case	_	_
 23	mức	mức	NOUN	N	_	20	obl	_	_
-24	ấy	ấy	PRON	Pro	_	23	det:pmod	_	_
+24	ấy	ấy	PRON	Pro	_	23	det:pmod	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s528
@@ -9550,7 +9550,7 @@
 13	lưỡi	lưỡi	NOUN	N	_	12	obj	_	_
 14	nhe	nhe	VERB	V	_	12	xcomp	_	_
 15	răng	răng	NOUN	N	_	14	obj	_	_
-16	ngơ ngác	ngơ ngác	ADJ	Adj	_	11	advmod:adj	_	_
+16	ngơ ngác	ngơ ngác	ADJ	Adj	_	11	advmod:adj	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s529
@@ -9568,7 +9568,7 @@
 11	chiến hào	chiến hào	VERB	V	_	10	compound:vmod	_	_
 12	chằng chịt	chằng chịt	ADJ	Adj	_	10	amod	_	_
 13	trên	trên	ADP	Pre	_	14	case	_	_
-14	mặt đất	mặt đất	NOUN	N	_	10	obl	_	_
+14	mặt đất	mặt đất	NOUN	N	_	10	obl	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s530
@@ -9588,7 +9588,7 @@
 13	ngoài	ngoài	ADP	Pre	_	14	case	_	_
 14	đường	đường	NOUN	N	_	12	obl:comp	_	_
 15	...	...	PUNCT	...	_	3	punct	_	_
-16	"	"	PUNCT	``	_	3	punct	_	_
+16	"	"	PUNCT	``	_	3	punct	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s531
@@ -9610,7 +9610,7 @@
 15	ụ	ụ	NOUN	N	_	12	obj	_	_
 16	chiến đấu	chiến đấu	VERB	V	_	15	compound:vmod	_	_
 17	tấn công	tấn công	VERB	V	_	12	advcl:objective	_	_
-18	địch	địch	NOUN	N	_	17	obj	_	_
+18	địch	địch	NOUN	N	_	17	obj	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s532
@@ -9625,7 +9625,7 @@
 8	nhà	nhà	NOUN	N	_	6	obl:comp	_	_
 9	và	và	CCONJ	CC	_	11	cc	_	_
 10	vẫn	vẫn	ADV	Adv	_	11	advmod	_	_
-11	mở cửa	mở cửa	VERB	V	_	6	conj	_	_
+11	mở cửa	mở cửa	VERB	V	_	6	conj	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s533
@@ -9645,7 +9645,7 @@
 13	rồi	rồi	SCONJ	SC	_	14	cc	_	_
 14	đi	đi	VERB	V	_	6	conj	_	_
 15	ra	ra	ADV	Adv	_	14	compound:prt	_	_
-16	bình thường	bình thường	ADJ	Adj	_	14	advmod:adj	_	_
+16	bình thường	bình thường	ADJ	Adj	_	14	advmod:adj	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s534
@@ -9658,7 +9658,7 @@
 6	liên quan	liên quan	VERB	V	_	5	xcomp:adj	_	_
 7	đến	đến	ADP	Pre	_	8	case	_	_
 8	thủ phạm	thủ phạm	NOUN	N	_	6	obl:comp	_	_
-9	khủng bố	khủng bố	VERB	V	_	8	compound:vmod	_	_
+9	khủng bố	khủng bố	VERB	V	_	8	compound:vmod	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s535
@@ -9675,7 +9675,7 @@
 10	cũng	cũng	ADV	Adv	_	11	advmod	_	_
 11	dừng	dừng	VERB	V	_	3	conj	_	_
 12	lại	lại	ADV	Adv	_	11	compound:svc	_	_
-13	chờ	chờ	VERB	V	_	11	xcomp	_	_
+13	chờ	chờ	VERB	V	_	11	xcomp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s536
@@ -9690,7 +9690,7 @@
 8	với	với	ADP	Pre	_	9	case	_	_
 9	tên	tên	NOUN	N	_	6	obl:with	_	_
 10	áo	áo	NOUN	N	_	9	nmod	_	_
-11	kẻ	kẻ	VERB	V	_	10	compound:vmod	_	_
+11	kẻ	kẻ	VERB	V	_	10	compound:vmod	_	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s537
@@ -9703,7 +9703,7 @@
 6	thẳng	thẳng	ADJ	Adj	_	5	advmod:adj	_	_
 7	vào	vào	ADP	Pre	_	8	case	_	_
 8	khu	khu	NOUN	N	_	5	obl:comp	_	_
-9	Hạ Hồi	Hạ Hồi	PROPN	NNP	_	8	compound	_	_
+9	Hạ Hồi	Hạ Hồi	PROPN	NNP	_	8	compound	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s538
@@ -9726,7 +9726,7 @@
 16	bám	bám	VERB	V	_	3	xcomp	_	_
 17	theo	theo	ADP	Pre	_	16	compound:svc	_	_
 18	tên	tên	NOUN	N	_	16	obj	_	_
-19	này	này	PRON	Pro	_	18	det:pmod	_	_
+19	này	này	PRON	Pro	_	18	det:pmod	_	_	SpaceAfter=No
 20	!	!	PUNCT	!	_	3	punct	_	_
 
 # sent_id = text-s539
@@ -9744,7 +9744,7 @@
 11	phải	phải	ADJ	Adj	_	10	compound	_	_
 12	thủ phạm	thủ phạm	NOUN	N	_	10	obj	_	_
 13	hay	hay	CCONJ	CC	_	14	cc	_	_
-14	không	không	ADV	Adv	_	10	advmod:neg	_	_
+14	không	không	ADV	Adv	_	10	advmod:neg	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s540
@@ -9768,7 +9768,7 @@
 17	đến	đến	ADP	Pre	_	18	case	_	_
 18	chuyện	chuyện	NOUN	N	_	16	obl:comp	_	_
 19	lấy	lấy	VERB	V	_	18	acl	_	_
-20	nhau	nhau	NOUN	N	_	19	obj	_	_
+20	nhau	nhau	NOUN	N	_	19	obj	_	_	SpaceAfter=No
 21	?	?	PUNCT	?	_	16	punct	_	_
 
 # sent_id = text-s541
@@ -9794,7 +9794,7 @@
 19	nhau	nhau	NOUN	N	_	17	obj	_	_
 20	mà	mà	SCONJ	SC	_	22	mark	_	_
 21	chẳng lẽ	chẳng lẽ	ADV	Adv	_	22	advmod	_	_
-22	bó tay	bó tay	VERB	V	_	17	conj	_	_
+22	bó tay	bó tay	VERB	V	_	17	conj	_	_	SpaceAfter=No
 23	?	?	PUNCT	?	_	3	punct	_	_
 
 # sent_id = text-s542
@@ -9816,7 +9816,7 @@
 15	tấn công	tấn công	VERB	V	_	14	compound:vmod	_	_
 16	của	của	ADP	Pre	_	17	case	_	_
 17	kẻ	kẻ	NOUN	N	_	14	nmod:poss	_	_
-18	địch	địch	NOUN	N	_	17	nmod	_	_
+18	địch	địch	NOUN	N	_	17	nmod	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s543
@@ -9839,7 +9839,7 @@
 16	đều	đều	ADV	Adv	_	18	advmod	_	_
 17	quá	quá	ADV	Adv	_	18	advmod	_	_
 18	dễ	dễ	ADJ	Adj	_	19	advmod:adj	_	_
-19	giải quyết	giải quyết	VERB	V	_	0	root	_	_
+19	giải quyết	giải quyết	VERB	V	_	0	root	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	19	punct	_	_
 
 # sent_id = text-s544
@@ -9864,7 +9864,7 @@
 18	,	,	PUNCT	,	_	20	punct	_	_
 19	không	không	ADV	Adv	_	20	advmod:neg	_	_
 20	vi phạm	vi phạm	VERB	V	_	17	conj	_	_
-21	đạo lý	đạo lý	NOUN	N	_	20	obj	_	_
+21	đạo lý	đạo lý	NOUN	N	_	20	obj	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s545
@@ -9882,7 +9882,7 @@
 11	,	,	PUNCT	,	_	12	punct	_	_
 12	chống	chống	VERB	V	_	9	conj	_	_
 13	lại	lại	ADV	Adv	_	12	advmod	_	_
-14	khách hàng	khách hàng	NOUN	N	_	12	obj	_	_
+14	khách hàng	khách hàng	NOUN	N	_	12	obj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = text-s546
@@ -9901,7 +9901,7 @@
 12	từng	từng	ADV	Adv	_	13	advmod	_	_
 13	có	có	VERB	V	_	7	ccomp	_	_
 14	vợ	vợ	NOUN	N	_	13	obj	_	_
-15	chưa	chưa	ADV	Adv	_	13	advmod	_	_
+15	chưa	chưa	ADV	Adv	_	13	advmod	_	_	SpaceAfter=No
 16	?	?	PUNCT	?	_	6	punct	_	_
 
 # sent_id = text-s547
@@ -9922,7 +9922,7 @@
 14	"	"	PUNCT	``	_	13	punct	_	_
 15	với	với	ADP	Pre	_	16	case	_	_
 16	nhà	nhà	NOUN	N	_	11	obl:with	_	_
-17	hàng xóm	hàng xóm	NOUN	N	_	16	compound	_	_
+17	hàng xóm	hàng xóm	NOUN	N	_	16	compound	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s548
@@ -9934,7 +9934,7 @@
 5	kẻ	kẻ	NOUN	N	_	2	nmod	_	_
 6	khủng bố	khủng bố	VERB	V	_	5	compound:vmod	_	_
 7	và	và	CCONJ	CC	_	8	cc	_	_
-8	Kim	Kim	PROPN	NNP	_	5	conj	_	_
+8	Kim	Kim	PROPN	NNP	_	5	conj	_	_	SpaceAfter=No
 9	?	?	PUNCT	?	_	1	punct	_	_
 
 # sent_id = text-s549
@@ -9954,7 +9954,7 @@
 13	kỳ quan	kỳ quan	NOUN	N	_	10	obj	_	_
 14	như	như	SCONJ	SC	_	15	case	_	_
 15	thế	thế	PRON	Pro	_	10	obl	_	_
-16	?	?	PUNCT	?	_	7	punct	_	_
+16	?	?	PUNCT	?	_	7	punct	_	_	SpaceAfter=No
 17	...	...	PUNCT	...	_	7	punct	_	_
 
 # sent_id = text-s550
@@ -9980,7 +9980,7 @@
 19	anh	anh	NOUN	N	_	16	obl:iobj	_	_
 20	không	không	ADV	Adv	_	16	advmod:neg	_	_
 21	?	?	PUNCT	?	_	14	punct	_	_
-22	"	"	PUNCT	``	_	14	punct	_	_
+22	"	"	PUNCT	``	_	14	punct	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s551
@@ -9997,7 +9997,7 @@
 10	miệng	miệng	NOUN	N	_	12	nsubj	_	_
 11	thí	thí	NOUN	N	_	10	compound	_	_
 12	trổ	trổ	VERB	V	_	0	root	_	_
-13	ngang	ngang	ADJ	Adj	_	12	acomp	_	_
+13	ngang	ngang	ADJ	Adj	_	12	acomp	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s552
@@ -10017,7 +10017,7 @@
 13	hầm	hầm	NOUN	N	_	12	compound	_	_
 14	kéo	kéo	VERB	V	_	0	root	_	_
 15	đất	đất	NOUN	N	_	14	obj	_	_
-16	lên	lên	ADV	Adv	_	14	advmod:dir	_	_
+16	lên	lên	ADV	Adv	_	14	advmod:dir	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s553
@@ -10042,7 +10042,7 @@
 18	thí	thí	NOUN	N	_	17	compound	_	_
 19	được	được	VERB	V	_	20	aux:pass	_	_
 20	lấp	lấp	VERB	V	_	0	root	_	_
-21	lại	lại	ADV	Adv	_	20	advmod	_	_
+21	lại	lại	ADV	Adv	_	20	advmod	_	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	20	punct	_	_
 
 # sent_id = text-s554
@@ -10064,7 +10064,7 @@
 15	cao	cao	ADJ	Adj	_	14	compound:amod	_	_
 16	khoảng	khoảng	NOUN	N	_	15	obj	_	_
 17	1 , 1	1 , 1	NUM	Num	_	18	nummod	_	_
-18	m	m	NOUN	Nu	_	16	nmod	_	_
+18	m	m	NOUN	Nu	_	16	nmod	_	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s555
@@ -10090,7 +10090,7 @@
 19	2	2	NUM	Num	_	22	nummod	_	_
 20	-	-	PUNCT	-	_	19	flat:number	_	_
 21	3	3	NUM	Num	_	19	flat:number	_	_
-22	tấc	tấc	NOUN	Nu	_	17	obl	_	_
+22	tấc	tấc	NOUN	Nu	_	17	obl	_	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s556
@@ -10109,7 +10109,7 @@
 12	xuống	xuống	ADV	Adv	_	11	advmod	_	_
 13	như	như	SCONJ	SC	_	14	mark	_	_
 14	đào	đào	VERB	V	_	3	ccomp	_	_
-15	giếng	giếng	NOUN	N	_	14	obj	_	_
+15	giếng	giếng	NOUN	N	_	14	obj	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s557
@@ -10136,7 +10136,7 @@
 20	lần	lần	VERB	V	_	15	advcl:objective	_	_
 21	sang	sang	ADP	Pre	_	20	compound:dir	_	_
 22	đường	đường	NOUN	N	_	20	obj	_	_
-23	khác	khác	ADJ	Adj	_	22	amod	_	_
+23	khác	khác	ADJ	Adj	_	22	amod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = text-s558
@@ -10164,7 +10164,7 @@
 21	hết sức	hết sức	ADV	Adv	_	22	advmod	_	_
 22	lắt léo	lắt léo	ADJ	Adj	_	0	root	_	_
 23	và	và	CCONJ	CC	_	24	cc	_	_
-24	thông minh	thông minh	ADJ	Adj	_	22	conj	_	_
+24	thông minh	thông minh	ADJ	Adj	_	22	conj	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	22	punct	_	_
 
 # sent_id = text-s559
@@ -10192,7 +10192,7 @@
 21	độc	độc	ADJ	Adj	_	20	amod	_	_
 22	len	len	VERB	V	_	20	acl:subj	_	_
 23	vào	vào	ADP	Pre	_	24	case	_	_
-24	địa đạo	địa đạo	NOUN	N	_	22	obl:comp	_	_
+24	địa đạo	địa đạo	NOUN	N	_	22	obl:comp	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s560
@@ -10212,7 +10212,7 @@
 13	giấu	giấu	VERB	V	_	7	conj	_	_
 14	được	được	ADV	Adv	_	13	advmod	_	_
 15	mũi	mũi	NOUN	N	_	13	obj	_	_
-16	chó	chó	NOUN	N	_	15	compound	_	_
+16	chó	chó	NOUN	N	_	15	compound	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s561
@@ -10236,7 +10236,7 @@
 17	quân	quân	NOUN	N	_	16	nmod	_	_
 18	khuyển	khuyển	NOUN	N	_	17	compound	_	_
 19	...	...	PUNCT	...	_	20	punct	_	_
-20	sặc sụa	sặc sụa	VERB	V	_	16	acl:subj	_	_
+20	sặc sụa	sặc sụa	VERB	V	_	16	acl:subj	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s562
@@ -10260,7 +10260,7 @@
 17	ra	ra	ADV	Adv	_	16	compound:prt	_	_
 18	nghi ngờ	nghi ngờ	VERB	V	_	16	xcomp	_	_
 19	hay	hay	CCONJ	CC	_	20	cc	_	_
-20	sợ hãi	sợ hãi	ADJ	Adj	_	18	conj	_	_
+20	sợ hãi	sợ hãi	ADJ	Adj	_	18	conj	_	_	SpaceAfter=No
 21	...	...	PUNCT	...	_	3	punct	_	_
 
 # sent_id = text-s563
@@ -10280,7 +10280,7 @@
 13	gặp	gặp	VERB	V	_	1	parataxis	_	_
 14	những	những	DET	Det	_	15	det	_	_
 15	ụ	ụ	NOUN	N	_	13	obj	_	_
-16	chiến đấu	chiến đấu	VERB	V	_	15	compound:vmod	_	_
+16	chiến đấu	chiến đấu	VERB	V	_	15	compound:vmod	_	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = text-s564
@@ -10293,7 +10293,7 @@
 6	là	là	AUX	V	_	8	cop	_	_
 7	một	một	NUM	Num	_	8	nummod	_	_
 8	miệng	miệng	NOUN	N	_	0	root	_	_
-9	địa đạo	địa đạo	NOUN	N	_	8	compound	_	_
+9	địa đạo	địa đạo	NOUN	N	_	8	compound	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s565
@@ -10306,7 +10306,7 @@
 6	:	:	PUNCT	:	_	7	punct	_	_
 7	máu ghen	máu ghen	NOUN	N	_	3	parataxis	_	_
 8	xuyên	xuyên	VERB	V	_	7	acl:subj	_	_
-9	Việt	Việt	PROPN	NNP	_	8	compound:verbnoun	_	_
+9	Việt	Việt	PROPN	NNP	_	8	compound:verbnoun	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s566
@@ -10325,7 +10325,7 @@
 12	Chương	Chương	PROPN	NNP	_	10	obj	_	_
 13	này	này	PRON	Pro	_	9	det:pmod	_	_
 14	vô cùng	vô cùng	ADV	Adv	_	15	advmod	_	_
-15	quan trọng	quan trọng	ADJ	Adj	_	7	parataxis	_	_
+15	quan trọng	quan trọng	ADJ	Adj	_	7	parataxis	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s567
@@ -10349,7 +10349,7 @@
 17	ông	ông	NOUN	Nc	_	18	det:clf	_	_
 18	Chương	Chương	PROPN	NNP	_	20	nsubj	_	_
 19	đang	đang	ADV	Adv	_	20	advmod	_	_
-20	ngồi	ngồi	VERB	V	_	15	acl	_	_
+20	ngồi	ngồi	VERB	V	_	15	acl	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s568
@@ -10367,7 +10367,7 @@
 11	hắn	hắn	PRON	Pro	_	13	nsubj	_	_
 12	đang	đang	ADV	Adv	_	13	advmod	_	_
 13	theo dõi	theo dõi	VERB	V	_	10	ccomp	_	_
-14	ông	ông	NOUN	N	_	13	obj	_	_
+14	ông	ông	NOUN	N	_	13	obj	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s569
@@ -10388,7 +10388,7 @@
 14	lập tức	lập tức	ADV	Adv	_	15	advmod	_	_
 15	bám	bám	VERB	V	_	6	conj	_	_
 16	theo	theo	ADP	Pre	_	15	compound:svc	_	_
-17	hắn	hắn	PRON	Pro	_	15	obj	_	_
+17	hắn	hắn	PRON	Pro	_	15	obj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s570
@@ -10416,7 +10416,7 @@
 21	bất ngờ	bất ngờ	ADJ	Adj	_	16	conj	_	_
 22	vòng	vòng	VERB	V	_	21	xcomp:adj	_	_
 23	ra	ra	VERB	V	_	22	compound:dir	_	_
-24	ngay	ngay	PART	Prt	_	22	discourse	_	_
+24	ngay	ngay	PART	Prt	_	22	discourse	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	16	punct	_	_
 
 # sent_id = text-s571
@@ -10435,7 +10435,7 @@
 12	người	người	NOUN	N	_	11	obj	_	_
 13	điều tra	điều tra	VERB	V	_	11	xcomp	_	_
 14	kẻ	kẻ	NOUN	N	_	13	obj	_	_
-15	khủng bố	khủng bố	VERB	V	_	14	compound:vmod	_	_
+15	khủng bố	khủng bố	VERB	V	_	14	compound:vmod	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s572
@@ -10452,7 +10452,7 @@
 10	chấp nhận	chấp nhận	VERB	V	_	0	root	_	_
 11	đánh	đánh	VERB	V	_	10	xcomp	_	_
 12	bài	bài	NOUN	N	_	11	obj	_	_
-13	ngửa	ngửa	ADJ	Adj	_	12	amod	_	_
+13	ngửa	ngửa	ADJ	Adj	_	12	amod	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = text-s573
@@ -10464,7 +10464,7 @@
 5	là	là	AUX	V	_	6	cop	_	_
 6	cuộc	cuộc	NOUN	N	_	0	root	_	_
 7	rượt	rượt	VERB	V	_	6	compound:vmod	_	_
-8	đuổi	đuổi	VERB	V	_	7	compound:svc	_	_
+8	đuổi	đuổi	VERB	V	_	7	compound:svc	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s574
@@ -10480,7 +10480,7 @@
 9	khi	khi	NOUN	N	_	4	obl:tmod	_	_
 10	nhanh	nhanh	ADJ	Adj	_	9	amod	_	_
 11	khi	khi	NOUN	N	_	9	conj	_	_
-12	chậm	chậm	ADJ	Adj	_	11	amod	_	_
+12	chậm	chậm	ADJ	Adj	_	11	amod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s575
@@ -10499,7 +10499,7 @@
 12	chui	chui	VERB	V	_	7	conj	_	_
 13	vào	vào	ADP	Pre	_	15	case	_	_
 14	một	một	NUM	Num	_	15	nummod	_	_
-15	nhà hàng	nhà hàng	NOUN	N	_	12	obl:comp	_	_
+15	nhà hàng	nhà hàng	NOUN	N	_	12	obl:comp	_	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s576
@@ -10510,7 +10510,7 @@
 4	gọi	gọi	VERB	V	_	3	acl	_	_
 5	rồi	rồi	SCONJ	SC	_	6	cc	_	_
 6	kêu	kêu	VERB	V	_	2	conj	_	_
-7	thức ăn	thức ăn	NOUN	N	_	6	obj	_	_
+7	thức ăn	thức ăn	NOUN	N	_	6	obj	_	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s577
@@ -10534,7 +10534,7 @@
 17	máy	máy	NOUN	N	_	16	obj	_	_
 18	phóng	phóng	VERB	V	_	12	conj	_	_
 19	đi	đi	ADV	Adv	_	18	compound:svc	_	_
-20	luôn	luôn	ADV	Adv	_	18	advmod	_	_
+20	luôn	luôn	ADV	Adv	_	18	advmod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = text-s578
@@ -10550,7 +10550,7 @@
 9	cầu	cầu	NOUN	N	_	7	obl	_	_
 10	Chương Dương	Chương Dương	PROPN	NNP	_	9	compound	_	_
 11	sang	sang	VERB	V	_	7	conj	_	_
-12	Gia Lâm	Gia Lâm	PROPN	NNP	_	11	obj	_	_
+12	Gia Lâm	Gia Lâm	PROPN	NNP	_	11	obj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s579
@@ -10571,7 +10571,7 @@
 14	nội thành	nội thành	NOUN	N	_	12	obl:comp	_	_
 15	qua	qua	ADP	Pre	_	16	case	_	_
 16	tuyến	tuyến	NOUN	N	_	12	obl:comp	_	_
-17	này	này	PRON	Pro	_	16	det:pmod	_	_
+17	này	này	PRON	Pro	_	16	det:pmod	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = text-s580
@@ -10589,7 +10589,7 @@
 11	bám	bám	VERB	V	_	10	acl	_	_
 12	đuổi	đuổi	VERB	V	_	11	compound:svc	_	_
 13	khá	khá	ADV	Adv	_	14	advmod	_	_
-14	khó khăn	khó khăn	ADJ	Adj	_	0	root	_	_
+14	khó khăn	khó khăn	ADJ	Adj	_	0	root	_	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = text-s581
@@ -10617,7 +10617,7 @@
 21	không thể	không thể	ADV	Adv	_	23	advmod:neg	_	_
 22	lập tức	lập tức	ADV	Adv	_	23	advmod	_	_
 23	sang	sang	VERB	V	_	3	parataxis	_	_
-24	đường	đường	NOUN	N	_	23	obj	_	_
+24	đường	đường	NOUN	N	_	23	obj	_	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = text-s582
@@ -10631,7 +10631,7 @@
 7	vào	vào	ADP	Pre	_	8	case	_	_
 8	biển	biển	NOUN	N	_	6	obl:comp	_	_
 9	người	người	NOUN	N	_	8	nmod	_	_
-10	hối hả	hối hả	ADJ	Adj	_	9	acl:subj	_	_
+10	hối hả	hối hả	ADJ	Adj	_	9	acl:subj	_	_	SpaceAfter=No
 11	...	...	PUNCT	...	_	2	punct	_	_
 
 # sent_id = text-s583
@@ -10647,7 +10647,7 @@
 9	các	các	DET	Det	_	10	det	_	_
 10	thám tử	thám tử	NOUN	N	_	6	conj	_	_
 11	rất	rất	ADV	Adv	_	12	advmod	_	_
-12	tiếc	tiếc	VERB	V	_	6	acl:subj	_	_
+12	tiếc	tiếc	VERB	V	_	6	acl:subj	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = text-s584
@@ -10674,7 +10674,7 @@
 20	tại	tại	ADP	Pre	_	21	case	_	_
 21	ngõ	ngõ	NOUN	N	_	15	obl:comp	_	_
 22	nhà	nhà	NOUN	N	_	21	nmod	_	_
-23	ông	ông	NOUN	N	_	22	nmod	_	_
+23	ông	ông	NOUN	N	_	22	nmod	_	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = text-s585
@@ -10690,7 +10690,7 @@
 9	bị	bị	VERB	V	_	11	aux	_	_
 10	ai	ai	PRON	Pro	_	11	nsubj	_	_
 11	theo dõi	theo dõi	VERB	V	_	8	ccomp	_	_
-12	nữa	nữa	ADV	Adv	_	11	advmod	_	_
+12	nữa	nữa	ADV	Adv	_	11	advmod	_	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s586
@@ -10699,7 +10699,7 @@
 2	Hùng	Hùng	PROPN	NNP	_	5	nsubj	_	_
 3	lại	lại	ADV	Adv	_	5	advmod	_	_
 4	phải	phải	VERB	V	_	5	aux	_	_
-5	chuyển hướng	chuyển hướng	VERB	V	_	0	root	_	_
+5	chuyển hướng	chuyển hướng	VERB	V	_	0	root	_	_	SpaceAfter=No
 6	...	...	PUNCT	...	_	5	punct	_	_
 
 # sent_id = text-s587
@@ -10707,7 +10707,7 @@
 1	Thủ phạm	thủ phạm	NOUN	N	_	2	nsubj:nn	_	_
 2	đằng	đằng	NOUN	N	_	0	root	_	_
 3	sau	sau	ADJ	Adj	_	2	compound	_	_
-4	thủ phạm	thủ phạm	NOUN	N	_	3	nmod	_	_
+4	thủ phạm	thủ phạm	NOUN	N	_	3	nmod	_	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s588
@@ -10719,7 +10719,7 @@
 5	đạt	đạt	VERB	V	_	0	root	_	_
 6	được	được	ADV	Adv	_	5	advmod	_	_
 7	mục đích	mục đích	NOUN	N	_	5	obj	_	_
-8	một	một	NUM	Num	_	7	nummod	_	_
+8	một	một	NUM	Num	_	7	nummod	_	_	SpaceAfter=No
 9	...	...	PUNCT	...	_	5	punct	_	_
 
 # sent_id = text-s589
@@ -10742,7 +10742,7 @@
 16	phải	phải	VERB	V	_	17	aux	_	_
 17	dùng	dùng	VERB	V	_	0	root	_	_
 18	phép	phép	NOUN	N	_	17	obj	_	_
-19	thử	thử	VERB	V	_	18	compound:vmod	_	_
+19	thử	thử	VERB	V	_	18	compound:vmod	_	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	17	punct	_	_
 
 # sent_id = text-s590
@@ -10754,7 +10754,7 @@
 5	tư trang	tư trang	NOUN	N	_	3	obj	_	_
 6	đi	đi	VERB	V	_	3	xcomp	_	_
 7	thuê	thuê	VERB	V	_	6	compound:svc	_	_
-8	nhà nghỉ	nhà nghỉ	NOUN	N	_	7	obj	_	_
+8	nhà nghỉ	nhà nghỉ	NOUN	N	_	7	obj	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s591
@@ -10766,14 +10766,14 @@
 5	đến	đến	VERB	V	_	0	root	_	_
 6	tai	tai	NOUN	N	_	5	obj	_	_
 7	bà	bà	NOUN	N	_	8	det:clf	_	_
-8	vợ	vợ	NOUN	N	_	6	nmod	_	_
+8	vợ	vợ	NOUN	N	_	6	nmod	_	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = text-s592
 # text =Hùng chờ phản ứng ... 
 1	Hùng	hùng	PROPN	NNP	_	2	nsubj	_	_
 2	chờ	chờ	VERB	V	_	0	root	_	_
-3	phản ứng	phản ứng	VERB	V	_	2	xcomp	_	_
+3	phản ứng	phản ứng	VERB	V	_	2	xcomp	_	_	SpaceAfter=No
 4	...	...	PUNCT	...	_	2	punct	_	_
 
 # sent_id = text-s593
@@ -10786,7 +10786,7 @@
 6	không	không	ADV	Adv	_	7	advmod:neg	_	_
 7	có	có	VERB	V	_	0	root	_	_
 8	thư	thư	NOUN	N	_	7	obj	_	_
-9	khủng bố	khủng bố	VERB	V	_	8	compound:vmod	_	_
+9	khủng bố	khủng bố	VERB	V	_	8	compound:vmod	_	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = text-s594
@@ -10796,7 +10796,7 @@
 3	ông	ông	NOUN	Nc	_	4	det:clf	_	_
 4	Chương	Chương	PROPN	NNP	_	2	nmod:poss	_	_
 5	là	là	AUX	V	_	6	cop	_	_
-6	thủ phạm	thủ phạm	NOUN	N	_	0	root	_	_
+6	thủ phạm	thủ phạm	NOUN	N	_	0	root	_	_	SpaceAfter=No
 7	!	!	PUNCT	!	_	6	punct	_	_
 
 # sent_id = text-s595
@@ -10817,7 +10817,7 @@
 14	quay	quay	VERB	V	_	13	xcomp	_	_
 15	về	về	VERB	V	_	14	compound:dir	_	_
 16	kiểm tra	kiểm tra	VERB	V	_	14	advcl:objective	_	_
-17	hòm thư	hòm thư	NOUN	N	_	16	obj	_	_
+17	hòm thư	hòm thư	NOUN	N	_	16	obj	_	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = text-s596
@@ -10831,7 +10831,7 @@
 7	,	,	PUNCT	,	_	8	punct	_	_
 8	mộc mạc	mộc mạc	ADJ	Adj	_	6	conj	_	_
 9	,	,	PUNCT	,	_	10	punct	_	_
-10	chất phác	chất phác	ADJ	Adj	_	6	conj	_	_
+10	chất phác	chất phác	ADJ	Adj	_	6	conj	_	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s597
@@ -10843,7 +10843,7 @@
 5	với	với	ADP	Pre	_	6	case	_	_
 6	người	người	NOUN	N	_	4	obl:with	_	_
 7	trực tiếp	trực tiếp	ADJ	Adj	_	6	acl:subj	_	_
-8	đánh ghen	đánh ghen	VERB	V	_	7	xcomp:adj	_	_
+8	đánh ghen	đánh ghen	VERB	V	_	7	xcomp:adj	_	_	SpaceAfter=No
 9	...	...	PUNCT	...	_	4	punct	_	_
 
 # sent_id = text-s598
@@ -10853,7 +10853,7 @@
 3	,	,	PUNCT	,	_	4	punct	_	_
 4	ngoan	ngoan	ADJ	Adj	_	2	conj	_	_
 5	,	,	PUNCT	,	_	6	punct	_	_
-6	khỏe	khỏe	ADJ	Adj	_	2	conj	_	_
+6	khỏe	khỏe	ADJ	Adj	_	2	conj	_	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = text-s599
@@ -10870,7 +10870,7 @@
 10	dùng	dùng	VERB	V	_	8	xcomp	_	_
 11	kế	kế	NOUN	N	_	10	obj	_	_
 12	bắn	bắn	VERB	V	_	11	acl:subj	_	_
-13	tin	tin	NOUN	N	_	12	obj	_	_
+13	tin	tin	NOUN	N	_	12	obj	_	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	8	punct	_	_
 
 # sent_id = text-s600
@@ -10894,6 +10894,6 @@
 17	hoặc	hoặc	CCONJ	CC	_	18	cc	_	_
 18	sự	sự	NOUN	Nc	_	16	conj	_	_
 19	kiêng dè	kiêng dè	VERB	V	_	18	acl:tonp	_	_
-20	gì	gì	PRON	Pro	_	16	det:pmod	_	_
+20	gì	gì	PRON	Pro	_	16	det:pmod	_	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	2	punct	_	_
 
