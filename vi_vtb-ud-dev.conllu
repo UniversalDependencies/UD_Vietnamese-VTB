@@ -23,7 +23,7 @@
 21	qua	qua	ADP	Pre	_	22	case	_	_
 22	địa chỉ	địa chỉ	NOUN	N	_	20	obl	_	_
 23	cơ quan	cơ quan	NOUN	N	_	22	nmod	_	_ SpaceAfter=No
-24	.	.	PUNCT	.	_	20	punct	_	_
+24	.	.	PUNCT	.	_	20	punct	_	__
 
 # sent_id = dev-s2
 # text =Vậy nếu ông Chương không còn ở nhà đó nữa thì kẻ khủng bố sẽ phản ứng ra sao ? 
