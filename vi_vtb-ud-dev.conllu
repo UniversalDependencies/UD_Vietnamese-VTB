@@ -22,7 +22,7 @@
 20	tấn công	tấn công	VERB	V	_	0	root	_	_
 21	qua	qua	ADP	Pre	_	22	case	_	_
 22	địa chỉ	địa chỉ	NOUN	N	_	20	obl	_	_
-23	cơ quan	cơ quan	NOUN	N	_	22	nmod	_	SpaceAfter=No
+23	cơ quan	cơ quan	NOUN	N	_	22	nmod	_ _
 24	.	.	PUNCT	.	_	20	punct	_	_
 
 # sent_id = dev-s2
