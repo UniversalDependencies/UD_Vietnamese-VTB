@@ -5287,7 +5287,7 @@
 2	hđxx	hđxx	NOUN	Ny	_	6	parataxis	_	_
 3	:	:	PUNCT	:	_	2	punct	_	_
 4	"	"	PUNCT	``	_	6	punct	_	_
-5	Vậy	vậy	PRON	Pro	_	6	cc	_	_
+5	Vậy	vậy	SCONJ	SC	_	6	cc	_	_
 6	có	có	VERB	V	_	0	root	_	_
 7	chủ trương	chủ trương	NOUN	N	_	6	obj	_	_
 8	để	để	ADP	Pre	_	10	mark:pcomp	_	_
@@ -6121,7 +6121,7 @@
 
 # sent_id = train-s352
 # text =Vậy bốn người khách mua dâm đó là ai ?
-1	Vậy	vậy	PRON	Pro	_	8	cc	_	_
+1	Vậy	vậy	SCONJ	SC	_	8	cc	_	_
 2	bốn	bốn	NUM	Num	_	4	nummod	_	_
 3	người	người	NOUN	N	_	2	clf	_	_
 4	khách	khách	NOUN	N	_	8	nsubj	_	_
@@ -25702,7 +25702,7 @@
 5	thám tử	thám tử	NOUN	N	_	2	nmod:poss	_	_
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	như	như	SCONJ	SC	_	8	case	_	_
-8	vậy	vậy	PRON	Pro	_	12	cc	_	_
+8	vậy	vậy	SCONJ	SC	_	12	cc	_	_
 9	là	là	AUX	V	_	12	discourse	_	_
 10	Nam	Nam	PROPN	NNP	_	12	nsubj	_	_
 11	đang	đang	ADV	Adv	_	12	advmod	_	_
