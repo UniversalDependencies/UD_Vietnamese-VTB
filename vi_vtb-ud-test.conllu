@@ -9990,7 +9990,7 @@
 3	xuống	xuống	ADV	Adv	_	1	advmod:dir	_	_
 4	chừng	chừng	ADJ	Adj	_	1	advmod	_	_
 5	4	4	NUM	Num	_	8	nummod	_	_
-6	-	-	PUNCT	-	_	5	flat:number	_	_
+6	-	-	SYM	-	_	5	flat:number	_	_
 7	5	5	NUM	Num	_	5	flat:number	_	_
 8	m	m	NOUN	Nu	_	4	nmod	_	_
 9	thì	thì	SCONJ	SC	_	12	mark	_	_
@@ -10088,7 +10088,7 @@
 17	cách	cách	VERB	V	_	5	conj	_	_
 18	chừng	chừng	NOUN	N	_	17	advmod	_	_
 19	2	2	NUM	Num	_	22	nummod	_	_
-20	-	-	PUNCT	-	_	19	flat:number	_	_
+20	-	-	SYM	-	_	19	flat:number	_	_
 21	3	3	NUM	Num	_	19	flat:number	_	_
 22	tấc	tấc	NOUN	Nu	_	17	obl	_	_
 23	.	.	PUNCT	.	_	5	punct	_	_
