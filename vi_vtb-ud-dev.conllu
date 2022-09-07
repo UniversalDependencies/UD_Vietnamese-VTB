@@ -3905,7 +3905,7 @@
 8	đã	đã	ADV	Adv	_	9	advmod	_	_
 9	làm	làm	VERB	V	_	0	root	_	_
 10	cả	cả	PRON	Pro	_	12	det	_	_
-11	đại	đại	SYM	Z	_	12	compound:Z	_	_
+11	đại	đại	SYM	Z	_	12	compound:z	_	_
 12	công trình	công trình	NOUN	N	_	9	obj	_	_
 13	này	này	PRON	Pro	_	12	det:pmod	_	_
 14	tấp nập	tấp nập	ADJ	Adj	_	9	xcomp	_	_
@@ -6812,7 +6812,7 @@
 14	lúc	lúc	NOUN	N	_	0	root	_	_
 15	tôi	tôi	PRON	Pro	_	16	nsubj	_	_
 16	làm	làm	VERB	V	_	14	ccomp	_	_
-17	trưởng	trưởng	SYM	Z	_	18	compound:Z	_	_
+17	trưởng	trưởng	SYM	Z	_	18	compound:z	_	_
 18	phân xã	phân xã	NOUN	N	_	16	obj	_	_
 19	Bangkok	Bangkok	PROPN	NNP	_	18	compound	_	_
 20	của	của	ADP	Pre	_	22	case	_	_
@@ -8216,7 +8216,7 @@
 13	và	và	CCONJ	CC	_	15	cc	_	_
 14	một	một	NUM	Num	_	15	nummod	_	_
 15	cụm	cụm	NOUN	N	_	12	conj	_	_
-16	tiểu	tiểu	SYM	Z	_	17	compound:Z	_	_
+16	tiểu	tiểu	SYM	Z	_	17	compound:z	_	_
 17	thủ công nghiệp	thủ công nghiệp	NOUN	N	_	15	nmod	_	_
 18	được	được	AUX	AUX	_	19	aux:pass	_	_
 19	qui hoạch	qui hoạch	VERB	V	_	12	acl:subj	_	_
@@ -9545,7 +9545,7 @@
 12	khắp	khắp	ADJ	Adj	_	13	advmod:adj	_	_
 13	ngả	ngả	NOUN	N	_	14	clf:det	_	_
 14	đường	đường	NOUN	N	_	10	obl:comp	_	_
-15	liên	liên	SYM	Z	_	16	compound:Z	_	_
+15	liên	liên	SYM	Z	_	16	compound:z	_	_
 16	thôn	thôn	NOUN	N	_	14	nmod	_	_
 17	.	.	PUNCT	.	_	10	punct	_	_
 
@@ -10495,7 +10495,7 @@
 1	Như	như	SCONJ	SC	_	2	case	_	_
 2	chuyện	chuyện	NOUN	N	_	0	root	_	_
 3	anh	anh	NOUN	N	_	5	clf:det	_	_
-4	trưởng	trưởng	SYM	Z	_	5	compound:Z	_	_
+4	trưởng	trưởng	SYM	Z	_	5	compound:z	_	_
 5	công an	công an	NOUN	N	_	8	nsubj	_	_
 6	xã	xã	NOUN	N	_	5	compound	_	_
 7	Dương Văn Nam	Dương Văn Nam	PROPN	NNP	_	5	appos	_	_
