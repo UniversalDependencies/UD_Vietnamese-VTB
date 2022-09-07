@@ -2054,7 +2054,7 @@
 5	độ	độ	NOUN	N	_	11	obl:comp	_	_
 6	tuổi	tuổi	NOUN	N	_	5	compound	_	_
 7	18	18	NUM	Num	_	6	nummod	_	_
-8	-	-	PUNCT	-	_	7	flat:number	_	_
+8	-	-	SYM	-	_	7	flat:number	_	_
 9	25	25	NUM	Num	_	7	flat:number	_	_
 10	rất	rất	ADV	Adv	_	11	advmod	_	_
 11	trẻ	trẻ	ADJ	Adj	_	0	root	_	_
