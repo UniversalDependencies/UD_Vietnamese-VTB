@@ -481,7 +481,7 @@
 1	Những	những	DET	Det	_	2	det	_	_
 2	năm	năm	NOUN	N	_	15	obl:tmod	_	_
 3	1961	1961	NUM	Num	_	2	nummod	_	_
-4	-	-	PUNCT	-	_	3	flat:date	_	_
+4	-	-	SYM	-	_	3	flat:date	_	_
 5	1962	1962	NUM	Num	_	3	flat:date	_	_
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	vũ khí	vũ khí	NOUN	N	_	15	nsubj	_	_
