@@ -47,7 +47,7 @@
 
 # sent_id = dev-s3
 # text =Ông Chương nói với Kim là hai người phải chuyển khỏi nhà một thời gian để sửa trần và công trình phụ .
-1	Ông	ông	NOUN	Nc	_	2	det:clf	_	_
+1	Ông	ông	NOUN	Nc	_	2	clf:det	_	_
 2	Chương	Chương	PROPN	NNP	_	3	nsubj	_	_
 3	nói	nói	VERB	V	_	0	root	_	_
 4	với	với	ADP	Pre	_	5	case	_	_
