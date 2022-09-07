@@ -1205,7 +1205,7 @@
 2	khi	khi	NOUN	N	_	8	obl:tmod	_	_
 3	kiểm tra	kiểm tra	VERB	V	_	2	acl:tmod	_	_
 4	thì	thì	SCONJ	SC	_	8	mark	_	_
-5	toàn	toàn	NOUN	N	_	8	det	_	_
+5	toàn	toàn	ADV	Adv	_	8	advmod	_	_
 6	là	là	AUX	V	_	8	cop	_	_
 7	...	...	PUNCT	...	_	8	punct	_	_
 8	bột	bột	NOUN	N	_	0	root	_	_
