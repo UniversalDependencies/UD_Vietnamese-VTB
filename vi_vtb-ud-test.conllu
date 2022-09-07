@@ -5062,7 +5062,7 @@
 5	,	,	PUNCT	,	_	9	punct	_	_
 6	chúng	chúng	PRON	Pro	_	9	nsubj:pass	_	_
 7	phải	phải	AUX	AUX	_	9	aux	_	_
-8	được	được	ADV	Adv	_	9	aux:pass	_	_
+8	được	được	ADV	Adv	_	9	advmod	_	_
 9	sống	sống	VERB	V	_	4	conj	_	_
 10	.	.	PUNCT	.	_	4	punct	_	_
 
