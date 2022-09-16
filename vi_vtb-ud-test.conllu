@@ -3945,7 +3945,7 @@
 2	nghĩ	nghĩ	VERB	V	_	0	root	_	_
 3	:	:	PUNCT	:	_	8	punct	_	_
 4	hạnh phúc	hạnh phúc	NOUN	N	_	8	nsubj	_	_
-5	đôi	đôi	NUM	Num	_	6	det	_	_
+5	đôi	đôi	NUM	Num	_	6	nummod	_	_
 6	khi	khi	NOUN	N	_	8	obl:tmod	_	_
 7	phải	phải	AUX	AUX	_	8	aux	_	_
 8	sống	sống	VERB	V	_	2	parataxis	_	_
@@ -9711,7 +9711,7 @@
 1	Hắn	hắn	PRON	Pro	_	3	nsubj	_	_
 2	không	không	ADV	Adv	_	3	advmod:neg	_	_
 3	có	có	VERB	V	_	0	root	_	_
-4	một	một	NUM	Num	_	5	det	_	_
+4	một	một	NUM	Num	_	5	nummod	_	_
 5	dữ liệu	dữ liệu	NOUN	N	_	3	obj	_	_
 6	nào	nào	PRON	Pro	_	5	det:pmod	_	_
 7	nằm	nằm	VERB	V	_	5	acl	_	_
