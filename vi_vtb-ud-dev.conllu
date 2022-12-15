@@ -14038,7 +14038,7 @@
 10	một	một	NUM	Num	_	11	nummod	_	_
 11	điều	điều	NOUN	N	_	8	obl:comp	_	_
 12	là	là	AUX	AUX	_	14	cop	_	_
-13	làm sao	làm sao	SC:G 	SC:G 	_	14	discourse	_	_
+13	làm sao	làm sao	SC	SC	_	14	discourse	_	_
 14	vút	vút	VERB	V	_	8	ccomp	_	_
 15	sạch	sạch	ADJ	Adj	_	14	xcomp	_	_
 16	gạo	gạo	NOUN	N	_	14	obj	_	_
@@ -14317,7 +14317,7 @@
 29	lại	lại	ADV	Adv	_	30	advmod	_	_
 30	thấp	thấp	ADJ	Adj	_	17	conj	_	_
 31	,	,	PUNCT	PUNCT	_	34	punct	_	_
-32	làm sao	làm sao	SC:G 	SC:G 	_	34	discourse	_	_
+32	làm sao	làm sao	SC	SC	_	34	discourse	_	_
 33	đủ	đủ	ADJ	Adj	_	34	xcomp	_	_
 34	trả	trả	VERB	V	_	30	conj	_	_
 35	tiền	tiền	NOUN	N	_	33	obl:adj	_	_
@@ -14629,7 +14629,7 @@
 24	dự án	dự án	NOUN	N	_	23	nmod	_	_
 25	du lịch	du lịch	NOUN	N	_	24	compound	_	_
 26	dankia	dankia	PROPN	NNP	_	24	compound	_	_
-27	-	-	PUNCT	PUNCT	_	26	compound	_	_
+27	-	-	PUNCT	PUNCT	_	26	punct	_	_
 28	Suối Vàng	suối vàng	PROPN	NNP	_	26	compound	_	_
 29	LBKT	lbkt	PUNCT	PUNCT	_	30	punct	_	_
 30	bao gồm	bao gồm	VERB	V	_	23	acl:subj	_	_
@@ -14742,7 +14742,7 @@
 4	đã	đã	ADV	Adv	_	5	advmod	_	_
 5	xuất hiện	xuất hiện	VERB	V	_	0	root	_	_
 6	thì	thì	SCONJ	SC	_	8	mark	_	_
-7	làm sao	làm sao	SC:G 	SC:G 	_	8	discourse	_	_
+7	làm sao	làm sao	SC	SC	_	8	discourse	_	_
 8	rừng	rừng	NOUN	N	_	5	conj	_	_
 9	yên	yên	ADJ	Adj	_	8	amod	_	_
 10	!	!	PUNCT	PUNCT	_	8	punct	_	_
@@ -15538,7 +15538,7 @@
 13	sở	sở	NOUN	N	_	11	nmod:poss	_	_
 14	Thủy sản	thủy sản	NOUN	N	_	13	compound	_	_
 15	thừa thiên	thừa thiên	PROPN	NNP	_	13	compound	_	_
-16	-	-	PUNCT	PUNCT	_	15	compound	_	_
+16	-	-	PUNCT	PUNCT	_	15	punct	_	_
 17	Huế	huế	PROPN	NNP	_	15	compound	_	_
 18	là	là	AUX	AUX	_	20	mark	_	_
 19	đã	đã	ADV	Adv	_	20	advmod	_	_
@@ -20228,7 +20228,7 @@
 7	làng	làng	NOUN	N	_	6	obj	_	_
 8	hữu nghị	hữu nghị	PROPN	NNP	_	7	compound	_	_
 9	việt	việt	PROPN	NNP	_	7	compound	_	_
-10	-	-	PUNCT	PUNCT	_	7	compound	_	_
+10	-	-	PUNCT	PUNCT	_	7	punct	_	_
 11	Thái	thái	PROPN	NNP	_	7	compound	_	_
 12	ở	ở	ADP	Pre	_	13	case	_	_
 13	bản	bản	NOUN	N	_	6	obl	_	_
@@ -20266,7 +20266,7 @@
 
 # sent_id = dev-s2649
 # text = làm sao nói hết được niềm ngóng vọng khắc khoải ấy ?
-1	làm sao	làm sao	SC:G 	SC:G 	_	2	discourse	_	_
+1	làm sao	làm sao	SC	SC	_	2	discourse	_	_
 2	nói	nói	VERB	V	_	0	root	_	_
 3	hết	hết	VERB	V	_	2	xcomp	_	_
 4	được	được	ADV	Adv	_	3	advmod	_	_
@@ -20787,7 +20787,7 @@
 3	làng	làng	NOUN	N	_	2	obj	_	_
 4	Hữu nghị	hữu nghị	PROPN	NNP	_	3	compound	_	_
 5	việt	việt	PROPN	NNP	_	4	compound	_	_
-6	-	-	PUNCT	PUNCT	_	4	compound	_	_
+6	-	-	PUNCT	PUNCT	_	4	punct	_	_
 7	Thái	thái	PROPN	NNP	_	4	compound	_	_
 8	ở	ở	ADP	Pre	_	9	case	_	_
 9	bản	bản	NOUN	N	_	2	obl	_	_
@@ -22969,7 +22969,7 @@
 24	chưa	chưa	ADV	Adv	_	25	advmod:neg	_	_
 25	kịp	kịp	ADJ	Adj	_	26	advmod:adj	_	_
 26	hiểu	hiểu	VERB	V	_	21	conj	_	_
-27	làm sao	làm sao	SC:G 	SC:G 	_	26	discourse	_	_
+27	làm sao	làm sao	SC	SC	_	26	discourse	_	_
 28	thì	thì	SCONJ	SC	_	29	mark	_	_
 29	thấy	thấy	VERB	V	_	21	conj	_	_
 30	các	các	DET	Det	_	31	det	_	_
@@ -23801,7 +23801,7 @@
 8	đi lại	đi lại	VERB	V	_	7	compound:vmod	_	_
 9	rất	rất	ADV	Adv	_	10	advmod	_	_
 10	nhiều	nhiều	ADJ	Adj	_	5	xcomp	_	_
-11	,	,	PUNCT	PUNCT	_	20	compound:vmod	_	_
+11	,	,	PUNCT	PUNCT	_	20	punct:vmod	_	_
 12	nhưng	nhưng	SCONJ	SC	_	17	mark	_	_
 13	để	để	ADP	Pre	_	17	mark:pcomp	_	_
 14	đường	đường	NOUN	N	_	17	nsubj	_	_
@@ -28587,7 +28587,7 @@
 7	làng	làng	NOUN	N	_	6	obj	_	_
 8	hữu nghị	hữu nghị	PROPN	NNP	_	7	compound	_	_
 9	việt	việt	PROPN	NNP	_	7	compound	_	_
-10	-	-	PUNCT	PUNCT	_	7	compound	_	_
+10	-	-	PUNCT	PUNCT	_	7	punct	_	_
 11	Thái	thái	PROPN	NNP	_	7	compound	_	_
 12	ở	ở	ADP	Pre	_	13	case	_	_
 13	bản	bản	NOUN	N	_	6	obl	_	_
@@ -28625,7 +28625,7 @@
 
 # sent_id = dev-s2962
 # text = làm sao nói hết được niềm ngóng vọng khắc khoải ấy ?
-1	làm sao	làm sao	SC:G 	SC:G 	_	2	discourse	_	_
+1	làm sao	làm sao	SC	SC	_	2	discourse	_	_
 2	nói	nói	VERB	V	_	0	root	_	_
 3	hết	hết	VERB	V	_	2	xcomp	_	_
 4	được	được	ADV	Adv	_	3	advmod	_	_
@@ -29146,7 +29146,7 @@
 3	làng	làng	NOUN	N	_	2	obj	_	_
 4	Hữu nghị	hữu nghị	PROPN	NNP	_	3	compound	_	_
 5	việt	việt	PROPN	NNP	_	4	compound	_	_
-6	-	-	PUNCT	PUNCT	_	4	compound	_	_
+6	-	-	PUNCT	PUNCT	_	4	punct	_	_
 7	Thái	thái	PROPN	NNP	_	4	compound	_	_
 8	ở	ở	ADP	Pre	_	9	case	_	_
 9	bản	bản	NOUN	N	_	2	obl	_	_
