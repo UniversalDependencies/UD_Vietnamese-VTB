@@ -15571,7 +15571,7 @@
 35	đất	đất	NOUN	N	_	37	nsubj	_	_
 36	không	không	ADV	Adv	_	37	advmod:neg	_	_
 37	sẵn sàng	sẵn sàng	ADJ	Adj	_	0	root	_	_
-38	,	,	PUNCT	PUNCT	_	45	punct	_	_
+38	,	,	PUNCT	PUNCT	_	41	punct	_	_
 39	giá	giá	NOUN	N	_	41	nsubj	_	_
 40	đất	đất	NOUN	N	_	39	nmod	_	_
 41	cao	cao	ADJ	Adj	_	37	conj	_	_
@@ -19678,7 +19678,7 @@
 18	công an	công an	NOUN	N	_	12	appos:nmod	_	_
 19	Bình Thạnh	bình thạnh	PROPN	NNP	_	18	nmod	_	_
 20	RBKT	rbkt	PUNCT	PUNCT	_	18	punct	_	_
-21	:	:	PUNCT	PUNCT	_	33	punct	_	_
+21	:	:	PUNCT	PUNCT	_	24	punct	_	_
 22	"	"	PUNCT	PUNCT	_	24	punct	_	_
 23	để	để	ADP	Pre	_	24	mark:pcomp	_	_
 24	cứu	cứu	VERB	V	_	4	advcl:objective	_	_
@@ -21219,7 +21219,7 @@
 8	của	của	ADP	Pre	_	9	case	_	_
 9	mình	mình	NOUN	N	_	7	nmod:poss	_	_
 10	không	không	ADV	Adv	_	11	advmod:neg	_	_
-11	phải	phải	ADV	Adj	_	12	advmod:adj	_	_
+11	phải	phải	ADV	Adj	_	13	advmod:adj	_	_
 12	là	là	AUX	AUX	_	13	cop	_	_
 13	con	con	NOUN	N	_	5	nsubj	_	_
 14	Nam	nam	PROPN	NNP	_	13	nmod	_	_
@@ -22351,7 +22351,7 @@
 20	hôm nay	hôm nay	NOUN	N	_	22	obl:tmod	_	_
 21	họ	họ	PRON	Pro	_	22	nsubj	_	_
 22	gặp	gặp	VERB	V	_	16	acl	_	_
-23	lại	lại	VERB	V	_	22	advmod	_	_
+23	lại	lại	ADV	Adv	_	22	advmod	_	_
 24	là	là	AUX	AUX	_	26	cop	_	_
 25	những	những	DET	Det	_	26	det	_	_
 26	nhân vật	nhân vật	NOUN	N	_	13	obj	_	_
