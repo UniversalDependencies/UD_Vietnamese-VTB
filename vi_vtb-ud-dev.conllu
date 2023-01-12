@@ -20848,7 +20848,7 @@
 64	thúc đẩy	thúc đẩy	VERB	V	_	62	conj	_	_
 65	bộ	bộ	NOUN	N	_	70	obj	_	_
 66	Nội vụ	nội vụ	PROPN	NNP	_	65	compound	_	_
-67	và	và	CCONJ	CC	_	68	conj	_	_
+67	và	và	CCONJ	CC	_	68	cc	_	_
 68	chính quyền	chính quyền	NOUN	N	_	65	conj	_	_
 69	địa phương	địa phương	NOUN	N	_	68	compound	_	_
 70	sớm	sớm	ADJ	Adj	_	64	ccomp	_	_
@@ -22475,7 +22475,7 @@
 28	cho	cho	VERB	V	_	20	ccomp	_	_
 29	rằng	rằng	SCONJ	SC	_	34	mark	_	_
 30	có thể	có thể	AUX	Adj	_	31	aux	_	_
-31	sẽ	sẽ	ADV	Adv	_	32	advmod	_	_
+31	sẽ	sẽ	ADV	Adv	_	34	advmod	_	_
 32	là	là	AUX	AUX	_	34	cop	_	_
 33	một	một	NUM	Num	_	34	nummod:det	_	_
 34	thiếu sót	thiếu sót	NOUN	N	_	28	ccomp	_	_
@@ -22647,8 +22647,8 @@
 10	ra	ra	ADV	Adv	_	8	advmod:dir	_	_
 11	nữa	nữa	ADV	Adv	_	8	advmod	_	_
 12	,	,	PUNCT	PUNCT	_	16	punct	_	_
-13	cũng	cũng	ADV	Adv	_	15	advmod	_	_
-14	không	không	ADV	Adv	_	15	advmod:neg	_	_
+13	cũng	cũng	ADV	Adv	_	16	advmod	_	_
+14	không	không	ADV	Adv	_	16	advmod:neg	_	_
 15	nên	nên	AUX	AUX	_	16	aux	_	_
 16	thêm	thêm	VERB	V	_	8	conj	_	_
 17	đường	đường	NOUN	N	_	16	obj	_	_
@@ -24377,7 +24377,7 @@
 35	không	không	ADV	Adv	_	36	advmod:neg	_	_
 36	phải	phải	ADJ	Adj	_	33	xcomp	_	_
 37	mà	mà	SCONJ	SC	_	41	mark	_	_
-38	tự nhiên	tự nhiên	ADJ	Adj	_	41	conj	_	_
+38	tự nhiên	tự nhiên	ADJ	Adj	_	41	advcl	_	_
 39	anh	anh	NOUN	N	_	41	nsubj	_	_
 40	lại	lại	ADV	Adv	_	41	advmod	_	_
 41	xung phong	xung phong	VERB	V	_	18	parataxis	_	_
@@ -25842,7 +25842,7 @@
 49	nhau	nhau	NOUN	N	_	48	nmod	_	_
 50	đi	đi	VERB	V	_	47	xcomp	_	_
 51	biểu tình	biểu tình	VERB	V	_	50	xcomp	_	_
-52	đòi	đòi	AUX	V	_	51	ccomp	_	_
+52	đòi	đòi	VERB	V	_	51	ccomp	_	_
 53	chấm dứt	chấm dứt	VERB	V	_	52	ccomp	_	_
 54	chiến tranh	chiến tranh	NOUN	N	_	53	obj	_	_
 55	VN	vn	PROPN	NNPy	_	54	compound	_	_
@@ -25932,7 +25932,7 @@
 21	đất	đất	NOUN	N	_	20	compound	_	_
 22	30	30	NUM	Num	_	25	nummod	_	_
 23	,	,	PUNCT	PUNCT	_	24	punct	_	_
-24	40	40	NUM	Num	_	25	conj	_	_
+24	40	40	NUM	Num	_	25	nummod	_	_
 25	m	m	NOUN	Nu	_	19	obl	_	_
 26	tìm	tìm	VERB	V	_	17	advcl:objective	_	_
 27	nguồn	nguồn	NOUN	N	_	26	obj	_	_
@@ -27484,7 +27484,7 @@
 6	từ	từ	ADP	Pre	_	7	case	_	_
 7	bộ trưởng	bộ trưởng	NOUN	N	_	5	obl	_	_
 8	cũ	cũ	ADJ	Adj	_	7	amod	_	_
-9	,	,	PUNCT	PUNCT	_	15	punct	_	_
+9	,	,	PUNCT	PUNCT	_	19	punct	_	_
 10	những	những	DET	Det	_	11	det	_	_
 11	cái	cái	NOUN	N	_	19	obl	_	_
 12	bộ trưởng	bộ trưởng	NOUN	N	_	15	nsubj	_	_
@@ -27539,7 +27539,7 @@
 27	chưa	chưa	ADV	Adv	_	28	advmod:neg	_	_
 28	kịp	kịp	ADJ	Adj	_	29	advmod:adj	_	_
 29	cấp phát	cấp phát	VERB	V	_	24	acl:tmod	_	_
-30	"	"	PUNCT	PUNCT	_	11	punct	_	_
+30	"	"	PUNCT	PUNCT	_	3	punct	_	_
 31	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-s2928
