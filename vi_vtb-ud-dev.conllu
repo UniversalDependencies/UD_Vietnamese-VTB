@@ -1058,7 +1058,7 @@
 24	chưa	chưa	ADV	Adv	_	25	advmod:neg	_	_
 25	kịp	kịp	ADJ	Adj	_	26	advmod:adj	_	_
 26	hiểu	hiểu	VERB	V	_	21	conj	_	_
-27	làm sao	làm sao	SC:G 	SC:G 	_	26	discourse	_	_
+27	làm sao	làm sao	SCONJ	SC	_	26	discourse	_	_
 28	thì	thì	SCONJ	SC	_	29	mark	_	_
 29	thấy	thấy	VERB	V	_	21	conj	_	_
 30	các	các	DET	Det	_	31	det	_	_
