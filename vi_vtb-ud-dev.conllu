@@ -788,7 +788,7 @@
 1	trông	trông	VERB	V	_	0	root	_	_
 2	mẹ	mẹ	NOUN	N	_	5	nsubj	_	_
 3	SuSu	susu	PROPN	NNP	_	2	nmod	_	_
-4	càng ngày càng	càng ngày càng	ADV:G	ADV:G	_	5	advmod	_	_
+4	càng ngày càng	càng ngày càng	ADV	ADV	_	5	advmod	_	_
 5	đẹp	đẹp	ADJ	Adj	_	1	ccomp	_	_
 6	ra	ra	VERB	V	_	5	advmod	_	_
 7	nhỉ	nhỉ	ADV	Adv	_	5	discourse	_	_
@@ -1334,7 +1334,7 @@
 15	thăm	thăm	VERB	V	_	14	compound:svc	_	_
 16	lại	lại	VERB	V	_	15	advmod	_	_
 17	nơi	nơi	NOUN	N	_	14	obl:comp	_	_
-18	chôn nhau cắt rốn	chôn nhau cắt rốn	VERB:G	VERB:G	_	17	acl:subj	_	_
+18	chôn nhau cắt rốn	chôn nhau cắt rốn	VERB	VERB	_	17	acl:subj	_	_
 19	sau	sau	NOUN	N	_	22	case	_	_
 20	mấy	mấy	DET	Det	_	21	det	_	_
 21	chục	chục	NUM	Num	_	22	nummod	_	_
@@ -1927,7 +1927,7 @@
 16	nhà	nhà	NOUN	N	_	15	obj	_	_
 17	gần	gần	ADJ	Adj	_	20	advcl:objective	_	_
 18	hơn	hơn	ADJ	Adj	_	17	advmod	_	_
-19	có lẽ	có lẽ	ADV:G	ADV:G	_	20	discourse	_	_
+19	có lẽ	có lẽ	ADV	ADV	_	20	discourse	_	_
 20	cần	cần	AUX	AUX	_	5	xcomp	_	_
 21	thêm	thêm	VERB	V	_	20	compound:svc	_	_
 22	những	những	DET	Det	_	23	det	_	_
@@ -2268,7 +2268,7 @@
 25	chắc	chắc	VERB	V	_	29	advmod:adj	_	_
 26	sẽ	sẽ	ADV	Adv	_	27	advmod	_	_
 27	mãi mãi	mãi mãi	ADV	Adv	_	29	advmod	_	_
-28	ngày càng	ngày càng	ADV:G	ADV:G	_	29	advmod	_	_
+28	ngày càng	ngày càng	ADV	ADV	_	29	advmod	_	_
 29	chìm	chìm	VERB	V	_	16	conj	_	_
 30	sâu	sâu	ADJ	Adj	_	29	xcomp	_	_
 31	vào	vào	ADP	Pre	_	32	case	_	_
@@ -2277,7 +2277,7 @@
 34	đến	đến	ADP	Pre	_	35	case	_	_
 35	vĩnh hằng	vĩnh hằng	ADJ	Adj	_	32	nmod	_	_
 36	,	,	PUNCT	PUNCT	_	38	punct	_	_
-37	ngày càng	ngày càng	ADV:G	ADV:G	_	38	advmod	_	_
+37	ngày càng	ngày càng	ADV	ADV	_	38	advmod	_	_
 38	chìm	chìm	VERB	V	_	16	conj	_	_
 39	sâu	sâu	ADJ	Adj	_	38	xcomp	_	_
 40	vào	vào	ADP	Pre	_	41	case	_	_
@@ -2527,7 +2527,7 @@
 19	tình hình	tình hình	NOUN	N	_	15	obj	_	_
 20	cộng đồng	cộng đồng	NOUN	N	_	19	nmod	_	_
 21	và	và	CCONJ	CC	_	5	cc	_	_
-22	nhất là	nhất là	PART:G	PART:G	_	23	advmod	_	_
+22	nhất là	nhất là	PART	PART	_	23	advmod	_	_
 23	bảo vệ	bảo vệ	VERB	V	_	5	conj	_	_
 24	quyền lợi	quyền lợi	NOUN	N	_	23	obj	_	_
 25	của	của	ADP	Pre	_	26	case	_	_
@@ -2687,7 +2687,7 @@
 19	tình hình	tình hình	NOUN	N	_	15	obj	_	_
 20	cộng đồng	cộng đồng	NOUN	N	_	19	nmod	_	_
 21	và	và	CCONJ	CC	_	23	cc	_	_
-22	nhất là	nhất là	PART:G	PART:G	_	23	discourse	_	_
+22	nhất là	nhất là	PART	PART	_	23	discourse	_	_
 23	bảo vệ	bảo vệ	VERB	V	_	5	conj	_	_
 24	quyền lợi	quyền lợi	NOUN	N	_	23	obj	_	_
 25	của	của	ADP	Pre	_	26	case	_	_
@@ -4689,7 +4689,7 @@
 24	"	"	PUNCT	PUNCT	_	12	punct	_	_
 25	được	được	AUX	AUX	_	27	aux:pass	_	_
 26	Lã Thị Kim Oanh	lã thị kim oanh	PROPN	NNP	_	27	obl:agent	_	_
-27	lặp đi lặp lại	lặp đi lặp lại	VERB:G	VERB:G	_	0	root	_	_
+27	lặp đi lặp lại	lặp đi lặp lại	VERB	VERB	_	0	root	_	_
 28	.	.	PUNCT	PUNCT	_	27	punct	_	_
 
 # sent_id = dev-s3163
@@ -4854,7 +4854,7 @@
 # sent_id = dev-s3170
 # text = Một phó bql bộc bạch : " Chúng tôi chưa thống kê hết được " .
 1	Một	một	NUM	Num	_	3	nummod	_	_
-2	phó	phó	NOUN	N	_	3	compound:Z	_	_
+2	phó	phó	NOUN	N	_	3	compound:z	_	_
 3	bql	bql	NOUN	Ny	_	4	nsubj	_	_
 4	bộc bạch	bộc bạch	VERB	V	_	0	root	_	_
 5	:	:	PUNCT	PUNCT	_	9	punct	_	_
@@ -5606,7 +5606,7 @@
 
 # sent_id = dev-s3200
 # text = Không tài nào xác định bao nhiêu cánh rừng bị tàn phá , chỉ biết giờ đây đứng nhìn thì " tầm nhìn xa trên 10 km " là rẫy .
-1	Không tài nào	không tài nào	ADV:G	ADV:G	_	2	advmod	_	_
+1	Không tài nào	không tài nào	ADV	ADV	_	2	advmod	_	_
 2	xác định	xác định	VERB	V	_	0	root	_	_
 3	bao nhiêu	bao nhiêu	PRON	Pro	_	4	det	_	_
 4	cánh	cánh	NOUN	N	_	7	nsubj:pass	_	_
@@ -5956,7 +5956,7 @@
 16	trang trại	trang trại	NOUN	N	_	17	nsubj	_	_
 17	đâm	đâm	VERB	V	_	13	ccomp	_	_
 18	thủng	thủng	ADJ	Adj	_	17	compound:svc	_	_
-19	đại	đại	ADJ	Adj	_	20	compound:Z	_	_
+19	đại	đại	ADJ	Adj	_	20	compound:z	_	_
 20	ngàn	ngàn	NOUN	N	_	17	obj	_	_
 21	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
@@ -6816,7 +6816,7 @@
 
 # sent_id = dev-s3240
 # text = Có lẽ so với dân bạc gà , tôi là thằng đặt cược hạng bét .
-1	Có lẽ	có lẽ	ADV:G	ADV:G	_	2	advmod	_	_
+1	Có lẽ	có lẽ	ADV	ADV	_	2	advmod	_	_
 2	so	so	VERB	V	_	10	advcl	_	_
 3	với	với	ADP	Pre	_	4	case	_	_
 4	dân	dân	NOUN	N	_	2	obl:with	_	_
@@ -7814,7 +7814,7 @@
 6	lẽ	lẽ	NOUN	N	_	0	root	_	_
 7	tất nhiên	tất nhiên	ADJ	Adj	_	6	amod	_	_
 8	nhưng	nhưng	SCONJ	SC	_	13	mark	_	_
-9	có lẽ	có lẽ	ADV:G	ADV:G	_	13	advmod	_	_
+9	có lẽ	có lẽ	ADV	ADV	_	13	advmod	_	_
 10	dân chơi	dân chơi	NOUN	N	_	13	nsubj	_	_
 11	tennis	tennis	NOUN	Nb	_	10	nmod	_	_
 12	là	là	SCONJ	SC	_	13	mark	_	_
@@ -8775,7 +8775,7 @@
 
 # sent_id = dev-s3323
 # text = Có lẽ cuộc đời của tuấn " cụt " đã là một minh chứng tiêu biểu cho triết lý " chơi gà chọi là cái nợ đời " .
-1	Có lẽ	có lẽ	ADV:G	ADV:G	_	11	advmod	_	_
+1	Có lẽ	có lẽ	ADV	ADV	_	11	advmod	_	_
 2	cuộc đời	cuộc đời	NOUN	N	_	11	nsubj	_	_
 3	của	của	ADP	Pre	_	4	case	_	_
 4	tuấn	tuấn	PROPN	NNP	_	2	nmod:poss	_	_
@@ -9445,7 +9445,7 @@
 8	dứt khoát	dứt khoát	ADJ	Adj	_	7	advmod:adj	_	_
 9	,	,	PUNCT	PUNCT	_	11	punct	_	_
 10	cứ	cứ	ADV	Adv	_	11	advmod	_	_
-11	hẹn lần hẹn lữa	hẹn lần hẹn lữa	VERB:G	VERB:G	_	7	conj	_	_
+11	hẹn lần hẹn lữa	hẹn lần hẹn lữa	VERB	VERB	_	7	conj	_	_
 12	về	về	ADP	Pre	_	13	case	_	_
 13	việc	việc	NOUN	N	_	11	obl:comp	_	_
 14	sẽ	sẽ	ADV	Adv	_	15	advmod	_	_
@@ -9702,7 +9702,7 @@
 10	phá	phá	VERB	V	_	9	acl:subj	_	_
 11	rừng	rừng	NOUN	N	_	10	obj	_	_
 12	nhưng	nhưng	SCONJ	SC	_	14	cc	_	_
-13	không tài nào	không tài nào	ADV:G	ADV:G	_	14	advmod	_	_
+13	không tài nào	không tài nào	ADV	ADV	_	14	advmod	_	_
 14	bắt	bắt	VERB	V	_	6	conj	_	_
 15	quả tang	quả tang	ADV	Adv	_	14	compound:prt	_	_
 16	,	,	PUNCT	PUNCT	_	20	punct	_	_
@@ -10283,7 +10283,7 @@
 19	rừng	rừng	NOUN	N	_	13	nmod	_	_
 20	trồng	trồng	VERB	V	_	19	compound:vmod	_	_
 21	đang	đang	ADV	Adv	_	23	advmod	_	_
-22	ngày một	ngày một	ADV:G	ADV:G	_	23	advmod	_	_
+22	ngày một	ngày một	ADV	ADV	_	23	advmod	_	_
 23	thu hẹp	thu hẹp	VERB	V	_	19	acl:subj	_	_
 24	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -10866,7 +10866,7 @@
 11	ba	ba	NUM	Num	_	12	nummod	_	_
 12	đối tượng	đối tượng	NOUN	N	_	9	obl:with	_	_
 13	kia	kia	PRON	Pro	_	12	det:pmod	_	_
-14	thì có	thì có	PART:G	PART:G	_	7	discourse	_	_
+14	thì có	thì có	PART	PART	_	7	discourse	_	_
 15	,	,	PUNCT	PUNCT	_	1	punct	_	_
 16	nhưng	nhưng	SCONJ	SC	_	24	mark	_	_
 17	khi	khi	NOUN	N	_	24	obl:tmod	_	_
@@ -11459,7 +11459,7 @@
 3	nhu cầu	nhu cầu	NOUN	N	_	1	obj	_	_
 4	cát	cát	NOUN	N	_	3	nmod	_	_
 5	xây dựng	xây dựng	VERB	V	_	4	compound:vmod	_	_
-6	ngày một	ngày một	ADV:G	ADV:G	_	7	advmod	_	_
+6	ngày một	ngày một	ADV	ADV	_	7	advmod	_	_
 7	tăng	tăng	VERB	V	_	3	acl	_	_
 8	,	,	PUNCT	PUNCT	_	10	punct	_	_
 9	lại	lại	ADV	Adv	_	10	advmod	_	_
@@ -12069,7 +12069,7 @@
 29	vào	vào	VERB	V	_	30	case	_	_
 30	trạm	trạm	NOUN	N	_	28	obl:comp	_	_
 31	và	và	CCONJ	CC	_	34	cc	_	_
-32	nhất là	nhất là	PART:G	PART:G	_	34	obl	_	_
+32	nhất là	nhất là	PART	PART	_	34	obl	_	_
 33	không	không	ADV	Adv	_	34	advmod:neg	_	_
 34	đủ	đủ	ADJ	Adj	_	22	conj	_	_
 35	sức	sức	NOUN	N	_	34	obj	_	_
