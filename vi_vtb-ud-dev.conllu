@@ -1713,7 +1713,7 @@
 7	,	,	PUNCT	PUNCT	_	8	punct	_	_
 8	hôm	hôm	NOUN	N	_	6	appos:nmod	_	_
 9	1	1	NUM	Num	_	8	flat:date	_	_
-10	-	-	PUNCT	PUNCT	_	8	flat:date	_	_
+10	-	-	SYM	SYM	_	8	flat:date	_	_
 11	12	12	NUM	Num	_	8	flat:date	_	_
 12	,	,	PUNCT	PUNCT	_	8	punct	_	_
 13	trong	trong	ADP	Pre	_	14	case	_	_
@@ -3896,9 +3896,9 @@
 # text = ngày 1 - 4 – 2004 : xe chở thép tấm đi Phú Mỹ chi cho công an trạm 2 : 50.000 đồng , công an quốc lộ 51 : 150.000 đồng , công an Bà Rịa 150.000 đồng , công an Tân Thành : 100.000 đồng .
 1	ngày	ngày	NOUN	N	_	14	obl:tmod	_	_
 2	1	1	NUM	Num	_	1	nummod	_	_
-3	-	-	PUNCT	PUNCT	_	2	flat:date	_	_
+3	-	-	SYM	SYM	_	2	flat:date	_	_
 4	4	4	NUM	Num	_	2	flat:date	_	_
-5	–	–	PUNCT	PUNCT	_	2	flat:date	_	_
+5	–	–	SYM	SYM	_	2	flat:date	_	_
 6	2004	2004	NUM	Num	_	2	flat:date	_	_
 7	:	:	PUNCT	PUNCT	_	1	punct	_	_
 8	xe	xe	NOUN	N	_	14	nsubj	_	_
@@ -4569,7 +4569,7 @@
 3	,	,	PUNCT	PUNCT	_	1	punct	_	_
 4	chiều	chiều	NOUN	N	_	15	obl:tmod	_	_
 5	30	30	NUM	Num	_	4	flat:date	_	_
-6	-	-	PUNCT	PUNCT	_	4	flat:date	_	_
+6	-	-	SYM	SYM	_	4	flat:date	_	_
 7	3	3	NUM	Num	_	4	flat:date	_	_
 8	,	,	PUNCT	PUNCT	_	15	punct	_	_
 9	trong	trong	ADP	Pre	_	10	case	_	_
@@ -4613,9 +4613,9 @@
 17	rạng	rạng	ADJ	Adj	_	18	amod	_	_
 18	sáng	sáng	NOUN	N	_	15	obl:tmod	_	_
 19	3	3	NUM	Num	_	18	flat:date	_	_
-20	-	-	PUNCT	PUNCT	_	18	flat:date	_	_
+20	-	-	SYM	SYM	_	18	flat:date	_	_
 21	4	4	NUM	Num	_	18	flat:date	_	_
-22	–	–	PUNCT	PUNCT	_	18	flat:date	_	_
+22	–	–	SYM	SYM	_	18	flat:date	_	_
 23	2004	2004	NUM	Num	_	18	flat:date	_	_
 24	tại	tại	ADP	Pre	_	25	case	_	_
 25	Dầu Giây	dầu giây	PROPN	NNP	_	15	obl	_	_
@@ -5733,7 +5733,7 @@
 12	rạng	rạng	ADJ	Adj	_	13	advmod:adj	_	_
 13	sáng	sáng	NOUN	N	_	19	obl:tmod	_	_
 14	6	6	NUM	Num	_	13	flat:date	_	_
-15	-	-	PUNCT	PUNCT	_	13	flat:date	_	_
+15	-	-	SYM	SYM	_	13	flat:date	_	_
 16	4	4	NUM	Num	_	13	flat:date	_	_
 17	chúng tôi	chúng tôi	PRON	Pro	_	19	nsubj	_	_
 18	lại	lại	ADV	Adv	_	19	advmod	_	_
@@ -6520,9 +6520,9 @@
 6	g	g	NOUN	Nu	_	4	nmod	_	_
 7	ngày	ngày	NOUN	N	_	4	nmod	_	_
 8	8	8	NUM	Num	_	7	flat:date	_	_
-9	-	-	PUNCT	PUNCT	_	7	flat:date	_	_
+9	-	-	SYM	SYM	_	7	flat:date	_	_
 10	12	12	NUM	Num	_	7	flat:date	_	_
-11	–	–	PUNCT	PUNCT	_	7	flat:date	_	_
+11	–	–	SYM	SYM	_	7	flat:date	_	_
 12	2001	2001	NUM	Num	_	7	flat:date	_	_
 13	,	,	PUNCT	PUNCT	_	4	punct	_	_
 14	bị cáo	bị cáo	NOUN	N	_	18	nsubj	_	_
@@ -9331,7 +9331,7 @@
 1	từ	từ	ADP	Pre	_	2	case	_	_
 2	ngày	ngày	NOUN	N	_	12	obl:tmod	_	_
 3	30	30	NUM	Num	_	2	nummod	_	_
-4	-	-	PUNCT	PUNCT	_	3	flat:date	_	_
+4	-	-	SYM	SYM	_	3	flat:date	_	_
 5	3	3	NUM	Num	_	3	flat:date	_	_
 6	,	,	PUNCT	PUNCT	_	2	punct	_	_
 7	tòa án	tòa án	NOUN	N	_	12	nsubj	_	_
@@ -10338,7 +10338,7 @@
 11	từ	từ	ADP	Pre	_	12	case	_	_
 12	ngày	ngày	NOUN	N	_	27	obl:tmod	_	_
 13	25-27	25-27	NUM	Num	_	12	flat:date	_	_
-14	/	/	PUNCT	PUNCT	_	12	flat:date	_	_
+14	/	/	SYM	SYM	_	12	flat:date	_	_
 15	3	3	NUM	Num	_	12	flat:date	_	_
 16	,	,	PUNCT	PUNCT	_	12	punct	_	_
 17	tại	tại	ADP	Pre	_	27	advcl	_	_
@@ -10662,9 +10662,9 @@
 17	sáng	sáng	NOUN	N	_	13	obl	_	_
 18	ngày	ngày	NOUN	N	_	17	nmod	_	_
 19	6	6	NUM	Num	_	18	flat:date	_	_
-20	-	-	PUNCT	PUNCT	_	18	flat:date	_	_
+20	-	-	SYM	SYM	_	18	flat:date	_	_
 21	4	4	NUM	Num	_	18	flat:date	_	_
-22	–	–	PUNCT	PUNCT	_	18	flat:date	_	_
+22	–	–	SYM	SYM	_	18	flat:date	_	_
 23	2004	2004	NUM	Num	_	18	flat:date	_	_
 24	các	các	DET	Det	_	25	det	_	_
 25	xe	xe	NOUN	N	_	27	nsubj:pass	_	_
@@ -10893,9 +10893,9 @@
 # sent_id = dev-s3400
 # text = 3 - 4 – 2004 : xe chở sắt dài Tân Tạo đi Phú Mỹ chi công an trạm 1 : 50.000 đồng , công an trạm 3 : 50.000 đồng , công an Vũng Tàu : 50.000 đồng , công an quốc lộ 51 : 150.000 đồng .
 1	3	3	NUM	Num	_	14	obl:tmod	_	_
-2	-	-	PUNCT	PUNCT	_	1	flat:date	_	_
+2	-	-	SYM	SYM	_	1	flat:date	_	_
 3	4	4	NUM	Num	_	1	flat:date	_	_
-4	–	–	PUNCT	PUNCT	_	1	flat:date	_	_
+4	–	–	SYM	SYM	_	1	flat:date	_	_
 5	2004	2004	NUM	Num	_	1	flat:date	_	_
 6	:	:	PUNCT	PUNCT	_	14	punct	_	_
 7	xe	xe	NOUN	N	_	14	nsubj	_	_
@@ -11320,9 +11320,9 @@
 1	đến	đến	ADP	Pre	_	2	case	_	_
 2	ngày	ngày	NOUN	N	_	18	obl:tmod	_	_
 3	11	11	NUM	Num	_	2	flat:date	_	_
-4	-	-	PUNCT	PUNCT	_	2	flat:date	_	_
+4	-	-	SYM	SYM	_	2	flat:date	_	_
 5	1	1	NUM	Num	_	2	flat:date	_	_
-6	–	–	PUNCT	PUNCT	_	2	flat:date	_	_
+6	–	–	SYM	SYM	_	2	flat:date	_	_
 7	2003	2003	NUM	Num	_	2	flat:date	_	_
 8	,	,	PUNCT	PUNCT	_	18	punct	_	_
 9	các	các	DET	Det	_	10	det	_	_
@@ -11840,7 +11840,7 @@
 # text = chiều 22 - 3 các cán bộ có trách nhiệm của hải quan cho biết vẫn đang tiếp tục kiểm tra lập biên bản thu giữ các mặt hàng trên nên chưa thể công bố số lượng chính thức .
 1	chiều	chiều	NOUN	N	_	11	obl:tmod	_	_
 2	22	22	NUM	Num	_	1	nummod	_	_
-3	-	-	PUNCT	PUNCT	_	2	flat:date	_	_
+3	-	-	SYM	SYM	_	2	flat:date	_	_
 4	3	3	NUM	Num	_	2	flat:date	_	_
 5	các	các	DET	Det	_	6	det	_	_
 6	cán bộ	cán bộ	NOUN	N	_	11	nsubj	_	_
@@ -12748,15 +12748,15 @@
 26	vn	vn	PROPN	NNPy	_	23	obl	_	_
 27	ngày nay	ngày nay	NOUN	N	_	26	obl:tmod	_	_
 28	LBKT	lbkt	PUNCT	PUNCT	_	29	punct	_	_
-29	lepers	lepers	FW	FW	_	16	appos:nmod	_	_
-30	and	and	FW	FW	_	29	flat:foreign	_	_
-31	lunacy	lunacy	FW	FW	_	29	flat:foreign	_	_
+29	lepers	lepers	X	FW	_	16	appos:nmod	_	_
+30	and	and	X	FW	_	29	flat:foreign	_	_
+31	lunacy	lunacy	X	FW	_	29	flat:foreign	_	_
 32	:	:	PUNCT	PUNCT	_	29	punct	_	_
-33	an	an	FW	FW	_	29	flat:foreign	_	_
+33	an	an	X	FW	_	29	flat:foreign	_	_
 34	american	american	PROPN	NNP	_	29	flat:foreign	_	_
-35	in	in	FW	FW	_	29	flat:foreign	_	_
+35	in	in	X	FW	_	29	flat:foreign	_	_
 36	vietnam	vietnam	PROPN	NNP	_	29	flat:foreign	_	_
-37	today	today	FW	FW	_	29	flat:foreign	_	_
+37	today	today	X	FW	_	29	flat:foreign	_	_
 38	RBKT	rbkt	PUNCT	PUNCT	_	29	punct	_	_
 39	dày	dày	ADJ	Adj	_	16	conj	_	_
 40	246	246	NUM	Num	_	41	nummod	_	_
@@ -12818,7 +12818,7 @@
 # text = chiều 24 - 3 , bộ trưởng bộ và phát triển nông thôn LBKT NN & PTNT RBKT Lê Huy Ngọ đã xuất hiện tại trụ sở tòa án Nhân dân Tối cao để làm chứng trong phiên phúc thẩm xét xử bị cáo lã thị kim oanh và đồng phạm .
 1	chiều	chiều	NOUN	N	_	18	obl:tmod	_	_
 2	24	24	NUM	Num	_	1	flat:date	_	_
-3	-	-	PUNCT	PUNCT	_	1	flat:date	_	_
+3	-	-	SYM	SYM	_	1	flat:date	_	_
 4	3	3	NUM	Num	_	1	flat:time	_	_
 5	,	,	PUNCT	PUNCT	_	1	punct	_	_
 6	bộ trưởng	bộ trưởng	NOUN	N	_	18	nsubj	_	_
@@ -13108,7 +13108,7 @@
 10	công nhận	công nhận	VERB	V	_	0	root	_	_
 11	,	,	PUNCT	PUNCT	_	16	punct	_	_
 12	tháng 6	tháng 6	NOUN	N	_	16	obl:tmod	_	_
-13	-	-	PUNCT	PUNCT	_	12	flat:date	_	_
+13	-	-	SYM	SYM	_	12	flat:date	_	_
 14	2003	2003	NUM	Num	_	12	flat:date	_	_
 15	chị	chị	NOUN	N	_	16	nsubj	_	_
 16	đoạt	đoạt	VERB	V	_	10	parataxis	_	_
@@ -13284,7 +13284,7 @@
 # sent_id = dev-s3476
 # text = tháng 6 - 2004 vừa qua , đề tài nghiên cứu " giúp phát triển kỹ năng cho NKT " của chị được hội đồng khoa học tại đh Kansas đánh giá cao .
 1	tháng 6	tháng 6	NOUN	N	_	23	obl:tmod	_	_
-2	-	-	PUNCT	PUNCT	_	1	flat:date	_	_
+2	-	-	SYM	SYM	_	1	flat:date	_	_
 3	2004	2004	NUM	Num	_	1	flat:date	_	_
 4	vừa qua	vừa qua	NOUN	N:G	_	1	nmod	_	_
 5	,	,	PUNCT	PUNCT	_	1	punct	_	_
