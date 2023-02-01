@@ -7072,7 +7072,7 @@
 9	các	các	DET	Det	_	10	det	_	_
 10	giải pháp	giải pháp	DET	Det	_	7	obj	_	_
 11	này	này	PRON	PRO	_	10	det:pmod	_	_
-12	trên	trên	PRON	Pro	_	13	case	_	_
+12	trên	trên	ADP	PRE	_	13	case	_	_
 13	thực tế	thực tế	ADP	PRE	_	7	obl	_	_
 14	,	,	PUNCT	PUNCT	_	16	punct	_	_
 15	không thể	không thể	ADV	Adv	_	16	advmod:neg	_	_
