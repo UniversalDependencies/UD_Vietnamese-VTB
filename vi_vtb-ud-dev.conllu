@@ -11,13 +11,13 @@
 9	đất	đất	NOUN	N	_	8	obj	_	_
 10	với	với	ADP	PRE	_	11	case	_	_
 11	giá	giá	NOUN	N	_	8	obl:comp	_	_
-12	không	không	ADV	ADV	_	13	advmod:neg	_	_
+12	không	không	ADV	ADV	_	16	advmod:neg	_	_
 13	được	được	AUX	AUX	_	16	aux:pass	_	_
 14	ủy ban	ủy ban	NOUN	N	_	16	obl:agent	_	_
 15	tỉnh	tỉnh	NOUN	N	_	14	nmod	_	_
 16	phê duyệt	phê duyệt	VERB	V	_	11	acl:subj	_	_
 17	là	là	SCONJ	C	_	19	mark	_	_
-18	không thể	không thể	ADV	ADV	_	19	aux	_	_
+18	không thể	không thể	AUX	AUX	_	19	aux	_	_
 19	chấp nhận	chấp nhận	VERB	V	_	6	parataxis	_	_
 20	được	được	ADV	ADV	_	19	advmod	_	_
 21	,	,	PUNCT	PUNCT	_	24	punct	_	_
@@ -32,7 +32,7 @@
 30	loại	loại	NOUN	N	_	40	dislocated	_	_
 31	dự án	dự án	NOUN	N	_	30	nmod	_	_
 32	này	này	PRON	PRO	_	30	det:pmod	_	_
-33	không	không	ADV	ADV	_	34	advmod:neg	_	_
+33	không	không	ADV	ADV	_	36	advmod:neg	_	_
 34	phải	phải	AUX	ADJ	_	36	aux	_	_
 35	muốn	muốn	AUX	AUX	_	36	aux	_	_
 36	bán	bán	VERB	V	_	40	csubj	_	_
@@ -166,7 +166,7 @@
 2	ông	ông	NOUN	N	_	1	obj	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
 4	sổ đỏ	sổ đỏ	NOUN	N	_	7	nsubj:pass	_	_
-5	đã	đã	ADV	ADV	_	6	advmod	_	_
+5	đã	đã	ADV	ADV	_	7	advmod	_	_
 6	được	được	AUX	AUX	_	7	aux:pass	_	_
 7	giao	giao	VERB	V	_	0	root	_	_
 8	cho	cho	ADP	PRE	_	9	case	_	_
@@ -187,13 +187,13 @@
 9	đất	đất	NOUN	N	_	8	obj	_	_
 10	với	với	ADP	PRE	_	11	case	_	_
 11	giá	giá	NOUN	N	_	8	obl	_	_
-12	không	không	ADV	ADV	_	13	advmod:neg	_	_
+12	không	không	ADV	ADV	_	16	advmod:neg	_	_
 13	được	được	AUX	AUX	_	16	aux:pass	_	_
 14	ủy ban	ủy ban	NOUN	N	_	16	obl:agent	_	_
 15	tỉnh	tỉnh	NOUN	N	_	14	nmod	_	_
 16	phê duyệt	phê duyệt	VERB	V	_	11	acl:subj	_	_
 17	là	là	AUX	AUX	_	19	cop	_	_
-18	không thể	không thể	ADV	ADV	_	19	aux	_	_
+18	không thể	không thể	AUX	AUX	_	19	aux	_	_
 19	chấp nhận	chấp nhận	VERB	V	_	6	parataxis	_	_
 20	được	được	ADV	ADV	_	19	advmod	_	_
 21	,	,	PUNCT	PUNCT	_	24	punct	_	_
@@ -249,7 +249,7 @@
 # text = Chỉ trong một thời gian ngắn , hàng trăm hồ sơ xin giao LBKT mua RBKT đất của người dân từ thành phố Qui Nhơn LBKT Bình Định RBKT và huyện Sông Cầu LBKT Phú Yên RBKT đã được ubnd huyện Sông Cầu xem xét và ra quyết định cấp đất theo quyết định số 2554 / QĐ - UB ngày 5/10/2000 của ubnd tỉnh Phú Yên .
 1	Chỉ	chỉ	ADV	ADV	_	4	advmod	_	_
 2	trong	trong	ADP	PRE	_	4	case	_	_
-3	một	một	NUM	NUM	_	4	det	_	_
+3	một	một	NUM	NUM	_	4	nummod:det	_	_
 4	thời gian	thời gian	NOUN	N	_	36	obl:tmod	_	_
 5	ngắn	ngắn	ADJ	ADJ	_	4	amod	_	_
 6	,	,	PUNCT	PUNCT	_	36	punct	_	_
@@ -320,7 +320,7 @@
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_
 13	chúng tôi	chúng tôi	PRON	PRO	_	14	nsubj	_	_
 14	gặp	gặp	VERB	V	_	0	root	_	_
-15	nhiều	nhiều	ADJ	ADJ	_	16	det	_	_
+15	nhiều	nhiều	ADJ	ADJ	_	16	advmod:adj	_	_
 16	người	người	NOUN	N	_	14	obj	_	_
 17	dân	dân	NOUN	N	_	16	compound	_	_
 18	ở	ở	ADP	PRE	_	19	case	_	_
@@ -452,7 +452,7 @@
 4	của	của	ADP	PRE	_	6	case	_	_
 5	anh	anh	NOUN	N	_	6	clf:det	_	_
 6	Ninh	Ninh	PROPN	NNP	_	3	nmod:poss	_	_
-7	mỗi	mỗi	NUM	NUM	_	8	det	_	_
+7	mỗi	mỗi	NUM	NUM	_	8	nummod:det	_	_
 8	tháng	tháng	NOUN	N	_	10	obl:tmod	_	_
 9	còn	còn	ADV	ADV	_	10	advmod	_	_
 10	xuất khẩu	xuất khẩu	VERB	V	_	0	root	_	_
@@ -505,7 +505,7 @@
 6	mở	mở	VERB	V	_	4	acl:tmod	_	_
 7	quán	quán	NOUN	N	_	6	obj	_	_
 8	phở	phở	NOUN	N	_	7	nmod	_	_
-9	mỗi	mỗi	NUM	NUM	_	10	det	_	_
+9	mỗi	mỗi	NUM	NUM	_	10	nummod:det	_	_
 10	ngày	ngày	NOUN	N	_	11	obl:tmod	_	_
 11	bán	bán	VERB	V	_	3	ccomp	_	_
 12	được	được	ADV	ADV	_	11	advmod	_	_
@@ -819,7 +819,7 @@
 6	ra	ra	VERB	V	_	3	ccomp	_	_
 7	Bắc	Bắc	PROPN	NNP	_	6	obl:comp	_	_
 8	nghỉ	nghỉ	VERB	V	_	6	xcomp	_	_
-9	một	một	NUM	NUM	_	10	det	_	_
+9	một	một	NUM	NUM	_	10	nummod:det	_	_
 10	thời gian	thời gian	NOUN	N	_	8	obl:tmod	_	_
 11	,	,	PUNCT	PUNCT	_	12	punct	_	_
 12	chữa	chữa	VERB	V	_	6	conj	_	_
@@ -1271,7 +1271,7 @@
 6	ấy	ấy	PRON	PRO	_	4	det:pmod	_	_
 7	,	,	PUNCT	PUNCT	_	10	punct	_	_
 8	thỉnh thoảng	thỉnh thoảng	ADV	ADV	_	10	advmod	_	_
-9	có thể	có thể	ADV	ADV	_	10	aux	_	_
+9	có thể	có thể	AUX	AUX	_	10	aux	_	_
 10	gặp	gặp	VERB	V	_	1	conj	_	_
 11	dấu vết	dấu vết	NOUN	N	_	10	obj	_	_
 12	những	những	DET	DET	_	14	det	_	_
@@ -1495,7 +1495,7 @@
 9	Nam Trà My	Nam Trà My	PROPN	NNP	_	8	compound	_	_
 10	,	,	PUNCT	PUNCT	_	32	punct	_	_
 11	nhưng	nhưng	SCONJ	C	_	32	mark	_	_
-12	phải	phải	ADV	ADV	_	15	aux	_	_
+12	phải	phải	AUX	AUX	_	15	aux	_	_
 13	gần	gần	ADJ	ADJ	_	14	advmod:adj	_	_
 14	tám	tám	NUM	NUM	_	15	nummod	_	_
 15	ngày	ngày	NOUN	N	_	32	obl:tmod	_	_
@@ -1668,7 +1668,7 @@
 7	con	con	NOUN	N	_	8	clf:det	_	_
 8	tôm sú	tôm sú	NOUN	N	_	9	nsubj	_	_
 9	giúp	giúp	VERB	V	_	6	acl:tmod	_	_
-10	nhiều	nhiều	ADJ	ADJ	_	11	det	_	_
+10	nhiều	nhiều	ADJ	ADJ	_	11	advmod:adj	_	_
 11	nông dân	nông dân	NOUN	N	_	9	obj	_	_
 12	thành	thành	VERB	V	_	9	xcomp	_	_
 13	tỉ phú	tỉ phú	NOUN	N	_	12	obj	_	_
@@ -2439,7 +2439,7 @@
 25	đước	đước	NOUN	N	_	24	compound	_	_
 26	dày	dày	ADJ	ADJ	_	24	amod	_	_
 27	,	,	PUNCT	PUNCT	_	29	punct	_	_
-28	có thể	có thể	ADV	ADV	_	29	aux	_	_
+28	có thể	có thể	AUX	AUX	_	29	aux	_	_
 29	đào	đào	VERB	V	_	20	conj	_	_
 30	ụ	ụ	NOUN	N	_	29	obj	_	_
 31	giấu	giấu	VERB	V	_	29	xcomp	_	_
@@ -2470,7 +2470,7 @@
 14	,	,	PUNCT	PUNCT	_	18	punct	_	_
 15	tàu	tàu	NOUN	N	_	18	nsubj	_	_
 16	ta	ta	PRON	PRO	_	15	nmod	_	_
-17	có thể	có thể	ADV	ADV	_	18	aux	_	_
+17	có thể	có thể	AUX	AUX	_	18	aux	_	_
 18	vào	vào	VERB	V	_	7	conj	_	_
 19	thong thả	thong thả	ADJ	ADJ	_	18	xcomp	_	_
 20	.	.	PUNCT	PUNCT	_	7	punct	_	_
@@ -2910,7 +2910,7 @@
 10	đó	đó	PRON	PRO	_	12	nsubj	_	_
 11	là	là	AUX	AUX	_	12	cop	_	_
 12	con người	con người	NOUN	N	_	8	ccomp	_	_
-13	có thể	có thể	ADV	ADV	_	14	aux	_	_
+13	có thể	có thể	AUX	AUX	_	14	aux	_	_
 14	tin cậy	tin cậy	VERB	V	_	12	acl:subj	_	_
 15	trong	trong	ADP	PRE	_	16	case	_	_
 16	lúc	lúc	NOUN	N	_	14	obl:tmod	_	_
@@ -6747,7 +6747,7 @@
 23	manh nha	manh nha	VERB	V	_	22	xcomp	_	_
 24	hình thành	hình thành	VERB	V	_	23	xcomp	_	_
 25	,	,	PUNCT	PUNCT	_	28	punct	_	_
-26	nhiều	nhiều	ADJ	ADJ	_	27	det	_	_
+26	nhiều	nhiều	ADJ	ADJ	_	27	advmod:adj	_	_
 27	người	người	NOUN	N	_	28	nsubj	_	_
 28	có	có	VERB	V	_	0	root	_	_
 29	thông tin	thông tin	NOUN	N	_	28	obj	_	_
@@ -8293,7 +8293,7 @@
 11	vào	vào	ADP	PRE	_	13	case	_	_
 12	đứa	đứa	NOUN	N	_	13	clf:det	_	_
 13	con	con	NOUN	N	_	8	obl:comp	_	_
-14	có thể	có thể	ADV	ADV	_	17	aux	_	_
+14	có thể	có thể	AUX	AUX	_	17	aux	_	_
 15	sẽ	sẽ	ADV	ADV	_	17	advmod	_	_
 16	không	không	ADV	ADV	_	17	advmod:neg	_	_
 17	nhiễm	nhiễm	VERB	V	_	13	acl:subj	_	_
@@ -9022,7 +9022,7 @@
 3	cuộc	cuộc	NOUN	N	_	2	obj	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	họ	họ	PRON	PRO	_	7	nsubj	_	_
-6	có thể	có thể	ADV	ADV	_	7	aux	_	_
+6	có thể	có thể	AUX	AUX	_	7	aux	_	_
 7	nhận	nhận	VERB	V	_	0	root	_	_
 8	được	được	ADV	ADV	_	7	advmod	_	_
 9	thêm	thêm	VERB	V	_	7	xcomp	_	_
@@ -9138,7 +9138,7 @@
 12	rất	rất	ADV	ADV	_	13	advmod	_	_
 13	cẩn thận	cẩn thận	ADJ	ADJ	_	0	root	_	_
 14	từ	từ	ADP	PRE	_	16	case	_	_
-15	nhiều	nhiều	ADJ	ADJ	_	16	det	_	_
+15	nhiều	nhiều	ADJ	ADJ	_	16	advmod:adj	_	_
 16	nguồn	nguồn	NOUN	N	_	13	obl:comp	_	_
 17	khác	khác	ADJ	ADJ	_	16	acl:subj	_	_
 18	nhau	nhau	NOUN	N	_	17	obl:adj	_	_
@@ -9313,7 +9313,7 @@
 # text = Phong trào SV được tập hợp rộng rãi hơn với đại hội SV liên viện kỳ 1 LBKT các viện đại học sài gòn , Đà Lạt , Cần Thơ , Vạn Hạnh RBKT , tại số 4 Duy Tân , họp ngày 27 - 9 - 1967 trong vòng vây của cảnh sát , ra tuyên bố đòi hủy bỏ kết quả bầu cử tổng thống và yêu cầu Mỹ không được can thiệp vào nội bộ VN .
 1	Phong trào	phong trào	NOUN	N	_	4	nsubj:pass	_	_
 2	SV	sv	NOUN	NY	_	1	compound	_	_
-3	được	được	ADV	ADV	_	4	aux:pass	_	_
+3	được	được	AUX	AUX	_	4	aux:pass	_	_
 4	tập hợp	tập hợp	VERB	V	_	0	root	_	_
 5	rộng rãi	rộng rãi	ADJ	ADJ	_	4	xcomp	_	_
 6	hơn	hơn	ADJ	ADJ	_	5	advmod:adj	_	_
@@ -9639,7 +9639,7 @@
 10	tỉnh	tỉnh	NOUN	N	_	8	nmod	_	_
 11	Khánh Hòa	Khánh Hòa	PROPN	NNP	_	10	compound	_	_
 12	,	,	PUNCT	PUNCT	_	16	punct	_	_
-13	nhiều	nhiều	ADJ	ADJ	_	14	det	_	_
+13	nhiều	nhiều	ADJ	ADJ	_	14	advmod:adj	_	_
 14	thủy thủ	thủy thủ	NOUN	N	_	16	nsubj	_	_
 15	vẫn	vẫn	ADV	ADV	_	16	advmod	_	_
 16	còn	còn	VERB	V	_	0	root	_	_
@@ -9820,7 +9820,7 @@
 6	học kỳ	học kỳ	NOUN	N	_	4	nmod	_	_
 7	1	1	NUM	NUM	_	6	nmod	_	_
 8	,	,	PUNCT	PUNCT	_	13	punct	_	_
-9	nhiều	nhiều	ADJ	ADJ	_	10	det	_	_
+9	nhiều	nhiều	ADJ	ADJ	_	10	advmod:adj	_	_
 10	sv	sv	NOUN	NY	_	13	nsubj	_	_
 11	đã	đã	ADV	ADV	_	13	advmod	_	_
 12	lập tức	lập tức	ADV	ADV	_	13	advmod	_	_
@@ -10119,7 +10119,7 @@
 15	còn	còn	ADV	ADV	_	16	advmod	_	_
 16	là	là	AUX	AUX	_	17	cop	_	_
 17	cơ may	cơ may	NOUN	N	_	0	root	_	_
-18	không thể	không thể	ADV	ADV	_	19	aux	_	_
+18	không thể	không thể	AUX	AUX	_	19	aux	_	_
 19	bỏ qua	bỏ qua	VERB	V	_	17	acl:subj	_	_
 20	.	.	PUNCT	PUNCT	_	17	punct	_	_
 
@@ -10249,7 +10249,7 @@
 2	cứu hộ	cứu hộ	VERB	V	_	1	compound:vmod	_	_
 3	báo	báo	VERB	V	_	0	root	_	_
 4	họ	họ	PRON	PRO	_	6	nsubj	_	_
-5	không thể	không thể	ADV	ADV	_	6	aux	_	_
+5	không thể	không thể	AUX	AUX	_	6	aux	_	_
 6	vào	vào	VERB	V	_	3	ccomp	_	_
 7	gần	gần	ADJ	ADJ	_	6	xcomp	_	_
 8	tàu	tàu	NOUN	N	_	7	obl:adj	_	_
@@ -10330,7 +10330,7 @@
 14	dữ dội	dữ dội	ADJ	ADJ	_	13	xcomp	_	_
 15	hơn	hơn	ADJ	ADJ	_	14	advmod:adj	_	_
 16	,	,	PUNCT	PUNCT	_	20	punct	_	_
-17	nhiều	nhiều	ADJ	ADJ	_	18	det	_	_
+17	nhiều	nhiều	ADJ	ADJ	_	18	advmod:adj	_	_
 18	thủy thủ	thủy thủ	NOUN	N	_	20	nsubj:pass	_	_
 19	bị	bị	AUX	AUX	_	20	aux:pass	_	_
 20	va đập	va đập	VERB	V	_	7	conj	_	_
@@ -10601,7 +10601,7 @@
 11	cá	cá	NOUN	N	_	5	conj	_	_
 12	còn	còn	VERB	V	_	2	acl:subj	_	_
 13	mềm nhũn	mềm nhũn	ADJ	ADJ	_	12	xcomp	_	_
-14	có thể	có thể	ADV	ADV	_	15	aux	_	_
+14	có thể	có thể	AUX	AUX	_	15	aux	_	_
 15	đưa	đưa	VERB	V	_	0	root	_	_
 16	tay	tay	NOUN	N	_	15	obj	_	_
 17	bấm	bấm	VERB	V	_	15	xcomp	_	_
@@ -11051,7 +11051,7 @@
 12	thoảng	thoảng	VERB	V	_	16	advcl	_	_
 13	qua	qua	VERB	V	_	12	compound:svc	_	_
 14	cũng	cũng	ADV	ADV	_	16	advmod	_	_
-15	có thể	có thể	ADV	ADV	_	16	aux	_	_
+15	có thể	có thể	AUX	AUX	_	16	aux	_	_
 16	phát	phát	VERB	V	_	0	root	_	_
 17	ra	ra	VERB	V	_	16	compound:svc	_	_
 18	tiếng	tiếng	NOUN	N	_	16	obj	_	_
@@ -11558,7 +11558,7 @@
 10	cơ quan	cơ quan	NOUN	N	_	8	obj	_	_
 11	liên quan	liên quan	VERB	V	_	10	compound:vmod	_	_
 12	tập trung	tập trung	VERB	V	_	8	xcomp	_	_
-13	nhiều	nhiều	ADJ	ADJ	_	14	det	_	_
+13	nhiều	nhiều	ADJ	ADJ	_	14	advmod:adj	_	_
 14	biện pháp	biện pháp	NOUN	N	_	12	obj	_	_
 15	để	để	ADP	PRE	_	16	mark:pcomp	_	_
 16	hoàn thành	hoàn thành	VERB	V	_	12	advcl:objective	_	_
@@ -12556,7 +12556,7 @@
 # sent_id = dev-458
 # text = Tham dự nhiều hội thảo khoa học , Nguyễn Thanh Mỹ nhận thấy một trong những khó khăn của các đồng nghiệp VN là thiếu cập nhật thông tin .
 1	Tham dự	tham dự	VERB	V	_	7	advcl	_	_
-2	nhiều	nhiều	ADJ	ADJ	_	3	det	_	_
+2	nhiều	nhiều	ADJ	ADJ	_	3	advmod:adj	_	_
 3	hội thảo	hội thảo	NOUN	N	_	1	obj	_	_
 4	khoa học	khoa học	NOUN	N	_	3	nmod	_	_
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -18928,7 +18928,7 @@
 4	đỗ	đỗ	VERB	V	_	2	acl:tmod	_	_
 5	đại học	đại học	NOUN	N	_	4	obj	_	_
 6	,	,	PUNCT	PUNCT	_	10	punct	_	_
-7	nhiều	nhiều	ADJ	ADJ	_	8	det	_	_
+7	nhiều	nhiều	ADJ	ADJ	_	8	advmod:adj	_	_
 8	người	người	NOUN	N	_	10	nsubj	_	_
 9	không	không	ADV	ADV	_	10	advmod:neg	_	_
 10	tin	tin	VERB	V	_	0	root	_	_
