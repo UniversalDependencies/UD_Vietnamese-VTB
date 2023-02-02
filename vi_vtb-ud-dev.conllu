@@ -33,7 +33,7 @@
 31	dự án	dự án	NOUN	N	_	30	nmod	_	_
 32	này	này	PRON	PRO	_	30	det:pmod	_	_
 33	không	không	ADV	ADV	_	34	advmod:neg	_	_
-34	phải	phải	ADJ	ADJ	_	36	aux	_	_
+34	phải	phải	AUX	ADJ	_	36	aux	_	_
 35	muốn	muốn	AUX	AUX	_	36	aux	_	_
 36	bán	bán	VERB	V	_	40	csubj	_	_
 37	giá	giá	NOUN	N	_	36	obj	_	_
@@ -209,7 +209,7 @@
 31	dự án	dự án	NOUN	N	_	30	nmod	_	_
 32	này	này	PRON	PRO	_	30	det:pmod	_	_
 33	không	không	ADV	ADV	_	34	advmod:neg	_	_
-34	phải	phải	ADJ	ADJ	_	36	aux	_	_
+34	phải	phải	AUX	ADJ	_	36	aux	_	_
 35	muốn	muốn	AUX	AUX	_	36	aux	_	_
 36	bán	bán	VERB	V	_	40	csubj	_	_
 37	giá	giá	NOUN	N	_	36	obj	_	_
@@ -1047,7 +1047,7 @@
 10	giàn	giàn	NOUN	N	_	14	nsubj	_	_
 11	mướp	mướp	NOUN	N	_	10	nmod	_	_
 12	không	không	ADV	ADV	_	14	advmod:neg	_	_
-13	phải	phải	ADJ	ADJ	_	14	aux	_	_
+13	phải	phải	AUX	ADJ	_	14	aux	_	_
 14	đan	đan	VERB	V	_	5	conj	_	_
 15	bằng	bằng	ADP	PRE	_	16	case	_	_
 16	tre	tre	NOUN	N	_	14	obl	_	_
@@ -4623,7 +4623,7 @@
 12	cao	cao	ADJ	ADJ	_	9	xcomp	_	_
 13	thì	thì	SCONJ	C	_	16	mark	_	_
 14	mới	mới	ADV	ADV	_	16	advmod	_	_
-15	có thể	có thể	ADJ	ADJ	_	16	aux	_	_
+15	có thể	có thể	AUX	ADJ	_	16	aux	_	_
 16	với	với	VERB	V	_	0	root	_	_
 17	tới	tới	VERB	V	_	16	xcomp	_	_
 18	được	được	ADV	ADV	_	17	advmod	_	_
@@ -10224,7 +10224,7 @@
 2	cho	cho	VERB	V	_	0	root	_	_
 3	biết	biết	VERB	V	_	2	compound:svc	_	_
 4	chỉ	chỉ	ADV	ADV	_	6	advmod	_	_
-5	có thể	có thể	ADJ	ADJ	_	6	aux	_	_
+5	có thể	có thể	AUX	ADJ	_	6	aux	_	_
 6	cứu	cứu	VERB	V	_	2	ccomp	_	_
 7	được	được	ADV	ADV	_	6	advmod	_	_
 8	khi	khi	NOUN	N	_	6	obl:tmod	_	_
@@ -11176,7 +11176,7 @@
 14	ngủ	ngủ	VERB	V	_	23	advcl	_	_
 15	vì	vì	ADP	PRE	_	18	mark	_	_
 16	không	không	ADV	ADV	_	17	advmod:neg	_	_
-17	phải	phải	ADJ	ADJ	_	18	aux	_	_
+17	phải	phải	AUX	ADJ	_	18	aux	_	_
 18	ca	ca	NOUN	N	_	14	obl	_	_
 19	trực	trực	VERB	V	_	18	acl:tonp	_	_
 20	của	của	ADP	PRE	_	21	case	_	_
@@ -11855,7 +11855,7 @@
 2	không	không	ADV	ADV	_	3	advmod:neg	_	_
 3	khuyến khích	khuyến khích	VERB	V	_	0	root	_	_
 4	cũng	cũng	ADV	ADV	_	6	advmod	_	_
-5	không thể	không thể	ADJ	ADJ	_	6	aux	_	_
+5	không thể	không thể	AUX	ADJ	_	6	aux	_	_
 6	ngăn cản	ngăn cản	VERB	V	_	3	conj	_	_
 7	việc	việc	NOUN	N	_	6	obj	_	_
 8	lấy	lấy	VERB	V	_	7	acl:subj	_	_
@@ -14942,7 +14942,7 @@
 9	cộng sự	cộng sự	NOUN	N	_	13	nsubj	_	_
 10	của	của	ADP	PRE	_	11	case	_	_
 11	tôi	tôi	PRON	PRO	_	9	nmod:poss	_	_
-12	có thể	có thể	ADJ	ADJ	_	13	aux	_	_
+12	có thể	có thể	AUX	ADJ	_	13	aux	_	_
 13	nói	nói	VERB	V	_	2	ccomp	_	_
 14	về	về	ADP	PRE	_	15	case	_	_
 15	nơi	nơi	NOUN	N	_	13	obl:about	_	_
@@ -14976,7 +14976,7 @@
 9	một	một	NUM	NUM	_	10	nummod:det	_	_
 10	tánh linh	tánh linh	PROPN	NNP	_	7	obl:with	_	_
 11	không	không	ADV	ADV	_	12	advmod:neg	_	_
-12	phải	phải	ADJ	ADJ	_	14	aux	_	_
+12	phải	phải	AUX	ADJ	_	14	aux	_	_
 13	là	là	AUX	AUX	_	14	cop	_	_
 14	rừng	rừng	NOUN	N	_	10	acl:subj	_	_
 15	mà	mà	SCONJ	C	_	18	mark	_	_
@@ -15806,7 +15806,7 @@
 2	rất	rất	ADV	ADV	_	3	advmod	_	_
 3	muốn	muốn	VERB	V	_	0	root	_	_
 4	mình	mình	PRON	PRO	_	6	nsubj	_	_
-5	có thể	có thể	ADJ	ADJ	_	6	aux	_	_
+5	có thể	có thể	AUX	ADJ	_	6	aux	_	_
 6	đọc	đọc	VERB	V	_	3	ccomp	_	_
 7	được	được	ADV	ADV	_	6	advmod	_	_
 8	những	những	DET	DET	_	9	det	_	_
@@ -15964,7 +15964,7 @@
 13	đó	đó	PRON	PRO	_	12	det:pmod	_	_
 14	bà	bà	NOUN	N	_	17	nsubj	_	_
 15	sẽ	sẽ	ADV	ADV	_	17	advmod	_	_
-16	có thể	có thể	ADJ	ADJ	_	17	aux	_	_
+16	có thể	có thể	AUX	ADJ	_	17	aux	_	_
 17	đánh giá	đánh giá	VERB	V	_	8	conj	_	_
 18	được	được	ADV	ADV	_	17	advmod	_	_
 19	Rob	Rob	PROPN	NNP	_	21	nsubj	_	_
@@ -20470,15 +20470,15 @@
 26	vn	vn	PROPN	NNPY	_	23	nmod	_	_
 27	ngày nay	ngày nay	NOUN	N	_	26	nmod	_	_
 28	LBKT	lbkt	PUNCT	PUNCT	_	29	punct	_	_
-29	lepers	lepers	FW	FW	_	23	appos:nmod	_	_
-30	and	and	FW	FW	_	29	flat:foreign	_	_
-31	lunacy	lunacy	FW	FW	_	29	flat:foreign	_	_
+29	lepers	lepers	X	X	_	23	appos:nmod	_	_
+30	and	and	X	X	_	29	flat:foreign	_	_
+31	lunacy	lunacy	X	X	_	29	flat:foreign	_	_
 32	:	:	PUNCT	PUNCT	_	34	punct	_	_
-33	an	an	FW	FW	_	34	flat:foreign	_	_
+33	an	an	X	X	_	34	flat:foreign	_	_
 34	american	american	PROPN	NNP	_	29	flat:foreign	_	_
-35	in	in	FW	FW	_	34	flat:foreign	_	_
+35	in	in	X	X	_	34	flat:foreign	_	_
 36	vietnam	vietnam	PROPN	NNP	_	34	flat:foreign	_	_
-37	today	today	FW	FW	_	34	flat:foreign	_	_
+37	today	today	X	X	_	34	flat:foreign	_	_
 38	RBKT	rbkt	PUNCT	PUNCT	_	29	punct	_	_
 39	dày	dày	ADJ	ADJ	_	46	csubj	_	_
 40	246	246	NUM	NUM	_	41	nummod	_	_
@@ -24743,7 +24743,7 @@
 20	tố cáo	tố cáo	VERB	V	_	18	conj	_	_
 21	và	và	CCONJ	CC	_	24	cc	_	_
 22	đặc biệt	đặc biệt	ADJ	Adj	_	24	csubj:asubj	_	_
-23	là	là	Prt	Prt	_	24	cop	_	_
+23	là	là	AUX	AUX	_	24	cop	_	_
 24	công tác	công tác	NOUN	N	_	8	conj	_	_
 25	tổ chức	tổ chức	NOUN	N	_	24	nmod	_	_
 26	và	và	CCONJ	CC	_	27	cc	_	_
@@ -24847,7 +24847,7 @@
 16	kiểm tra	kiểm tra	VERB	V	_	15	compound:vmod	_	_
 17	,	,	PUNCT	PUNCT	_	27	punct	_	_
 18	đặc biệt	đặc biệt	ADJ	Adj	_	21	csubj:asubj	_	_
-19	là	là	Prt	Prt	_	21	discourse	_	_
+19	là	là	CCONJ	CC	_	21	discourse	_	_
 20	các	các	DET	L	_	21	det	_	_
 21	Uỷ viên	uỷ viên	NOUN	N	_	14	conj	_	_
 22	Uỷ ban	uỷ ban	NN	NN	_	21	nmod	_	_
@@ -24917,7 +24917,7 @@
 23	nhưng	nhưng	SCONJ	SC	_	27	mark	_	_
 24	"	"	PUNCT	PUNCT	_	27	punct	_	_
 25	chưa	chưa	ADV	Adv	_	27	advmod:neg	_	_
-26	thật	thật	Prt	Prt	_	27	discourse	_	_
+26	thật	thật	ADV	ADV	_	27	discourse	_	_
 27	rõ	rõ	ADJ	Adj	_	21	conj	_	_
 28	nét	nét	NOUN	N	_	27	obl:adj	_	_
 29	"	"	PUNCT	PUNCT	_	27	punct	_	_
@@ -25767,7 +25767,7 @@
 12	chỉ	chỉ	ADV	ADV	_	13	advmod	_	_
 13	kéo dài	kéo dài	VERB	V	_	18	advcl	_	_
 14	hai	hai	NUM	NUM	_	15	nummod	_	_
-15	giờ	giờ	NU	NU	_	13	obl:tmod	_	_
+15	giờ	giờ	NOUN	NU	_	13	obl:tmod	_	_
 16	đã	đã	ADV	ADV	_	18	advmod	_	_
 17	bị	bị	AUX	V	_	18	aux:pass	_	_
 18	bắt	bắt	VERB	V	_	5	conj	_	_
@@ -26353,7 +26353,7 @@
 # sent_id = dev-977
 # text = Đầu giờ chiều , người bạn gọi lại nói 30 năm trước , tại ngôi làng Bulujiao có một người phụ nữ tên là Dezlinz đã mất tích .
 1	Đầu	đầu	NOUN	N	_	7	obl:tmod	_	_
-2	giờ	giờ	NU	NU	_	1	nmod	_	_
+2	giờ	giờ	NOUN	NU	_	1	nmod	_	_
 3	chiều	chiều	NOUN	N	_	2	nmod	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	người	người	NOUN	N	_	7	nsubj	_	_
@@ -26383,7 +26383,7 @@
 # sent_id = dev-978
 # text = Vài giờ sau , bạn của Luo có thêm tin tức .
 1	Vài	vài	DET	DET	_	2	det	_	_
-2	giờ	giờ	NU	NU	_	8	obl:tmod	_	_
+2	giờ	giờ	NOUN	NU	_	8	obl:tmod	_	_
 3	sau	sau	NOUN	N	_	2	nmod	_	_
 4	,	,	PUNCT	PUNCT	_	8	punct	_	_
 5	bạn	bạn	NOUN	N	_	8	nsubj	_	_
@@ -26698,7 +26698,7 @@
 21	chuyến	chuyến	NOUN	N	_	20	obj	_	_
 22	bay	bay	VERB	V	_	21	compound:vmod	_	_
 23	2,5	2,5	NUM	NUM	_	24	nummod	_	_
-24	tiếng	tiếng	NU	NU	_	21	nmod	_	_
+24	tiếng	tiếng	NOUN	NU	_	21	nmod	_	_
 25	đến	đến	VERB	V	_	21	acl:subj	_	_
 26	Quý Châu	quý châu	NOUN	N	_	25	obl:comp	_	_
 27	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -26799,7 +26799,7 @@
 11	phải	phải	AUX	V	_	12	aux	_	_
 12	ăn	ăn	VERB	V	_	0	root	_	_
 13	một	một	NUM	NUM	_	15	nummod	_	_
-14	miếng	miếng	NU	NU	_	13	clf	_	_
+14	miếng	miếng	NOUN	NU	_	13	clf	_	_
 15	cơm	cơm	NOUN	N	_	12	obj	_	_
 16	nóng	nóng	ADJ	ADJ	_	15	amod	_	_
 17	để	để	ADP	PRE	_	20	mark:pcomp	_	_
@@ -27266,7 +27266,7 @@
 22	An Sương	an sương	NOUN	N	_	21	compound	_	_
 23	về	về	ADP	PRE	_	24	case	_	_
 24	An Lạc	an lạc	NOUN	N	_	21	nmod	_	_
-25	.	.	_	_	_	10	punct	_	_
+25	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = dev-1026
 # text = Khi họ đến đoạn Khu công nghiệp Tân Tạo , quận Bình Tân , TP HCM , bị nam thanh niên chạy từ phía sau vọt lên áp sát , giật túi xách bên trong có hai điện thoại và 300.000 đồng rồi tháo chạy .
@@ -27304,7 +27304,7 @@
 32	điện thoại	điện thoại	NOUN	N	_	30	obj	_	_
 33	và	và	CCONJ	CC	_	35	cc	_	_
 34	300.000	300.000	NUM	NUM	_	35	nummod	_	_
-35	đồng	đồng	NU	NU	_	32	conj	_	_
+35	đồng	đồng	NOUN	NU	_	32	conj	_	_
 36	rồi	rồi	SCONJ	SC	_	37	cc	_	_
 37	tháo chạy	tháo chạy	VERB	V	_	26	conj	_	_
 38	.	.	PUNCT	PUNCT	_	26	punct	_	_
@@ -27342,7 +27342,7 @@
 13	đó	đó	PRON	PRO	_	12	obj	_	_
 14	gần	gần	ADJ	ADJ	_	15	advmod:adj	_	_
 15	một	một	NUM	NUM	_	16	nummod	_	_
-16	km	km	NU	NU	_	12	obl	_	_
+16	km	km	NOUN	NU	_	12	obl	_	_
 17	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = dev-1029
@@ -27800,7 +27800,7 @@
 9	chiều	chiều	NOUN	N	_	8	obj	_	_
 10	ngang	ngang	ADJ	ADJ	_	9	compound:amod	_	_
 11	,	,	PUNCT	PUNCT	_	12	punct	_	_
-12	nghĩa là	nghĩa là			_	0	root	_	_
+12	nghĩa là	nghĩa là	SCONJ	CC	_	0	root	_	_
 13	tổ chức	tổ chức	VERB	V	_	12	xcomp	_	_
 14	soạn	soạn	VERB	V	_	13	xcomp	_	_
 15	theo	theo	VERB	V	_	14	xcomp	_	_
@@ -28675,7 +28675,7 @@
 # text = Sau 15 giờ phẫu thuật , giáo sư Trung rưng rưng khi ca mổ thành công ngoài mong đợi .
 1	Sau	sau	NOUN	N	_	8	obl:tmod	_	_
 2	15	15	NUM	NUM	_	3	nummod	_	_
-3	giờ	giờ	NU	NU	_	1	nmod	_	_
+3	giờ	giờ	NOUN	NU	_	1	nmod	_	_
 4	phẫu thuật	phẫu thuật	VERB	V	_	3	acl:subj	_	_
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
 6	giáo sư	giáo sư	NOUN	N	_	8	nsubj	_	_
