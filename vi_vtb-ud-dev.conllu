@@ -11863,7 +11863,7 @@
 10	ngoại	ngoại	ADJ	ADJ	_	9	compound:amod	_	_
 11	,	,	PUNCT	PUNCT	_	15	punct	_	_
 12	tuy nhiên	tuy nhiên	SCONJ	C	_	15	mark	_	_
-13	cần	cần	VERB	V	_	15	aux	_	_
+13	cần	cần	AUX	V	_	15	aux	_	_
 14	thẳng thắn	thẳng thắn	ADJ	ADJ	_	15	advmod:adj	_	_
 15	nhìn	nhìn	VERB	V	_	3	conj	_	_
 16	vấn đề	vấn đề	NOUN	N	_	15	obj	_	_
@@ -11906,7 +11906,7 @@
 11	hơn	hơn	ADJ	ADJ	_	10	advmod	_	_
 12	,	,	PUNCT	PUNCT	_	13	punct	_	_
 13	mẫu mã	mẫu mã	NOUN	N	_	2	conj	_	_
-14	được	được	ADV	ADV	_	15	aux:pass	_	_
+14	được	được	AUX	AUX	_	15	aux:pass	_	_
 15	thay đổi	thay đổi	VERB	V	_	13	acl:subj	_	_
 16	...	...	PUNCT	PUNCT	_	2	punct	_	_
 17	,	,	PUNCT	PUNCT	_	23	punct	_	_
@@ -13147,7 +13147,7 @@
 13	"	"	PUNCT	PUNCT	_	12	punct	_	_
 14	và	và	CCONJ	CC	_	17	cc	_	_
 15	anh	anh	NOUN	N	_	17	nsubj	_	_
-16	được	được	VERB	V	_	17	aux	_	_
+16	được	được	AUX	V	_	17	aux	_	_
 17	yên thân	yên thân	ADJ	ADJ	_	5	conj	_	_
 18	với	với	ADP	PRE	_	19	case	_	_
 19	công việc	công việc	NOUN	N	_	17	obl	_	_
@@ -15592,7 +15592,7 @@
 4	thời	thời	NOUN	N	_	2	obj	_	_
 5	vị trí	vị trí	NOUN	N	_	8	nsubj:pass	_	_
 6	lãnh đạo	lãnh đạo	NOUN	N	_	5	nmod	_	_
-7	được	được	ADV	ADV	_	8	aux:pass	_	_
+7	được	được	AUX	AUX	_	8	aux:pass	_	_
 8	xem	xem	VERB	V	_	0	root	_	_
 9	là	là	SCONJ	C	_	8	fixed	_	_
 10	vật	vật	NOUN	N	_	8	obl:tmod	_	_
@@ -15921,7 +15921,7 @@
 17	trái tim	trái tim	NOUN	N	_	21	nsubj	_	_
 18	bà	bà	NOUN	N	_	17	nmod	_	_
 19	sẽ	sẽ	ADV	ADV	_	20	advmod	_	_
-20	được	được	VERB	V	_	21	aux	_	_
+20	được	được	AUX	V	_	21	aux	_	_
 21	bình yên	bình yên	ADJ	ADJ	_	8	conj	_	_
 22	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -15989,7 +15989,7 @@
 3	sau	sau	NOUN	N	_	2	nmod	_	_
 4	đó	đó	PRON	PRO	_	3	det:pmod	_	_
 5	tôi	tôi	PRON	PRO	_	7	nsubj	_	_
-6	được	được	ADV	ADV	_	7	aux	_	_
+6	được	được	AUX	ADV	_	7	aux	_	_
 7	chứng kiến	chứng kiến	VERB	V	_	0	root	_	_
 8	cảnh	cảnh	NOUN	N	_	7	obj	_	_
 9	bà	bà	NOUN	N	_	10	clf:det	_	_
@@ -17505,7 +17505,7 @@
 15	sống	sống	ADJ	ADJ	_	13	amod	_	_
 16	,	,	PUNCT	PUNCT	_	21	punct	_	_
 17	nhưng	nhưng	SCONJ	C	_	19	mark	_	_
-18	muốn	muốn	VERB	V	_	19	aux	_	_
+18	muốn	muốn	AUX	V	_	19	aux	_	_
 19	rõ	rõ	ADJ	ADJ	_	21	advcl	_	_
 20	cứ	cứ	ADV	ADV	_	21	advmod	_	_
 21	vào	vào	VERB	V	_	8	conj	_	_
@@ -18022,7 +18022,7 @@
 20	động vật	động vật	NOUN	N	_	19	obj	_	_
 21	hoang dã	hoang dã	ADJ	ADJ	_	20	amod	_	_
 22	nhưng	nhưng	SCONJ	C	_	24	mark	_	_
-23	không thể	không thể	ADV	ADV	_	24	aux	_	_
+23	không thể	không thể	AUX	ADV	_	24	aux	_	_
 24	kiểm soát	kiểm soát	VERB	V	_	10	ccomp	_	_
 25	hết	hết	VERB	V	_	24	xcomp	_	_
 26	được	được	ADV	ADV	_	25	advmod	_	_
@@ -18351,7 +18351,7 @@
 7	quản lý	quản lý	VERB	V	_	6	acl:subj	_	_
 8	địa bàn	địa bàn	NOUN	N	_	7	obj	_	_
 9	,	,	PUNCT	PUNCT	_	12	punct	_	_
-10	không thể	không thể	ADV	ADV	_	11	aux	_	_
+10	không thể	không thể	AUX	ADV	_	11	aux	_	_
 11	không	không	ADV	ADV	_	12	advmod:neg	_	_
 12	nắm	nắm	VERB	V	_	0	root	_	_
 13	được	được	ADV	ADV	_	12	advmod	_	_
@@ -19692,7 +19692,7 @@
 15	2	2	PROPN	NNP	_	14	compound	_	_
 16	và	và	CCONJ	CC	_	17	cc	_	_
 17	xin	xin	VERB	V	_	5	conj	_	_
-18	được	được	VERB	V	_	19	aux:pass	_	_
+18	được	được	AUX	V	_	19	aux:pass	_	_
 19	thu	thu	VERB	V	_	17	xcomp	_	_
 20	phí	phí	NOUN	N	_	19	obj	_	_
 21	giao thông	giao thông	NOUN	N	_	20	compound	_	_
@@ -22415,7 +22415,7 @@
 # sent_id = dev-814
 # text = Đấu sĩ có thể chấn thương ngay trên sàn đấu vào bất cứ lúc nào nếu bị trúng đòn chỏ hoặc đầu gối của đối phương .
 1	Đấu sĩ	đấu sĩ	NOUN	N	_	3	nsubj	_	_
-2	có thể	có thể	ADV	ADV	_	3	aux	_	_
+2	có thể	có thể	AUX	ADV	_	3	aux	_	_
 3	chấn thương	chấn thương	VERB	V	_	0	root	_	_
 4	ngay	ngay	PART	PRT	_	6	discourse	_	_
 5	trên	trên	ADP	PRE	_	6	case	_	_
@@ -23052,7 +23052,7 @@
 3	đêm	đêm	NOUN	N	_	7	obl:tmod	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	Minh Sang	Minh Sang	PROPN	NNP	_	7	nsubj:pass	_	_
-6	được	được	ADV	ADV	_	7	aux:pass	_	_
+6	được	được	AUX	AUX	_	7	aux:pass	_	_
 7	mời	mời	VERB	V	_	0	root	_	_
 8	từ	từ	ADP	PRE	_	9	case	_	_
 9	Sài Gòn	Sài Gòn	PROPN	NNP	_	7	obl:comp	_	_
@@ -24586,8 +24586,8 @@
 8	-	-	PUNCT	PUNCT	_	9	punct	_	_
 9	tài chính	tài chính	NOUN	N	_	7	compound	_	_
 10	...	...	PUNCT	PUNCT	_	4	punct	_	_
-11	cần	cần	VERB	V	_	12	aux	_	_
-12	được	được	VERB	V	_	13	aux:pass	_	_
+11	cần	cần	AUX	V	_	12	aux	_	_
+12	được	được	AUX	V	_	13	aux:pass	_	_
 13	tập trung	tập trung	VERB	V	_	0	root	_	_
 14	kiểm tra	kiểm tra	VERB	V	_	13	xcomp	_	_
 15	toàn diện	toàn diện	ADJ	Adj	_	14	xcomp	_	_
@@ -24675,8 +24675,8 @@
 4	,	,	PUNCT	PUNCT	_	9	punct	_	_
 5	sắp	sắp	ADV	Adv	_	6	advmod	_	_
 6	tới	tới	VERB	V	_	9	obl:tmod	_	_
-7	cần	cần	VERB	V	_	8	aux	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+7	cần	cần	AUX	V	_	8	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	tập trung	tập trung	VERB	V	_	2	ccomp	_	_
 10	kiểm tra	kiểm tra	VERB	V	_	9	xcomp	_	_
 11	toàn diện	toàn diện	ADJ	Adj	_	10	xcomp	_	_
@@ -24724,7 +24724,7 @@
 1	Các	các	DET	L	_	2	det	_	_
 2	lĩnh vực	lĩnh vực	NOUN	N	_	5	nsubj:pass	_	_
 3	cũng	cũng	ADV	Adv	_	5	advmod	_	_
-4	được	được	VERB	V	_	5	aux:pass	_	_
+4	được	được	AUX	V	_	5	aux:pass	_	_
 5	đề cập	đề cập	VERB	V	_	0	root	_	_
 6	đến	đến	ADP	Pre	_	5	compound:prt	_	_
 7	là	là	AUX	Aux	_	8	mark	_	_
@@ -24762,7 +24762,7 @@
 8	biểu hiện	biểu hiện	NOUN	N	_	7	obj	_	_
 9	tham nhũng	tham nhũng	VERB	V	_	8	compound:vmod	_	_
 10	;	;	PUNCT	PUNCT	_	13	punct	_	_
-11	bị	bị	VERB	V	_	13	aux:pass	_	_
+11	bị	bị	AUX	V	_	13	aux:pass	_	_
 12	nhiều	nhiều	ADJ	Adj	_	13	advmod:adj	_	_
 13	phản ánh	phản ánh	NOUN	N	_	7	conj	_	_
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
@@ -24777,7 +24777,7 @@
 23	cấp	cấp	NOUN	N	_	21	obj	_	_
 24	và	và	CCONJ	CC	_	25	cc	_	_
 25	cán bộ	cán bộ	NOUN	N	_	6	conj	_	_
-26	được	được	VERB	V	_	27	aux:pass	_	_
+26	được	được	AUX	V	_	27	aux:pass	_	_
 27	quy hoạch	quy hoạch	VERB	V	_	25	acl:subj	_	_
 28	"	"	PUNCT	PUNCT	_	2	punct	_	_
 29	,	,	PUNCT	PUNCT	_	34	punct	_	_
@@ -24797,7 +24797,7 @@
 5	có	có	VERB	V	_	4	ccomp	_	_
 6	dấu hiệu	dấu hiệu	NOUN	N	_	5	obj	_	_
 7	vi phạm	vi phạm	VERB	V	_	6	compound:vmod	_	_
-8	phải	phải	VERB	V	_	10	aux	_	_
+8	phải	phải	AUX	V	_	10	aux	_	_
 9	kịp thời	kịp thời	ADJ	Adj	_	10	advmod:adj	_	_
 10	kiểm tra	kiểm tra	VERB	V	_	0	root	_	_
 11	,	,	PUNCT	PUNCT	_	12	punct	_	_
@@ -24812,7 +24812,7 @@
 20	minh bạch	minh bạch	ADJ	Adj	_	18	conj	_	_
 21	;	;	PUNCT	PUNCT	_	22	punct	_	_
 22	xử lý	xử lý	VERB	V	_	10	conj	_	_
-23	phải	phải	VERB	V	_	24	aux	_	_
+23	phải	phải	AUX	V	_	24	aux	_	_
 24	công tâm	công tâm	ADJ	Adj	_	22	xcomp	_	_
 25	,	,	PUNCT	PUNCT	_	26	punct	_	_
 26	khách quan	khách quan	ADJ	Adj	_	24	conj	_	_
@@ -24935,7 +24935,7 @@
 8	của	của	ADP	Pre	_	9	case	_	_
 9	Nhà nước	nhà nước	NOUN	N	_	7	nmod:poss	_	_
 10	chưa	chưa	ADV	Adv	_	11	advmod:neg	_	_
-11	được	được	VERB	V	_	12	aux:pass	_	_
+11	được	được	AUX	V	_	12	aux:pass	_	_
 12	coi trọng	coi trọng	VERB	V	_	0	root	_	_
 13	đúng mức	đúng mức	ADJ	Adj	_	12	advmod:adj	_	_
 14	và	và	CCONJ	CC	_	15	cc	_	_
@@ -25038,8 +25038,8 @@
 6	giám sát	giám sát	VERB	V	_	4	conj	_	_
 7	kỷ luật	kỷ luật	NOUN	N	_	6	obj	_	_
 8	đảng	đảng	NOUN	N	_	7	nmod	_	_
-9	cần	cần	VERB	V	_	10	aux	_	_
-10	được	được	VERB	V	_	12	aux:pass	_	_
+9	cần	cần	AUX	V	_	10	aux	_	_
+10	được	được	AUX	V	_	12	aux:pass	_	_
 11	"	"	PUNCT	PUNCT	_	12	punct	_	_
 12	tiến hành	tiến hành	VERB	V	_	0	root	_	_
 13	mạnh mẽ	mạnh mẽ	ADJ	Adj	_	12	xcomp	_	_
@@ -25399,7 +25399,7 @@
 13	nào	nào	PRON	PRO	_	12	det:pmod	_	_
 14	đó	đó	PRON	PRO	_	13	compound	_	_
 15	nhất quyết	nhất quyết	ADV	ADV	_	17	advmod	_	_
-16	phải	phải	VERB	V	_	17	aux	_	_
+16	phải	phải	AUX	V	_	17	aux	_	_
 17	có	có	VERB	V	_	6	conj	_	_
 18	nó	nó	PRON	PRO	_	17	obj	_	_
 19	đi	đi	VERB	V	_	17	xcomp	_	_
@@ -25447,7 +25447,7 @@
 9	mẹ	mẹ	NOUN	N	_	13	nsubj:pass	_	_
 10	của	của	ADP	PRE	_	11	case	_	_
 11	Xinmei	xinmei	NOUN	N	_	9	nmod:poss	_	_
-12	bị	bị	VERB	V	_	13	aux:pass	_	_
+12	bị	bị	AUX	V	_	13	aux:pass	_	_
 13	bắt cóc	bắt cóc	VERB	V	_	0	root	_	_
 14	từ	từ	ADP	PRE	_	15	case	_	_
 15	ga	ga	NOUN	NB	_	13	obl:comp	_	_
@@ -25463,7 +25463,7 @@
 # text = Cô thiếu nữ bị đưa đến làng Zaosheng và bán làm vợ cho Li Wei , cha của Xinmei .
 1	Cô	cô	NOUN	N	_	2	clf:det	_	_
 2	thiếu nữ	thiếu nữ	NOUN	N	_	4	nsubj:pass	_	_
-3	bị	bị	VERB	V	_	4	aux:pass	_	_
+3	bị	bị	AUX	V	_	4	aux:pass	_	_
 4	đưa	đưa	VERB	V	_	0	root	_	_
 5	đến	đến	ADP	PRE	_	6	case	_	_
 6	làng	làng	NOUN	N	_	4	obl:comp	_	_
@@ -25509,7 +25509,7 @@
 # text = Li Xinmei chỉ có thể trò chuyện một vài câu cơ bản nhất với bà .
 1	Li Xinmei	li xinmei	NOUN	N	_	4	nsubj	_	_
 2	chỉ	chỉ	ADV	ADV	_	3	advmod	_	_
-3	có thể	có thể	ADV	ADV	_	4	aux	_	_
+3	có thể	có thể	AUX	ADV	_	4	aux	_	_
 4	trò chuyện	trò chuyện	VERB	V	_	0	root	_	_
 5	một vài	một vài	DET	DET	_	6	det	_	_
 6	câu	câu	NOUN	N	_	4	obj	_	_
@@ -25739,7 +25739,7 @@
 # text = Bà khát khao được trở về .
 1	Bà	bà	NOUN	N	_	2	nsubj	_	_
 2	khát khao	khát khao	VERB	V	_	0	root	_	_
-3	được	được	VERB	V	_	4	aux:pass	_	_
+3	được	được	AUX	V	_	4	aux:pass	_	_
 4	trở về	trở về	VERB	V	_	2	xcomp	_	_
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -25769,7 +25769,7 @@
 14	hai	hai	NUM	NUM	_	15	nummod	_	_
 15	giờ	giờ	NU	NU	_	13	obl:tmod	_	_
 16	đã	đã	ADV	ADV	_	18	advmod	_	_
-17	bị	bị	VERB	V	_	18	aux:pass	_	_
+17	bị	bị	AUX	V	_	18	aux:pass	_	_
 18	bắt	bắt	VERB	V	_	5	conj	_	_
 19	lại	lại	VERB	V	_	18	compound:svc	_	_
 20	.	.	PUNCT	PUNCT	_	5	punct	_	_
@@ -25865,7 +25865,7 @@
 9	ung thư	ung thư	NOUN	N	_	8	compound	_	_
 10	thực quản	thực quản	NOUN	N	_	8	compound	_	_
 11	và	và	CCONJ	CC	_	14	cc	_	_
-12	bị	bị	VERB	V	_	14	aux:pass	_	_
+12	bị	bị	AUX	V	_	14	aux:pass	_	_
 13	bệnh viện	bệnh viện	NOUN	N	_	14	obl:agent	_	_
 14	trả	trả	VERB	V	_	7	conj	_	_
 15	về	về	VERB	V	_	14	compound:dir	_	_
@@ -26077,7 +26077,7 @@
 # text = Ngôn ngữ Bố Y được chia thành ba phương ngữ ở miền nam , miền trung và miền tây .
 1	Ngôn ngữ	ngôn ngữ	NOUN	N	_	4	nsubj:pass	_	_
 2	Bố Y	bố y	NOUN	N	_	1	compound	_	_
-3	được	được	VERB	V	_	4	aux:pass	_	_
+3	được	được	AUX	V	_	4	aux:pass	_	_
 4	chia	chia	VERB	V	_	0	root	_	_
 5	thành	thành	VERB	V	_	4	compound:svc	_	_
 6	ba	ba	NUM	NUM	_	7	nummod	_	_
@@ -26102,7 +26102,7 @@
 5	mẹ	mẹ	NOUN	N	_	10	nsubj:nn	_	_
 6	của	của	ADP	PRE	_	7	case	_	_
 7	Xinmei	xinmei	NOUN	N	_	5	nmod:poss	_	_
-8	có thể	có thể	ADV	ADV	_	9	aux	_	_
+8	có thể	có thể	AUX	ADV	_	9	aux	_	_
 9	là	là	AUX	AUX	_	10	cop	_	_
 10	người	người	NOUN	N	_	4	ccomp	_	_
 11	miền	miền	NOUN	N	_	10	nmod	_	_
@@ -26116,7 +26116,7 @@
 3	sau	sau	NOUN	N	_	2	compound	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	Xinmei	xinmei	NOUN	N	_	7	nsubj:pass	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	thêm	thêm	VERB	V	_	0	root	_	_
 8	một	một	NUM	NUM	_	9	nummod	_	_
 9	nhóm	nhóm	NOUN	N	_	7	obj	_	_
@@ -26416,7 +26416,7 @@
 18	làng	làng	NOUN	N	_	13	nmod	_	_
 19	ông	ông	NOUN	N	_	18	nmod	_	_
 20	đã	đã	ADV	ADV	_	21	advmod	_	_
-21	bị	bị	VERB	V	_	22	aux:pass	_	_
+21	bị	bị	AUX	V	_	22	aux:pass	_	_
 22	bán	bán	VERB	V	_	6	ccomp	_	_
 23	,	,	PUNCT	PUNCT	_	24	punct	_	_
 24	cha	cha	NOUN	N	_	6	parataxis	_	_
@@ -26635,7 +26635,7 @@
 10	nhưng	nhưng	SCONJ	SC	_	12	mark	_	_
 11	con gái	con gái	NOUN	N	_	12	nsubj	_	_
 12	bảo	bảo	VERB	V	_	2	conj	_	_
-13	phải	phải	VERB	V	_	14	aux	_	_
+13	phải	phải	AUX	V	_	14	aux	_	_
 14	đợi	đợi	VERB	V	_	12	ccomp	_	_
 15	thu hoạch	thu hoạch	VERB	V	_	14	xcomp	_	_
 16	mùa	mùa	NOUN	N	_	15	obj	_	_
@@ -26796,7 +26796,7 @@
 8	đi	đi	VERB	V	_	7	acl:tmod	_	_
 9	xa	xa	ADJ	ADJ	_	8	xcomp	_	_
 10	trở về	trở về	VERB	V	_	8	xcomp	_	_
-11	phải	phải	VERB	V	_	12	aux	_	_
+11	phải	phải	AUX	V	_	12	aux	_	_
 12	ăn	ăn	VERB	V	_	0	root	_	_
 13	một	một	NUM	NUM	_	15	nummod	_	_
 14	miếng	miếng	NU	NU	_	13	clf	_	_
@@ -26804,7 +26804,7 @@
 16	nóng	nóng	ADJ	ADJ	_	15	amod	_	_
 17	để	để	ADP	PRE	_	20	mark:pcomp	_	_
 18	không	không	ADV	ADV	_	19	advmod:neg	_	_
-19	bị	bị	VERB	V	_	20	aux	_	_
+19	bị	bị	AUX	V	_	20	aux	_	_
 20	lạc	lạc	VERB	V	_	12	advcl:objective	_	_
 21	lần	lần	NOUN	N	_	20	obl	_	_
 22	nữa	nữa	ADV	ADV	_	21	advmod	_	_
@@ -27096,7 +27096,7 @@
 20	TV	tv	NOUN	NY	_	18	nmod	_	_
 21	và	và	CCONJ	CC	_	24	cc	_	_
 22	cũng	cũng	ADV	ADV	_	24	advmod	_	_
-23	không thể	không thể	ADV	ADV	_	24	aux	_	_
+23	không thể	không thể	AUX	ADV	_	24	aux	_	_
 24	nói chuyện	nói chuyện	VERB	V	_	2	conj	_	_
 25	với	với	ADP	PRE	_	26	case	_	_
 26	người	người	NOUN	N	_	24	obl:with	_	_
@@ -27195,7 +27195,7 @@
 
 # sent_id = dev-1023
 # text = Bị giật túi xách , hai vợ chồng nhập viện
-1	Bị	bị	VERB	V	_	2	aux:pass	_	_
+1	Bị	bị	AUX	V	_	2	aux:pass	_	_
 2	giật	giật	VERB	V	_	7	advcl	_	_
 3	túi xách	túi xách	NOUN	N	_	2	obj	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -27225,7 +27225,7 @@
 17	59	59	NUM	NUM	_	18	nummod	_	_
 18	tuổi	tuổi	NOUN	N	_	13	appos:nmod	_	_
 19	,	,	PUNCT	PUNCT	_	23	punct	_	_
-20	bị	bị	VERB	V	_	23	aux:pass	_	_
+20	bị	bị	AUX	V	_	23	aux:pass	_	_
 21	tên	tên	NOUN	N	_	22	clf:det	_	_
 22	cướp	cướp	NOUN	N	_	23	obl:agent	_	_
 23	giật	giật	VERB	V	_	0	root	_	_
@@ -27284,7 +27284,7 @@
 12	TP	tp	NOUN	NY	_	5	list	_	_
 13	HCM	hcm	NOUN	NY	_	12	compound	_	_
 14	,	,	PUNCT	PUNCT	_	16	punct	_	_
-15	bị	bị	VERB	V	_	26	aux:pass	_	_
+15	bị	bị	AUX	V	_	26	aux:pass	_	_
 16	nam	nam	NOUN	N	_	26	obl:agent	_	_
 17	thanh niên	thanh niên	NOUN	N	_	16	compound	_	_
 18	chạy	chạy	VERB	V	_	16	acl:subj	_	_
@@ -27311,7 +27311,7 @@
 
 # sent_id = dev-1027
 # text = Bị lạc tay lái , hai vợ chồng trượt dài dưới đường , bị thương .
-1	Bị	bị	VERB	V	_	2	aux:pass	_	_
+1	Bị	bị	AUX	V	_	2	aux:pass	_	_
 2	lạc	lạc	VERB	V	_	7	advcl	_	_
 3	tay lái	tay lái	NOUN	N	_	2	obj	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -27329,7 +27329,7 @@
 # text = Cả hai được người đi đường đưa vào Bệnh viện Quốc Ánh , cách đó gần một km .
 1	Cả	cả	DET	DET	_	2	det	_	_
 2	hai	hai	NUM	NUM	_	7	nsubj:pass	_	_
-3	được	được	VERB	V	_	7	aux:pass	_	_
+3	được	được	AUX	V	_	7	aux:pass	_	_
 4	người	người	NOUN	N	_	7	obl:agent	_	_
 5	đi	đi	VERB	V	_	4	acl:subj	_	_
 6	đường	đường	NOUN	N	_	5	obj	_	_
@@ -27354,14 +27354,14 @@
 5	,	,	PUNCT	PUNCT	_	9	punct	_	_
 6	ông	ông	NOUN	N	_	7	clf:det	_	_
 7	Hai	hai	NOUN	N	_	9	nsubj	_	_
-8	bị	bị	VERB	V	_	9	aux	_	_
+8	bị	bị	AUX	V	_	9	aux	_	_
 9	xuất huyết	xuất huyết	VERB	V	_	3	ccomp	_	_
 10	dưới	dưới	NOUN	N	_	9	compound:verbnoun	_	_
 11	màng	màng	NOUN	N	_	9	compound	_	_
 12	cứng	cứng	ADJ	ADJ	_	11	compound:amod	_	_
 13	sọ não	sọ não	NOUN	N	_	9	compound	_	_
 14	,	,	PUNCT	PUNCT	_	16	punct	_	_
-15	được	được	VERB	V	_	16	aux:pass	_	_
+15	được	được	AUX	V	_	16	aux:pass	_	_
 16	chuyển	chuyển	VERB	V	_	3	conj	_	_
 17	lên	lên	VERB	V	_	16	compound:dir	_	_
 18	Bệnh viện	bệnh viện	NOUN	N	_	16	obl:comp	_	_
@@ -27372,7 +27372,7 @@
 # text = Người vợ bị gãy xương tay , vẫn tỉnh táo .
 1	Người	người	NOUN	N	_	2	clf:det	_	_
 2	vợ	vợ	NOUN	N	_	4	nsubj	_	_
-3	bị	bị	VERB	V	_	4	aux	_	_
+3	bị	bị	AUX	V	_	4	aux	_	_
 4	gãy	gãy	VERB	V	_	0	root	_	_
 5	xương	xương	NOUN	N	_	4	obj	_	_
 6	tay	tay	NOUN	N	_	5	compound	_	_
@@ -27421,7 +27421,7 @@
 9	,	,	PUNCT	PUNCT	_	13	punct	_	_
 10	Bách khoa toàn thư	bách khoa toàn thư	NOUN	N	_	13	nsubj	_	_
 11	Việt Nam	việt nam	NOUN	N	_	10	compound	_	_
-12	nên	nên	VERB	V	_	13	aux	_	_
+12	nên	nên	AUX	V	_	13	aux	_	_
 13	xây dựng	xây dựng	VERB	V	_	7	ccomp	_	_
 14	thành	thành	VERB	V	_	13	xcomp	_	_
 15	một	một	NUM	NUM	_	16	nummod	_	_
@@ -27442,7 +27442,7 @@
 # sent_id = dev-1034
 # text = Quan điểm được PGS Nguyễn Ngọc Điện , Hiệu trưởng Đại học Hoa Sen , đưa ra tại hội thảo góp ý đề án biên soạn Bách khoa toàn thư Việt Nam , ngày 30/11 .
 1	Quan điểm	quan điểm	NOUN	N	_	10	nsubj:pass	_	_
-2	được	được	VERB	V	_	10	aux:pass	_	_
+2	được	được	AUX	V	_	10	aux:pass	_	_
 3	PGS	pgs	NOUN	NY	_	10	obl:agent	_	_
 4	Nguyễn Ngọc Điện	nguyễn ngọc điện	NOUN	N	_	3	compound	_	_
 5	,	,	PUNCT	PUNCT	_	6	punct	_	_
@@ -27536,7 +27536,7 @@
 23	tranh	tranh	NOUN	N	_	27	nsubj:pass	_	_
 24	cuộc sống	cuộc sống	NOUN	N	_	23	nmod	_	_
 25	đang	đang	ADV	ADV	_	27	advmod	_	_
-26	bị	bị	VERB	V	_	27	aux:pass	_	_
+26	bị	bị	AUX	V	_	27	aux:pass	_	_
 27	đập	đập	VERB	V	_	19	ccomp	_	_
 28	vỡ	vỡ	VERB	V	_	27	compound:svc	_	_
 29	thành	thành	VERB	V	_	27	xcomp	_	_
@@ -27565,7 +27565,7 @@
 15	quyển	quyển	NOUN	N	_	12	obl:comp	_	_
 16	nào	nào	PRON	PRO	_	15	det:pmod	_	_
 17	,	,	PUNCT	PUNCT	_	19	punct	_	_
-18	bị	bị	VERB	V	_	19	aux:pass	_	_
+18	bị	bị	AUX	V	_	19	aux:pass	_	_
 19	bỏ rơi	bỏ rơi	VERB	V	_	0	root	_	_
 20	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
@@ -27579,7 +27579,7 @@
 6	tổng thể	tổng thể	ADJ	ADJ	_	5	amod	_	_
 7	,	,	PUNCT	PUNCT	_	10	punct	_	_
 8	Bách khoa toàn thư	bách khoa toàn thư	NOUN	N	_	10	nsubj	_	_
-9	phải	phải	VERB	V	_	10	aux	_	_
+9	phải	phải	AUX	V	_	10	aux	_	_
 10	bao trùm	bao trùm	VERB	V	_	0	root	_	_
 11	tất cả	tất cả	DET	DET	_	10	obj	_	_
 12	,	,	PUNCT	PUNCT	_	24	punct	_	_
@@ -27591,9 +27591,9 @@
 18	hoặc	hoặc	CCONJ	CC	_	17	cc	_	_
 19	đã	đã	ADV	ADV	_	21	advmod	_	_
 20	từng	từng	ADV	ADV	_	21	advmod	_	_
-21	được	được	VERB	V	_	22	aux:pass	_	_
+21	được	được	AUX	V	_	22	aux:pass	_	_
 22	sử dụng	sử dụng	VERB	V	_	14	acl:subj	_	_
-23	phải	phải	VERB	V	_	24	aux	_	_
+23	phải	phải	AUX	V	_	24	aux	_	_
 24	có mặt	có mặt	VERB	V	_	10	conj	_	_
 25	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
@@ -27601,7 +27601,7 @@
 # text = Bách khoa toàn thư cũng phải gồm cả các từ chuyên môn lẫn phổ thông , bởi độc giả chúng ta xác định không chỉ giới học thuật mà cả giới phổ thông " , ông Điện bày tỏ .
 1	Bách khoa toàn thư	bách khoa toàn thư	NOUN	N	_	4	nsubj	_	_
 2	cũng	cũng	ADJ	ADJ	_	4	advmod:adj	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	V	_	4	aux	_	_
 4	gồm	gồm	VERB	V	_	0	root	_	_
 5	cả	cả	PRON	PRO	_	7	discourse	_	_
 6	các	các	DET	DET	_	7	det	_	_
@@ -27839,7 +27839,7 @@
 11	các	các	DET	DET	_	12	det	_	_
 12	đơn vị	đơn vị	NOUN	N	_	9	obj	_	_
 13	tri thức	tri thức	NOUN	N	_	12	nmod	_	_
-14	được	được	VERB	V	_	15	aux:pass	_	_
+14	được	được	AUX	V	_	15	aux:pass	_	_
 15	sắp xếp	sắp xếp	VERB	V	_	12	acl:subj	_	_
 16	theo	theo	VERB	V	_	15	xcomp	_	_
 17	thứ tự	thứ tự	NOUN	N	_	16	obj	_	_
@@ -27857,7 +27857,7 @@
 5	,	,	PUNCT	PUNCT	_	11	punct	_	_
 6	Bách khoa toàn thư	bách khoa toàn thư	NOUN	N	_	11	nsubj:nn	_	_
 7	không	không	ADV	ADV	_	8	advmod:neg	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	là	là	AUX	AUX	_	11	cop	_	_
 10	bộ	bộ	NOUN	N	_	11	clf:det	_	_
 11	Từ điển	từ điển	NOUN	N	_	0	root	_	_
@@ -27921,7 +27921,7 @@
 5	bộ	bộ	NOUN	N	_	6	clf:det	_	_
 6	Bách khoa toàn thư	bách khoa toàn thư	NOUN	N	_	3	nmod:poss	_	_
 7	đã	đã	ADV	ADV	_	8	advmod	_	_
-8	được	được	VERB	V	_	9	aux:pass	_	_
+8	được	được	AUX	V	_	9	aux:pass	_	_
 9	đưa	đưa	VERB	V	_	0	root	_	_
 10	lên	lên	VERB	V	_	9	compound:dir	_	_
 11	mạng	mạng	NOUN	N	_	9	obl:comp	_	_
@@ -27941,7 +27941,7 @@
 4	cộng đồng	cộng đồng			_	5	obl:agent	_	_
 5	soạn	soạn	VERB	V	_	11	csubj:pass	_	_
 6	sẽ	sẽ	ADV	ADV	_	7	advmod	_	_
-7	được	được	VERB	V	_	11	aux:pass	_	_
+7	được	được	AUX	V	_	11	aux:pass	_	_
 8	ban	ban	NOUN	N	_	11	obl:agent	_	_
 9	biên soạn	biên soạn	VERB	V	_	8	compound:vmod	_	_
 10	chuyên ngành	chuyên ngành	NOUN	N	_	8	compound	_	_
@@ -27963,7 +27963,7 @@
 10	riêng	riêng	ADJ	ADJ	_	9	amod	_	_
 11	,	,	PUNCT	PUNCT	_	14	punct	_	_
 12	bởi	bởi	ADP	PRE	_	14	mark	_	_
-13	phải	phải	VERB	V	_	14	aux	_	_
+13	phải	phải	AUX	V	_	14	aux	_	_
 14	xác định	xác định	VERB	V	_	7	advcl	_	_
 15	thông tin	thông tin	NOUN	N	_	19	nsubj	_	_
 16	trong	trong	ADP	PRE	_	17	case	_	_
@@ -27983,7 +27983,7 @@
 5	mục từ	mục từ	NOUN	N	_	9	nsubj	_	_
 6	không	không	ADV	ADV	_	7	advmod:neg	_	_
 7	chính xác	chính xác	ADJ	ADJ	_	5	acl:subj	_	_
-8	có thể	có thể	ADV	ADV	_	9	aux	_	_
+8	có thể	có thể	AUX	ADV	_	9	aux	_	_
 9	làm	làm	VERB	V	_	0	root	_	_
 10	hỏng	hỏng	VERB	V	_	9	xcomp	_	_
 11	cả	cả	DET	DET	_	12	det	_	_
@@ -28065,7 +28065,7 @@
 24	xây dựng	xây dựng	VERB	V	_	23	xcomp	_	_
 25	các	các	DET	DET	_	26	det	_	_
 26	mục từ	mục từ	NOUN	N	_	24	obj	_	_
-27	được	được	VERB	V	_	28	aux:pass	_	_
+27	được	được	AUX	V	_	28	aux:pass	_	_
 28	đưa	đưa	VERB	V	_	0	root	_	_
 29	ra	ra	VERB	V	_	28	compound:svc	_	_
 30	.	.	PUNCT	PUNCT	_	28	punct	_	_
@@ -28140,7 +28140,7 @@
 20	tham gia	tham gia	VERB	V	_	19	acl:subj	_	_
 21	biên soạn	biên soạn	VERB	V	_	20	xcomp	_	_
 22	Bách khoa toàn thư	bách khoa toàn thư	NOUN	N	_	21	obj	_	_
-23	được	được	VERB	V	_	24	aux:pass	_	_
+23	được	được	AUX	V	_	24	aux:pass	_	_
 24	cấp	cấp	VERB	V	_	13	ccomp	_	_
 25	cho	cho	ADP	PRE	_	27	case	_	_
 26	các	các	DET	DET	_	27	det	_	_
@@ -28159,14 +28159,14 @@
 
 # sent_id = dev-1060
 # text = Muốn có sản phẩm tốt , sắp tới phải thiết kế lại các quy tắc , quy định biên soạn ở cộng đồng .
-1	Muốn	muốn	VERB	V	_	2	aux	_	_
+1	Muốn	muốn	AUX	V	_	2	aux	_	_
 2	có	có	VERB	V	_	9	advcl	_	_
 3	sản phẩm	sản phẩm	NOUN	N	_	2	obj	_	_
 4	tốt	tốt	ADJ	ADJ	_	3	amod	_	_
 5	,	,	PUNCT	PUNCT	_	9	punct	_	_
 6	sắp	sắp	ADV	ADV	_	7	advmod	_	_
 7	tới	tới	VERB	V	_	9	advcl	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	thiết kế	thiết kế	VERB	V	_	0	root	_	_
 10	lại	lại	VERB	V	_	9	compound:svc	_	_
 11	các	các	DET	DET	_	12	det	_	_
@@ -28238,7 +28238,7 @@
 2	Sản phẩm	sản phẩm	NOUN	N	_	6	nsubj	_	_
 3	cuối cùng	cuối cùng	ADJ	ADJ	_	2	amod	_	_
 4	không	không	ADV	ADV	_	5	advmod:neg	_	_
-5	nên	nên	VERB	V	_	6	aux	_	_
+5	nên	nên	AUX	V	_	6	aux	_	_
 6	kỳ vọng	kỳ vọng	VERB	V	_	0	root	_	_
 7	là	là	AUX	AUX	_	8	cop	_	_
 8	chuẩn mực	chuẩn mực	NOUN	N	_	6	ccomp	_	_
@@ -28349,7 +28349,7 @@
 # text = Cô buộc phải ghép gan lần hai mới có hy vọng sống .
 1	Cô	cô	NOUN	N	_	2	nsubj	_	_
 2	buộc	buộc	VERB	V	_	10	csubj	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	V	_	4	aux	_	_
 4	ghép	ghép	VERB	V	_	2	xcomp	_	_
 5	gan	gan	NOUN	N	_	4	obj	_	_
 6	lần	lần	NOUN	N	_	2	obl	_	_
@@ -28387,7 +28387,7 @@
 4	đầu tiên	đầu tiên	ADJ	ADJ	_	3	amod	_	_
 5	tại	tại	ADP	PRE	_	6	case	_	_
 6	Việt Nam	việt nam	NOUN	N	_	8	obl:comp	_	_
-7	được	được	VERB	V	_	8	aux:pass	_	_
+7	được	được	AUX	V	_	8	aux:pass	_	_
 8	ghép	ghép	VERB	V	_	3	acl:subj	_	_
 9	gan	gan	NOUN	N	_	8	obj	_	_
 10	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -28410,7 +28410,7 @@
 # sent_id = dev-1072
 # text = Diệp bị teo đường mật bẩm sinh , phẫu thuật nối đường mật với ruột từ lúc 3 tuổi .
 1	Diệp	diệp	NOUN	N	_	3	nsubj	_	_
-2	bị	bị	VERB	V	_	3	aux	_	_
+2	bị	bị	AUX	V	_	3	aux	_	_
 3	teo	teo	VERB	V	_	0	root	_	_
 4	đường	đường	NOUN	N	_	3	obj	_	_
 5	mật	mật	NOUN	N	_	4	compound	_	_
@@ -28435,7 +28435,7 @@
 3	tuổi	tuổi	NOUN	N	_	1	nmod	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	Diệp	diệp	NOUN	N	_	7	nsubj	_	_
-6	bị	bị	VERB	V	_	7	aux	_	_
+6	bị	bị	AUX	V	_	7	aux	_	_
 7	xơ gan	xơ gan	NOUN	N	_	0	root	_	_
 8	,	,	PUNCT	PUNCT	_	9	punct	_	_
 9	chảy	chảy	VERB	V	_	7	conj	_	_
@@ -28451,7 +28451,7 @@
 5	,	,	PUNCT	PUNCT	_	9	punct	_	_
 6	Diệp	diệp	NOUN	N	_	9	nsubj	_	_
 7	liên tục	liên tục	ADJ	ADJ	_	9	advmod:adj	_	_
-8	phải	phải	VERB	V	_	9	aux	_	_
+8	phải	phải	AUX	V	_	9	aux	_	_
 9	sử dụng	sử dụng	VERB	V	_	0	root	_	_
 10	thuốc	thuốc	NOUN	N	_	9	obj	_	_
 11	chống	chống	VERB	V	_	10	acl:subj	_	_
@@ -28484,7 +28484,7 @@
 15	Học viện	học viện	NOUN	N	_	14	nmod	_	_
 16	Quân y	quân y	NOUN	N	_	15	compound	_	_
 17	103	103	NUM	NUM	_	15	compound	_	_
-18	phải	phải	VERB	V	_	19	aux	_	_
+18	phải	phải	AUX	V	_	19	aux	_	_
 19	chuẩn bị	chuẩn bị	VERB	V	_	0	root	_	_
 20	trong	trong	ADP	PRE	_	22	case	_	_
 21	5	5	NUM	NUM	_	22	nummod	_	_
@@ -28495,7 +28495,7 @@
 # text = Nhiều chuyên gia được cử đi nước ngoài học ghép gan , miễn dịch , huyết học ...
 1	Nhiều	nhiều	ADJ	ADJ	_	2	advmod:adj	_	_
 2	chuyên gia	chuyên gia	NOUN	N	_	4	nsubj:pass	_	_
-3	được	được	VERB	V	_	4	aux:pass	_	_
+3	được	được	AUX	V	_	4	aux:pass	_	_
 4	cử	cử	VERB	V	_	0	root	_	_
 5	đi	đi	VERB	V	_	4	xcomp	_	_
 6	nước ngoài	nước ngoài	NOUN	N	_	5	obl:comp	_	_
@@ -28574,7 +28574,7 @@
 3	tuổi	tuổi	NOUN	N	_	1	nmod	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	cô	cô	NOUN	N	_	7	nsubj	_	_
-6	phải	phải	VERB	V	_	7	aux	_	_
+6	phải	phải	AUX	V	_	7	aux	_	_
 7	phẫu thuật	phẫu thuật	VERB	V	_	0	root	_	_
 8	nối	nối	VERB	V	_	7	xcomp	_	_
 9	đường	đường	NOUN	N	_	8	obj	_	_
@@ -28616,7 +28616,7 @@
 7	công việc	công việc	NOUN	N	_	3	acl:tmod	_	_
 8	ổn định	ổn định	VERB	V	_	7	acl:subj	_	_
 9	,	,	PUNCT	PUNCT	_	11	punct	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	đi	đi	VERB	V	_	8	conj	_	_
 12	chở	chở	VERB	V	_	11	xcomp	_	_
 13	gạch	gạch	NOUN	N	_	12	obj	_	_
@@ -28641,7 +28641,7 @@
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	khi	khi	NOUN	N	_	19	obl:tmod	_	_
 5	Diệp	diệp	NOUN	N	_	7	nsubj:pass	_	_
-6	được	được	VERB	V	_	7	aux:pass	_	_
+6	được	được	AUX	V	_	7	aux:pass	_	_
 7	chọn	chọn	VERB	V	_	4	acl:tmod	_	_
 8	để	để	ADP	PRE	_	9	mark:pcomp	_	_
 9	thực hiện	thực hiện	VERB	V	_	7	advcl:objective	_	_
@@ -28753,7 +28753,7 @@
 3	khỏe mạnh	khỏe mạnh	ADJ	ADJ	_	0	root	_	_
 4	ra viện	ra viện	VERB	V	_	3	xcomp:adj	_	_
 5	và	và	CCONJ	CC	_	7	cc	_	_
-6	có thể	có thể	ADV	ADV	_	7	aux	_	_
+6	có thể	có thể	AUX	ADV	_	7	aux	_	_
 7	làm việc	làm việc	VERB	V	_	3	conj	_	_
 8	được	được	ADV	ADV	_	7	advmod	_	_
 9	bình thường	bình thường	ADJ	ADJ	_	7	xcomp	_	_
@@ -28765,7 +28765,7 @@
 2	2018	2018	NUM	NUM	_	1	flat:date	_	_
 3	,	,	PUNCT	PUNCT	_	8	punct	_	_
 4	Diệp	diệp	NOUN	N	_	8	nsubj:pass	_	_
-5	được	được	VERB	V	_	8	aux:pass	_	_
+5	được	được	AUX	V	_	8	aux:pass	_	_
 6	Bệnh viện	bệnh viện	NOUN	N	_	8	obl:agent	_	_
 7	Quân Y	quân y	NOUN	N	_	6	compound	_	_
 8	hỗ trợ	hỗ trợ	VERB	V	_	0	root	_	_
@@ -28799,11 +28799,11 @@
 14	trong	trong	ADP	PRE	_	15	case	_	_
 15	giờ hành chính	giờ hành chính	NOUN	N	_	6	obl	_	_
 16	và	và	CCONJ	CC	_	19	cc	_	_
-17	được	được	VERB	V	_	19	aux:pass	_	_
+17	được	được	AUX	V	_	19	aux:pass	_	_
 18	đồng nghiệp	đồng nghiệp	NOUN	N	_	19	obl:agent	_	_
 19	ưu tiên	ưu tiên	VERB	V	_	4	conj	_	_
 20	không	không	ADV	ADV	_	21	advmod:neg	_	_
-21	phải	phải	VERB	V	_	22	aux	_	_
+21	phải	phải	AUX	V	_	22	aux	_	_
 22	trực	trực	VERB	V	_	19	xcomp	_	_
 23	đêm	đêm	NOUN	N	_	22	obj	_	_
 24	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -28828,7 +28828,7 @@
 16	đồng thời	đồng thời	ADV	ADV	_	17	advmod	_	_
 17	nhắc nhở	nhắc nhở	VERB	V	_	2	conj	_	_
 18	bản thân	bản thân	NOUN	N	_	17	obj	_	_
-19	phải	phải	VERB	V	_	20	aux	_	_
+19	phải	phải	AUX	V	_	20	aux	_	_
 20	giữ gìn	giữ gìn	VERB	V	_	18	acl:subj	_	_
 21	và	và	CCONJ	CC	_	22	cc	_	_
 22	bảo vệ	bảo vệ	VERB	V	_	20	conj	_	_
@@ -28859,7 +28859,7 @@
 # text = Cô thường xuyên bị ốm .
 1	Cô	cô	NOUN	N	_	4	nsubj	_	_
 2	thường xuyên	thường xuyên	ADV	ADV	_	4	advmod	_	_
-3	bị	bị	VERB	V	_	4	aux	_	_
+3	bị	bị	AUX	V	_	4	aux	_	_
 4	ốm	ốm	VERB	V	_	0	root	_	_
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -28898,7 +28898,7 @@
 6	sức khỏe	sức khỏe	NOUN	N	_	5	obj	_	_
 7	,	,	PUNCT	PUNCT	_	10	punct	_	_
 8	Diệp	diệp	NOUN	N	_	10	nsubj:pass	_	_
-9	được	được	VERB	V	_	10	aux:pass	_	_
+9	được	được	AUX	V	_	10	aux:pass	_	_
 10	chỉ định	chỉ định	VERB	V	_	0	root	_	_
 11	truyền	truyền	VERB	V	_	10	xcomp	_	_
 12	huyết tương	huyết tương	NOUN	N	_	11	obj	_	_
@@ -28933,7 +28933,7 @@
 15	song	song	SCONJ	SC	_	19	mark	_	_
 16	do	do	ADP	PRE	_	19	mark	_	_
 17	sức khỏe	sức khỏe	NOUN	N	_	19	nsubj	_	_
-18	chưa thể	chưa thể	ADV	ADV	_	19	aux	_	_
+18	chưa thể	chưa thể	AUX	ADV	_	19	aux	_	_
 19	đáp ứng	đáp ứng	VERB	V	_	25	advcl	_	_
 20	cho	cho	ADP	PRE	_	21	case	_	_
 21	cuộc	cuộc	NOUN	N	_	19	obl:comp	_	_
@@ -29054,7 +29054,7 @@
 19	,	,	PUNCT	PUNCT	_	23	punct	_	_
 20	bởi	bởi	ADP	PRE	_	23	mark	_	_
 21	không	không	ADV	ADV	_	22	advmod:neg	_	_
-22	muốn	muốn	VERB	V	_	23	aux	_	_
+22	muốn	muốn	AUX	V	_	23	aux	_	_
 23	dừng	dừng	VERB	V	_	11	advcl	_	_
 24	lại	lại	VERB	V	_	23	compound:svc	_	_
 25	ở	ở	ADP	PRE	_	26	case	_	_
@@ -29071,7 +29071,7 @@
 2	ế	ế	VERB	V	_	1	xcomp	_	_
 3	tôi	tôi	PRON	PRO	_	6	nsubj	_	_
 4	vẫn	vẫn	ADV	ADV	_	6	advmod	_	_
-5	phải	phải	VERB	V	_	6	aux	_	_
+5	phải	phải	AUX	V	_	6	aux	_	_
 6	trẻ đẹp	trẻ đẹp	ADJ	ADJ	_	0	root	_	_
 
 # sent_id = dev-1104
@@ -29100,7 +29100,7 @@
 10	,	,	PUNCT	PUNCT	_	14	punct	_	_
 11	tôi	tôi	PRON	PRO	_	14	nsubj	_	_
 12	cũng	cũng	ADV	ADV	_	13	advmod	_	_
-13	muốn	muốn	VERB	V	_	14	aux	_	_
+13	muốn	muốn	AUX	V	_	14	aux	_	_
 14	chia sẻ	chia sẻ	VERB	V	_	0	root	_	_
 15	tâm sự	tâm sự	NOUN	N	_	14	obj	_	_
 16	của	của	ADP	PRE	_	17	case	_	_
@@ -29176,7 +29176,7 @@
 5	quan trọng	quan trọng	ADJ	ADJ	_	4	compound:amod	_	_
 6	nhất	nhất	ADV	ADV	_	4	advmod	_	_
 7	không	không	ADV	ADV	_	8	advmod:neg	_	_
-8	phải	phải	VERB	V	_	10	aux	_	_
+8	phải	phải	AUX	V	_	10	aux	_	_
 9	là	là	PRT	PRT	_	10	discourse	_	_
 10	có	có	VERB	V	_	0	root	_	_
 11	gia đình	gia đình	NOUN	N	_	10	obj	_	_
@@ -29185,7 +29185,7 @@
 14	,	,	PUNCT	PUNCT	_	18	punct	_	_
 15	mà	mà	SCONJ	SC	_	18	mark	_	_
 16	chúng ta	chúng ta	NOUN	N	_	18	nsubj	_	_
-17	phải	phải	VERB	V	_	18	aux	_	_
+17	phải	phải	AUX	V	_	18	aux	_	_
 18	tìm	tìm	VERB	V	_	10	conj	_	_
 19	được	được	ADV	ADV	_	18	advmod	_	_
 20	niềm vui	niềm vui	NOUN	N	_	18	obj	_	_
@@ -29208,7 +29208,7 @@
 11	có	có	VERB	V	_	15	advcl	_	_
 12	sức khỏe	sức khỏe	NOUN	N	_	11	obj	_	_
 13	mới	mới	ADV	ADV	_	15	advmod	_	_
-14	có thể	có thể	ADV	ADV	_	15	aux	_	_
+14	có thể	có thể	AUX	ADV	_	15	aux	_	_
 15	chăm sóc	chăm sóc	VERB	V	_	7	conj	_	_
 16	những	những	DET	DET	_	17	det	_	_
 17	người	người	NOUN	N	_	15	obj	_	_
@@ -29248,7 +29248,7 @@
 # text = Ế cũng phải trẻ , khỏe và đẹp mới chịu chứ .
 1	Ế	ế	VERB	V	_	4	csubj:vsubj	_	_
 2	cũng	cũng	ADV	ADV	_	3	advmod	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	V	_	4	aux	_	_
 4	trẻ	trẻ	ADJ	ADJ	_	10	csubj	_	_
 5	,	,	PUNCT	PUNCT	_	6	punct	_	_
 6	khỏe	khỏe	ADJ	ADJ	_	4	conj	_	_
@@ -29356,7 +29356,7 @@
 # text = Mỗi ngày được gặp khách hàng và làm việc cùng đồng nghiệp là niềm vui của tôi .
 1	Mỗi	mỗi	DET	DET	_	2	det	_	_
 2	ngày	ngày	NOUN	N	_	4	obl:tmod	_	_
-3	được	được	ADV	ADV	_	4	aux	_	_
+3	được	được	AUX	ADV	_	4	aux	_	_
 4	gặp	gặp	VERB	V	_	11	csubj	_	_
 5	khách hàng	khách hàng	NOUN	N	_	4	obj	_	_
 6	và	và	CCONJ	CC	_	7	cc	_	_
@@ -29504,7 +29504,7 @@
 7	,	,	PUNCT	PUNCT	_	11	punct	_	_
 8	chúng ta	chúng ta	NOUN	N	_	11	nsubj	_	_
 9	cũng	cũng	ADV	ADV	_	11	advmod	_	_
-10	phải	phải	VERB	V	_	11	aux	_	_
+10	phải	phải	AUX	V	_	11	aux	_	_
 11	có	có	VERB	V	_	3	parataxis	_	_
 12	phần	phần	NOUN	N	_	11	obj	_	_
 13	tích lũy	tích lũy	VERB	V	_	12	compound:vmod	_	_
