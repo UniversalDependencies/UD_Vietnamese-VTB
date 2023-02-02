@@ -271,7 +271,7 @@
 22	LBKT	lbkt	PUNCT	PUNCT	_	23	punct	_	_
 23	Bình Định	Bình Định	PROPN	NNP	_	20	appos:nmod	_	_
 24	RBKT	rbkt	PUNCT	PUNCT	_	23	punct	_	_
-25	và	và	CONJ	CC	_	26	cc	_	_
+25	và	và	CCONJ	CC	_	26	cc	_	_
 26	huyện	huyện	NOUN	N	_	20	conj	_	_
 27	Sông Cầu	Sông Cầu	PROPN	NNP	_	26	compound	_	_
 28	LBKT	lbkt	PUNCT	PUNCT	_	29	punct	_	_
@@ -283,7 +283,7 @@
 34	huyện	huyện	NOUN	N	_	33	nmod	_	_
 35	Sông Cầu	Sông Cầu	PROPN	NNP	_	34	compound	_	_
 36	xem xét	xem xét	VERB	V	_	0	root	_	_
-37	và	và	CONJ	CC	_	38	cc	_	_
+37	và	và	CCONJ	CC	_	38	cc	_	_
 38	ra	ra	VERB	V	_	36	conj	_	_
 39	quyết định	quyết định	NOUN	N	_	38	obj	_	_
 40	cấp	cấp	VERB	V	_	39	acl:subj	_	_
@@ -360,7 +360,7 @@
 28	những	những	DET	DET	_	29	det	_	_
 29	tay	tay	NOUN	N	_	35	nsubj	_	_
 30	lái buôn	lái buôn	NOUN	N	_	29	nmod	_	_
-31	và	và	CONJ	CC	_	33	cc	_	_
+31	và	và	CCONJ	CC	_	33	cc	_	_
 32	cả	cả	PRON	PRO	_	33	det	_	_
 33	người	người	NOUN	N	_	29	conj	_	_
 34	dân	dân	NOUN	N	_	33	compound	_	_
@@ -391,7 +391,7 @@
 18	vi tính	vi tính	NOUN	N	_	17	obj	_	_
 19	cho	cho	ADP	PRE	_	20	case	_	_
 20	học viên	học viên	NOUN	N	_	17	obl:comp	_	_
-21	và	và	CONJ	CC	_	25	cc	_	_
+21	và	và	CCONJ	CC	_	25	cc	_	_
 22	quan trọng	quan trọng	ADJ	ADJ	_	25	csubj:asubj	_	_
 23	nhất	nhất	ADV	ADV	_	22	advmod	_	_
 24	là	là	AUX	AUX	_	25	cop	_	_
@@ -466,7 +466,7 @@
 18	sang	sang	VERB	V	_	10	xcomp	_	_
 19	thị trường	thị trường	NOUN	N	_	18	obl:comp	_	_
 20	trung quốc	trung quốc	PROPN	NNP	_	19	nmod	_	_
-21	và	và	CONJ	CC	_	22	cc	_	_
+21	và	và	CCONJ	CC	_	22	cc	_	_
 22	Thái Lan	Thái Lan	PROPN	NNP	_	20	conj	_	_
 23	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
@@ -482,7 +482,7 @@
 8	hà nội	hà nội	PROPN	NNP	_	5	nmod	_	_
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
 10	Long An	Long An	PROPN	NNP	_	8	conj	_	_
-11	và	và	CONJ	CC	_	12	cc	_	_
+11	và	và	CCONJ	CC	_	12	cc	_	_
 12	TP.	tp.	NOUN	NY	_	8	conj	_	_
 13	HCM	hcm	PROPN	NNPY	_	12	compound	_	_
 14	được	được	AUX	AUX	_	19	aux:pass	_	_
@@ -556,7 +556,7 @@
 29	,	,	PUNCT	PUNCT	_	34	punct	_	_
 30	buổi	buổi	NOUN	N	_	34	obl:tmod	_	_
 31	trưa	trưa	NOUN	N	_	30	compound	_	_
-32	và	và	CONJ	CC	_	33	cc	_	_
+32	và	và	CCONJ	CC	_	33	cc	_	_
 33	chiều	chiều	NOUN	N	_	31	conj	_	_
 34	bán	bán	VERB	V	_	27	conj	_	_
 35	các	các	DET	DET	_	36	det	_	_
@@ -575,7 +575,7 @@
 7	có	có	VERB	V	_	0	root	_	_
 8	chất lượng	chất lượng	NOUN	N	_	7	obj	_	_
 9	tốt	tốt	ADJ	ADJ	_	8	amod	_	_
-10	và	và	CONJ	CC	_	13	cc	_	_
+10	và	và	CCONJ	CC	_	13	cc	_	_
 11	giá cả	giá cả	NOUN	N	_	13	nsubj	_	_
 12	rất	rất	ADV	ADV	_	13	advmod	_	_
 13	phù hợp	phù hợp	VERB	V	_	7	conj	_	_
@@ -744,7 +744,7 @@
 11	năm	năm	NOUN	N	_	9	appos	_	_
 12	1959	1959	NUM	NUM	_	11	flat:date	_	_
 13	,	,	PUNCT	PUNCT	_	16	punct	_	_
-14	và	và	CONJ	CC	_	16	cc	_	_
+14	và	và	CCONJ	CC	_	16	cc	_	_
 15	một	một	NUM	NUM	_	16	nummod	_	_
 16	tên	tên	NOUN	N	_	9	conj	_	_
 17	người	người	NOUN	N	_	16	compound	_	_
@@ -792,7 +792,7 @@
 14	thấy	thấy	VERB	V	_	0	root	_	_
 15	anh	anh	NOUN	N	_	16	clf:det	_	_
 16	Lê	Lê	PROPN	NNP	_	20	nsubj	_	_
-17	và	và	CONJ	CC	_	19	cc	_	_
+17	và	và	CCONJ	CC	_	19	cc	_	_
 18	anh	anh	NOUN	N	_	19	clf:det	_	_
 19	Hiền	Hiền	PROPN	NNP	_	16	conj	_	_
 20	ra	ra	VERB	V	_	14	ccomp	_	_
@@ -802,7 +802,7 @@
 24	mấy	mấy	DET	DET	_	25	det	_	_
 25	chai	chai	NOUN	N	_	23	obj	_	_
 26	rượu cần	rượu cần	NOUN	N	_	25	compound	_	_
-27	và	và	CONJ	CC	_	29	cc	_	_
+27	và	và	CCONJ	CC	_	29	cc	_	_
 28	một	một	NUM	NUM	_	29	nummod	_	_
 29	hănggô	hănggô	NOUN	NB	_	25	conj	_	_
 30	cơm	cơm	NOUN	N	_	29	nmod	_	_
@@ -890,7 +890,7 @@
 11	kỹ	kỹ	ADJ	ADJ	_	10	acomp	_	_
 12	vùng	vùng	NOUN	N	_	10	obj	_	_
 13	Mũi Đèn	Mũi Đèn	PROPN	NNP	_	12	compound	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	về	về	VERB	V	_	6	conj	_	_
 16	khu ủy	khu ủy	NOUN	N	_	15	obl:comp	_	_
 17	báo cáo	báo cáo	VERB	V	_	15	advcl:objective	_	_
@@ -963,7 +963,7 @@
 19	cuốc	cuốc	NOUN	N	_	18	nmod	_	_
 20	lủi	lủi	VERB	V	_	19	compound:vmod	_	_
 21	to bự	to bự	ADJ	ADJ	_	18	amod	_	_
-22	và	và	CONJ	CC	_	25	cc	_	_
+22	và	và	CCONJ	CC	_	25	cc	_	_
 23	mấy	mấy	DET	DET	_	25	det	_	_
 24	con	con	NOUN	N	_	23	clf	_	_
 25	cá	cá	NOUN	N	_	18	conj	_	_
@@ -1157,7 +1157,7 @@
 23	,	,	PUNCT	PUNCT	_	24	punct	_	_
 24	báo cáo	báo cáo	VERB	V	_	11	conj	_	_
 25	công tác	công tác	NOUN	N	_	24	obj	_	_
-26	hay	hay	CONJ	CC	_	27	cc	_	_
+26	hay	hay	CCONJ	CC	_	27	cc	_	_
 27	nghỉ ngơi	nghỉ ngơi	VERB	V	_	24	conj	_	_
 28	lấy	lấy	VERB	V	_	27	xcomp	_	_
 29	sức	sức	NOUN	N	_	28	obj	_	_
@@ -1361,12 +1361,12 @@
 16	tổng	tổng	NOUN	N	_	15	obj	_	_
 17	bãi khóa	bãi khóa	VERB	V	_	16	compound:vmod	_	_
 18	vô hạn định	vô hạn định	VERB	V	_	16	acl:subj	_	_
-19	và	và	CONJ	CC	_	20	cc	_	_
+19	và	và	CCONJ	CC	_	20	cc	_	_
 20	toàn diện	toàn diện	ADJ	ADJ	_	18	conj	_	_
 21	,	,	PUNCT	PUNCT	_	22	punct	_	_
 22	sẵn sàng	sẵn sàng	VERB	V	_	13	conj	_	_
 23	tuyệt thực	tuyệt thực	ADJ	ADJ	_	22	acomp	_	_
-24	và	và	CONJ	CC	_	25	cc	_	_
+24	và	và	CCONJ	CC	_	25	cc	_	_
 25	tự thiêu	tự thiêu	VERB	V	_	22	conj	_	_
 26	với	với	ADP	PRE	_	27	case	_	_
 27	khẩu hiệu	khẩu hiệu	NOUN	N	_	25	obl:with	_	_
@@ -1431,7 +1431,7 @@
 26	mở đường	mở đường	VERB	V	_	24	acl:subj	_	_
 27	phía	phía	NOUN	N	_	26	obj	_	_
 28	trước	trước	ADJ	ADJ	_	27	amod	_	_
-29	và	và	CONJ	CC	_	31	cc	_	_
+29	và	và	CCONJ	CC	_	31	cc	_	_
 30	những	những	DET	DET	_	31	det	_	_
 31	ngầm	ngầm	NOUN	N	_	27	conj	_	_
 32	đá	đá	NOUN	N	_	31	nmod	_	_
@@ -1443,7 +1443,7 @@
 38	hai	hai	NUM	NUM	_	39	nummod	_	_
 39	ngày	ngày	NOUN	N	_	36	obl	_	_
 40	22	22	NUM	NUM	_	39	flat:date	_	_
-41	và	và	CONJ	CC	_	42	cc	_	_
+41	và	và	CCONJ	CC	_	42	cc	_	_
 42	23	23	NUM	NUM	_	40	conj	_	_
 43	-	-	PUNCT	PUNCT	_	42	flat:number	_	_
 44	10	10	NUM	NUM	_	42	flat:number	_	_
@@ -1469,7 +1469,7 @@
 64	bình minh	bình minh	PROPN	NNP	_	62	nmod	_	_
 65	,	,	PUNCT	PUNCT	_	66	punct	_	_
 66	Bình Chương	Bình Chương	PROPN	NNP	_	64	conj	_	_
-67	và	và	CONJ	CC	_	68	cc	_	_
+67	và	và	CCONJ	CC	_	68	cc	_	_
 68	Nam Trà My	Nam Trà My	PROPN	NNP	_	64	conj	_	_
 69	-	-	PUNCT	PUNCT	_	71	punct	_	_
 70	những	những	DET	DET	_	71	det	_	_
@@ -1583,7 +1583,7 @@
 25	vừa	vừa	ADV	ADV	_	26	advmod	_	_
 26	đẩy	đẩy	VERB	V	_	20	xcomp	_	_
 27	xe	xe	NOUN	N	_	26	obj	_	_
-28	và	và	CONJ	CC	_	29	cc	_	_
+28	và	và	CCONJ	CC	_	29	cc	_	_
 29	nhờ	nhờ	VERB	V	_	26	conj	_	_
 30	xe kéo	xe kéo	NOUN	N	_	29	obj	_	_
 31	mới	mới	ADV	ADV	_	32	advmod	_	_
@@ -1685,7 +1685,7 @@
 24	Nhà nước	nhà nước	NOUN	N	_	22	nmod:poss	_	_
 25	chiếm	chiếm	VERB	V	_	24	acl:subj	_	_
 26	đất	đất	NOUN	N	_	25	obj	_	_
-27	và	và	CONJ	CC	_	28	cc	_	_
+27	và	và	CCONJ	CC	_	28	cc	_	_
 28	phá	phá	VERB	V	_	25	conj	_	_
 29	rừng	rừng	NOUN	N	_	28	obj	_	_
 30	ngập mặn	ngập mặn	ADJ	ADJ	_	29	compound:amod	_	_
@@ -1846,7 +1846,7 @@
 36	chặt	chặt	ADJ	ADJ	_	35	acomp	_	_
 37	vào	vào	ADP	PRE	_	38	case	_	_
 38	da	da	NOUN	N	_	35	obl:comp	_	_
-39	và	và	CONJ	CC	_	40	cc	_	_
+39	và	và	CCONJ	CC	_	40	cc	_	_
 40	nhớp nháp	nhớp nháp	ADJ	ADJ	_	35	conj	_	_
 41	ghê	ghê	ADJ	ADJ	_	40	acomp	_	_
 42	lắm	lắm	PART	PRT	_	41	discourse	_	_
@@ -2444,7 +2444,7 @@
 30	ụ	ụ	NOUN	N	_	29	obj	_	_
 31	giấu	giấu	VERB	V	_	29	xcomp	_	_
 32	tàu	tàu	NOUN	N	_	31	obj	_	_
-33	và	và	CONJ	CC	_	34	cc	_	_
+33	và	và	CCONJ	CC	_	34	cc	_	_
 34	lập	lập	VERB	V	_	29	conj	_	_
 35	kho	kho	NOUN	N	_	34	obj	_	_
 36	lớn	lớn	ADJ	ADJ	_	35	amod	_	_
@@ -2522,7 +2522,7 @@
 14	bắt	bắt	VERB	V	_	12	xcomp	_	_
 15	đồi mồi	đồi mồi	NOUN	N	_	14	obj	_	_
 16	,	,	PUNCT	PUNCT	_	23	punct	_	_
-17	hoặc	hoặc	CONJ	CC	_	23	cc	_	_
+17	hoặc	hoặc	CCONJ	CC	_	23	cc	_	_
 18	đi	đi	VERB	V	_	23	csubj:vsubj	_	_
 19	đánh cá	đánh cá	VERB	V	_	18	compound:svc	_	_
 20	các	các	DET	DET	_	21	det	_	_
@@ -2616,7 +2616,7 @@
 1	Cần	cần	AUX	AUX	_	2	aux	_	_
 2	về	về	VERB	V	_	0	root	_	_
 3	khảo sát	khảo sát	VERB	V	_	2	xcomp	_	_
-4	và	và	CONJ	CC	_	5	cc	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
 5	ra	ra	VERB	V	_	2	conj	_	_
 6	báo cáo	báo cáo	VERB	V	_	5	xcomp	_	_
 7	lại	lại	VERB	V	_	6	xcomp	_	_
@@ -2799,7 +2799,7 @@
 20	cho	cho	ADV	ADV	_	19	compound:prt	_	_
 21	một	một	NUM	NUM	_	22	nummod	_	_
 22	trận	trận	NOUN	N	_	19	obj	_	_
-23	và	và	CONJ	CC	_	24	cc	_	_
+23	và	và	CCONJ	CC	_	24	cc	_	_
 24	giam	giam	VERB	V	_	19	conj	_	_
 25	chặt	chặt	ADJ	ADJ	_	24	acomp	_	_
 26	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -3021,7 +3021,7 @@
 18	Tiên Hưng	Tiên Hưng	PROPN	NNP	_	17	compound	_	_
 19	cùng	cùng	ADJ	ADJ	_	17	acl:subj	_	_
 20	xã	xã	NOUN	N	_	19	obj	_	_
-21	và	và	CONJ	CC	_	23	cc	_	_
+21	và	và	CCONJ	CC	_	23	cc	_	_
 22	ông	ông	NOUN	N	_	23	clf:det	_	_
 23	Sáu Sao	Sáu Sao	PROPN	NNP	_	15	conj	_	_
 24	ở	ở	ADP	PRE	_	25	case	_	_
@@ -3122,7 +3122,7 @@
 23	vào	vào	ADP	PRE	_	24	case	_	_
 24	cheo	cheo	NOUN	N	_	20	obl:comp	_	_
 25	lưới	lưới	NOUN	N	_	24	compound	_	_
-26	và	và	CONJ	CC	_	27	cc	_	_
+26	và	và	CCONJ	CC	_	27	cc	_	_
 27	giương	giương	VERB	V	_	20	conj	_	_
 28	lên	lên	VERB	V	_	27	compound:dir	_	_
 29	đón	đón	VERB	V	_	27	xcomp	_	_
@@ -3243,7 +3243,7 @@
 5	nghề	nghề	NOUN	N	_	23	dislocated	_	_
 6	câu	câu	VERB	V	_	5	compound:vmod	_	_
 7	nói chung	nói chung	VERB:G	VERB:G	_	5	acl	_	_
-8	và	và	CONJ	CC	_	9	cc	_	_
+8	và	và	CCONJ	CC	_	9	cc	_	_
 9	câu	câu	VERB	V	_	5	conj	_	_
 10	mực	mực	NOUN	N	_	9	obj	_	_
 11	nói riêng	nói riêng	VERB:G	VERB:G	_	9	acl	_	_
@@ -3272,7 +3272,7 @@
 34	,	,	PUNCT	PUNCT	_	35	punct	_	_
 35	chụp	chụp	VERB	V	_	32	conj	_	_
 36	mành	mành	NOUN	N	_	35	obj	_	_
-37	hay	hay	CONJ	CC	_	38	cc	_	_
+37	hay	hay	CCONJ	CC	_	38	cc	_	_
 38	lưới	lưới	NOUN	N	_	32	conj	_	_
 39	bao	bao	VERB	V	_	38	compound:vmod	_	_
 40	,	,	PUNCT	PUNCT	_	41	punct	_	_
@@ -3343,7 +3343,7 @@
 5	vùng	vùng	NOUN	N	_	3	nmod	_	_
 6	đầm	đầm	NOUN	N	_	5	nmod	_	_
 7	Cầu Hai	Cầu Hai	PROPN	NNP	_	6	compound	_	_
-8	và	và	CONJ	CC	_	9	cc	_	_
+8	và	và	CCONJ	CC	_	9	cc	_	_
 9	ven	ven	NOUN	N	_	6	conj	_	_
 10	biển	biển	NOUN	N	_	9	compound	_	_
 11	đang	đang	ADV	ADV	_	12	advmod	_	_
@@ -3364,7 +3364,7 @@
 26	nơi	nơi	NOUN	N	_	21	appos	_	_
 27	lấy	lấy	VERB	V	_	26	acl:subj	_	_
 28	nước biển	nước biển	NOUN	N	_	27	obj	_	_
-29	và	và	CONJ	CC	_	32	cc	_	_
+29	và	và	CCONJ	CC	_	32	cc	_	_
 30	cũng	cũng	ADV	ADV	_	31	advmod	_	_
 31	là	là	AUX	AUX	_	32	cop	_	_
 32	nơi	nơi	NOUN	N	_	26	conj	_	_
@@ -3377,7 +3377,7 @@
 39	hai	hai	NUM	NUM	_	40	nummod	_	_
 40	huyện	huyện	NOUN	N	_	37	nmod:poss	_	_
 41	phú lộc	phú lộc	PROPN	NNP	_	40	compound	_	_
-42	và	và	CONJ	CC	_	43	cc	_	_
+42	và	và	CCONJ	CC	_	43	cc	_	_
 43	Phú Vang	Phú Vang	PROPN	NNP	_	40	conj	_	_
 44	,	,	PUNCT	PUNCT	_	49	punct	_	_
 45	chẳng	chẳng	ADV	ADV	_	46	advmod:neg	_	_
@@ -3411,7 +3411,7 @@
 19	cụt	cụt	ADJ	ADJ	_	18	amod	_	_
 20	theo	theo	VERB	V	_	16	xcomp	_	_
 21	nhạc điệu	nhạc điệu	NOUN	N	_	20	obj	_	_
-22	và	và	CONJ	CC	_	23	cc	_	_
+22	và	và	CCONJ	CC	_	23	cc	_	_
 23	động tác	động tác	NOUN	N	_	21	conj	_	_
 24	thể dục	thể dục	NOUN	N	_	23	nmod	_	_
 25	mà	mà	SCONJ	C	_	30	mark	_	_
@@ -3500,7 +3500,7 @@
 6	cú	cú	NOUN	N	_	4	obj	_	_
 7	điện thoại	điện thoại	NOUN	N	_	6	nmod	_	_
 8	giả danh	giả danh	VERB	V	_	7	compound:vmod	_	_
-9	hoặc	hoặc	CONJ	CC	_	11	cc	_	_
+9	hoặc	hoặc	CCONJ	CC	_	11	cc	_	_
 10	những	những	DET	DET	_	11	det	_	_
 11	lần	lần	NOUN	N	_	6	conj	_	_
 12	trở	trở	VERB	V	_	11	acl:subj	_	_
@@ -3537,7 +3537,7 @@
 7	mất	mất	VERB	V	_	0	root	_	_
 8	sạch	sạch	ADJ	ADJ	_	7	acomp	_	_
 9	giấy tờ	giấy tờ	NOUN	N	_	7	obj	_	_
-10	và	và	CONJ	CC	_	12	cc	_	_
+10	và	và	CCONJ	CC	_	12	cc	_	_
 11	phải	phải	AUX	AUX	_	12	aux	_	_
 12	quay	quay	VERB	V	_	7	conj	_	_
 13	về	về	VERB	V	_	12	compound:dir	_	_
@@ -3574,7 +3574,7 @@
 17	một	một	NUM	NUM	_	18	nummod	_	_
 18	công ty	công ty	NOUN	N	_	15	obl:comp	_	_
 19	kinh doanh	kinh doanh	VERB	V	_	18	compound:vmod	_	_
-20	và	và	CONJ	CC	_	24	cc	_	_
+20	và	và	CCONJ	CC	_	24	cc	_	_
 21	cả	cả	PART	PRT	_	24	discourse	_	_
 22	tại	tại	ADP	PRE	_	24	case	_	_
 23	một	một	NUM	NUM	_	24	nummod	_	_
@@ -3697,7 +3697,7 @@
 3	chăm sóc	chăm sóc	VERB	V	_	0	root	_	_
 4	về	về	ADP	PRE	_	5	case	_	_
 5	thể chất	thể chất	NOUN	N	_	3	obl:comp	_	_
-6	và	và	CONJ	CC	_	7	cc	_	_
+6	và	và	CCONJ	CC	_	7	cc	_	_
 7	tinh thần	tinh thần	NOUN	N	_	5	conj	_	_
 8	cho	cho	ADP	PRE	_	9	case	_	_
 9	người	người	NOUN	N	_	3	obl:comp	_	_
@@ -3747,7 +3747,7 @@
 15	AIDS	aids	NOUN	NY	_	14	obj	_	_
 16	của	của	ADP	PRE	_	17	case	_	_
 17	Đà Nẵng	Đà Nẵng	PROPN	NNP	_	12	nmod:poss	_	_
-18	và	và	CONJ	CC	_	21	cc	_	_
+18	và	và	CCONJ	CC	_	21	cc	_	_
 19	đã	đã	ADV	ADV	_	20	advmod	_	_
 20	được	được	AUX	AUX	_	21	aux:pass	_	_
 21	hỗ trợ	hỗ trợ	VERB	V	_	10	conj	_	_
@@ -3761,7 +3761,7 @@
 2	tre	tre	NOUN	N	_	1	nmod	_	_
 3	ruộng	ruộng	NOUN	N	_	1	conj	_	_
 4	lúa	lúa	NOUN	N	_	3	nmod	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	nhà	nhà	NOUN	N	_	1	conj	_	_
 7	cổ	cổ	ADJ	ADJ	_	6	compound:amod	_	_
 8	hấp dẫn	hấp dẫn	VERB	V	_	0	root	_	_
@@ -3899,7 +3899,7 @@
 9	mới	mới	ADV	ADV	_	10	advmod	_	_
 10	ngẩng	ngẩng	VERB	V	_	0	root	_	_
 11	lên	lên	VERB	V	_	10	compound:dir	_	_
-12	và	và	CONJ	CC	_	13	cc	_	_
+12	và	và	CCONJ	CC	_	13	cc	_	_
 13	nói	nói	VERB	V	_	10	conj	_	_
 14	được	được	ADV	ADV	_	13	advmod	_	_
 15	đúng	đúng	ADJ	ADJ	_	13	acomp	_	_
@@ -4003,7 +4003,7 @@
 26	sa	sa	VERB	V	_	24	xcomp	_	_
 27	lưới	lưới	NOUN	N	_	26	obj	_	_
 28	tiếp	tiếp	VERB	V	_	26	xcomp	_	_
-29	hay	hay	CONJ	CC	_	30	cc	_	_
+29	hay	hay	CCONJ	CC	_	30	cc	_	_
 30	không	không	ADV	ADV	_	24	advmod:neg	_	_
 31	?	?	PUNCT	PUNCT	_	21	punct	_	_
 
@@ -4043,7 +4043,7 @@
 32	bán rong	bán rong	VERB	V	_	31	compound:vmod	_	_
 33	trên	trên	ADP	PRE	_	34	case	_	_
 34	đường	đường	NOUN	N	_	31	nmod	_	_
-35	hoặc	hoặc	CONJ	CC	_	37	cc	_	_
+35	hoặc	hoặc	CCONJ	CC	_	37	cc	_	_
 36	ở	ở	ADP	PRE	_	37	case	_	_
 37	chợ	chợ	NOUN	N	_	34	conj	_	_
 38	Cát Bà	Cát Bà	PROPN	NNP	_	37	compound	_	_
@@ -4215,7 +4215,7 @@
 6	đã	đã	ADV	ADV	_	7	advmod	_	_
 7	nhiễm	nhiễm	VERB	V	_	0	root	_	_
 8	HIV	hiv	NOUN	NY	_	7	obj	_	_
-9	và	và	CONJ	CC	_	10	cc	_	_
+9	và	và	CCONJ	CC	_	10	cc	_	_
 10	chết	chết	VERB	V	_	7	conj	_	_
 11	cách	cách	VERB	V	_	10	advcl	_	_
 12	đây	đây	PRON	PRO	_	11	obj	_	_
@@ -4418,7 +4418,7 @@
 11	nhận	nhận	VERB	V	_	9	ccomp	_	_
 12	ra	ra	VERB	V	_	11	compound:svc	_	_
 13	mình	mình	NOUN	N	_	11	obj	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	dắt	dắt	VERB	V	_	3	conj	_	_
 16	cháu	cháu	NOUN	N	_	15	obj	_	_
 17	về	về	VERB	V	_	15	advmod:dir	_	_
@@ -4433,7 +4433,7 @@
 1	Và	và	SCONJ	CC	_	24	cc	_	_
 2	khi	khi	NOUN	N	_	24	obl:tmod	_	_
 3	bản thân	bản thân	NOUN	N	_	6	nsubj	_	_
-4	hoặc	hoặc	CONJ	CC	_	5	cc	_	_
+4	hoặc	hoặc	CCONJ	CC	_	5	cc	_	_
 5	người thân	người thân	NOUN	N	_	3	conj	_	_
 6	nhiễm	nhiễm	VERB	V	_	2	acl:tmod	_	_
 7	HIV	hiv	NOUN	NY	_	6	obj	_	_
@@ -4516,7 +4516,7 @@
 26	khuất	khuất	ADJ	ADJ	_	25	amod	_	_
 27	của	của	ADP	PRE	_	28	case	_	_
 28	mại dâm	mại dâm	NOUN	N	_	25	nmod:poss	_	_
-29	và	và	CONJ	CC	_	30	cc	_	_
+29	và	và	CCONJ	CC	_	30	cc	_	_
 30	ma túy	ma túy	NOUN	N	_	28	conj	_	_
 31	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
@@ -4614,7 +4614,7 @@
 3	sóng	sóng	NOUN	N	_	4	nsubj	_	_
 4	dập	dập	VERB	V	_	2	acl:tmod	_	_
 5	vào	vào	ADV	ADV	_	4	compound:dir	_	_
-6	và	và	CONJ	CC	_	7	cc	_	_
+6	và	và	CCONJ	CC	_	7	cc	_	_
 7	đẩy	đẩy	VERB	V	_	4	conj	_	_
 8	người	người	NOUN	N	_	7	obj	_	_
 9	lên	lên	VERB	V	_	7	xcomp	_	_
@@ -4789,7 +4789,7 @@
 12	sẽ	sẽ	ADV	ADV	_	13	advmod	_	_
 13	đến	đến	VERB	V	_	8	ccomp	_	_
 14	đâu	đâu	PRON	PRO	_	13	obj	_	_
-15	và	và	CONJ	CC	_	17	cc	_	_
+15	và	và	CCONJ	CC	_	17	cc	_	_
 16	chưa	chưa	VERB	V	_	17	advmod:neg	_	_
 17	có	có	VERB	V	_	13	conj	_	_
 18	giải pháp	giải pháp	NOUN	N	_	17	obj	_	_
@@ -4922,7 +4922,7 @@
 15	chồng	chồng	NOUN	N	_	14	obj	_	_
 16	xa	xa	ADJ	ADJ	_	15	amod	_	_
 17	xứ	xứ	NOUN	N	_	16	compound	_	_
-18	và	và	CONJ	CC	_	20	cc	_	_
+18	và	và	CCONJ	CC	_	20	cc	_	_
 19	không	không	ADV	ADV	_	20	advmod:neg	_	_
 20	hẹn	hẹn	VERB	V	_	14	conj	_	_
 21	ngày	ngày	NOUN	N	_	20	obj	_	_
@@ -4954,7 +4954,7 @@
 21	nước	nước	NOUN	N	_	20	obj	_	_
 22	da	da	NOUN	N	_	21	compound	_	_
 23	trắng	trắng	ADJ	ADJ	_	21	amod	_	_
-24	và	và	CONJ	CC	_	26	cc	_	_
+24	và	và	CCONJ	CC	_	26	cc	_	_
 25	rất	rất	ADV	ADV	_	26	advmod	_	_
 26	xinh	xinh	ADJ	ADJ	_	20	conj	_	_
 27	.	.	PUNCT	PUNCT	_	1	punct	_	_
@@ -4965,7 +4965,7 @@
 2	khi	khi	NOUN	N	_	11	obl:tmod	_	_
 3	đến	đến	VERB	V	_	2	acl:tmod	_	_
 4	nơi	nơi	NOUN	N	_	3	obl:comp	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	chứng kiến	chứng kiến	VERB	V	_	3	conj	_	_
 7	những	những	DET	DET	_	8	det	_	_
 8	thiếu nữ	thiếu nữ	NOUN	N	_	6	obj	_	_
@@ -5416,7 +5416,7 @@
 20	chị	chị	NOUN	N	_	19	iobj	_	_
 21	làm	làm	VERB	V	_	19	xcomp	_	_
 22	con nuôi	con nuôi	NOUN	N	_	21	obj	_	_
-23	và	và	CONJ	CC	_	24	cc	_	_
+23	và	và	CCONJ	CC	_	24	cc	_	_
 24	giúp	giúp	VERB	V	_	19	conj	_	_
 25	chị	chị	NOUN	N	_	24	obj	_	_
 26	ở	ở	VERB	V	_	25	acl:subj	_	_
@@ -5476,7 +5476,7 @@
 5	mấy	mấy	DET	DET	_	7	det	_	_
 6	cái	cái	NOUN	N	_	5	clf	_	_
 7	cốc	cốc	NOUN	N	_	4	obj	_	_
-8	và	và	CONJ	CC	_	9	cc	_	_
+8	và	và	CCONJ	CC	_	9	cc	_	_
 9	trải	trải	VERB	V	_	4	conj	_	_
 10	ra	ra	VERB	V	_	9	compound:dir	_	_
 11	trên	trên	ADP	PRE	_	12	case	_	_
@@ -5543,7 +5543,7 @@
 23	nhích	nhích	VERB	V	_	18	conj	_	_
 24	lên	lên	VERB	V	_	23	compound:dir	_	_
 25	dần	dần	ADV	ADV	_	23	advmod	_	_
-26	và	và	CONJ	CC	_	27	cc	_	_
+26	và	và	CCONJ	CC	_	27	cc	_	_
 27	cao giá	cao giá	ADJ	ADJ	_	23	conj	_	_
 28	nhất	nhất	ADV	ADV	_	27	advmod	_	_
 29	so	so	VERB	V	_	27	advcl	_	_
@@ -5560,7 +5560,7 @@
 3	lời	lời	NOUN	N	_	1	obl	_	_
 4	chủ tịch	chủ tịch	NOUN	N	_	3	nmod	_	_
 5	Đinh	Đinh	PROPN	NNP	_	4	compound	_	_
-6	và	và	CONJ	CC	_	7	cc	_	_
+6	và	và	CCONJ	CC	_	7	cc	_	_
 7	già làng	già làng	NOUN	N	_	4	conj	_	_
 8	Bhling Chrlâng	Bhling Chrlâng	PROPN	NNP	_	7	compound	_	_
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
@@ -5673,7 +5673,7 @@
 48	chủ tịch	chủ tịch	NOUN	N	_	50	nsubj	_	_
 49	Pơloong Đinh	Pơloong Đinh	PROPN	NNP	_	48	compound	_	_
 50	nói	nói	VERB	V	_	9	parataxis	_	_
-51	và	và	CONJ	CC	_	52	cc	_	_
+51	và	và	CCONJ	CC	_	52	cc	_	_
 52	cho	cho	VERB	V	_	50	conj	_	_
 53	rằng	rằng	SCONJ	C	_	66	mark	_	_
 54	chỉ	chỉ	ADV	ADV	_	55	advmod	_	_
@@ -5859,7 +5859,7 @@
 20	sừng	sừng	NOUN	N	_	16	obl	_	_
 21	đen	đen	ADJ	ADJ	_	20	amod	_	_
 22	bóng	bóng	ADJ	ADJ	_	21	compound:adj	_	_
-23	và	và	CONJ	CC	_	26	cc	_	_
+23	và	và	CCONJ	CC	_	26	cc	_	_
 24	một	một	NUM	NUM	_	26	nummod	_	_
 25	bồn	bồn	NOUN	N	_	24	clf	_	_
 26	rượu	rượu	NOUN	N	_	12	conj	_	_
@@ -6094,7 +6094,7 @@
 23	cùng	cùng	SCONJ	C	_	25	cc	_	_
 24	với	với	SCONJ	C	_	25	case	_	_
 25	mại dâm	mại dâm	NOUN	N	_	22	obl	_	_
-26	và	và	CONJ	CC	_	28	cc	_	_
+26	và	và	CCONJ	CC	_	28	cc	_	_
 27	ống	ống	NOUN	N	_	28	clf:det	_	_
 28	kim	kim	NOUN	N	_	25	conj	_	_
 29	chích	chích	VERB	V	_	28	compound:vmod	_	_
@@ -6118,7 +6118,7 @@
 14	để	để	ADP	PRE	_	15	mark:pcomp	_	_
 15	giữ	giữ	VERB	V	_	12	advcl:objective	_	_
 16	sức khỏe	sức khỏe	NOUN	N	_	15	obj	_	_
-17	và	và	CONJ	CC	_	18	cc	_	_
+17	và	và	CCONJ	CC	_	18	cc	_	_
 18	tránh	tránh	VERB	V	_	15	conj	_	_
 19	lây nhiễm	lây nhiễm	VERB	V	_	18	xcomp	_	_
 20	cho	cho	ADP	PRE	_	21	case	_	_
@@ -6151,7 +6151,7 @@
 19	LBKT	lbkt	PUNCT	PUNCT	_	20	punct	_	_
 20	Đồng Nai	Đồng Nai	PROPN	NNP	_	18	appos:nmod	_	_
 21	RBKT	rbkt	PUNCT	PUNCT	_	20	punct	_	_
-22	và	và	CONJ	CC	_	23	cc	_	_
+22	và	và	CCONJ	CC	_	23	cc	_	_
 23	tp	tp	NOUN	NY	_	18	conj	_	_
 24	HCM	hcm	PROPN	NNPY	_	23	compound	_	_
 25	nhưng	nhưng	SCONJ	C	_	29	mark	_	_
@@ -6333,7 +6333,7 @@
 1	Trước đây	trước đây	NOUN	N	_	10	obl:tmod	_	_
 2	,	,	PUNCT	PUNCT	_	10	punct	_	_
 3	ông	ông	NOUN	N	_	10	nsubj	_	_
-4	và	và	CONJ	CC	_	5	cc	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
 5	vợ	vợ	NOUN	N	_	3	conj	_	_
 6	tên	tên	NOUN	N	_	8	nsubj:nn	_	_
 7	là	là	AUX	AUX	_	8	cop	_	_
@@ -6586,7 +6586,7 @@
 2	quay	quay	VERB	V	_	0	root	_	_
 3	lại	lại	VERB	V	_	2	compound:svc	_	_
 4	nhà	nhà	NOUN	N	_	2	obl:comp	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	gặp	gặp	VERB	V	_	2	conj	_	_
 7	vợ chồng	vợ chồng	NOUN	N	_	13	nsubj:nn	_	_
 8	người	người	NOUN	N	_	7	compound	_	_
@@ -6619,7 +6619,7 @@
 14	nguyên liệu	nguyên liệu	NOUN	N	_	13	obj	_	_
 15	vải	vải	NOUN	N	_	14	nmod	_	_
 16	jean	jean	NOUN	NB	_	15	compound	_	_
-17	và	và	CONJ	CC	_	18	cc	_	_
+17	và	và	CCONJ	CC	_	18	cc	_	_
 18	kaki	kaki	NOUN	NB	_	15	conj	_	_
 19	thun	thun	NOUN	N	_	18	nmod	_	_
 20	cho	cho	ADP	PRE	_	22	case	_	_
@@ -6812,7 +6812,7 @@
 34	Sài Gòn	Sài Gòn	PROPN	NNP	_	33	compound	_	_
 35	giai đoạn	giai đoạn	NOUN	N	_	30	nmod	_	_
 36	1	1	NUM	NUM	_	35	nmod	_	_
-37	và	và	CONJ	CC	_	40	cc	_	_
+37	và	và	CCONJ	CC	_	40	cc	_	_
 38	các	các	DET	DET	_	40	det	_	_
 39	tiểu	tiểu	ADJ	ADJ	_	40	compound:Z	_	_
 40	dự án	dự án	NOUN	N	_	30	conj	_	_
@@ -6852,7 +6852,7 @@
 21	vợ	vợ	NOUN	N	_	20	obj	_	_
 22	biết	biết	VERB	V	_	21	acl:subj	_	_
 23	chuyện	chuyện	NOUN	N	_	22	obj	_	_
-24	và	và	CONJ	CC	_	25	cc	_	_
+24	và	và	CCONJ	CC	_	25	cc	_	_
 25	giấu	giấu	VERB	V	_	17	conj	_	_
 26	luôn	luôn	ADV	ADV	_	25	advmod	_	_
 27	biệt danh	biệt danh	NOUN	N	_	25	obj	_	_
@@ -6882,7 +6882,7 @@
 14	làm	làm	VERB	V	_	0	root	_	_
 15	hư hỏng	hư hỏng	ADJ	ADJ	_	14	acomp	_	_
 16	đường sá	đường sá	NOUN	N	_	15	obj	_	_
-17	và	và	CONJ	CC	_	18	cc	_	_
+17	và	và	CCONJ	CC	_	18	cc	_	_
 18	cắt	cắt	VERB	V	_	14	conj	_	_
 19	đứt	đứt	VERB	V	_	18	xcomp	_	_
 20	toàn bộ	toàn bộ	NOUN	N	_	21	det	_	_
@@ -7200,7 +7200,7 @@
 41	sắp	sắp	ADV	ADV	_	42	advmod	_	_
 42	mở	mở	VERB	V	_	36	acl	_	_
 43	,	,	PUNCT	PUNCT	_	50	punct	_	_
-44	và	và	CONJ	CC	_	50	cc	_	_
+44	và	và	CCONJ	CC	_	50	cc	_	_
 45	phi trường	phi trường	NOUN	N	_	50	nsubj	_	_
 46	Liên Khương	Liên Khương	PROPN	NNP	_	45	compound	_	_
 47	nay	nay	NOUN	N	_	50	obl:tmod	_	_
@@ -7287,7 +7287,7 @@
 5	Tuấn	Tuấn	PROPN	NNP	_	6	nsubj	_	_
 6	về	về	VERB	V	_	0	root	_	_
 7	nhà	nhà	NOUN	N	_	6	obl:comp	_	_
-8	và	và	CONJ	CC	_	9	cc	_	_
+8	và	và	CCONJ	CC	_	9	cc	_	_
 9	thi	thi	VERB	V	_	6	conj	_	_
 10	đỗ	đỗ	VERB	V	_	9	xcomp	_	_
 11	đại học	đại học	NOUN	N	_	10	obj	_	_
@@ -7317,7 +7317,7 @@
 11	con	con	NOUN	N	_	10	clf	_	_
 12	chữ	chữ	NOUN	N	_	9	obj	_	_
 13	đẹp	đẹp	ADJ	ADJ	_	12	amod	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	ý tưởng	ý tưởng	NOUN	N	_	8	conj	_	_
 16	mở	mở	VERB	V	_	15	acl:subj	_	_
 17	lớp	lớp	NOUN	N	_	16	obj	_	_
@@ -7369,7 +7369,7 @@
 13	tay	tay	NOUN	N	_	12	obl:comp	_	_
 14	người	người	NOUN	N	_	15	clf:det	_	_
 15	đàn ông	đàn ông	NOUN	N	_	13	nmod	_	_
-16	và	và	CONJ	CC	_	17	cc	_	_
+16	và	và	CCONJ	CC	_	17	cc	_	_
 17	bước	bước	VERB	V	_	12	conj	_	_
 18	nhanh	nhanh	ADJ	ADJ	_	17	acomp	_	_
 19	về	về	VERB	V	_	17	xcomp	_	_
@@ -7390,7 +7390,7 @@
 9	,	,	PUNCT	PUNCT	_	11	punct	_	_
 10	miễn là	miễn là	SCONJ	C	_	11	discourse	_	_
 11	kiên trì	kiên trì	VERB	V	_	5	conj	_	_
-12	và	và	CONJ	CC	_	13	cc	_	_
+12	và	và	CCONJ	CC	_	13	cc	_	_
 13	nắm	nắm	VERB	V	_	11	conj	_	_
 14	được	được	ADV	ADV	_	13	advmod	_	_
 15	những	những	DET	DET	_	16	det	_	_
@@ -7441,7 +7441,7 @@
 11	viết	viết	VERB	V	_	10	acl:subj	_	_
 12	chữ	chữ	NOUN	N	_	11	obj	_	_
 13	đẹp	đẹp	ADJ	ADJ	_	12	amod	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	sẵn lòng	sẵn lòng	VERB	V	_	11	conj	_	_
 16	dạy	dạy	VERB	V	_	15	xcomp	_	_
 17	cách	cách	NOUN	N	_	16	obj	_	_
@@ -7531,7 +7531,7 @@
 11	Environment	Environment	PROPN	NNP	_	10	compound	_	_
 12	Engineering	Engineering	PROPN	NNP	_	10	compound	_	_
 13	,	,	PUNCT	PUNCT	_	15	punct	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	lkn	lkn	PROPN	NNPY	_	7	conj	_	_
 16	Management	Management	PROPN	NNP	_	15	compound	_	_
 17	Service	Service	PROPN	NNP	_	15	compound	_	_
@@ -7546,7 +7546,7 @@
 26	...	...	PUNCT	PUNCT	_	27	punct	_	_
 27	ngây ngất	ngây ngất	ADJ	ADJ	_	0	root	_	_
 28	,	,	PUNCT	PUNCT	_	46	punct	_	_
-29	và	và	CONJ	CC	_	46	cc	_	_
+29	và	và	CCONJ	CC	_	46	cc	_	_
 30	thế là	thế là	SCONJ	C	_	46	cc	_	_
 31	dự án	dự án	NOUN	N	_	46	nsubj	_	_
 32	"	"	PUNCT	PUNCT	_	33	punct	_	_
@@ -7610,7 +7610,7 @@
 5	các	các	DET	DET	_	6	det	_	_
 6	chữ	chữ	NOUN	N	_	4	obj	_	_
 7	hoa	hoa	NOUN	N	_	6	compound	_	_
-8	và	và	CONJ	CC	_	12	cc	_	_
+8	và	và	CCONJ	CC	_	12	cc	_	_
 9	buổi	buổi	NOUN	N	_	12	nsubj	_	_
 10	cuối cùng	cuối cùng	ADJ	ADJ	_	9	amod	_	_
 11	là	là	AUX	AUX	_	12	cop	_	_
@@ -7659,7 +7659,7 @@
 29	nét	nét	NOUN	N	_	20	acl	_	_
 30	thứ	thứ	NOUN	N	_	29	nmod	_	_
 31	nhất	nhất	NUM	NUM	_	30	nmod	_	_
-32	và	và	CONJ	CC	_	33	cc	_	_
+32	và	và	CCONJ	CC	_	33	cc	_	_
 33	nét	nét	NOUN	N	_	29	conj	_	_
 34	thứ	thứ	NOUN	N	_	33	nmod	_	_
 35	hai	hai	NUM	NUM	_	34	nmod	_	_
@@ -7690,7 +7690,7 @@
 21	lại	lại	VERB	V	_	20	compound:dir	_	_
 22	với	với	ADP	PRE	_	23	case	_	_
 23	nhau	nhau	NOUN	N	_	20	obl:with	_	_
-24	và	và	CONJ	CC	_	26	cc	_	_
+24	và	và	CCONJ	CC	_	26	cc	_	_
 25	cũng	cũng	ADV	ADV	_	26	advmod	_	_
 26	nắm	nắm	VERB	V	_	19	conj	_	_
 27	chặt	chặt	ADJ	ADJ	_	26	acomp	_	_
@@ -7731,7 +7731,7 @@
 26	các	các	DET	DET	_	27	det	_	_
 27	nét	nét	NOUN	N	_	25	obj	_	_
 28	cơ bản	cơ bản	ADJ	ADJ	_	27	amod	_	_
-29	và	và	CONJ	CC	_	31	cc	_	_
+29	và	và	CCONJ	CC	_	31	cc	_	_
 30	các	các	DET	DET	_	31	det	_	_
 31	chữ cái	chữ cái	NOUN	N	_	27	conj	_	_
 32	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -7872,7 +7872,7 @@
 23	tròn trịa	tròn trịa	ADJ	ADJ	_	22	acomp	_	_
 24	,	,	PUNCT	PUNCT	_	25	punct	_	_
 25	mềm mại	mềm mại	ADJ	ADJ	_	23	conj	_	_
-26	và	và	CONJ	CC	_	27	cc	_	_
+26	và	và	CCONJ	CC	_	27	cc	_	_
 27	đều	đều	ADJ	ADJ	_	23	conj	_	_
 28	hơn	hơn	ADJ	ADJ	_	27	advmod:adj	_	_
 29	.	.	PUNCT	PUNCT	_	8	punct	_	_
@@ -7946,7 +7946,7 @@
 12	chữ	chữ	NOUN	N	_	11	nmod	_	_
 13	khác	khác	ADJ	ADJ	_	11	acl:subj	_	_
 14	nhau	nhau	NOUN	N	_	13	obl:adj	_	_
-15	và	và	CONJ	CC	_	16	cc	_	_
+15	và	và	CCONJ	CC	_	16	cc	_	_
 16	sáng tác	sáng tác	VERB	V	_	8	conj	_	_
 17	được	được	ADV	ADV	_	16	advmod	_	_
 18	vài ba	vài ba	DET	DET	_	19	det	_	_
@@ -7976,7 +7976,7 @@
 15	,	,	PUNCT	PUNCT	_	16	punct	_	_
 16	thấy	thấy	VERB	V	_	10	conj	_	_
 17	ưng ý	ưng ý	VERB	V	_	16	xcomp	_	_
-18	và	và	CONJ	CC	_	22	cc	_	_
+18	và	và	CCONJ	CC	_	22	cc	_	_
 19	đến	đến	ADP	PRE	_	20	case	_	_
 20	giờ	giờ	NOUN	N	_	22	obl:tmod	_	_
 21	mới	mới	ADV	ADV	_	22	advmod	_	_
@@ -7992,7 +7992,7 @@
 1	Đó	đó	PRON	PRO	_	3	nsubj:nn	_	_
 2	là	là	AUX	AUX	_	3	cop	_	_
 3	ước mơ	ước mơ	NOUN	N	_	0	root	_	_
-4	và	và	CONJ	CC	_	5	cc	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
 5	quyết tâm	quyết tâm	NOUN	N	_	3	conj	_	_
 6	của	của	ADP	PRE	_	7	case	_	_
 7	nàng	nàng	NOUN	N	_	5	nmod:poss	_	_
@@ -8008,7 +8008,7 @@
 3	dị tật	dị tật	NOUN	N	_	0	root	_	_
 4	ở	ở	ADP	PRE	_	5	case	_	_
 5	mặt	mặt	NOUN	N	_	3	obl:comp	_	_
-6	và	và	CONJ	CC	_	8	cc	_	_
+6	và	và	CCONJ	CC	_	8	cc	_	_
 7	luôn	luôn	ADV	ADV	_	8	advmod	_	_
 8	mặc cảm	mặc cảm	VERB	V	_	3	conj	_	_
 9	với	với	ADP	PRE	_	11	case	_	_
@@ -8242,7 +8242,7 @@
 8	lĩnh vực	lĩnh vực	NOUN	N	_	6	obl:about	_	_
 9	này	này	PRON	PRO	_	8	det:pmod	_	_
 10	,	,	PUNCT	PUNCT	_	16	punct	_	_
-11	và	và	CONJ	CC	_	16	cc	_	_
+11	và	và	CCONJ	CC	_	16	cc	_	_
 12	chỉ	chỉ	ADV	ADV	_	13	advmod	_	_
 13	có	có	VERB	V	_	16	csubj	_	_
 14	ads	ads	PROPN	NNPY	_	13	obj	_	_
@@ -8421,7 +8421,7 @@
 18	rừng phòng hộ	rừng phòng hộ	NOUN	N	_	17	obj	_	_
 19	Sêrêpôk	Sêrêpôk	PROPN	NNP	_	16	compound	_	_
 20	RBKT	rbkt	PUNCT	PUNCT	_	15	punct	_	_
-21	và	và	CONJ	CC	_	23	cc	_	_
+21	và	và	CCONJ	CC	_	23	cc	_	_
 22	nhiều	nhiều	ADJ	ADJ	_	23	advmod:adj	_	_
 23	lâm	lâm	NOUN	N	_	13	conj	_	_
 24	phận	phận	NOUN	N	_	23	compound	_	_
@@ -8452,7 +8452,7 @@
 18	trong	trong	ADP	PRE	_	19	case	_	_
 19	hốc	hốc	NOUN	N	_	17	obl:comp	_	_
 20	núi	núi	NOUN	N	_	19	nmod	_	_
-21	và	và	CONJ	CC	_	23	cc	_	_
+21	và	và	CCONJ	CC	_	23	cc	_	_
 22	những	những	DET	DET	_	23	det	_	_
 23	dãy	dãy	NOUN	N	_	15	conj	_	_
 24	hàng quán	hàng quán	NOUN	N	_	23	compound	_	_
@@ -8528,7 +8528,7 @@
 36	lây truyền	lây truyền	VERB	V	_	35	acl:tonp	_	_
 37	của	của	ADP	PRE	_	38	case	_	_
 38	HIV	hiv	NOUN	NY	_	35	nmod:poss	_	_
-39	và	và	CONJ	CC	_	40	cc	_	_
+39	và	và	CCONJ	CC	_	40	cc	_	_
 40	cách	cách	NOUN	N	_	35	conj	_	_
 41	phòng tránh	phòng tránh	VERB	V	_	40	acl:subj	_	_
 42	.	.	PUNCT	PUNCT	_	9	punct	_	_
@@ -8613,7 +8613,7 @@
 19	cũng	cũng	ADV	ADV	_	20	advmod	_	_
 20	mê	mê	VERB	V	_	9	conj	_	_
 21	luôn	luôn	ADV	ADV	_	20	advmod	_	_
-22	và	và	CONJ	CC	_	28	cc	_	_
+22	và	và	CCONJ	CC	_	28	cc	_	_
 23	khi	khi	NOUN	N	_	28	obl:tmod	_	_
 24	mở	mở	VERB	V	_	23	acl:tmod	_	_
 25	lớp	lớp	NOUN	N	_	24	obj	_	_
@@ -8715,7 +8715,7 @@
 7	dành	dành	VERB	V	_	6	acl:subj	_	_
 8	cho	cho	ADP	PRE	_	9	case	_	_
 9	phụ nữ	phụ nữ	NOUN	N	_	7	obl:iobj	_	_
-10	và	và	CONJ	CC	_	11	cc	_	_
+10	và	và	CCONJ	CC	_	11	cc	_	_
 11	trẻ em	trẻ em	NOUN	N	_	9	conj	_	_
 12	thuộc	thuộc	VERB	V	_	7	conj	_	_
 13	trung tâm	trung tâm	NOUN	N	_	12	obl:comp	_	_
@@ -8727,7 +8727,7 @@
 1	Cuộc	cuộc	NOUN	N	_	0	root	_	_
 2	trốn	trốn	VERB	V	_	1	acl:subj	_	_
 3	thoát	thoát	VERB	V	_	2	compound:svc	_	_
-4	và	và	CONJ	CC	_	5	cc	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
 5	giấc	giấc	NOUN	N	_	1	conj	_	_
 6	mơ	mơ	VERB	V	_	5	compound:vmod	_	_
 7	về	về	VERB	V	_	5	acl:subj	_	_
@@ -8772,7 +8772,7 @@
 2	đến	đến	VERB	V	_	0	root	_	_
 3	trung tâm	trung tâm	NOUN	N	_	2	obl:comp	_	_
 4	Bảo vệ	bảo vệ	VERB	V	_	3	compound:vmod	_	_
-5	và	và	CONJ	CC	_	3	compound	_	_
+5	và	và	CCONJ	CC	_	3	compound	_	_
 6	cơ hội	cơ hội	NOUN	N	_	3	compound	_	_
 7	việc làm	việc làm	NOUN	N	_	3	compound	_	_
 8	Kredtrakarn	Kredtrakarn	PROPN	NNP	_	3	compound	_	_
@@ -8800,7 +8800,7 @@
 # sent_id = dev-322
 # text = Quả đấm và những giấc mơ đổi đời ...
 1	Quả đấm	quả đấm	NOUN	N	_	0	root	_	_
-2	và	và	CONJ	CC	_	4	cc	_	_
+2	và	và	CCONJ	CC	_	4	cc	_	_
 3	những	những	DET	DET	_	4	det	_	_
 4	giấc	giấc	NOUN	N	_	1	conj	_	_
 5	mơ	mơ	VERB	V	_	4	compound:vmod	_	_
@@ -8866,7 +8866,7 @@
 16	đủ	đủ	ADJ	ADJ	_	5	punct	_	_
 17	tiền	tiền	NOUN	N	_	16	obl:adj	_	_
 18	xe	xe	NOUN	N	_	17	compound	_	_
-19	và	và	CONJ	CC	_	20	cc	_	_
+19	và	và	CCONJ	CC	_	20	cc	_	_
 20	bữa	bữa	NOUN	N	_	17	conj	_	_
 21	ăn	ăn	VERB	V	_	20	compound:vmod	_	_
 22	đầu tiên	đầu tiên	ADJ	ADJ	_	20	amod	_	_
@@ -9047,7 +9047,7 @@
 11	rút	rút	VERB	V	_	0	root	_	_
 12	vào	vào	ADV	ADV	_	11	compound:dir	_	_
 13	bí mật	bí mật	NOUN	N	_	11	obj	_	_
-14	và	và	CONJ	CC	_	16	cc	_	_
+14	và	và	CCONJ	CC	_	16	cc	_	_
 15	tổng hội	tổng hội	NOUN	N	_	16	nsubj	_	_
 16	tạm thời	tạm thời	VERB	V	_	11	conj	_	_
 17	chưa	chưa	ADV	ADV	_	18	advmod:neg	_	_
@@ -9160,7 +9160,7 @@
 # text = Biển chết đón nhận và giữ lại riêng cho mình mà không chia sẻ nên nước trong biển trở nên mặn chát không một loài cá nào sống nổi .
 1	Biển chết	biển chết	PROPN	NNP	_	2	nsubj	_	_
 2	đón nhận	đón nhận	VERB	V	_	16	advcl	_	_
-3	và	và	CONJ	CC	_	4	cc	_	_
+3	và	và	CCONJ	CC	_	4	cc	_	_
 4	giữ	giữ	VERB	V	_	2	conj	_	_
 5	lại	lại	VERB	V	_	4	compound:svc	_	_
 6	riêng	riêng	ADJ	ADJ	_	8	advmod:adj	_	_
@@ -9204,7 +9204,7 @@
 16	các	các	DET	DET	_	17	det	_	_
 17	hồ	hồ	NOUN	N	_	14	obl:comp	_	_
 18	nhỏ	nhỏ	ADJ	ADJ	_	17	amod	_	_
-19	và	và	CONJ	CC	_	20	cc	_	_
+19	và	và	CCONJ	CC	_	20	cc	_	_
 20	sông rạch	sông rạch	NOUN	N	_	17	conj	_	_
 21	,	,	PUNCT	PUNCT	_	30	punct	_	_
 22	nhờ	nhờ	ADP	PRE	_	23	case	_	_
@@ -9216,7 +9216,7 @@
 28	này	này	PRON	PRO	_	24	det:pmod	_	_
 29	luôn	luôn	ADV	ADV	_	30	advmod	_	_
 30	sạch	sạch	ADJ	ADJ	_	0	root	_	_
-31	và	và	CONJ	CC	_	32	cc	_	_
+31	và	và	CCONJ	CC	_	32	cc	_	_
 32	mang	mang	VERB	V	_	30	conj	_	_
 33	lại	lại	VERB	V	_	32	compound:svc	_	_
 34	sự	sự	NOUN	N	_	32	obj	_	_
@@ -9225,7 +9225,7 @@
 37	cây cối	cây cối	NOUN	N	_	32	obl:comp	_	_
 38	,	,	PUNCT	PUNCT	_	39	punct	_	_
 39	muông thú	muông thú	NOUN	N	_	37	conj	_	_
-40	và	và	CONJ	CC	_	41	cc	_	_
+40	và	và	CCONJ	CC	_	41	cc	_	_
 41	con người	con người	NOUN	N	_	37	conj	_	_
 42	...	...	PUNCT	PUNCT	_	30	punct	_	_
 
@@ -9304,7 +9304,7 @@
 21	tượng trưng	tượng trưng	VERB	V	_	19	compound:vmod	_	_
 22	,	,	PUNCT	PUNCT	_	23	punct	_	_
 23	họp báo	họp báo	VERB	V	_	18	conj	_	_
-24	và	và	CONJ	CC	_	25	cc	_	_
+24	và	và	CCONJ	CC	_	25	cc	_	_
 25	ra	ra	VERB	V	_	18	conj	_	_
 26	tuyên cáo	tuyên cáo	VERB	V	_	25	xcomp	_	_
 27	.	.	PUNCT	PUNCT	_	11	punct	_	_
@@ -9360,7 +9360,7 @@
 47	kết quả	kết quả	NOUN	N	_	46	obj	_	_
 48	bầu cử	bầu cử	VERB	V	_	47	acl:subj	_	_
 49	tổng thống	tổng thống	NOUN	N	_	48	obj	_	_
-50	và	và	CONJ	CC	_	51	cc	_	_
+50	và	và	CCONJ	CC	_	51	cc	_	_
 51	yêu cầu	yêu cầu	VERB	V	_	43	conj	_	_
 52	Mỹ	Mỹ	PROPN	NNP	_	55	nsubj	_	_
 53	không	không	ADV	ADV	_	54	advmod:neg	_	_
@@ -9394,7 +9394,7 @@
 19	liên danh	liên danh	NOUN	N	_	14	nmod	_	_
 20	là	là	SCONJ	C	_	21	case	_	_
 21	hồ hữu nhựt	hồ hữu nhựt	PROPN	NNP	_	19	appos	_	_
-22	và	và	CONJ	CC	_	23	cc	_	_
+22	và	và	CCONJ	CC	_	23	cc	_	_
 23	Lê Hồng Khanh	Lê Hồng Khanh	PROPN	NNP	_	21	conj	_	_
 24	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
@@ -9415,7 +9415,7 @@
 13	trò	trò	NOUN	N	_	12	obj	_	_
 14	bầu cử	bầu cử	VERB	V	_	13	acl:subj	_	_
 15	tổng thống	tổng thống	NOUN	N	_	14	obj	_	_
-16	và	và	CONJ	CC	_	17	cc	_	_
+16	và	và	CCONJ	CC	_	17	cc	_	_
 17	chống	chống	VERB	V	_	12	conj	_	_
 18	kết quả	kết quả	NOUN	N	_	17	obj	_	_
 19	bầu cử	bầu cử	VERB	V	_	18	compound:vmod	_	_
@@ -9500,7 +9500,7 @@
 16	đã	đã	ADV	ADV	_	17	advmod	_	_
 17	thu hút	thu hút	VERB	V	_	0	root	_	_
 18	lực lượng	lực lượng	NOUN	N	_	17	obj	_	_
-19	và	và	CONJ	CC	_	20	cc	_	_
+19	và	và	CCONJ	CC	_	20	cc	_	_
 20	khơi	khơi	VERB	V	_	17	conj	_	_
 21	dậy	dậy	VERB	V	_	20	compound:svc	_	_
 22	nhiều	nhiều	ADJ	ADJ	_	23	advmod:adj	_	_
@@ -9555,7 +9555,7 @@
 7	diễn	diễn	VERB	V	_	0	root	_	_
 8	ra	ra	VERB	V	_	7	compound:svc	_	_
 9	quyết liệt	quyết liệt	ADJ	ADJ	_	7	acomp	_	_
-10	và	và	CONJ	CC	_	11	cc	_	_
+10	và	và	CCONJ	CC	_	11	cc	_	_
 11	lâu dài	lâu dài	ADJ	ADJ	_	9	conj	_	_
 12	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -9608,7 +9608,7 @@
 28	LBKT	lbkt	PUNCT	PUNCT	_	30	punct	_	_
 29	anh	anh	NOUN	N	_	30	clf:det	_	_
 30	Vũ Ngọc Bình	Vũ Ngọc Bình	PROPN	NNP	_	24	appos	_	_
-31	và	và	CONJ	CC	_	33	cc	_	_
+31	và	và	CCONJ	CC	_	33	cc	_	_
 32	anh	anh	NOUN	N	_	33	clf:det	_	_
 33	Đào Xuân Nhung	Đào Xuân Nhung	PROPN	NNP	_	30	conj	_	_
 34	-	-	PUNCT	PUNCT	_	35	punct	_	_
@@ -9694,7 +9694,7 @@
 19	không	không	ADV	ADV	_	20	advmod:neg	_	_
 20	giữ	giữ	VERB	V	_	10	conj	_	_
 21	được	được	ADV	ADV	_	20	advmod	_	_
-22	và	và	CONJ	CC	_	23	cc	_	_
+22	và	và	CCONJ	CC	_	23	cc	_	_
 23	rơi	rơi	VERB	V	_	20	conj	_	_
 24	xuống	xuống	VERB	V	_	23	compound:dir	_	_
 25	.	.	PUNCT	PUNCT	_	9	punct	_	_
@@ -9705,7 +9705,7 @@
 2	đều	đều	ADV	ADV	_	4	advmod	_	_
 3	phải	phải	AUX	AUX	_	4	aux	_	_
 4	chịu đựng	chịu đựng	VERB	V	_	12	csubj:vsubj	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	cố	cố	VERB	V	_	4	conj	_	_
 7	nhiều	nhiều	ADJ	ADJ	_	8	advmod:adj	_	_
 8	lần	lần	NOUN	N	_	6	obj	_	_
@@ -9765,7 +9765,7 @@
 43	lại	lại	VERB	V	_	41	compound:svc	_	_
 44	vào	vào	ADP	PRE	_	45	case	_	_
 45	phao	phao	NOUN	N	_	41	obl:comp	_	_
-46	hay	hay	CONJ	CC	_	47	cc	_	_
+46	hay	hay	CCONJ	CC	_	47	cc	_	_
 47	dây	dây	NOUN	N	_	45	conj	_	_
 48	thì	thì	SCONJ	C	_	52	mark	_	_
 49	tức khắc	tức khắc	ADV	ADV	_	52	advmod	_	_
@@ -9797,7 +9797,7 @@
 2	thế	thế	PRON	PRO	_	1	obj	_	_
 3	để	để	ADV	ADV	_	0	root	_	_
 4	trôi	trôi	VERB	V	_	3	xcomp	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	chờ	chờ	VERB	V	_	4	conj	_	_
 7	tàu	tàu	NOUN	N	_	8	nsubj	_	_
 8	đến	đến	VERB	V	_	6	ccomp	_	_
@@ -9896,7 +9896,7 @@
 4	còn	còn	ADV	ADV	_	5	advmod	_	_
 5	kẹp	kẹp	VERB	V	_	0	root	_	_
 6	sát	sát	ADJ	ADJ	_	5	acomp	_	_
-7	và	và	CONJ	CC	_	8	cc	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
 8	bám	bám	VERB	V	_	5	conj	_	_
 9	được	được	ADV	ADV	_	8	advmod	_	_
 10	với	với	ADP	PRE	_	11	case	_	_
@@ -10015,7 +10015,7 @@
 15	trên	trên	ADP	PRE	_	16	case	_	_
 16	áo phao	áo phao	NOUN	N	_	13	nmod	_	_
 17	cá nhân	cá nhân	NOUN	N	_	16	compound	_	_
-18	và	và	CONJ	CC	_	19	cc	_	_
+18	và	và	CCONJ	CC	_	19	cc	_	_
 19	phao	phao	NOUN	N	_	16	conj	_	_
 20	tròn	tròn	ADJ	ADJ	_	19	amod	_	_
 21	.	.	PUNCT	PUNCT	_	7	punct	_	_
@@ -10232,11 +10232,11 @@
 10	thủy thủ	thủy thủ	NOUN	N	_	11	nsubj	_	_
 11	rời	rời	VERB	V	_	8	acl:tmod	_	_
 12	tàu	tàu	NOUN	N	_	11	obl:comp	_	_
-13	và	và	CONJ	CC	_	14	cc	_	_
+13	và	và	CCONJ	CC	_	14	cc	_	_
 14	ở	ở	VERB	V	_	11	conj	_	_
 15	trên	trên	ADP	PRE	_	16	case	_	_
 16	xuồng	xuồng	NOUN	N	_	14	obl:comp	_	_
-17	hoặc	hoặc	CONJ	CC	_	18	cc	_	_
+17	hoặc	hoặc	CCONJ	CC	_	18	cc	_	_
 18	có	có	VERB	V	_	11	conj	_	_
 19	phao	phao	NOUN	N	_	18	obj	_	_
 20	trên	trên	ADP	PRE	_	21	case	_	_
@@ -10404,7 +10404,7 @@
 24	cái	cái	NOUN	N	_	23	clf	_	_
 25	tết	tết	NOUN	N	_	22	obj	_	_
 26	vui vẻ	vui vẻ	ADJ	ADJ	_	25	amod	_	_
-27	và	và	CONJ	CC	_	28	cc	_	_
+27	và	và	CCONJ	CC	_	28	cc	_	_
 28	ấm cúng	ấm cúng	ADJ	ADJ	_	26	conj	_	_
 29	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -10551,7 +10551,7 @@
 23	cao	cao	ADJ	ADJ	_	22	amod	_	_
 24	rơi	rơi	VERB	V	_	5	conj	_	_
 25	nhẹ	nhẹ	ADJ	ADJ	_	24	acomp	_	_
-26	và	và	CONJ	CC	_	27	cc	_	_
+26	và	và	CCONJ	CC	_	27	cc	_	_
 27	đều	đều	ADJ	ADJ	_	25	conj	_	_
 28	xuống	xuống	VERB	V	_	24	advmod:dir	_	_
 29	.	.	PUNCT	PUNCT	_	5	punct	_	_
@@ -10566,7 +10566,7 @@
 6	hôm	hôm	NOUN	N	_	12	obl:tmod	_	_
 7	trước	trước	NOUN	N	_	6	compound	_	_
 8	tôi	tôi	PRON	PRO	_	12	nsubj	_	_
-9	và	và	CONJ	CC	_	10	cc	_	_
+9	và	và	CCONJ	CC	_	10	cc	_	_
 10	anh em	anh em	NOUN	N	_	8	conj	_	_
 11	phải	phải	AUX	AUX	_	12	aux	_	_
 12	dùng	dùng	VERB	V	_	21	csubj	_	_
@@ -10615,7 +10615,7 @@
 2	đập	đập	VERB	V	_	1	acl:subj	_	_
 3	bao	bao	NOUN	N	_	2	obj	_	_
 4	mất sức	mất sức	VERB	V	_	13	advcl	_	_
-5	và	và	CONJ	CC	_	7	cc	_	_
+5	và	và	CCONJ	CC	_	7	cc	_	_
 6	phải	phải	AUX	AUX	_	7	aux	_	_
 7	sống	sống	VERB	V	_	4	conj	_	_
 8	chung	chung	ADJ	ADJ	_	7	acomp	_	_
@@ -10871,7 +10871,7 @@
 14	tiên	tiên	NOUN	N	_	13	compound	_	_
 15	"	"	PUNCT	PUNCT	_	13	punct	_	_
 16	uống	uống	VERB	V	_	9	xcomp	_	_
-17	hoặc	hoặc	CONJ	CC	_	18	cc	_	_
+17	hoặc	hoặc	CCONJ	CC	_	18	cc	_	_
 18	ngửa	ngửa	VERB	V	_	16	conj	_	_
 19	mặt	mặt	NOUN	N	_	18	obj	_	_
 20	hứng	hứng	VERB	V	_	18	xcomp	_	_
@@ -10948,7 +10948,7 @@
 16	cùng	cùng	SCONJ	C	_	18	cc	_	_
 17	các	các	DET	DET	_	18	det	_	_
 18	tàu	tàu	NOUN	N	_	14	conj	_	_
-19	và	và	CONJ	CC	_	20	cc	_	_
+19	và	và	CCONJ	CC	_	20	cc	_	_
 20	phát	phát	VERB	V	_	11	conj	_	_
 21	lệnh	lệnh	NOUN	N	_	20	obj	_	_
 22	báo động	báo động	VERB	V	_	21	compound:vmod	_	_
@@ -10993,7 +10993,7 @@
 11	sóng	sóng	NOUN	N	_	9	conj	_	_
 12	cấp	cấp	NOUN	N	_	11	nmod	_	_
 13	5	5	NUM	NUM	_	12	nmod	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	gió	gió	NOUN	N	_	9	conj	_	_
 16	cấp	cấp	NOUN	N	_	15	nmod	_	_
 17	6	6	NUM	NUM	_	16	nmod	_	_
@@ -11102,7 +11102,7 @@
 10	lắc	lắc	VERB	V	_	9	compound:svc	_	_
 11	rất	rất	ADV	ADV	_	12	advmod	_	_
 12	mạnh	mạnh	ADJ	ADJ	_	9	acomp	_	_
-13	và	và	CONJ	CC	_	15	cc	_	_
+13	và	và	CCONJ	CC	_	15	cc	_	_
 14	sóng	sóng	NOUN	N	_	15	nsubj	_	_
 15	đánh	đánh	VERB	V	_	9	conj	_	_
 16	văng	văng	VERB	V	_	15	compound:svc	_	_
@@ -11153,7 +11153,7 @@
 7	giường	giường	NOUN	N	_	6	compound	_	_
 8	mặc	mặc	VERB	V	_	2	xcomp	_	_
 9	vào	vào	ADV	ADV	_	8	compound:prt	_	_
-10	và	và	CONJ	CC	_	11	cc	_	_
+10	và	và	CCONJ	CC	_	11	cc	_	_
 11	chạy	chạy	VERB	V	_	8	conj	_	_
 12	ra	ra	VERB	V	_	11	compound:dir	_	_
 13	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -11575,7 +11575,7 @@
 27	m3	m3	NOUN	NU	_	25	nmod	_	_
 28	/	/	PUNCT	PUNCT	_	29	punct	_	_
 29	ngày	ngày	NOUN	N	_	27	nmod	_	_
-30	và	và	CONJ	CC	_	31	cc	_	_
+30	và	và	CCONJ	CC	_	31	cc	_	_
 31	dự kiến	dự kiến	VERB	V	_	8	conj	_	_
 32	cấp	cấp	VERB	V	_	31	xcomp	_	_
 33	nước	nước	NOUN	N	_	32	obj	_	_
@@ -11592,7 +11592,7 @@
 4	Nhàn	Nhàn	PROPN	NNP	_	6	nsubj	_	_
 5	rất	rất	ADV	ADV	_	6	advmod	_	_
 6	hiểu	hiểu	VERB	V	_	2	ccomp	_	_
-7	và	và	CONJ	CC	_	8	cc	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
 8	ủng hộ	ủng hộ	VERB	V	_	6	conj	_	_
 9	tôi	tôi	PRON	PRO	_	8	obj	_	_
 10	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -11645,7 +11645,7 @@
 8	lên	lên	VERB	V	_	9	case	_	_
 9	cầu cảng	cầu cảng	NOUN	N	_	7	obl:comp	_	_
 10	,	,	PUNCT	PUNCT	_	13	punct	_	_
-11	và	và	CONJ	CC	_	13	cc	_	_
+11	và	và	CCONJ	CC	_	13	cc	_	_
 12	hai	hai	NUM	NUM	_	13	nummod	_	_
 13	đồng đội	đồng đội	NOUN	N	_	5	conj	_	_
 14	xấu số	xấu số	ADJ	ADJ	_	13	amod	_	_
@@ -11757,7 +11757,7 @@
 2	,	,	PUNCT	PUNCT	_	9	punct	_	_
 3	chính quyền	chính quyền	NOUN	N	_	9	nsubj	_	_
 4	địa phương	địa phương	NOUN	N	_	3	compound	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	hội	hội	NOUN	N	_	3	conj	_	_
 7	phụ nữ	phụ nữ	NOUN	N	_	6	compound	_	_
 8	cần	cần	AUX	AUX	_	9	aux	_	_
@@ -11777,7 +11777,7 @@
 22	để	để	ADP	PRE	_	24	mark:pcomp	_	_
 23	họ	họ	PRON	PRO	_	24	nsubj	_	_
 24	hiểu	hiểu	VERB	V	_	9	advcl:objective	_	_
-25	và	và	CONJ	CC	_	26	cc	_	_
+25	và	và	CCONJ	CC	_	26	cc	_	_
 26	quyết định	quyết định	VERB	V	_	24	conj	_	_
 27	tương lai	tương lai	NOUN	N	_	26	obj	_	_
 28	của	của	ADP	PRE	_	29	case	_	_
@@ -11844,7 +11844,7 @@
 25	công dân	công dân	NOUN	N	_	23	nmod	_	_
 26	Việt Nam	Việt Nam	PROPN	NNP	_	25	nmod	_	_
 27	nói chung	nói chung	VERB:G	VERB:G	_	25	advmod	_	_
-28	và	và	CONJ	CC	_	29	cc	_	_
+28	và	và	CCONJ	CC	_	29	cc	_	_
 29	phụ nữ	phụ nữ	NOUN	N	_	25	conj	_	_
 30	nói riêng	nói riêng	VERB:G	VERB:G	_	29	advmod	_	_
 31	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -12012,7 +12012,7 @@
 12	về	về	ADP	PRE	_	13	case	_	_
 13	mặt	mặt	NOUN	N	_	11	obl:comp	_	_
 14	kinh tế	kinh tế	NOUN	N	_	13	compound	_	_
-15	và	và	CONJ	CC	_	16	cc	_	_
+15	và	và	CCONJ	CC	_	16	cc	_	_
 16	có	có	VERB	V	_	8	conj	_	_
 17	điều kiện	điều kiện	NOUN	N	_	16	obj	_	_
 18	báo hiếu	báo hiếu	VERB	V	_	17	acl:subj	_	_
@@ -12160,7 +12160,7 @@
 10	ra	ra	VERB	V	_	9	compound:dir	_	_
 11	thật	thật	PART	PRT	_	12	discourse	_	_
 12	nhanh	nhanh	ADJ	ADJ	_	9	acomp	_	_
-13	và	và	CONJ	CC	_	18	cc	_	_
+13	và	và	CCONJ	CC	_	18	cc	_	_
 14	cô	cô	NOUN	N	_	18	nsubj	_	_
 15	nào	nào	PRON	PRO	_	14	nmod	_	_
 16	cũng	cũng	ADV	ADV	_	17	advmod	_	_
@@ -12208,7 +12208,7 @@
 7	ở	ở	ADP	PRE	_	8	case	_	_
 8	ấp	ấp	NOUN	N	_	6	nmod	_	_
 9	Phước Lộc	Phước Lộc	PROPN	NNP	_	8	compound	_	_
-10	và	và	CONJ	CC	_	12	cc	_	_
+10	và	và	CCONJ	CC	_	12	cc	_	_
 11	cô	cô	NOUN	N	_	12	clf:det	_	_
 12	.	.	PUNCT	PUNCT	_	6	conj	_	_
 13	LBKT	lbkt	PUNCT	PUNCT	_	15	punct	_	_
@@ -12230,7 +12230,7 @@
 9	ma túy	ma túy	NOUN	N	_	8	obj	_	_
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	AIDS	aids	NOUN	NY	_	9	conj	_	_
-12	và	và	CONJ	CC	_	13	cc	_	_
+12	và	và	CCONJ	CC	_	13	cc	_	_
 13	mại dâm	mại dâm	VERB	V	_	9	conj	_	_
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	tổ chức	tổ chức	VERB	V	_	4	conj	_	_
@@ -12238,7 +12238,7 @@
 17	hai	hai	NUM	NUM	_	18	nummod	_	_
 18	ngày	ngày	NOUN	N	_	15	obl:tmod	_	_
 19	22	22	NUM	NUM	_	18	flat:date	_	_
-20	và	và	CONJ	CC	_	21	cc	_	_
+20	và	và	CCONJ	CC	_	21	cc	_	_
 21	23	23	NUM	NUM	_	19	conj	_	_
 22	-	-	PUNCT	PUNCT	_	21	flat:number	_	_
 23	3	3	NUM	NUM	_	21	flat:number	_	_
@@ -12273,7 +12273,7 @@
 52	1.100	1.100	NUM	NUM	_	53	nummod	_	_
 53	môi giới	môi giới	NOUN	N	_	48	conj	_	_
 54	mại dâm	mại dâm	VERB	V	_	53	compound:vmod	_	_
-55	và	và	CONJ	CC	_	57	cc	_	_
+55	và	và	CCONJ	CC	_	57	cc	_	_
 56	7.000	7.000	NUM	NUM	_	57	nummod	_	_
 57	tiếp viên	tiếp viên	NOUN	N	_	48	conj	_	_
 58	trong	trong	ADP	PRE	_	60	case	_	_
@@ -12726,7 +12726,7 @@
 18	nhìn	nhìn	VERB	V	_	14	xcomp	_	_
 19	ánh sáng	ánh sáng	NOUN	N	_	18	obj	_	_
 20	đèn néon	đèn néon	NOUN	N	_	19	nmod	_	_
-21	và	và	CONJ	CC	_	23	cc	_	_
+21	và	và	CCONJ	CC	_	23	cc	_	_
 22	mọi	mọi	DET	DET	_	23	det	_	_
 23	người	người	NOUN	N	_	19	conj	_	_
 24	.	.	PUNCT	PUNCT	_	5	punct	_	_
@@ -12944,7 +12944,7 @@
 13	vẫn	vẫn	ADV	ADV	_	14	advmod	_	_
 14	trốn tránh	trốn tránh	VERB	V	_	2	conj	_	_
 15	sự thật	sự thật	NOUN	N	_	14	obj	_	_
-16	và	và	CONJ	CC	_	18	cc	_	_
+16	và	và	CCONJ	CC	_	18	cc	_	_
 17	đã	đã	ADV	ADV	_	18	advmod	_	_
 18	làm	làm	VERB	V	_	14	conj	_	_
 19	lây	lây	VERB	V	_	18	xcomp	_	_
@@ -13012,7 +13012,7 @@
 # sent_id = dev-477
 # text = Tuấn và Hồng cũng là nhân chứng của sự kỳ thị và sợ hãi trong cộng đồng .
 1	Tuấn	tuấn	PROPN	NNP	_	6	nsubj:nn	_	_
-2	và	và	CONJ	CC	_	3	cc	_	_
+2	và	và	CCONJ	CC	_	3	cc	_	_
 3	Hồng	Hồng	PROPN	NNP	_	1	conj	_	_
 4	cũng	cũng	ADV	ADV	_	5	advmod	_	_
 5	là	là	AUX	AUX	_	6	cop	_	_
@@ -13020,7 +13020,7 @@
 7	của	của	ADP	PRE	_	8	case	_	_
 8	sự	sự	NOUN	N	_	6	nmod:poss	_	_
 9	kỳ thị	kỳ thị	VERB	V	_	8	acl:tonp	_	_
-10	và	và	CONJ	CC	_	11	cc	_	_
+10	và	và	CCONJ	CC	_	11	cc	_	_
 11	sợ hãi	sợ hãi	ADJ	ADJ	_	9	conj	_	_
 12	trong	trong	ADP	PRE	_	13	case	_	_
 13	cộng đồng	cộng đồng	NOUN	N	_	6	obl:comp	_	_
@@ -13066,7 +13066,7 @@
 17	người ta	người ta	PRON	PRO	_	19	nsubj	_	_
 18	vẫn	vẫn	ADV	ADV	_	19	advmod	_	_
 19	ơn ớn	ơn ớn	VERB	V	_	0	root	_	_
-20	và	và	CONJ	CC	_	23	cc	_	_
+20	và	và	CCONJ	CC	_	23	cc	_	_
 21	vẫn	vẫn	ADV	ADV	_	23	advmod	_	_
 22	cứ	cứ	ADV	ADV	_	23	advmod	_	_
 23	tránh	tránh	VERB	V	_	19	conj	_	_
@@ -13110,7 +13110,7 @@
 26	nhiều	nhiều	ADJ	ADJ	_	27	advmod:adj	_	_
 27	lần	lần	NOUN	N	_	25	obj	_	_
 28	xét nghiệm	xét nghiệm	VERB	V	_	27	acl:subj	_	_
-29	và	và	CONJ	CC	_	31	cc	_	_
+29	và	và	CCONJ	CC	_	31	cc	_	_
 30	vẫn	vẫn	ADV	ADV	_	31	advmod	_	_
 31	tiếp tục	tiếp tục	VERB	V	_	25	conj	_	_
 32	theo dõi	theo dõi	VERB	V	_	31	xcomp	_	_
@@ -13145,7 +13145,7 @@
 11	"	"	PUNCT	PUNCT	_	12	punct	_	_
 12	ét	ét	NOUN	N	_	10	obj	_	_
 13	"	"	PUNCT	PUNCT	_	12	punct	_	_
-14	và	và	CONJ	CC	_	17	cc	_	_
+14	và	và	CCONJ	CC	_	17	cc	_	_
 15	anh	anh	NOUN	N	_	17	nsubj	_	_
 16	được	được	VERB	V	_	17	aux	_	_
 17	yên thân	yên thân	ADJ	ADJ	_	5	conj	_	_
@@ -13214,7 +13214,7 @@
 22	hai	hai	NUM	NUM	_	24	nummod	_	_
 23	đứa	đứa	NOUN	N	_	22	clf:det	_	_
 24	con	con	NOUN	N	_	18	conj	_	_
-25	và	và	CONJ	CC	_	27	cc	_	_
+25	và	và	CCONJ	CC	_	27	cc	_	_
 26	đứa	đứa	NOUN	N	_	27	clf:det	_	_
 27	cháu	cháu	NOUN	N	_	18	conj	_	_
 28	nhỏ	nhỏ	ADJ	ADJ	_	27	amod	_	_
@@ -13359,7 +13359,7 @@
 # text = Ông Tám On và bạn bè không chỉ lo việc thiện , việc nghĩa , làm cầu , sửa đường , cất nhà tình thương trong xã .
 1	Ông	ông	NOUN	N	_	2	clf:det	_	_
 2	Tám On	Tám On	PROPN	NNP	_	7	nsubj	_	_
-3	và	và	CONJ	CC	_	4	cc	_	_
+3	và	và	CCONJ	CC	_	4	cc	_	_
 4	bạn bè	bạn bè	NOUN	N	_	2	conj	_	_
 5	không	không	ADV	ADV	_	6	advmod:neg	_	_
 6	chỉ	chỉ	ADV	ADV	_	7	advmod	_	_
@@ -13644,7 +13644,7 @@
 48	có giá	có giá	ADJ	ADJ	_	41	ccomp	_	_
 49	"	"	PUNCT	PUNCT	_	48	punct	_	_
 50	hơn	hơn	ADJ	ADJ	_	48	advmod:adj	_	_
-51	và	và	CONJ	CC	_	52	cc	_	_
+51	và	và	CCONJ	CC	_	52	cc	_	_
 52	tiện	tiện	ADJ	ADJ	_	48	conj	_	_
 53	cho	cho	ADP	PRE	_	54	case	_	_
 54	việc	việc	NOUN	N	_	52	obl:comp	_	_
@@ -13673,7 +13673,7 @@
 16	cái	cái	NOUN	N	_	15	obj	_	_
 17	gì	gì	PRON	PRO	_	16	nmod	_	_
 18	đó	đó	PRON	PRO	_	17	compound	_	_
-19	và	và	CONJ	CC	_	22	cc	_	_
+19	và	và	CCONJ	CC	_	22	cc	_	_
 20	muốn	muốn	AUX	AUX	_	22	aux	_	_
 21	được	được	AUX	AUX	_	22	aux	_	_
 22	nâng	nâng	VERB	V	_	15	conj	_	_
@@ -13712,7 +13712,7 @@
 15	nhiều	nhiều	ADJ	ADJ	_	16	advmod:adj	_	_
 16	công	công	NOUN	N	_	14	obj	_	_
 17	của	của	NOUN	N	_	16	compound	_	_
-18	và	và	CONJ	CC	_	19	cc	_	_
+18	và	và	CCONJ	CC	_	19	cc	_	_
 19	ngày tháng	ngày tháng	NOUN	N	_	16	conj	_	_
 20	để	để	ADP	PRE	_	21	mark:pcomp	_	_
 21	lo	lo	VERB	V	_	14	advcl:objective	_	_
@@ -14106,7 +14106,7 @@
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
 10	ra	ra	VERB	V	_	2	conj	_	_
 11	giá	giá	NOUN	N	_	10	obj	_	_
-12	và	và	CONJ	CC	_	13	cc	_	_
+12	và	và	CCONJ	CC	_	13	cc	_	_
 13	leo	leo	VERB	V	_	10	conj	_	_
 14	lên	lên	VERB	V	_	13	compound:dir	_	_
 15	xe	xe	NOUN	N	_	13	obj	_	_
@@ -14117,7 +14117,7 @@
 20	vào	vào	VERB	V	_	21	case	_	_
 21	màn	màn	NOUN	N	_	19	obl:comp	_	_
 22	đêm	đêm	NOUN	N	_	21	compound	_	_
-23	và	và	CONJ	CC	_	30	cc	_	_
+23	và	và	CCONJ	CC	_	30	cc	_	_
 24	chỉ	chỉ	ADV	ADV	_	27	advmod	_	_
 25	hơn	hơn	ADJ	ADJ	_	26	advmod:adj	_	_
 26	một	một	NUM	NUM	_	27	nummod	_	_
@@ -14219,7 +14219,7 @@
 14	nuôi	nuôi	VERB	V	_	12	xcomp	_	_
 15	thân	thân	NOUN	N	_	14	obj	_	_
 16	"	"	PUNCT	PUNCT	_	8	punct	_	_
-17	và	và	CONJ	CC	_	19	cc	_	_
+17	và	và	CCONJ	CC	_	19	cc	_	_
 18	.	.	PUNCT	PUNCT	_	19	nsubj	_	_
 19	chấp nhận	chấp nhận	VERB	V	_	6	conj	_	_
 20	khi	khi	NOUN	N	_	19	obl:tmod	_	_
@@ -14252,7 +14252,7 @@
 18	càng	càng	ADV	ADV	_	19	advmod	_	_
 19	lớn	lớn	ADJ	ADJ	_	12	conj	_	_
 20	hơn	hơn	ADJ	ADJ	_	19	compound:adj	_	_
-21	và	và	CONJ	CC	_	25	cc	_	_
+21	và	và	CCONJ	CC	_	25	cc	_	_
 22	bây giờ	bây giờ	PRON	PRO	_	25	obl:tmod	_	_
 23	cũng	cũng	ADV	ADV	_	25	advmod	_	_
 24	chẳng	chẳng	ADV	ADV	_	25	advmod:neg	_	_
@@ -14291,7 +14291,7 @@
 16	"	"	PUNCT	PUNCT	_	15	punct	_	_
 17	qua đời	qua đời	VERB	V	_	11	acl:tmod	_	_
 18	,	,	PUNCT	PUNCT	_	21	punct	_	_
-19	và	và	CONJ	CC	_	21	cc	_	_
+19	và	và	CCONJ	CC	_	21	cc	_	_
 20	rất	rất	ADV	ADV	_	21	advmod	_	_
 21	tự nhiên	tự nhiên	ADJ	ADJ	_	24	advcl	_	_
 22	,	,	PUNCT	PUNCT	_	24	punct	_	_
@@ -14332,7 +14332,7 @@
 11	từ	từ	ADP	PRE	_	12	case	_	_
 12	hè	hè	NOUN	N	_	9	obl:comp	_	_
 13	phố	phố	NOUN	N	_	12	compound	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	đưa	đưa	VERB	V	_	9	conj	_	_
 16	về	về	VERB	V	_	15	compound:dir	_	_
 17	sống	sống	VERB	V	_	15	xcomp	_	_
@@ -14357,7 +14357,7 @@
 3	thì	thì	SCONJ	C	_	5	mark	_	_
 4	nó	nó	PRON	PRO	_	5	nsubj	_	_
 5	đánh đập	đánh đập	VERB	V	_	0	root	_	_
-6	và	và	CONJ	CC	_	7	cc	_	_
+6	và	và	CCONJ	CC	_	7	cc	_	_
 7	xù	xù	VERB	V	_	5	conj	_	_
 8	tiền	tiền	NOUN	N	_	7	obj	_	_
 9	,	,	PUNCT	PUNCT	_	14	conj	_	_
@@ -14401,7 +14401,7 @@
 14	cấp	cấp	VERB	V	_	8	conj	_	_
 15	444.700	444.700	NUM	NUM	_	16	nummod	_	_
 16	bao cao su	bao cao su	NOUN	N	_	14	obj	_	_
-17	và	và	CONJ	CC	_	20	cc	_	_
+17	và	và	CCONJ	CC	_	20	cc	_	_
 18	hơn	hơn	ADJ	ADJ	_	19	advmod:adj	_	_
 19	11.200	11.200	NUM	NUM	_	20	nummod	_	_
 20	bơm kim tiêm	bơm kim tiêm	NOUN	N	_	16	conj	_	_
@@ -14425,7 +14425,7 @@
 9	hiv	hiv	NOUN	NY	_	8	obj	_	_
 10	/	/	PUNCT	PUNCT	_	9	compound	_	_
 11	AIDS	aids	NOUN	NY	_	9	compound	_	_
-12	và	và	CONJ	CC	_	14	cc	_	_
+12	và	và	CCONJ	CC	_	14	cc	_	_
 13	cả	cả	PART	PRT	_	14	discourse	_	_
 14	phương tiện	phương tiện	NOUN	N	_	6	conj	_	_
 15	LBKT	lbkt	PUNCT	PUNCT	_	17	punct	_	_
@@ -14555,7 +14555,7 @@
 28	HCM	hcm	PROPN	NNPY	_	27	compound	_	_
 29	,	,	PUNCT	PUNCT	_	30	punct	_	_
 30	Hà Nội	Hà Nội	PROPN	NNP	_	27	conj	_	_
-31	và	và	CONJ	CC	_	32	cc	_	_
+31	và	và	CCONJ	CC	_	32	cc	_	_
 32	Đà Nẵng	Đà Nẵng	PROPN	NNP	_	27	conj	_	_
 33	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -14852,7 +14852,7 @@
 2	ngoài	ngoài	NOUN	N	_	3	case	_	_
 3	việc	việc	NOUN	N	_	12	obl	_	_
 4	quản lý	quản lý	VERB	V	_	3	acl:subj	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	kinh doanh	kinh doanh	VERB	V	_	4	conj	_	_
 7	ở	ở	ADP	PRE	_	8	case	_	_
 8	cửa hàng	cửa hàng	NOUN	N	_	4	obl	_	_
@@ -14868,7 +14868,7 @@
 18	các	các	DET	DET	_	19	det	_	_
 19	công ty	công ty	NOUN	N	_	14	obl:comp	_	_
 20	lao động	lao động	VERB	V	_	19	compound:vmod	_	_
-21	và	và	CONJ	CC	_	23	cc	_	_
+21	và	và	CCONJ	CC	_	23	cc	_	_
 22	cho	cho	ADP	PRE	_	23	case	_	_
 23	cảnh sát	cảnh sát	NOUN	N	_	19	conj	_	_
 24	Đài Bắc	Đài Bắc	PROPN	NNP	_	23	compound	_	_
@@ -14910,7 +14910,7 @@
 12	thuở	thuở	NOUN	N	_	11	obl:tmod	_	_
 13	hàn vi	hàn vi	ADJ	ADJ	_	12	amod	_	_
 14	ấy	ấy	PRON	PRO	_	12	det:pmod	_	_
-15	và	và	CONJ	CC	_	17	cc	_	_
+15	và	và	CCONJ	CC	_	17	cc	_	_
 16	chúng tôi	chúng tôi	PRON	PRO	_	17	nsubj	_	_
 17	quyết định	quyết định	VERB	V	_	11	conj	_	_
 18	về	về	VERB	V	_	17	xcomp	_	_
@@ -14998,7 +14998,7 @@
 6	đứng	đứng	VERB	V	_	0	root	_	_
 7	ra	ra	VERB	V	_	6	compound:dir	_	_
 8	nấu nướng	nấu nướng	VERB	V	_	6	xcomp	_	_
-9	và	và	CONJ	CC	_	10	cc	_	_
+9	và	và	CCONJ	CC	_	10	cc	_	_
 10	bán	bán	VERB	V	_	8	conj	_	_
 11	hàng	hàng	NOUN	N	_	10	obj	_	_
 12	nhưng	nhưng	SCONJ	C	_	14	mark	_	_
@@ -15077,7 +15077,7 @@
 16	người	người	NOUN	N	_	15	nmod	_	_
 17	miền	miền	NOUN	N	_	16	nmod	_	_
 18	Tây	Tây	PROPN	NNP	_	17	compound	_	_
-19	và	và	CONJ	CC	_	21	cc	_	_
+19	và	và	CCONJ	CC	_	21	cc	_	_
 20	cả	cả	PART	PRT	_	21	discourse	_	_
 21	giọng	giọng	NOUN	N	_	10	conj	_	_
 22	Bắc	Bắc	PROPN	NNP	_	21	compound	_	_
@@ -15131,7 +15131,7 @@
 10	cuộc	cuộc	NOUN	N	_	7	obl:agent	_	_
 11	điện thoại	điện thoại	VERB	V	_	10	acl:tonp	_	_
 12	đặt hàng	đặt hàng	VERB	V	_	10	acl:subj	_	_
-13	và	và	CONJ	CC	_	15	cc	_	_
+13	và	và	CCONJ	CC	_	15	cc	_	_
 14	những	những	DET	DET	_	15	det	_	_
 15	thực khách	thực khách	NOUN	N	_	10	conj	_	_
 16	ra	ra	VERB	V	_	15	acl:subj	_	_
@@ -15599,7 +15599,7 @@
 11	mua bán	mua bán	VERB	V	_	10	acl:subj	_	_
 12	,	,	PUNCT	PUNCT	_	13	punct	_	_
 13	biếu xén	biếu xén	VERB	V	_	11	conj	_	_
-14	hoặc	hoặc	CONJ	CC	_	16	cc	_	_
+14	hoặc	hoặc	CCONJ	CC	_	16	cc	_	_
 15	"	"	PUNCT	PUNCT	_	16	punct	_	_
 16	để	để	VERB	V	_	11	conj	_	_
 17	dành	dành	VERB	V	_	16	compound:svc	_	_
@@ -15628,7 +15628,7 @@
 12	là	là	AUX	AUX	_	14	cop	_	_
 13	một	một	NUM	NUM	_	14	det	_	_
 14	nông dân	nông dân	NOUN	N	_	7	acl	_	_
-15	và	và	CONJ	CC	_	18	cc	_	_
+15	và	và	CCONJ	CC	_	18	cc	_	_
 16	là	là	AUX	AUX	_	18	cop	_	_
 17	một	một	NUM	NUM	_	18	det	_	_
 18	giáo sĩ	giáo sĩ	NOUN	N	_	14	conj	_	_
@@ -15669,7 +15669,7 @@
 8	mẹ	mẹ	NOUN	N	_	6	nmod:poss	_	_
 9	tôi	tôi	PRON	PRO	_	8	nmod	_	_
 10	,	,	PUNCT	PUNCT	_	13	punct	_	_
-11	và	và	CONJ	CC	_	13	cc	_	_
+11	và	và	CCONJ	CC	_	13	cc	_	_
 12	tôi	tôi	PRON	PRO	_	13	nsubj	_	_
 13	hi vọng	hi vọng	VERB	V	_	4	conj	_	_
 14	bà	bà	NOUN	N	_	17	nsubj	_	_
@@ -15754,7 +15754,7 @@
 5	đến	đến	ADV	ADV	_	4	compound:dir	_	_
 6	quá	quá	ADV	ADV	_	7	advmod	_	_
 7	nhanh	nhanh	ADJ	ADJ	_	4	acomp	_	_
-8	và	và	CONJ	CC	_	17	cc	_	_
+8	và	và	CCONJ	CC	_	17	cc	_	_
 9	hầu hết	hầu hết	ADV	ADV	_	12	advmod	_	_
 10	chín	chín	NUM	NUM	_	12	nummod	_	_
 11	người	người	NOUN	N	_	10	clf	_	_
@@ -15910,12 +15910,12 @@
 6	chúng tôi	chúng tôi	PRON	PRO	_	5	obj	_	_
 7	được	được	AUX	AUX	_	8	aux	_	_
 8	hiểu	hiểu	VERB	V	_	5	ccomp	_	_
-9	và	và	CONJ	CC	_	11	cc	_	_
+9	và	và	CCONJ	CC	_	11	cc	_	_
 10	được	được	AUX	AUX	_	11	aux	_	_
 11	kính trọng	kính trọng	VERB	V	_	8	conj	_	_
 12	chị	chị	NOUN	N	_	11	obj	_	_
 13	,	,	PUNCT	PUNCT	_	21	punct	_	_
-14	và	và	CONJ	CC	_	21	cc	_	_
+14	và	và	CCONJ	CC	_	21	cc	_	_
 15	khi	khi	NOUN	N	_	21	obl:tmod	_	_
 16	đó	đó	PRON	PRO	_	15	det:pmod	_	_
 17	trái tim	trái tim	NOUN	N	_	21	nsubj	_	_
@@ -15933,7 +15933,7 @@
 4	e sợ	e sợ	VERB	V	_	3	compound:vmod	_	_
 5	của	của	ADP	PRE	_	6	case	_	_
 6	bà	bà	NOUN	N	_	3	nmod:poss	_	_
-7	và	và	CONJ	CC	_	8	cc	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
 8	nhìn thấy	nhìn thấy	VERB	V	_	2	conj	_	_
 9	ở	ở	ADP	PRE	_	10	case	_	_
 10	đó	đó	PRON	PRO	_	8	obl	_	_
@@ -15958,7 +15958,7 @@
 7	Fred	Fred	PROPN	NNP	_	2	obl:with	_	_
 8	sang	sang	VERB	V	_	2	xcomp	_	_
 9	Hà Nội	Hà Nội	PROPN	NNP	_	8	obl:comp	_	_
-10	và	và	CONJ	CC	_	17	cc	_	_
+10	và	và	CCONJ	CC	_	17	cc	_	_
 11	có lẽ	có lẽ	ADV	ADV	_	17	advmod	_	_
 12	lúc	lúc	NOUN	N	_	17	obl:tmod	_	_
 13	đó	đó	PRON	PRO	_	12	det:pmod	_	_
@@ -15970,10 +15970,10 @@
 19	Rob	Rob	PROPN	NNP	_	21	nsubj	_	_
 20	có	có	VERB	V	_	21	advmod	_	_
 21	sáng suốt	sáng suốt	ADJ	ADJ	_	17	ccomp	_	_
-22	hay	hay	CONJ	CC	_	23	cc	_	_
+22	hay	hay	CCONJ	CC	_	23	cc	_	_
 23	không	không	ADV	ADV	_	20	conj	_	_
 24	,	,	PUNCT	PUNCT	_	29	punct	_	_
-25	hay	hay	CONJ	CC	_	29	cc	_	_
+25	hay	hay	CCONJ	CC	_	29	cc	_	_
 26	chỉ	chỉ	ADV	ADV	_	27	advmod	_	_
 27	là	là	AUX	AUX	_	29	cop	_	_
 28	một	một	NUM	NUM	_	29	det	_	_
@@ -16567,7 +16567,7 @@
 4	nghịch lý	nghịch lý	NOUN	N	_	2	obj	_	_
 5	thật	thật	PART	PRT	_	6	discourse	_	_
 6	kỳ lạ	kỳ lạ	ADJ	ADJ	_	4	acl:subj	_	_
-7	và	và	CONJ	CC	_	8	cc	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
 8	lý thú	lý thú	ADJ	ADJ	_	6	conj	_	_
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -16768,7 +16768,7 @@
 18	chiếc	chiếc	NOUN	N	_	17	clf	_	_
 19	bàn	bàn	NOUN	N	_	16	obj	_	_
 20	lớn	lớn	ADJ	ADJ	_	19	amod	_	_
-21	và	và	CONJ	CC	_	24	cc	_	_
+21	và	và	CCONJ	CC	_	24	cc	_	_
 22	bốn	bốn	NUM	NUM	_	24	nummod	_	_
 23	cái	cái	NOUN	N	_	22	clf	_	_
 24	ghế bành	ghế bành	NOUN	N	_	19	conj	_	_
@@ -16890,7 +16890,7 @@
 9	hơn	hơn	ADJ	ADJ	_	10	advmod:adj	_	_
 10	hai	hai	NUM	NUM	_	11	nummod	_	_
 11	năm	năm	NOUN	N	_	7	obl:tmod	_	_
-12	và	và	CONJ	CC	_	15	cc	_	_
+12	và	và	CCONJ	CC	_	15	cc	_	_
 13	ban đầu	ban đầu	NOUN	N	_	15	obl:tmod	_	_
 14	anh	anh	NOUN	N	_	15	nsubj	_	_
 15	tỏ	tỏ	VERB	V	_	7	conj	_	_
@@ -16929,7 +16929,7 @@
 5	dữ	dữ	ADJ	ADJ	_	4	amod	_	_
 6	Ubdul	Ubdul	PROPN	NNP	_	4	compound	_	_
 7	ra	ra	VERB	V	_	3	advmod:dir	_	_
-8	và	và	CONJ	CC	_	9	cc	_	_
+8	và	và	CCONJ	CC	_	9	cc	_	_
 9	tuyên bố	tuyên bố	VERB	V	_	3	conj	_	_
 10	anh	anh	NOUN	N	_	11	nsubj	_	_
 11	thắng	thắng	VERB	V	_	9	ccomp	_	_
@@ -16979,7 +16979,7 @@
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
 5	hét	hét	VERB	V	_	2	conj	_	_
 6	lên	lên	VERB	V	_	5	compound:dir	_	_
-7	và	và	CONJ	CC	_	8	cc	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
 8	chạy	chạy	VERB	V	_	2	conj	_	_
 9	ra	ra	VERB	V	_	8	xcomp	_	_
 10	ngoài	ngoài	NOUN	N	_	9	compound:verbnoun	_	_
@@ -17030,7 +17030,7 @@
 11	người	người	NOUN	N	_	13	nsubj	_	_
 12	mình	mình	NOUN	N	_	11	compound:pron	_	_
 13	lâng lâng	lâng lâng	ADJ	ADJ	_	10	ccomp	_	_
-14	và	và	CONJ	CC	_	17	cc	_	_
+14	và	và	CCONJ	CC	_	17	cc	_	_
 15	chỉ	chỉ	ADV	ADV	_	17	advmod	_	_
 16	muốn	muốn	AUX	AUX	_	17	aux	_	_
 17	khóc	khóc	VERB	V	_	13	conj	_	_
@@ -17069,7 +17069,7 @@
 # sent_id = dev-629
 # text = Tôi và gia đình tôi tìm thấy ý nghĩa của cuộc đời là nỗ lực giúp những người xung quanh mình , đặc biệt là đồng bào mình , để họ cũng có cuộc sống đầy đủ hơn , có việc làm tốt hơn .
 1	Tôi	tôi	PRON	PRO	_	5	nsubj	_	_
-2	và	và	CONJ	CC	_	3	cc	_	_
+2	và	và	CCONJ	CC	_	3	cc	_	_
 3	gia đình	gia đình	NOUN	N	_	1	conj	_	_
 4	tôi	tôi	PRON	PRO	_	3	compound:pron	_	_
 5	tìm	tìm	VERB	V	_	0	root	_	_
@@ -17197,7 +17197,7 @@
 15	cán bộ	cán bộ	NOUN	N	_	11	ccomp	_	_
 16	ngành	ngành	NOUN	N	_	15	nmod	_	_
 17	thuế	thuế	NOUN	N	_	16	compound	_	_
-18	và	và	CONJ	CC	_	20	cc	_	_
+18	và	và	CCONJ	CC	_	20	cc	_	_
 19	hai	hai	NUM	NUM	_	20	nummod	_	_
 20	doanh nghiệp	doanh nghiệp	NOUN	N	_	16	conj	_	_
 21	nhưng	nhưng	SCONJ	C	_	25	mark	_	_
@@ -17207,7 +17207,7 @@
 25	thấy	thấy	VERB	V	_	11	conj	_	_
 26	đề cập	đề cập	VERB	V	_	25	xcomp	_	_
 27	đến	đến	ADV	ADV	_	26	advmod	_	_
-28	và	và	CONJ	CC	_	34	cc	_	_
+28	và	và	CCONJ	CC	_	34	cc	_	_
 29	tất nhiên	tất nhiên	ADJ	ADJ	_	34	advcl	_	_
 30	tất cả	tất cả	PRON	PRO	_	34	nsubj	_	_
 31	đều	đều	ADV	ADV	_	34	advmod	_	_
@@ -17329,7 +17329,7 @@
 3	ký	ký	VERB	V	_	0	root	_	_
 4	tháng	tháng	NOUN	N	_	3	obl:tmod	_	_
 5	20-Dec	20-Dec	NUM	NUM	_	4	flat:date	_	_
-6	và	và	CONJ	CC	_	12	cc	_	_
+6	và	và	CCONJ	CC	_	12	cc	_	_
 7	đến	đến	ADP	PRE	_	8	case	_	_
 8	tháng	tháng	NOUN	N	_	12	obl:tmod	_	_
 9	20-Jun	20-Jun	NUM	NUM	_	8	flat:date	_	_
@@ -17338,7 +17338,7 @@
 12	nhận	nhận	VERB	V	_	3	conj	_	_
 13	được	được	ADV	ADV	_	12	advmod	_	_
 14	hồ sơ	hồ sơ	NOUN	N	_	12	obj	_	_
-15	và	và	CONJ	CC	_	16	cc	_	_
+15	và	và	CCONJ	CC	_	16	cc	_	_
 16	giấy	giấy	NOUN	N	_	14	conj	_	_
 17	đề nghị	đề nghị	VERB	V	_	16	acl:subj	_	_
 18	thanh lý	thanh lý	VERB	V	_	17	xcomp	_	_
@@ -17481,7 +17481,7 @@
 41	Việt	Việt	PROPN	NNP	_	43	nsubj	_	_
 42	cương quyết	cương quyết	ADJ	ADJ	_	43	advmod:adj	_	_
 43	từ chối	từ chối	VERB	V	_	22	conj	_	_
-44	và	và	CONJ	CC	_	45	cc	_	_
+44	và	và	CCONJ	CC	_	45	cc	_	_
 45	bắt giữ	bắt giữ	VERB	V	_	43	conj	_	_
 46	tội phạm	tội phạm	NOUN	N	_	45	obj	_	_
 47	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -17521,7 +17521,7 @@
 3	rượt	rượt	VERB	V	_	1	acl:tmod	_	_
 4	đuổi	đuổi	VERB	V	_	3	xcomp	_	_
 5	theo	theo	VERB	V	_	4	compound:svc	_	_
-6	và	và	CONJ	CC	_	8	cc	_	_
+6	và	và	CCONJ	CC	_	8	cc	_	_
 7	bị	bị	AUX	AUX	_	8	aux:pass	_	_
 8	ngã	ngã	VERB	V	_	4	conj	_	_
 9	,	,	PUNCT	PUNCT	_	13	punct	_	_
@@ -17789,7 +17789,7 @@
 10	nhưng	nhưng	SCONJ	C	_	17	mark	_	_
 11	cả	cả	PRON	PRO	_	12	det	_	_
 12	chồng	chồng	NOUN	N	_	17	nsubj	_	_
-13	và	và	CONJ	CC	_	14	cc	_	_
+13	và	và	CCONJ	CC	_	14	cc	_	_
 14	mẹ	mẹ	NOUN	N	_	12	conj	_	_
 15	chồng	chồng	NOUN	N	_	14	compound	_	_
 16	đều	đều	ADV	ADV	_	17	advmod	_	_
@@ -17810,7 +17810,7 @@
 6	ngay	ngay	ADV	ADV	_	5	advmod	_	_
 7	trong	trong	ADP	PRE	_	8	case	_	_
 8	bệnh viện	bệnh viện	NOUN	N	_	5	obl	_	_
-9	và	và	CONJ	CC	_	10	cc	_	_
+9	và	và	CCONJ	CC	_	10	cc	_	_
 10	bỏ	bỏ	VERB	V	_	5	conj	_	_
 11	mặc	mặc	ADV	ADV	_	10	advmod	_	_
 12	cô	cô	NOUN	N	_	14	nsubj	_	_
@@ -18263,7 +18263,7 @@
 10	vào	vào	VERB	V	_	9	acl:subj	_	_
 11	rừng	rừng	NOUN	N	_	10	obl:comp	_	_
 12	săn bắn	săn bắn	VERB	V	_	10	xcomp	_	_
-13	hoặc	hoặc	CONJ	CC	_	14	cc	_	_
+13	hoặc	hoặc	CCONJ	CC	_	14	cc	_	_
 14	thu gom	thu gom	VERB	V	_	12	conj	_	_
 15	,	,	PUNCT	PUNCT	_	17	punct	_	_
 16	đồng thời	đồng thời	ADV	ADV	_	17	advmod	_	_
@@ -18336,7 +18336,7 @@
 20	của	của	ADP	PRE	_	21	case	_	_
 21	chính quyền	chính quyền	NOUN	N	_	17	nmod:poss	_	_
 22	địa phương	địa phương	NOUN	N	_	21	nmod	_	_
-23	và	và	CONJ	CC	_	24	cc	_	_
+23	và	và	CCONJ	CC	_	24	cc	_	_
 24	công an	công an	NOUN	N	_	21	conj	_	_
 25	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -18825,7 +18825,7 @@
 10	bỏ	bỏ	VERB	V	_	8	acl	_	_
 11	bặt	bặt	ADJ	ADJ	_	10	acomp	_	_
 12	vợ	vợ	NOUN	N	_	10	obj	_	_
-13	và	và	CONJ	CC	_	14	cc	_	_
+13	và	và	CCONJ	CC	_	14	cc	_	_
 14	bầy	bầy	NOUN	N	_	12	conj	_	_
 15	con nhỏ	con nhỏ	NOUN	N	_	14	compound	_	_
 16	,	,	PUNCT	PUNCT	_	17	punct	_	_
@@ -18875,7 +18875,7 @@
 11	hiểu	hiểu	VERB	V	_	9	xcomp	_	_
 12	về	về	ADP	PRE	_	13	case	_	_
 13	hóa học	hóa học	NOUN	N	_	11	obl:about	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	đem lòng	đem lòng	VERB	V	_	11	conj	_	_
 16	yêu	yêu	VERB	V	_	15	xcomp	_	_
 17	nó	nó	PRON	PRO	_	16	obj	_	_
@@ -19148,7 +19148,7 @@
 21	,	,	PUNCT	PUNCT	_	23	punct	_	_
 22	cho	cho	ADP	PRE	_	23	case	_	_
 23	mẹ	mẹ	NOUN	N	_	20	conj	_	_
-24	và	và	CONJ	CC	_	27	cc	_	_
+24	và	và	CCONJ	CC	_	27	cc	_	_
 25	mấy	mấy	DET	DET	_	27	det	_	_
 26	đứa	đứa	NOUN	N	_	25	clf	_	_
 27	em	em	NOUN	N	_	20	conj	_	_
@@ -19320,7 +19320,7 @@
 11	không	không	ADV	ADV	_	12	advmod:neg	_	_
 12	có	có	VERB	V	_	7	conj	_	_
 13	tương lai	tương lai	NOUN	N	_	12	obj	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	đầy	đầy	ADJ	ADJ	_	7	conj	_	_
 16	nước mắt	nước mắt	NOUN	N	_	15	obl:adj	_	_
 17	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -19431,7 +19431,7 @@
 25	cô	cô	NOUN	N	_	17	obl:with	_	_
 26	gái	gái	NOUN	N	_	25	compound	_	_
 27	bán dâm	bán dâm	VERB	V	_	25	acl:subj	_	_
-28	và	và	CONJ	CC	_	30	cc	_	_
+28	và	và	CCONJ	CC	_	30	cc	_	_
 29	bốn	bốn	NUM	NUM	_	30	nummod	_	_
 30	khách	khách	NOUN	N	_	25	conj	_	_
 31	mua dâm	mua dâm	VERB	V	_	30	acl:subj	_	_
@@ -19611,7 +19611,7 @@
 76	"	"	PUNCT	PUNCT	_	77	punct	_	_
 77	nghiệt ngã	nghiệt ngã	ADJ	ADJ	_	74	amod	_	_
 78	"	"	PUNCT	PUNCT	_	77	punct	_	_
-79	và	và	CONJ	CC	_	80	cc	_	_
+79	và	và	CCONJ	CC	_	80	cc	_	_
 80	trạm	trạm	NOUN	N	_	74	conj	_	_
 81	kiểm soát	kiểm soát	VERB	V	_	80	compound:vmod	_	_
 82	đặt	đặt	VERB	V	_	80	acl:subj	_	_
@@ -19690,7 +19690,7 @@
 13	cầu	cầu	NOUN	N	_	12	nmod	_	_
 14	Bình Triệu	Bình Triệu	PROPN	NNP	_	13	compound	_	_
 15	2	2	PROPN	NNP	_	14	compound	_	_
-16	và	và	CONJ	CC	_	17	cc	_	_
+16	và	và	CCONJ	CC	_	17	cc	_	_
 17	xin	xin	VERB	V	_	5	conj	_	_
 18	được	được	VERB	V	_	19	aux:pass	_	_
 19	thu	thu	VERB	V	_	17	xcomp	_	_
@@ -19755,7 +19755,7 @@
 29	giữa	giữa	NOUN	N	_	23	obl:comp	_	_
 30	cầu	cầu	NOUN	N	_	29	nmod	_	_
 31	Đúc Nhỏ	Đúc Nhỏ	PROPN	NNP	_	30	compound	_	_
-32	và	và	CONJ	CC	_	33	cc	_	_
+32	và	và	CCONJ	CC	_	33	cc	_	_
 33	cầu	cầu	NOUN	N	_	30	conj	_	_
 34	Ông Dầu	Ông Dầu	PROPN	NNP	_	33	compound	_	_
 35	trên	trên	ADP	PRE	_	36	case	_	_
@@ -19807,7 +19807,7 @@
 32	chịu	chịu	VERB	V	_	22	conj	_	_
 33	thiệt	thiệt	ADJ	ADJ	_	32	acomp	_	_
 34	...	...	PUNCT	PUNCT	_	32	punct	_	_
-35	và	và	CONJ	CC	_	46	cc	_	_
+35	và	và	CCONJ	CC	_	46	cc	_	_
 36	việc	việc	NOUN	N	_	46	nsubj:pass	_	_
 37	tổ chức	tổ chức	VERB	V	_	36	acl:subj	_	_
 38	thu	thu	VERB	V	_	37	xcomp	_	_
@@ -19981,7 +19981,7 @@
 39	,	,	PUNCT	PUNCT	_	40	punct	_	_
 40	hụt	hụt	VERB	V	_	38	conj	_	_
 41	vốn	vốn	NOUN	N	_	40	obj	_	_
-42	và	và	CONJ	CC	_	43	cc	_	_
+42	và	và	CCONJ	CC	_	43	cc	_	_
 43	xin	xin	VERB	V	_	38	conj	_	_
 44	gấp rút	gấp rút	ADJ	ADJ	_	43	acomp	_	_
 45	cho	cho	ADP	PRE	_	46	mark	_	_
@@ -20026,7 +20026,7 @@
 23	là	là	AUX	AUX	_	25	cop	_	_
 24	1.150	1.150	NUM	NUM	_	25	nummod	_	_
 25	usd	usd	NOUN	NU	_	11	parataxis	_	_
-26	và	và	CONJ	CC	_	28	cc	_	_
+26	và	và	CCONJ	CC	_	28	cc	_	_
 27	1 triệu	1 triệu	NUM	NUM	_	28	nummod	_	_
 28	đồng	đồng	NOUN	NU	_	25	conj	_	_
 29	RBKT	rbkt	PUNCT	PUNCT	_	25	punct	_	_
@@ -20177,7 +20177,7 @@
 1	Chúng ta	chúng ta	PRON	PRO	_	3	nsubj	_	_
 2	"	"	PUNCT	PUNCT	_	3	punct	_	_
 3	hoan nghênh	hoan nghênh	VERB	V	_	0	root	_	_
-4	và	và	CONJ	CC	_	5	cc	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
 5	biểu dương	biểu dương	VERB	V	_	3	conj	_	_
 6	những	những	DET	DET	_	7	det	_	_
 7	việc làm	việc làm	NOUN	N	_	3	obj	_	_
@@ -20204,7 +20204,7 @@
 28	có	có	VERB	V	_	43	csubj:vsubj	_	_
 29	hình thức	hình thức	NOUN	N	_	34	nsubj	_	_
 30	hoan nghênh	hoan nghênh	VERB	V	_	29	acl:subj	_	_
-31	và	và	CONJ	CC	_	32	cc	_	_
+31	và	và	CCONJ	CC	_	32	cc	_	_
 32	biểu dương	biểu dương	VERB	V	_	30	conj	_	_
 33	nào	nào	PRON	PRO	_	29	det:pmod	_	_
 34	thiết thực	thiết thực	ADJ	ADJ	_	28	ccomp	_	_
@@ -20212,7 +20212,7 @@
 36	đối với	đối với	ADP	PRE	_	38	case	_	_
 37	anh	anh	NOUN	N	_	38	clf:det	_	_
 38	Đại	Đại	PROPN	NNP	_	34	obl:with	_	_
-39	và	và	CONJ	CC	_	41	case	_	_
+39	và	và	CCONJ	CC	_	41	case	_	_
 40	những	những	DET	DET	_	41	det	_	_
 41	đồng nghiệp	đồng nghiệp	NOUN	N	_	38	conj	_	_
 42	là	là	AUX	AUX	_	43	cop	_	_
@@ -20223,7 +20223,7 @@
 47	đã	đã	ADV	ADV	_	48	advmod	_	_
 48	rõ	rõ	ADJ	ADJ	_	46	acl:subj	_	_
 49	mười mươi	mười mươi	ADJ	ADJ	_	48	advmod:adj	_	_
-50	và	và	CONJ	CC	_	51	cc	_	_
+50	và	và	CCONJ	CC	_	51	cc	_	_
 51	có	có	VERB	V	_	43	conj	_	_
 52	biện pháp	biện pháp	NOUN	N	_	51	obj	_	_
 53	hữu hiệu	hữu hiệu	ADJ	ADJ	_	52	amod	_	_
@@ -20301,14 +20301,14 @@
 10	dự báo	dự báo	VERB	V	_	0	root	_	_
 11	khu vực	khu vực	NOUN	N	_	15	nsubj	_	_
 12	tây nguyên	tây nguyên	PROPN	NNP	_	11	nmod	_	_
-13	và	và	CONJ	CC	_	12	compound	_	_
+13	và	và	CCONJ	CC	_	12	compound	_	_
 14	Nam bộ	Nam bộ	PROPN	NNP	_	12	conj	_	_
 15	có	có	VERB	V	_	10	ccomp	_	_
 16	khả năng	khả năng	NOUN	N	_	15	obj	_	_
 17	sẽ	sẽ	ADV	ADV	_	18	advmod	_	_
 18	thiếu	thiếu	VERB	V	_	16	acl:subj	_	_
 19	nước ngọt	nước ngọt	NOUN	N	_	18	obj	_	_
-20	và	và	CONJ	CC	_	23	cc	_	_
+20	và	và	CCONJ	CC	_	23	cc	_	_
 21	bị	bị	AUX	AUX	_	23	aux:pass	_	_
 22	nước mặn	nước mặn	NOUN	N	_	23	obl:agent	_	_
 23	xâm nhập	xâm nhập	VERB	V	_	15	conj	_	_
@@ -20389,7 +20389,7 @@
 44	vào	vào	ADP	PRE	_	45	case	_	_
 45	năm	năm	NOUN	N	_	43	nmod	_	_
 46	2010	2010	NUM	NUM	_	45	flat:date	_	_
-47	và	và	CONJ	CC	_	50	cc	_	_
+47	và	và	CCONJ	CC	_	50	cc	_	_
 48	cho	cho	ADP	PRE	_	50	case	_	_
 49	100%	100%	NUM	NUMX	_	50	nummod	_	_
 50	dân số	dân số	NOUN	N	_	43	conj	_	_
@@ -20411,7 +20411,7 @@
 66	nguồn	nguồn	NOUN	N	_	60	obj	_	_
 67	đầu tư	đầu tư	VERB	V	_	66	compound:vmod	_	_
 68	trong	trong	NOUN	N	_	66	nmod	_	_
-69	và	và	CONJ	CC	_	70	cc	_	_
+69	và	và	CCONJ	CC	_	70	cc	_	_
 70	ngoài	ngoài	NOUN	N	_	68	conj	_	_
 71	nước	nước	NOUN	N	_	70	nmod	_	_
 72	,	,	PUNCT	PUNCT	_	73	punct	_	_
@@ -20445,7 +20445,7 @@
 1	Nỗi	nỗi	NOUN	N	_	13	nsubj:pass	_	_
 2	đau	đau	ADJ	ADJ	_	1	acl:tonp	_	_
 3	hậu chiến	hậu chiến	ADJ	ADJ	_	1	amod	_	_
-4	và	và	CONJ	CC	_	6	cc	_	_
+4	và	và	CCONJ	CC	_	6	cc	_	_
 5	những	những	DET	DET	_	6	det	_	_
 6	đổi thay	đổi thay	NOUN	N	_	1	conj	_	_
 7	của	của	ADP	PRE	_	8	case	_	_
@@ -20460,7 +20460,7 @@
 16	sách	sách	NOUN	N	_	13	obl	_	_
 17	bệnh nhân	bệnh nhân	NOUN	N	_	16	nmod	_	_
 18	phong	phong	NOUN	N	_	17	compound	_	_
-19	và	và	CONJ	CC	_	20	cc	_	_
+19	và	và	CCONJ	CC	_	20	cc	_	_
 20	thần kinh	thần kinh	NOUN	N	_	17	conj	_	_
 21	:	:	PUNCT	PUNCT	_	46	punct	_	_
 22	một	một	NUM	NUM	_	23	det	_	_
@@ -20490,7 +20490,7 @@
 46	phát hành	phát hành	VERB	V	_	13	parataxis	_	_
 47	tại	tại	ADP	PRE	_	48	case	_	_
 48	Mỹ	Mỹ	PROPN	NNP	_	46	obl	_	_
-49	và	và	CONJ	CC	_	56	cc	_	_
+49	và	và	CCONJ	CC	_	56	cc	_	_
 50	đang	đang	ADV	ADV	_	51	advmod	_	_
 51	được	được	AUX	AUX	_	56	aux:pass	_	_
 52	công ty	công ty	NOUN	N	_	56	obl:agent	_	_
@@ -20537,7 +20537,7 @@
 30	của	của	ADP	PRE	_	32	case	_	_
 31	ông	ông	NOUN	N	_	32	clf:det	_	_
 32	Henri Martin	Henri Martin	PROPN	NNP	_	29	nmod:poss	_	_
-33	và	và	CONJ	CC	_	35	cc	_	_
+33	và	và	CCONJ	CC	_	35	cc	_	_
 34	bà	bà	NOUN	N	_	35	clf:det	_	_
 35	Raymonde Dien	Raymonde Dien	PROPN	NNP	_	32	conj	_	_
 36	là	là	AUX	AUX	_	38	cop	_	_
@@ -20549,7 +20549,7 @@
 42	dân tộc	dân tộc	NOUN	N	_	40	obl:comp	_	_
 43	VN	vn	PROPN	NNPY	_	42	compound	_	_
 44	,	,	PUNCT	PUNCT	_	51	punct	_	_
-45	và	và	CONJ	CC	_	51	cc	_	_
+45	và	và	CCONJ	CC	_	51	cc	_	_
 46	từ	từ	ADP	PRE	_	47	case	_	_
 47	đó	đó	PRON	PRO	_	51	obl:tmod	_	_
 48	hai	hai	NUM	NUM	_	49	nummod	_	_
@@ -20680,7 +20680,7 @@
 17	hy sinh	hy sinh	VERB	V	_	16	xcomp	_	_
 18	vì	vì	ADP	PRE	_	19	case	_	_
 19	danh dự	danh dự	NOUN	N	_	17	obl	_	_
-20	và	và	CONJ	CC	_	24	cc	_	_
+20	và	và	CCONJ	CC	_	24	cc	_	_
 21	cả	cả	PRON	PRO	_	24	det	_	_
 22	vì	vì	ADP	PRE	_	24	case	_	_
 23	...	...	PUNCT	PUNCT	_	24	punct	_	_
@@ -20768,7 +20768,7 @@
 14	hai	hai	NUM	NUM	_	15	nummod	_	_
 15	sàn	sàn	NOUN	N	_	13	nmod	_	_
 16	rajadamnoen	rajadamnoen	PROPN	NNP	_	15	appos	_	_
-17	và	và	CONJ	CC	_	18	cc	_	_
+17	và	và	CCONJ	CC	_	18	cc	_	_
 18	Lumphini	Lumphini	PROPN	NNP	_	16	conj	_	_
 19	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -20809,7 +20809,7 @@
 7	không	không	ADV	ADV	_	8	advmod:neg	_	_
 8	bán	bán	VERB	V	_	5	acl:subj	_	_
 9	vé	vé	NOUN	N	_	8	obj	_	_
-10	và	và	CONJ	CC	_	12	cc	_	_
+10	và	và	CCONJ	CC	_	12	cc	_	_
 11	khán giả	khán giả	NOUN	N	_	12	nsubj	_	_
 12	vào	vào	VERB	V	_	8	conj	_	_
 13	xem	xem	VERB	V	_	12	xcomp	_	_
@@ -20844,7 +20844,7 @@
 2	cọp	cọp	NOUN	N	_	11	nsubj	_	_
 3	dữ	dữ	ADJ	ADJ	_	2	amod	_	_
 4	"	"	PUNCT	PUNCT	_	2	punct	_	_
-5	và	và	CONJ	CC	_	7	cc	_	_
+5	và	và	CCONJ	CC	_	7	cc	_	_
 6	"	"	PUNCT	PUNCT	_	7	punct	_	_
 7	rắn	rắn	NOUN	N	_	2	conj	_	_
 8	lì	lì	ADJ	ADJ	_	7	acl:subj	_	_
@@ -20886,7 +20886,7 @@
 17	chuẩn bị	chuẩn bị	VERB	V	_	8	conj	_	_
 18	cho	cho	ADP	PRE	_	19	case	_	_
 19	cơ thể	cơ thể	NOUN	N	_	17	obl:comp	_	_
-20	và	và	CONJ	CC	_	21	cc	_	_
+20	và	và	CCONJ	CC	_	21	cc	_	_
 21	tinh thần	tinh thần	NOUN	N	_	19	conj	_	_
 22	trước	trước	NOUN	N	_	17	obl:tmod	_	_
 23	khi	khi	NOUN	N	_	22	compound	_	_
@@ -21229,7 +21229,7 @@
 5	cảm thấy	cảm thấy	VERB	V	_	0	root	_	_
 6	đuối	đuối	ADJ	ADJ	_	5	acomp	_	_
 7	sức	sức	NOUN	N	_	6	obl:adj	_	_
-8	và	và	CONJ	CC	_	10	cc	_	_
+8	và	và	CCONJ	CC	_	10	cc	_	_
 9	liền	liền	ADV	ADV	_	10	advmod	_	_
 10	ra hiệu	ra hiệu	VERB	V	_	5	conj	_	_
 11	cho	cho	ADP	PRE	_	12	case	_	_
@@ -21319,7 +21319,7 @@
 20	súc	súc	NOUN	N	_	15	conj	_	_
 21	gỗ	gỗ	NOUN	N	_	20	compound	_	_
 22	tròn	tròn	ADJ	ADJ	_	20	amod	_	_
-23	và	và	CONJ	CC	_	26	cc	_	_
+23	và	và	CCONJ	CC	_	26	cc	_	_
 24	ba	ba	NUM	NUM	_	26	nummod	_	_
 25	con	con	NOUN	N	_	24	clf	_	_
 26	cá chạch	cá chạch	NOUN	N	_	15	conj	_	_
@@ -21524,7 +21524,7 @@
 24	có thể	có thể	ADJ	ADJ	_	25	advmod	_	_
 25	mang	mang	VERB	V	_	21	acl:relcl	_	_
 26	lên	lên	VERB	V	_	25	compound:dir	_	_
-27	và	và	CONJ	CC	_	28	cc	_	_
+27	và	và	CCONJ	CC	_	28	cc	_	_
 28	qui đổi	qui đổi	VERB	V	_	25	conj	_	_
 29	ra	ra	VERB	V	_	28	xcomp	_	_
 30	tiền	tiền	NOUN	N	_	29	obj	_	_
@@ -21589,7 +21589,7 @@
 28	-	-	PUNCT	PUNCT	_	29	punct	_	_
 29	Nam	Nam	PROPN	NNP	_	27	compound	_	_
 30	thống thiết	thống thiết	ADJ	ADJ	_	24	amod	_	_
-31	và	và	CONJ	CC	_	32	cc	_	_
+31	và	và	CCONJ	CC	_	32	cc	_	_
 32	mạo hiểm	mạo hiểm	ADJ	ADJ	_	30	conj	_	_
 33	thời	thời	NOUN	N	_	24	nmod	_	_
 34	đánh	đánh	VERB	V	_	33	acl:subj	_	_
@@ -21802,7 +21802,7 @@
 18	máy vi tính	máy vi tính	NOUN	N	_	17	obj	_	_
 19	năm	năm	NOUN	N	_	17	obl:tmod	_	_
 20	2003	2003	NUM	NUM	_	19	flat:date	_	_
-21	và	và	CONJ	CC	_	22	cc	_	_
+21	và	và	CCONJ	CC	_	22	cc	_	_
 22	dự định	dự định	VERB	V	_	14	conj	_	_
 23	trong	trong	ADP	PRE	_	24	case	_	_
 24	năm	năm	NOUN	N	_	22	obl:tmod	_	_
@@ -22110,7 +22110,7 @@
 2	thực chất	thực chất	NOUN	N	_	11	obl	_	_
 3	cú	cú	NOUN	N	_	11	obl	_	_
 4	chỏ	chỏ	NOUN	N	_	3	compound	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	gối	gối	NOUN	N	_	3	conj	_	_
 7	,	,	PUNCT	PUNCT	_	11	punct	_	_
 8	võ sĩ	võ sĩ	NOUN	N	_	11	nsubj:pass	_	_
@@ -22119,7 +22119,7 @@
 11	bọc	bọc	VERB	V	_	0	root	_	_
 12	mảnh	mảnh	NOUN	N	_	13	clf:det	_	_
 13	vải	vải	NOUN	N	_	11	obj	_	_
-14	hay	hay	CONJ	CC	_	16	cc	_	_
+14	hay	hay	CCONJ	CC	_	16	cc	_	_
 15	miếng	miếng	NOUN	N	_	16	clf:det	_	_
 16	băng	băng	NOUN	N	_	13	conj	_	_
 17	keo	keo	NOUN	N	_	16	compound	_	_
@@ -22159,7 +22159,7 @@
 10	về	về	ADP	PRE	_	11	case	_	_
 11	luật	luật	NOUN	N	_	8	nmod	_	_
 12	nghiệp dư	nghiệp dư	ADJ	ADJ	_	11	compound:amod	_	_
-13	và	và	CONJ	CC	_	14	cc	_	_
+13	và	và	CCONJ	CC	_	14	cc	_	_
 14	tỏ	tỏ	VERB	V	_	2	conj	_	_
 15	ra	ra	VERB	V	_	14	compound:dir	_	_
 16	khá	khá	ADV	ADV	_	17	advmod	_	_
@@ -22189,7 +22189,7 @@
 4	lần	lần	NOUN	N	_	5	obl:tmod	_	_
 5	đến	đến	VERB	V	_	0	root	_	_
 6	Thái Lan	Thái Lan	PROPN	NNP	_	5	obj	_	_
-7	và	và	CONJ	CC	_	8	cc	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
 8	nghiên cứu	nghiên cứu	VERB	V	_	5	conj	_	_
 9	rất	rất	ADV	ADV	_	10	advmod	_	_
 10	kỹ	kỹ	ADJ	ADJ	_	8	acomp	_	_
@@ -22260,12 +22260,12 @@
 22	mới	mới	ADV	ADV	_	23	advmod	_	_
 23	thở phào	thở phào	VERB	V	_	0	root	_	_
 24	nhẹ nhõm	nhẹ nhõm	ADJ	ADJ	_	23	acomp	_	_
-25	và	và	CONJ	CC	_	26	cc	_	_
+25	và	và	CCONJ	CC	_	26	cc	_	_
 26	cho	cho	VERB	V	_	23	conj	_	_
 27	biết	biết	VERB	V	_	26	compound:svc	_	_
 28	sẵn sàng	sẵn sàng	ADJ	ADJ	_	26	ccomp	_	_
 29	thi đấu	thi đấu	VERB	V	_	28	xcomp:adj	_	_
-30	và	và	CONJ	CC	_	31	cc	_	_
+30	và	và	CCONJ	CC	_	31	cc	_	_
 31	thử thách	thử thách	VERB	V	_	29	conj	_	_
 32	với	với	ADP	PRE	_	33	case	_	_
 33	môn	môn	NOUN	N	_	31	obl:comp	_	_
@@ -22349,7 +22349,7 @@
 7	giới hạn	giới hạn	VERB	V	_	0	root	_	_
 8	hiệp	hiệp	NOUN	N	_	7	obj	_	_
 9	đấu	đấu	VERB	V	_	8	compound:vmod	_	_
-10	và	và	CONJ	CC	_	11	cc	_	_
+10	và	và	CCONJ	CC	_	11	cc	_	_
 11	thời gian	thời gian	NOUN	N	_	8	conj	_	_
 12	đánh	đánh	VERB	V	_	11	acl	_	_
 13	.	.	PUNCT	PUNCT	_	7	punct	_	_
@@ -22390,7 +22390,7 @@
 2	để	để	ADP	PRE	_	4	mark	_	_
 3	Muay Thái	muay thái	NOUN	N	_	4	nsubj	_	_
 4	du nhập	du nhập	VERB	V	_	12	advcl	_	_
-5	và	và	CONJ	CC	_	6	cc	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
 6	phát triển	phát triển	VERB	V	_	4	conj	_	_
 7	,	,	PUNCT	PUNCT	_	8	punct	_	_
 8	theo	theo	ADP	PRE	_	12	advcl	_	_
@@ -22429,7 +22429,7 @@
 13	trúng	trúng	VERB	V	_	3	advcl	_	_
 14	đòn	đòn	NOUN	N	_	13	obj	_	_
 15	chỏ	chỏ	NOUN	N	_	14	compound	_	_
-16	hoặc	hoặc	CONJ	CC	_	17	cc	_	_
+16	hoặc	hoặc	CCONJ	CC	_	17	cc	_	_
 17	đầu gối	đầu gối	NOUN	N	_	14	conj	_	_
 18	của	của	ADP	PRE	_	19	case	_	_
 19	đối phương	đối phương	NOUN	N	_	17	nmod:poss	_	_
@@ -22486,7 +22486,7 @@
 13	Sea	Sea	PROPN	NNP	_	8	obl	_	_
 14	Games	Games	PROPN	NNP	_	13	compound	_	_
 15	19	19	NUM	NUM	_	13	compound	_	_
-16	và	và	CONJ	CC	_	18	cc	_	_
+16	và	và	CCONJ	CC	_	18	cc	_	_
 17	một số	một số	DET	DET	_	18	det	_	_
 18	giải	giải	NOUN	N	_	13	conj	_	_
 19	quốc tế	quốc tế	ADJ	ADJ	_	18	compound:amod	_	_
@@ -22710,7 +22710,7 @@
 11	chính thức	chính thức	ADJ	ADJ	_	12	advmod:adj	_	_
 12	tuyên bố	tuyên bố	VERB	V	_	0	root	_	_
 13	giải nghệ	giải nghệ	VERB	V	_	12	xcomp	_	_
-14	và	và	CONJ	CC	_	15	cc	_	_
+14	và	và	CCONJ	CC	_	15	cc	_	_
 15	lui	lui	VERB	V	_	12	conj	_	_
 16	về	về	VERB	V	_	15	compound:dir	_	_
 17	mở	mở	VERB	V	_	15	xcomp	_	_
@@ -22736,7 +22736,7 @@
 9	ngay	ngay	ADV	ADV	_	8	advmod	_	_
 10	về	về	VERB	V	_	8	xcomp	_	_
 11	Thái Lan	Thái Lan	PROPN	NNP	_	10	obl:comp	_	_
-12	và	và	CONJ	CC	_	18	cc	_	_
+12	và	và	CCONJ	CC	_	18	cc	_	_
 13	từ	từ	ADP	PRE	_	14	case	_	_
 14	đó	đó	PRON	PRO	_	18	obl:tmod	_	_
 15	người ta	người ta	NOUN	N	_	18	nsubj	_	_
@@ -22812,7 +22812,7 @@
 12	máu	máu	NOUN	N	_	17	nsubj	_	_
 13	từ	từ	ADP	PRE	_	14	case	_	_
 14	mũi	mũi	NOUN	N	_	12	nmod	_	_
-15	và	và	CONJ	CC	_	16	cc	_	_
+15	và	và	CCONJ	CC	_	16	cc	_	_
 16	miệng	miệng	NOUN	N	_	14	conj	_	_
 17	phun	phun	VERB	V	_	10	conj	_	_
 18	vọt	vọt	VERB	V	_	17	xcomp	_	_
@@ -22827,7 +22827,7 @@
 4	các	các	DET	DET	_	5	det	_	_
 5	cú	cú	NOUN	N	_	3	obj	_	_
 6	đá	đá	VERB	V	_	5	compound:vmod	_	_
-7	và	và	CONJ	CC	_	8	cc	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
 8	đấm	đấm	VERB	V	_	6	conj	_	_
 9	nhắm	nhắm	VERB	V	_	3	xcomp	_	_
 10	vào	vào	ADP	PRE	_	9	compound:dir	_	_
@@ -22907,7 +22907,7 @@
 7	đã	đã	ADV	ADV	_	8	advmod	_	_
 8	leo	leo	VERB	V	_	0	root	_	_
 9	lên	lên	VERB	V	_	8	compound:dir	_	_
-10	và	và	CONJ	CC	_	11	cc	_	_
+10	và	và	CCONJ	CC	_	11	cc	_	_
 11	làm	làm	VERB	V	_	8	conj	_	_
 12	sập	sập	VERB	V	_	11	xcomp	_	_
 13	cả	cả	PRON	PRO	_	15	det	_	_
@@ -23009,7 +23009,7 @@
 15	đó	đó	PRON	PRO	_	14	det:pmod	_	_
 16	bất kể	bất kể	ADV	ADV	_	17	advmod	_	_
 17	thắng	thắng	VERB	V	_	3	advcl	_	_
-18	hay	hay	CONJ	CC	_	19	cc	_	_
+18	hay	hay	CCONJ	CC	_	19	cc	_	_
 19	thua	thua	VERB	V	_	17	conj	_	_
 20	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -23155,7 +23155,7 @@
 16	mới	mới	ADJ	ADJ	_	15	amod	_	_
 17	là	là	SCONJ	C	_	18	cop	_	_
 18	Minh Sang	Minh Sang	PROPN	NNP	_	15	acl:subj	_	_
-19	và	và	CONJ	CC	_	23	cc	_	_
+19	và	và	CCONJ	CC	_	23	cc	_	_
 20	cái	cái	NOUN	N	_	21	clf:det	_	_
 21	tên	tên	NOUN	N	_	23	nsubj	_	_
 22	đó	đó	PRON	PRO	_	21	det:pmod	_	_
@@ -23423,7 +23423,7 @@
 11	11	11	NUM	NUM	_	12	nummod	_	_
 12	án	án	NOUN	N	_	9	obj	_	_
 13	tử hình	tử hình	NOUN	N	_	12	compound	_	_
-14	và	và	CONJ	CC	_	17	cc	_	_
+14	và	và	CCONJ	CC	_	17	cc	_	_
 15	gần	gần	ADJ	ADJ	_	17	advmod:adj	_	_
 16	100	100	NUM	NUM	_	17	nummod	_	_
 17	án	án	NOUN	N	_	12	conj	_	_
@@ -23643,7 +23643,7 @@
 # sent_id = dev-867
 # text = Chính quyền và hàng xóm phải quyên góp mới cất nổi cho bà cháu một căn nhà tình nghĩa để họ thoát khỏi nắng mưa .
 1	Chính quyền	chính quyền	NOUN	N	_	5	nsubj	_	_
-2	và	và	CONJ	CC	_	3	cc	_	_
+2	và	và	CCONJ	CC	_	3	cc	_	_
 3	hàng xóm	hàng xóm	NOUN	N	_	1	conj	_	_
 4	phải	phải	AUX	AUX	_	5	aux	_	_
 5	quyên góp	quyên góp	VERB	V	_	7	csubj	_	_
@@ -23736,7 +23736,7 @@
 19	nguyễn văn hòa	nguyễn văn hòa	PROPN	NNP	_	17	nmod:poss	_	_
 20	LBKT	lbkt	PUNCT	PUNCT	_	27	punct	_	_
 21	hòa	hòa	PROPN	NNP	_	27	nsubj	_	_
-22	và	và	CONJ	CC	_	23	cc	_	_
+22	và	và	CCONJ	CC	_	23	cc	_	_
 23	vợ	vợ	NOUN	N	_	21	conj	_	_
 24	Nguyễn Thị Châu	Nguyễn Thị Châu	PROPN	NNP	_	23	appos	_	_
 25	đang	đang	ADV	ADV	_	27	advmod	_	_
@@ -23770,7 +23770,7 @@
 17	sống	sống	VERB	V	_	16	xcomp	_	_
 18	nhờ	nhờ	VERB	V	_	17	xcomp	_	_
 19	ông bà	ông bà	NOUN	N	_	18	obj	_	_
-20	và	và	CONJ	CC	_	21	cc	_	_
+20	và	và	CCONJ	CC	_	21	cc	_	_
 21	hàng xóm	hàng xóm	NOUN	N	_	19	conj	_	_
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -24069,7 +24069,7 @@
 45	rối	rối	VERB	V	_	44	xcomp	_	_
 46	vào	vào	ADP	PRE	_	47	case	_	_
 47	nhau	nhau	NOUN	N	_	45	obl:comp	_	_
-48	và	và	CONJ	CC	_	49	cc	_	_
+48	và	và	CCONJ	CC	_	49	cc	_	_
 49	đổ	đổ	VERB	V	_	8	conj	_	_
 50	nước	nước	NOUN	N	_	49	obj	_	_
 51	mát	mát	ADJ	ADJ	_	50	amod	_	_
@@ -24117,7 +24117,7 @@
 26	dưới	dưới	ADP	PRE	_	27	case	_	_
 27	biển	biển	NOUN	N	_	24	obl	_	_
 28	RBKT	rbkt	PUNCT	PUNCT	_	17	punct	_	_
-29	và	và	CONJ	CC	_	30	cc	_	_
+29	và	và	CCONJ	CC	_	30	cc	_	_
 30	nối liền	nối liền	VERB	V	_	4	conj	_	_
 31	với	với	ADP	PRE	_	32	case	_	_
 32	bình	bình	NOUN	N	_	30	obl:with	_	_
@@ -24293,7 +24293,7 @@
 1	Muay thái	muay thái	NOUN	N	_	2	nsubj	_	_
 2	vào	vào	VERB	V	_	13	csubj	_	_
 3	VN	vn	PROPN	NNPY	_	2	obl:comp	_	_
-4	và	và	CONJ	CC	_	5	cc	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
 5	biến cách	biến cách	VERB	V	_	2	conj	_	_
 6	thành	thành	VERB	V	_	5	xcomp	_	_
 7	võ	võ	NOUN	N	_	6	obj	_	_
@@ -24332,7 +24332,7 @@
 20	Hùng	Hùng	PROPN	NNP	_	19	compound	_	_
 21	nhờ	nhờ	VERB	V	_	22	mark:pcomp	_	_
 22	che chở	che chở	VERB	V	_	15	advcl:objective	_	_
-23	và	và	CONJ	CC	_	24	cc	_	_
+23	và	và	CCONJ	CC	_	24	cc	_	_
 24	giúp đỡ	giúp đỡ	VERB	V	_	22	conj	_	_
 25	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
@@ -24495,7 +24495,7 @@
 # sent_id = dev-904
 # text = Vy và 16 tiếp viên khác LBKT trong đó có 12 người VN RBKT sống trong một căn phòng khoảng 24 m2 .
 1	Vy	vy	PROPN	NNP	_	14	nsubj	_	_
-2	và	và	CONJ	CC	_	4	cc	_	_
+2	và	và	CCONJ	CC	_	4	cc	_	_
 3	16	16	NUM	NUM	_	4	nummod	_	_
 4	tiếp viên	tiếp viên	NOUN	N	_	1	conj	_	_
 5	khác	khác	ADJ	ADJ	_	4	amod	_	_
@@ -24556,7 +24556,7 @@
 22	giữa	giữa	ADP	PRE	_	23	case	_	_
 23	đầm	đầm	NOUN	N	_	20	nmod	_	_
 24	Cầu Hai	Cầu Hai	PROPN	NNP	_	23	compound	_	_
-25	và	và	CONJ	CC	_	26	cc	_	_
+25	và	và	CCONJ	CC	_	26	cc	_	_
 26	biển	biển	NOUN	N	_	23	conj	_	_
 27	Đông	Đông	PROPN	NNP	_	26	compound	_	_
 28	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -24576,7 +24576,7 @@
 
 # sent_id = dev-908
 # text = Các lĩnh vực như công tác tổ chức , kinh tế - tài chính ... cần được tập trung kiểm tra toàn diện hơn , theo Tổng bí thư , Chủ tịch nước Nguyễn Phú Trọng .
-1	Các	các	L	L	_	2	det	_	_
+1	Các	các	DET	L	_	2	det	_	_
 2	lĩnh vực	lĩnh vực	NOUN	N	_	13	nsubj:pass	_	_
 3	như	như	SCONJ	SC	_	4	case	_	_
 4	công tác	công tác	NOUN	N	_	2	nmod	_	_
@@ -24604,7 +24604,7 @@
 # sent_id = dev-909
 # text = Ngày 27/11 , phát biểu tại hội nghị toàn quốc tổng kết công tác kiểm tra , giám sát nhiệm kỳ Đại hội XII của Đảng , Tổng bí thư , Chủ tịch nước Nguyễn Phú Trọng nói " nhiệm kỳ qua , chúng ta đã có nhiều cố gắng và xử lý có kết quả nhiều tổ chức đảng và đảng viên vi phạm " .
 1	Ngày	ngày	NOUN	N	_	4	obl:tmod	_	_
-2	27/11	27/11	Num	Num	_	1	flat:date	_	_
+2	27/11	27/11	NUM	Num	_	1	flat:date	_	_
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	phát biểu	phát biểu	VERB	V	_	24	advcl	_	_
 5	tại	tại	ADP	Pre	_	6	case	_	_
@@ -24617,7 +24617,7 @@
 12	giám sát	giám sát	VERB	V	_	10	conj	_	_
 13	nhiệm kỳ	nhiệm kỳ	NOUN	N	_	12	obj	_	_
 14	Đại hội	đại hội	NOUN	N	_	13	nmod	_	_
-15	XII	xii	Num	Num	_	14	nmod	_	_
+15	XII	xii	NUM	Num	_	14	nmod	_	_
 16	của	của	ADP	Pre	_	17	case	_	_
 17	Đảng	đảng	PROPN	NNP	_	13	nmod:poss	_	_
 18	,	,	PUNCT	PUNCT	_	24	punct	_	_
@@ -24652,7 +24652,7 @@
 # sent_id = dev-910
 # text = Việc này góp phần quan trọng vào đấu tranh phòng , chống tham nhũng , lãng phí , tiêu cực .
 1	Việc	việc	NOUN	N	_	3	nsubj	_	_
-2	này	này	Pro	Pro	_	1	det:pmod	_	_
+2	này	này	PRON	Pro	_	1	det:pmod	_	_
 3	góp phần	góp phần	VERB	V	_	0	root	_	_
 4	quan trọng	quan trọng	ADJ	Adj	_	3	acomp	_	_
 5	vào	vào	ADP	Pre	_	6	mark:pcomp	_	_
@@ -24681,7 +24681,7 @@
 10	kiểm tra	kiểm tra	VERB	V	_	9	xcomp	_	_
 11	toàn diện	toàn diện	ADJ	Adj	_	10	acomp	_	_
 12	hơn	hơn	ADJ	Adj	_	11	advmod:adj	_	_
-13	các	các	L	L	_	14	det	_	_
+13	các	các	DET	L	_	14	det	_	_
 14	lĩnh vực	lĩnh vực	NOUN	N	_	10	obj	_	_
 15	như	như	SCONJ	SC	_	17	case	_	_
 16	:	:	PUNCT	PUNCT	_	17	punct	_	_
@@ -24721,13 +24721,13 @@
 
 # sent_id = dev-912
 # text = Các lĩnh vực cũng được đề cập đến là sử dụng nguồn viện trợ , tài trợ của nước ngoài , việc giải quyết khiếu nại , tố cáo và đặc biệt là công tác tổ chức và cán bộ .
-1	Các	các	L	L	_	2	det	_	_
+1	Các	các	DET	L	_	2	det	_	_
 2	lĩnh vực	lĩnh vực	NOUN	N	_	5	nsubj:pass	_	_
 3	cũng	cũng	ADV	Adv	_	5	advmod	_	_
 4	được	được	VERB	V	_	5	aux:pass	_	_
 5	đề cập	đề cập	VERB	V	_	0	root	_	_
 6	đến	đến	ADP	Pre	_	5	compound:prt	_	_
-7	là	là	Aux	Aux	_	8	mark	_	_
+7	là	là	AUX	Aux	_	8	mark	_	_
 8	sử dụng	sử dụng	VERB	V	_	5	parataxis	_	_
 9	nguồn	nguồn	NOUN	N	_	8	obj	_	_
 10	viện trợ	viện trợ	VERB	V	_	9	acl:subj	_	_
@@ -24773,7 +24773,7 @@
 19	lãnh đạo	lãnh đạo	VERB	V	_	18	acl:subj	_	_
 20	,	,	PUNCT	PUNCT	_	21	punct	_	_
 21	quản lý	quản lý	VERB	V	_	19	conj	_	_
-22	các	các	L	L	_	23	det	_	_
+22	các	các	DET	L	_	23	det	_	_
 23	cấp	cấp	NOUN	N	_	21	obj	_	_
 24	và	và	CCONJ	CC	_	25	cc	_	_
 25	cán bộ	cán bộ	NOUN	N	_	6	conj	_	_
@@ -24832,15 +24832,15 @@
 1	Theo	theo	VERB	V	_	14	advcl	_	_
 2	Tổng bí thư	tổng bí thư	NOUN	N	_	1	obj	_	_
 3	,	,	PUNCT	PUNCT	_	14	punct	_	_
-4	một	một	Num	Num	_	5	nummod	_	_
+4	một	một	NUM	Num	_	5	nummod	_	_
 5	điểm	điểm	NOUN	N	_	14	nsubj:nn	_	_
 6	sáng	sáng	ADJ	Adj	_	5	amod	_	_
 7	nổi bật	nổi bật	ADJ	Adj	_	5	amod	_	_
 8	trong	trong	ADP	Pre	_	9	case	_	_
 9	nhiệm kỳ	nhiệm kỳ	NOUN	N	_	5	nmod	_	_
 10	Đại hội	đại hội	NOUN	N	_	9	nmod	_	_
-11	XII	xii	Num	Num	_	10	nmod	_	_
-12	là	là	Aux	Aux	_	14	cop	_	_
+11	XII	xii	NUM	Num	_	10	nmod	_	_
+12	là	là	AUX	Aux	_	14	cop	_	_
 13	,	,	PUNCT	PUNCT	_	14	punct	_	_
 14	đội ngũ	đội ngũ	NOUN	N	_	0	root	_	_
 15	cán bộ	cán bộ	NOUN	N	_	14	nmod	_	_
@@ -24848,7 +24848,7 @@
 17	,	,	PUNCT	PUNCT	_	27	punct	_	_
 18	đặc biệt	đặc biệt	ADJ	Adj	_	21	csubj:asubj	_	_
 19	là	là	Prt	Prt	_	21	discourse	_	_
-20	các	các	L	L	_	21	det	_	_
+20	các	các	DET	L	_	21	det	_	_
 21	Uỷ viên	uỷ viên	NOUN	N	_	14	conj	_	_
 22	Uỷ ban	uỷ ban	NN	NN	_	21	nmod	_	_
 23	Kiểm tra	kiểm tra	VERB	V	_	22	compound:vmod	_	_
@@ -24878,11 +24878,11 @@
 47	tinh thần	tinh thần	NOUN	N	_	46	obj	_	_
 48	"	"	PUNCT	PUNCT	_	49	punct	_	_
 49	xử lý	xử lý	VERB	V	_	58	csubj:vsubj	_	_
-50	một vài	một vài	L	L	_	51	det	_	_
+50	một vài	một vài	DET	L	_	51	det	_	_
 51	người	người	NOUN	N	_	49	obj	_	_
 52	để	để	ADP	Pre	_	53	mark:pcomp	_	_
 53	cứu	cứu	VERB	V	_	49	advcl:objective	_	_
-54	muôn	muôn	L	L	_	55	det	_	_
+54	muôn	muôn	DET	L	_	55	det	_	_
 55	người	người	NOUN	N	_	53	obj	_	_
 56	,	,	PUNCT	PUNCT	_	58	punct	_	_
 57	rất	rất	ADV	Adv	_	58	advmod	_	_
@@ -24906,12 +24906,12 @@
 12	cấp	cấp	NOUN	N	_	9	obl	_	_
 13	Trung ương	trung ương	NOUN	N	_	12	nmod	_	_
 14	,	,	PUNCT	PUNCT	_	21	punct	_	_
-15	các	các	L	L	_	16	det	_	_
+15	các	các	DET	L	_	16	det	_	_
 16	cấp	cấp	NOUN	N	_	21	nsubj	_	_
 17	khác	khác	ADJ	Adj	_	16	amod	_	_
 18	thời gian	thời gian	NOUN	N	_	21	obl:tmod	_	_
 19	gần	gần	ADJ	Adj	_	18	acl:subj	_	_
-20	đây	đây	Pro	Pro	_	19	obl:adj	_	_
+20	đây	đây	PRON	Pro	_	19	obl:adj	_	_
 21	tích cực	tích cực	ADJ	Adj	_	9	conj	_	_
 22	hơn	hơn	ADJ	Adj	_	21	advmod:adj	_	_
 23	nhưng	nhưng	SCONJ	SC	_	27	mark	_	_
@@ -24930,7 +24930,7 @@
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	giám sát	giám sát	VERB	V	_	2	conj	_	_
 5	trong	trong	ADP	Pre	_	7	case	_	_
-6	các	các	L	L	_	7	det	_	_
+6	các	các	DET	L	_	7	det	_	_
 7	cơ quan	cơ quan	NOUN	N	_	2	obl:comp	_	_
 8	của	của	ADP	Pre	_	9	case	_	_
 9	Nhà nước	nhà nước	NOUN	N	_	7	nmod:poss	_	_
@@ -24990,7 +24990,7 @@
 
 # sent_id = dev-919
 # text = Các hiện tượng tiêu cực , tham nhũng , lãng phí , " lợi ích nhóm " , " bệnh thành tích " , " tư duy nhiệm kỳ " , " lạm quyền " , " lộng quyền " , vi phạm nguyên tắc tổ chức đảng còn nghiêm trọng .
-1	Các	các	L	L	_	2	det	_	_
+1	Các	các	DET	L	_	2	det	_	_
 2	hiện tượng	hiện tượng	NOUN	N	_	36	nsubj	_	_
 3	tiêu cực	tiêu cực	ADJ	Adj	_	2	amod	_	_
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
@@ -25047,14 +25047,14 @@
 15	thường xuyên	thường xuyên	ADJ	Adj	_	13	conj	_	_
 16	"	"	PUNCT	PUNCT	_	12	punct	_	_
 17	;	;	PUNCT	PUNCT	_	20	punct	_	_
-18	là	là	Aux	Aux	_	20	cop	_	_
+18	là	là	AUX	Aux	_	20	cop	_	_
 19	"	"	PUNCT	PUNCT	_	20	punct	_	_
 20	thanh	thanh	NOUN	N	_	12	conj	_	_
 21	bảo kiếm	bảo kiếm	NOUN	N	_	20	compound	_	_
 22	để	để	ADP	Pre	_	23	mark:pcomp	_	_
 23	chữa	chữa	VERB	V	_	20	advcl:objective	_	_
 24	lành	lành	ADJ	Adj	_	23	acomp	_	_
-25	các	các	L	L	_	26	det	_	_
+25	các	các	DET	L	_	26	det	_	_
 26	vết thương	vết thương	NOUN	N	_	23	obj	_	_
 27	"	"	PUNCT	PUNCT	_	20	punct	_	_
 28	.	.	PUNCT	PUNCT	_	12	punct	_	_
@@ -25104,7 +25104,7 @@
 41	bao che	bao che	VERB	V	_	28	conj	_	_
 42	sai phạm	sai phạm	NOUN	N	_	41	obj	_	_
 43	của	của	ADP	Pre	_	45	case	_	_
-44	các	các	L	L	_	45	det	_	_
+44	các	các	DET	L	_	45	det	_	_
 45	địa phương	địa phương	NOUN	N	_	42	nmod:poss	_	_
 46	,	,	PUNCT	PUNCT	_	47	punct	_	_
 47	cơ quan	cơ quan	NOUN	N	_	45	conj	_	_
@@ -25128,13 +25128,13 @@
 12	Trung ương	trung ương	NOUN	N	_	10	compound	_	_
 13	đã	đã	ADV	Adv	_	14	advmod	_	_
 14	chọn	chọn	VERB	V	_	0	root	_	_
-15	những	những	L	L	_	16	det	_	_
+15	những	những	DET	L	_	16	det	_	_
 16	điểm	điểm	NOUN	N	_	14	obj	_	_
 17	"	"	PUNCT	PUNCT	_	18	punct	_	_
 18	nóng	nóng	ADJ	Adj	_	16	amod	_	_
 19	"	"	PUNCT	PUNCT	_	18	punct	_	_
 20	,	,	PUNCT	PUNCT	_	22	punct	_	_
-21	những	những	L	L	_	22	det	_	_
+21	những	những	DET	L	_	22	det	_	_
 22	vấn đề	vấn đề	NOUN	N	_	16	conj	_	_
 23	nổi cộm	nổi cộm	VERB	V	_	22	compound:vmod	_	_
 24	,	,	PUNCT	PUNCT	_	25	punct	_	_
@@ -25184,7 +25184,7 @@
 68	Việt Nam	việt nam	PROPN	NNP	_	64	compound	_	_
 69	,	,	PUNCT	PUNCT	_	70	punct	_	_
 70	Ngân hàng	ngân hàng	NOUN	N	_	55	conj	_	_
-71	BIDV	bidv	NNPy	NNPy	_	70	compound	_	_
+71	BIDV	bidv	NOUN	NNPy	_	70	compound	_	_
 72	;	;	PUNCT	PUNCT	_	75	punct	_	_
 73	hoặc	hoặc	CCONJ	CC	_	75	cc	_	_
 74	như	như	SCONJ	SC	_	75	case	_	_
@@ -25196,7 +25196,7 @@
 # text = Từ năm 2016 đến nay , Bộ Chính trị , Ban Bí thư và cấp ủy các cấp đã kiểm tra hơn 264.200 tổ chức đảng và trên 1,2 triệu đảng viên .
 1	Từ	từ	ADP	Pre	_	2	case	_	_
 2	năm	năm	NOUN	N	_	15	obl:tmod	_	_
-3	2016	2016	Num	Num	_	2	flat:date	_	_
+3	2016	2016	NUM	Num	_	2	flat:date	_	_
 4	đến	đến	ADP	Pre	_	5	case	_	_
 5	nay	nay	NOUN	N	_	2	nmod	_	_
 6	,	,	PUNCT	PUNCT	_	15	punct	_	_
@@ -25205,49 +25205,49 @@
 9	Ban Bí thư	ban bí thư	NOUN	N	_	7	conj	_	_
 10	và	và	CCONJ	CC	_	11	cc	_	_
 11	cấp ủy	cấp ủy	NOUN	N	_	7	conj	_	_
-12	các	các	L	L	_	13	det	_	_
+12	các	các	DET	L	_	13	det	_	_
 13	cấp	cấp	NOUN	N	_	11	nmod	_	_
 14	đã	đã	ADV	Adv	_	15	advmod	_	_
 15	kiểm tra	kiểm tra	VERB	V	_	0	root	_	_
 16	hơn	hơn	ADJ	Adj	_	17	advmod:adj	_	_
-17	264.200	264.200	Num	Num	_	18	nummod	_	_
+17	264.200	264.200	NUM	Num	_	18	nummod	_	_
 18	tổ chức	tổ chức	NOUN	N	_	15	obj	_	_
 19	đảng	đảng	NOUN	N	_	18	nmod	_	_
 20	và	và	CCONJ	CC	_	21	cc	_	_
 21	trên	trên	NOUN	N	_	18	conj	_	_
-22	1,2	1,2	Num	Num	_	24	nummod	_	_
-23	triệu	triệu	Num	Num	_	22	flat:number	_	_
+22	1,2	1,2	NUM	Num	_	24	nummod	_	_
+23	triệu	triệu	NUM	Num	_	22	flat:number	_	_
 24	đảng viên	đảng viên	NOUN	N	_	21	nmod	_	_
 25	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 # sent_id = dev-924
 # text = Cấp ủy các cấp và chi bộ kỷ luật hơn 1.300 tổ chức đảng và gần 70.000 đảng viên ; ủy ban kiểm tra các cấp kỷ luật trên 17.600 đảng viên , trong đó có nhiều lãnh đạo cấp cao và tướng lĩnh , kể cả đương chức và nghỉ hưu .
 1	Cấp ủy	cấp ủy	NOUN	N	_	6	nsubj	_	_
-2	các	các	L	L	_	3	det	_	_
+2	các	các	DET	L	_	3	det	_	_
 3	cấp	cấp	NOUN	N	_	1	nmod	_	_
 4	và	và	CCONJ	CC	_	5	cc	_	_
 5	chi bộ	chi bộ	NOUN	N	_	3	conj	_	_
 6	kỷ luật	kỷ luật	VERB	V	_	0	root	_	_
 7	hơn	hơn	ADJ	Adj	_	8	advmod:adj	_	_
-8	1.300	1.300	Num	Num	_	9	nummod	_	_
+8	1.300	1.300	NUM	Num	_	9	nummod	_	_
 9	tổ chức	tổ chức	NOUN	N	_	6	obj	_	_
 10	đảng	đảng	NOUN	N	_	9	nmod	_	_
 11	và	và	CCONJ	CC	_	14	cc	_	_
 12	gần	gần	ADJ	Adj	_	13	advmod:adj	_	_
-13	70.000	70.000	Num	Num	_	14	nummod	_	_
+13	70.000	70.000	NUM	Num	_	14	nummod	_	_
 14	đảng viên	đảng viên	NOUN	N	_	9	conj	_	_
 15	;	;	PUNCT	PUNCT	_	20	punct	_	_
 16	ủy ban	ủy ban	NOUN	N	_	20	nsubj	_	_
 17	kiểm tra	kiểm tra	VERB	V	_	16	compound:vmod	_	_
-18	các	các	L	L	_	19	det	_	_
+18	các	các	DET	L	_	19	det	_	_
 19	cấp	cấp	NOUN	N	_	16	nmod	_	_
 20	kỷ luật	kỷ luật	VERB	V	_	6	conj	_	_
 21	trên	trên	NOUN	N	_	20	obj	_	_
-22	17.600	17.600	Num	Num	_	23	nummod	_	_
+22	17.600	17.600	NUM	Num	_	23	nummod	_	_
 23	đảng viên	đảng viên	NOUN	N	_	21	nmod	_	_
 24	,	,	PUNCT	PUNCT	_	27	punct	_	_
 25	trong	trong	ADP	Pre	_	26	case	_	_
-26	đó	đó	Pro	Pro	_	27	obl	_	_
+26	đó	đó	PRON	Pro	_	27	obl	_	_
 27	có	có	VERB	V	_	21	acl	_	_
 28	nhiều	nhiều	ADJ	Adj	_	29	advmod:adj	_	_
 29	lãnh đạo	lãnh đạo	NN	NN	_	27	obj	_	_
@@ -26270,7 +26270,7 @@
 23	trước	trước	NOUN	N	_	24	case	_	_
 24	thác	thác	NOUN	N	_	15	obl:comp	_	_
 25	nước	nước	NOUN	N	_	24	compound	_	_
-26	và	và	CONJ	CC	_	28	cc	_	_
+26	và	và	CCONJ	CC	_	28	cc	_	_
 27	con	con	NOUN	N	_	28	clf:det	_	_
 28	đường	đường	NOUN	N	_	24	conj	_	_
 29	24	24	NUM	Num	_	30	nummod	_	_
@@ -26290,7 +26290,7 @@
 43	"	"	PUNCT	PUNCT	_	44	punct	_	_
 44	Bollings	bollings	NOUN	NNP	_	41	parataxis	_	_
 45	"	"	PUNCT	PUNCT	_	44	punct	_	_
-46	và	và	CONJ	CC	_	48	cc	_	_
+46	và	và	CCONJ	CC	_	48	cc	_	_
 47	"	"	PUNCT	PUNCT	_	48	punct	_	_
 48	Ndaelndongl	ndaelndongl	PROPN	NNP	_	44	conj	_	_
 49	"	"	PUNCT	PUNCT	_	48	punct	_	_
