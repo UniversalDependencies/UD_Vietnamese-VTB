@@ -294,7 +294,7 @@
 45	2554	2554	NUM	NUM	_	44	compound	_	_
 46	/	/	SYM	SYM	_	44	compound	_	_
 47	QĐ	qđ	NOUN	NY	_	44	compound	_	_
-48	-	-	SYM	SYM	_	49	punct	_	_
+48	-	-	SYM	SYM	_	49	compound	_	_
 49	UB	ub	NOUN	NY	_	44	compound	_	_
 50	ngày	ngày	NOUN	N	_	44	nmod	_	_
 51	5/10/2000	5/10/2000	NUM	NUM	_	50	flat:date	_	_
@@ -4790,7 +4790,7 @@
 13	đến	đến	VERB	V	_	8	ccomp	_	_
 14	đâu	đâu	PRON	PRO	_	13	obj	_	_
 15	và	và	CCONJ	CC	_	17	cc	_	_
-16	chưa	chưa	VERB	V	_	17	advmod:neg	_	_
+16	chưa	chưa	ADV	Adv	_	17	advmod:neg	_	_
 17	có	có	VERB	V	_	13	conj	_	_
 18	giải pháp	giải pháp	NOUN	N	_	17	obj	_	_
 19	tháo gỡ	tháo gỡ	VERB	V	_	18	compound:vmod	_	_
@@ -5177,7 +5177,7 @@
 16	phải	phải	AUX	AUX	_	17	aux	_	_
 17	làm	làm	VERB	V	_	13	conj	_	_
 18	kỳ	kỳ	ADP	PRE	_	19	mark	_	_
-19	được	được	VERB	V	_	17	advmod	_	_
+19	được	được	ADV	Adv	_	17	advmod	_	_
 20	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = dev-193
@@ -6677,7 +6677,7 @@
 24	đang	đang	ADV	ADV	_	25	advmod	_	_
 25	nỗ lực	nỗ lực	VERB	V	_	22	ccomp	_	_
 26	hết sức	hết sức	ADV	ADV	_	25	advmod	_	_
-27	cùng	cùng	ADJ	ADJ	_	30	case	_	_
+27	cùng	cùng	CCONJ	CC	_	30	case	_	_
 28	với	với	SCONJ	C	_	30	case	_	_
 29	toàn thể	toàn thể	DET	DET	_	30	det	_	_
 30	cán bộ	cán bộ	NOUN	N	_	25	obl:with	_	_
@@ -11261,7 +11261,7 @@
 12	bộ	bộ	NOUN	N	_	11	clf	_	_
 13	áo	áo	NOUN	N	_	7	obj	_	_
 14	mới	mới	ADJ	ADJ	_	13	amod	_	_
-15	vừa	vừa	ADV	ADV	_	16	advmod	_	_
+15	vừa	vừa	ADV	ADV	_	22	advmod	_	_
 16	được	được	AUX	AUX	_	22	aux:pass	_	_
 17	công ty	công ty	NOUN	N	_	22	obl:agent	_	_
 18	LBKT	lbkt	PUNCT	PUNCT	_	20	punct	_	_
@@ -17050,7 +17050,7 @@
 9	xăm	xăm	VERB	V	_	8	compound:vmod	_	_
 10	hình	hình	NOUN	N	_	8	nmod	_	_
 11	ngôi	ngôi	NOUN	N	_	12	clf:det	_	_
-12	sao	sao	PRON	PRO	_	10	advmod	_	_
+12	sao	sao	PRON	PRO	_	10	det:pmod	_	_
 13	trên	trên	ADP	PRE	_	14	case	_	_
 14	cổ tay	cổ tay	NOUN	N	_	8	nmod	_	_
 15	của	của	ADP	PRE	_	16	case	_	_
@@ -20675,7 +20675,7 @@
 12	các	các	DET	DET	_	13	det	_	_
 13	đấu sĩ	đấu sĩ	NOUN	N	_	9	nmod:poss	_	_
 14	,	,	PUNCT	PUNCT	_	16	punct	_	_
-15	thậm chí	thậm chí	SCONJ	C	_	16	advmod	_	_
+15	thậm chí	thậm chí	SCONJ	C	_	16	mark	_	_
 16	chấp nhận	chấp nhận	VERB	V	_	8	conj	_	_
 17	hy sinh	hy sinh	VERB	V	_	16	xcomp	_	_
 18	vì	vì	ADP	PRE	_	19	case	_	_
@@ -20921,7 +20921,7 @@
 24	bạt	bạt	VERB	V	_	23	compound:svc	_	_
 25	hiểm ác	hiểm ác	ADJ	ADJ	_	22	amod	_	_
 26	vào	vào	ADP	PRE	_	27	case	_	_
-27	giữa	giữa	ADP	PRE	_	27	case	_	_
+27	giữa	giữa	ADP	PRE	_	28	case	_	_
 28	mặt	mặt	NOUN	N	_	27	nmod	_	_
 29	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
@@ -21102,7 +21102,7 @@
 14	quận	quận	NOUN	N	_	12	obl:comp	_	_
 15	Tân Bình	Tân Bình	PROPN	NNP	_	14	compound	_	_
 16	,	,	PUNCT	PUNCT	_	27	punct	_	_
-17	gặp	gặp	VERB	V	_	27	csubj	_	_
+17	gặp	gặp	VERB	V	_	27	advcl	_	_
 18	đâu	đâu	PRON	PRO	_	17	obj	_	_
 19	có	có	VERB	V	_	18	acl:subj	_	_
 20	bảng	bảng	NOUN	N	_	19	obj	_	_
@@ -25756,7 +25756,7 @@
 1	Lần	lần	NOUN	N	_	5	nsubj	_	_
 2	đầu tiên	đầu tiên	ADJ	ADJ	_	1	amod	_	_
 3	là	là	AUX	AUX	_	5	cop	_	_
-4	ngay	ngay	PRT	PRT	_	5	discourse	_	_
+4	ngay	ngay	PART	PRT	_	5	discourse	_	_
 5	sau	sau	NOUN	N	_	0	root	_	_
 6	khi	khi	NOUN	N	_	5	compound	_	_
 7	đến	đến	VERB	V	_	5	acl:tmod	_	_
@@ -25934,7 +25934,7 @@
 8	quan hệ	quan hệ	NOUN	N	_	7	nmod	_	_
 9	,	,	PUNCT	PUNCT	_	13	punct	_	_
 10	mà	mà	SCONJ	C	_	13	mark	_	_
-11	là	là	VERB	V	_	13	cop	_	_
+11	là	là	AUX	AUX	_	13	cop	_	_
 12	một	một	NUM	NUM	_	13	nummod	_	_
 13	gia đình	gia đình	NOUN	N	_	7	conj	_	_
 14	"	"	PUNCT	PUNCT	_	7	punct	_	_
@@ -26316,7 +26316,7 @@
 16	,	,	PUNCT	PUNCT	_	19	punct	_	_
 17	nhưng	nhưng	SCONJ	SC	_	19	mark	_	_
 18	Luo	luo	NOUN	N	_	19	nsubj	_	_
-19	cho	cho	VERB	V	_	4	nsubj	_	_
+19	cho	cho	VERB	V	_	4	conj	_	_
 20	rằng	rằng	SCONJ	SC	_	24	mark	_	_
 21	những	những	DET	DET	_	22	det	_	_
 22	từ	từ	NOUN	N	_	24	nsubj	_	_
@@ -26412,7 +26412,7 @@
 14	tên	tên	NOUN	N	_	13	nmod	_	_
 15	Dezliangz	dezliangz	NOUN	N	_	14	appos	_	_
 16	từ	từ	ADP	PRE	_	18	case	_	_
-17	chính	chính	PRT	PRT	_	18	discourse	_	_
+17	chính	chính	PART	PRT	_	18	discourse	_	_
 18	làng	làng	NOUN	N	_	13	nmod	_	_
 19	ông	ông	NOUN	N	_	18	nmod	_	_
 20	đã	đã	ADV	ADV	_	22	advmod	_	_
@@ -26778,7 +26778,7 @@
 # sent_id = dev-999
 # text = Đó chính là mẹ Dezliangz .
 1	Đó	đó	PRON	PRO	_	4	nsubj	_	_
-2	chính	chính	PART	PRT	_	3	discourse	_	_
+2	chính	chính	PART	PRT	_	4	discourse	_	_
 3	là	là	AUX	AUX	_	4	cop	_	_
 4	mẹ	mẹ	NOUN	N	_	0	root	_	_
 5	Dezliangz	dezliangz	NOUN	N	_	4	compound	_	_
@@ -27146,7 +27146,7 @@
 6	thay đổi	thay đổi	VERB	V	_	0	root	_	_
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
 8	đó	đó	PRON	PRO	_	13	det:pmod	_	_
-9	là	là	VERB	V	_	13	cop	_	_
+9	là	là	AUX	AUX	_	13	cop	_	_
 10	cuối cùng	cuối cùng	ADJ	ADJ	_	13	advmod:adj	_	_
 11	Dezliangz	dezliangz	PROPN	NNP	_	13	nsubj	_	_
 12	cũng	cũng	ADJ	ADJ	_	13	advmod:adj	_	_
@@ -27856,8 +27856,8 @@
 4	Vượng	vượng	NOUN	N	_	2	obj	_	_
 5	,	,	PUNCT	PUNCT	_	11	punct	_	_
 6	Bách khoa toàn thư	bách khoa toàn thư	NOUN	N	_	11	nsubj:nn	_	_
-7	không	không	ADV	ADV	_	9	advmod:neg	_	_
-8	phải	phải	AUX	V	_	9	aux	_	_
+7	không	không	ADV	ADV	_	11	advmod:neg	_	_
+8	phải	phải	AUX	V	_	11	aux	_	_
 9	là	là	AUX	AUX	_	11	cop	_	_
 10	bộ	bộ	NOUN	N	_	11	clf:det	_	_
 11	Từ điển	từ điển	NOUN	N	_	0	root	_	_
@@ -29175,7 +29175,7 @@
 4	điều	điều	NOUN	N	_	10	nsubj	_	_
 5	quan trọng	quan trọng	ADJ	ADJ	_	4	compound:amod	_	_
 6	nhất	nhất	ADV	ADV	_	4	advmod	_	_
-7	không	không	ADV	ADV	_	8	advmod:neg	_	_
+7	không	không	ADV	ADV	_	10	advmod:neg	_	_
 8	phải	phải	AUX	V	_	10	aux	_	_
 9	là	là	PART	PRT	_	10	discourse	_	_
 10	có	có	VERB	V	_	0	root	_	_
