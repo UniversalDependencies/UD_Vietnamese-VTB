@@ -8914,7 +8914,7 @@
 10	trọ	trọ	VERB	V	_	9	compound:vmod	_	_
 11	LBKT	lbkt	PUNCT	PUNCT	_	18	punct	_	_
 12	nhà trọ	nhà trọ	NOUN	N	_	18	nsubj:pass	_	_
-13	luôn	luôn	ADV	ADV	_	14	advmod	_	_
+13	luôn	luôn	ADV	ADV	_	18	advmod	_	_
 14	bị	bị	AUX	AUX	_	18	aux:pass	_	_
 15	chủ	chủ	NOUN	N	_	18	obl:agent	_	_
 16	quán	quán	NOUN	N	_	15	compound	_	_
@@ -20920,9 +20920,9 @@
 23	đá	đá	VERB	V	_	22	compound:vmod	_	_
 24	bạt	bạt	VERB	V	_	23	compound:svc	_	_
 25	hiểm ác	hiểm ác	ADJ	ADJ	_	22	amod	_	_
-26	vào	vào	ADP	PRE	_	27	case	_	_
+26	vào	vào	ADP	PRE	_	28	case	_	_
 27	giữa	giữa	ADP	PRE	_	28	case	_	_
-28	mặt	mặt	NOUN	N	_	27	nmod	_	_
+28	mặt	mặt	NOUN	N	_	20	nmod	_	_
 29	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = dev-753
