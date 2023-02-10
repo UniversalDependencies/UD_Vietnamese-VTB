@@ -738,7 +738,7 @@
 # text = em nhìn chăm chú , rồi nói :
 1	em	em	NOUN	N	_	2	nsubj	_	_
 2	nhìn	nhìn	VERB	V	_	0	root	_	_
-3	chăm chú	chăm chú	ADJ	Adj	_	2	acomp	_	_
+3	chăm chú	chăm chú	ADJ	Adj	_	2	xcomp	_	_
 4	,	,	PUNCT	PUNCT	_	6	punct	_	_
 5	rồi	rồi	SCONJ	C	_	6	cc	_	_
 6	nói	nói	VERB	V	_	2	conj	_	_
@@ -935,7 +935,7 @@
 26	những	những	DET	Det	_	27	det	_	_
 27	chuyện	chuyện	NOUN	N	_	24	nmod	_	_
 28	có	có	VERB	V	_	27	acl:subj	_	_
-29	thật	thật	ADJ	Adj	_	28	acomp	_	_
+29	thật	thật	ADJ	Adj	_	28	xcomp	_	_
 
 # sent_id = dev-9068
 # text = và con người lớn kia cảm thấy hài lòng vô cùng khi được quen một con người biết điều như vậy .
@@ -1048,7 +1048,7 @@
 5	tôi	tôi	PRON	PRO	_	3	obj	_	_
 6	rất	rất	ADV	Adv	_	7	advmod	_	_
 7	lấy làm	lấy làm	VERB	V	_	0	root	_	_
-8	hài lòng	hài lòng	VERB	V	_	7	acomp	_	_
+8	hài lòng	hài lòng	VERB	V	_	7	xcomp	_	_
 9	thấy	thấy	VERB	V	_	7	advcl	_	_
 10	tôi	tôi	PRON	PRO	_	12	nsubj	_	_
 11	còn	còn	ADV	Adv	_	12	advmod	_	_
@@ -1455,7 +1455,7 @@
 1	cái	cái	NOUN	Nc	_	3	nsubj	_	_
 2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
 3	đến	đến	VERB	V	_	0	root	_	_
-4	nhẹ nhàng	nhẹ nhàng	ADJ	Adj	_	3	acomp	_	_
+4	nhẹ nhàng	nhẹ nhàng	ADJ	Adj	_	3	xcomp	_	_
 5	bằng	bằng	ADV	Pre	_	7	case	_	_
 6	những	những	DET	Det	_	7	det	_	_
 7	suy đoán	suy đoán	VERB	V	_	3	obl	_	_
@@ -2003,7 +2003,7 @@
 3	nhỏ	nhỏ	ADJ	Adj	_	2	amod	_	_
 4	nhận xét	nhận xét	VERB	V	_	0	root	_	_
 5	một cách	một cách	ADV	Adv	_	6	advmod	_	_
-6	nặng nề	nặng nề	ADJ	Adj	_	4	acomp	_	_
+6	nặng nề	nặng nề	ADJ	Adj	_	4	xcomp	_	_
 7	:	:	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = dev-9160
@@ -2080,7 +2080,7 @@
 1	và	và	CCONJ	C	_	3	cc	_	_
 2	em	em	NOUN	N	_	3	nsubj	_	_
 3	trở lại	trở lại	VERB	V	_	0	root	_	_
-4	nghiêm nghị	nghiêm nghị	ADJ	Adj	_	3	acomp	_	_
+4	nghiêm nghị	nghiêm nghị	ADJ	Adj	_	3	xcomp	_	_
 5	:	:	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-9167
@@ -2255,7 +2255,7 @@
 6	một	một	NUM	Num	_	7	nummod	_	_
 7	buổi	buổi	NOUN	N	_	5	obj	_	_
 8	thuyết trình	thuyết trình	VERB	V	_	7	acl	_	_
-9	lớn	lớn	ADJ	Adj	_	8	acomp	_	_
+9	lớn	lớn	ADJ	Adj	_	8	xcomp	_	_
 10	về	về	ADV	Pre	_	11	case	_	_
 11	phát hiện	phát hiện	VERB	V	_	8	obl	_	_
 12	của	của	ADV	Pre	_	13	case	_	_
@@ -2622,7 +2622,7 @@
 8	,	,	PUNCT	PUNCT	_	10	punct	_	_
 9	cũng	cũng	ADV	Adv	_	10	advmod	_	_
 10	bắt đầu	bắt đầu	VERB	V	_	0	root	_	_
-11	bé	bé	ADJ	Adj	_	10	acomp	_	_
+11	bé	bé	ADJ	Adj	_	10	xcomp	_	_
 12	tẹo	tẹo	ADJ	Adj	_	11	compound:adj	_	_
 13	chứ	chứ	PART	Prt	_	10	discourse	_	_
 14	!	!	PUNCT	PUNCT	_	10	punct	_	_
@@ -2818,7 +2818,7 @@
 7	đinh ốc	đinh ốc	NOUN	N	_	4	obj	_	_
 8	vặn	vặn	VERB	V	_	7	acl:subj	_	_
 9	quá	quá	ADV	Adv	_	10	advmod	_	_
-10	chặt	chặt	ADJ	Adj	_	8	acomp	_	_
+10	chặt	chặt	ADJ	Adj	_	8	xcomp	_	_
 11	trong	trong	ADV	Pre	_	12	case	_	_
 12	động cơ	động cơ	NOUN	N	_	7	obl	_	_
 13	của	của	ADV	Pre	_	14	case	_	_
@@ -3030,7 +3030,7 @@
 22	xem ra	xem ra	VERB	V	_	25	advmod	_	_
 23	thật	thật	ADV	Adv	_	25	advmod	_	_
 24	là	là	PART	Prt	_	25	discourse	_	_
-25	xấu xí	xấu xí	ADJ	Adj	_	19	acomp	_	_
+25	xấu xí	xấu xí	ADJ	Adj	_	19	xcomp	_	_
 26	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-9234
@@ -3285,7 +3285,7 @@
 4	pháp	pháp	PROPN	NNP	_	3	compound	_	_
 5	ở	ở	VERB	V	_	0	root	_	_
 6	quá	quá	ADV	Adv	_	7	advmod	_	_
-7	xa	xa	ADJ	Adj	_	5	acomp	_	_
+7	xa	xa	ADJ	Adj	_	5	xcomp	_	_
 8	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = dev-9259
@@ -3395,7 +3395,7 @@
 5	cho	cho	ADV	Pre	_	6	case	_	_
 6	chúng	chúng	PRON	PRO	_	4	obl:iobj	_	_
 7	được	được	AUX	aux	_	8	aux	_	_
-8	vững tâm	vững tâm	ADJ	Adj	_	4	acomp	_	_
+8	vững tâm	vững tâm	ADJ	Adj	_	4	xcomp	_	_
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = dev-9266
@@ -3968,7 +3968,7 @@
 3	của	của	ADV	Pre	_	4	case	_	_
 4	tôi	tôi	PRON	PRO	_	2	nmod:poss	_	_
 5	làm	làm	VERB	V	_	0	root	_	_
-6	thơm ngát	thơm ngát	ADJ	Adj	_	5	acomp	_	_
+6	thơm ngát	thơm ngát	ADJ	Adj	_	5	xcomp	_	_
 7	tinh cầu	tinh cầu	NOUN	N	_	6	obj	_	_
 8	của	của	ADV	Pre	_	9	case	_	_
 9	tôi	tôi	PRON	PRO	_	7	nmod:poss	_	_
@@ -3978,7 +3978,7 @@
 13	lại	lại	ADV	Adv	_	15	advmod	_	_
 14	không	không	ADV	Adv	_	15	advmod:neg	_	_
 15	biết	biết	VERB	V	_	5	conj	_	_
-16	vui lòng	vui lòng	ADJ	Adj	_	15	acomp	_	_
+16	vui lòng	vui lòng	ADJ	Adj	_	15	xcomp	_	_
 17	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = dev-9313
@@ -4078,7 +4078,7 @@
 1	tôi	tôi	PRON	PRO	_	3	nsubj	_	_
 2	đã	đã	ADV	Adv	_	3	advmod	_	_
 3	sống	sống	VERB	V	_	0	root	_	_
-4	cô đơn	cô đơn	ADJ	Adj	_	3	acomp	_	_
+4	cô đơn	cô đơn	ADJ	Adj	_	3	xcomp	_	_
 5	như	như	SCONJ	C	_	6	case	_	_
 6	vậy	vậy	PRON	PRO	_	4	obl	_	_
 7	đó	đó	PART	Prt	_	6	discourse	_	_
@@ -4088,7 +4088,7 @@
 11	ai	ai	PRON	PRO	_	10	obj	_	_
 12	để	để	ADV	Pre	_	13	mark:pcomp	_	_
 13	chuyện trò	chuyện trò	VERB	V	_	10	advcl:objective	_	_
-14	thực sự	thực sự	ADJ	Adj	_	13	acomp	_	_
+14	thực sự	thực sự	ADJ	Adj	_	13	xcomp	_	_
 15	,	,	PUNCT	PUNCT	_	28	punct	_	_
 16	cho	cho	ADV	Adv	_	18	advmod	_	_
 17	đến	đến	ADV	Pre	_	18	case	_	_
@@ -4233,7 +4233,7 @@
 1	anh	anh	NOUN	N	_	3	nsubj	_	_
 2	sẽ	sẽ	ADV	Adv	_	3	advmod	_	_
 3	đi	đi	VERB	V	_	0	root	_	_
-4	xa	xa	ADJ	Adj	_	3	acomp	_	_
+4	xa	xa	ADJ	Adj	_	3	xcomp	_	_
 5	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-9332
@@ -4698,7 +4698,7 @@
 6	chắc	chắc	ADJ	Adj	_	8	advmod:adj	_	_
 7	là	là	SCONJ	C	_	6	fixed	_	_
 8	kém	kém	ADJ	Adj	_	0	root	_	_
-9	đẹp	đẹp	ADJ	Adj	_	8	acomp	_	_
+9	đẹp	đẹp	ADJ	Adj	_	8	xcomp	_	_
 10	hơn	hơn	ADV	Adv	_	11	case	_	_
 11	người mẫu	người mẫu	NOUN	N	_	8	obl	_	_
 12	nhiều	nhiều	ADJ	Adj	_	8	advmod:adj	_	_
@@ -5451,7 +5451,7 @@
 # text = em thấy mệt .
 1	em	em	NOUN	N	_	2	nsubj	_	_
 2	thấy	thấy	VERB	V	_	0	root	_	_
-3	mệt	mệt	ADJ	Adj	_	2	acomp	_	_
+3	mệt	mệt	ADJ	Adj	_	2	xcomp	_	_
 4	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = dev-9453
@@ -5525,7 +5525,7 @@
 1	em	em	NOUN	N	_	3	nsubj	_	_
 2	chỉ	chỉ	ADV	Adv	_	3	advmod	_	_
 3	nói	nói	VERB	V	_	0	root	_	_
-4	giản dị	giản dị	ADJ	Adj	_	3	acomp	_	_
+4	giản dị	giản dị	ADJ	Adj	_	3	xcomp	_	_
 5	:	:	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-9461
@@ -6133,7 +6133,7 @@
 7	ông hoàng	ông hoàng	NOUN	N	_	5	obl:comp	_	_
 8	bé nhỏ	bé nhỏ	ADJ	Adj	_	7	amod	_	_
 9	không	không	ADV	Adv	_	10	advmod:neg	_	_
-10	vừa lòng	vừa lòng	ADJ	Adj	_	5	acomp	_	_
+10	vừa lòng	vừa lòng	ADJ	Adj	_	5	xcomp	_	_
 11	:	:	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = dev-9492
@@ -6477,7 +6477,7 @@
 14	với	với	SCONJ	C	_	15	case	_	_
 15	cô	cô	NOUN	N	_	13	obl:with	_	_
 16	rất	rất	ADV	Adv	_	17	advmod	_	_
-17	tốt	tốt	ADJ	Adj	_	13	acomp	_	_
+17	tốt	tốt	ADJ	Adj	_	13	xcomp	_	_
 18	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 # sent_id = dev-9513
@@ -6509,7 +6509,7 @@
 6	làm	làm	VERB	V	_	2	conj	_	_
 7	cho	cho	ADV	Pre	_	8	case	_	_
 8	tôi	tôi	PRON	PRO	_	6	obl:comp	_	_
-9	sáng rực	sáng rực	ADJ	Adj	_	6	acomp	_	_
+9	sáng rực	sáng rực	ADJ	Adj	_	6	xcomp	_	_
 10	lên	lên	VERB	V	_	6	advmod:dir	_	_
 11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -6528,7 +6528,7 @@
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
 12	và	và	CCONJ	C	_	13	cc	_	_
 13	trở nên	trở nên	VERB	V	_	3	conj	_	_
-14	khổ sở	khổ sở	ADJ	Adj	_	13	acomp	_	_
+14	khổ sở	khổ sở	ADJ	Adj	_	13	xcomp	_	_
 15	lắm	lắm	ADV	Adv	_	14	advmod	_	_
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -6536,7 +6536,7 @@
 # text = được nạo vét kỹ , các quả núi lửa sẽ cháy đỏ và đều , không có phun trào .
 1	được	được	AUX	aux	_	2	aux:pass	_	_
 2	nạo vét	nạo vét	VERB	V	_	9	advcl	_	_
-3	kỹ	kỹ	ADJ	Adj	_	2	acomp	_	_
+3	kỹ	kỹ	ADJ	Adj	_	2	xcomp	_	_
 4	,	,	PUNCT	PUNCT	_	9	punct	_	_
 5	các	các	DET	Det	_	7	det	_	_
 6	quả	quả	NOUN	N	_	5	clf	_	_
@@ -6737,7 +6737,7 @@
 7	chẳng	chẳng	ADV	Adv	_	8	advmod:neg	_	_
 8	đi	đi	VERB	V	_	2	cc	_	_
 9	được	được	ADV	Adv	_	8	advmod	_	_
-10	bao xa	bao xa	ADJ	Adj	_	8	acomp	_	_
+10	bao xa	bao xa	ADJ	Adj	_	8	xcomp	_	_
 11	đâu	đâu	PART	Prt	_	8	discourse	_	_
 12	...	...	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -6975,7 +6975,7 @@
 13	bé nhỏ	bé nhỏ	ADJ	Adj	_	12	amod	_	_
 14	là	là	SCONJ	C	_	15	discourse	_	_
 15	có	có	VERB	V	_	8	ccomp	_	_
-16	thật	thật	ADJ	Adj	_	15	acomp	_	_
+16	thật	thật	ADJ	Adj	_	15	xcomp	_	_
 17	chứ	chứ	PART	Prt	_	15	discourse	_	_
 18	,	,	PUNCT	PUNCT	_	20	punct	_	_
 19	chứng cứ	chứng cứ	NOUN	N	_	20	nsubj	_	_
@@ -7594,7 +7594,7 @@
 5	sẽ	sẽ	ADV	Adv	_	7	advmod	_	_
 6	còn	còn	ADV	Adv	_	7	advmod	_	_
 7	sợ	sợ	VERB	V	_	0	root	_	_
-8	nhiều	nhiều	ADJ	Adj	_	7	acomp	_	_
+8	nhiều	nhiều	ADJ	Adj	_	7	xcomp	_	_
 9	hơn	hơn	ADV	Adv	_	8	advmod	_	_
 10	...	...	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -7680,7 +7680,7 @@
 3	ông	ông	NOUN	N	_	1	nmod:poss	_	_
 4	sẽ	sẽ	ADV	Adv	_	5	advmod	_	_
 5	lấy làm	lấy làm	VERB	V	_	0	root	_	_
-6	lạ	lạ	ADJ	Adj	_	5	acomp	_	_
+6	lạ	lạ	ADJ	Adj	_	5	xcomp	_	_
 7	khi	khi	NOUN	N	_	5	obl:tmod	_	_
 8	thấy	thấy	VERB	V	_	7	acl:subj	_	_
 9	ông	ông	NOUN	N	_	11	nsubj	_	_
@@ -7701,7 +7701,7 @@
 6	nếu như	nếu như	SCONJ	C	_	8	mark	_	_
 7	ta	ta	PRON	PRO	_	8	nsubj	_	_
 8	chú ý	chú ý	VERB	V	_	16	advcl	_	_
-9	muộn màng	muộn màng	ADJ	Adj	_	8	acomp	_	_
+9	muộn màng	muộn màng	ADJ	Adj	_	8	xcomp	_	_
 10	quá	quá	ADV	Adv	_	9	advmod	_	_
 11	,	,	PUNCT	PUNCT	_	8	punct	_	_
 12	ta	ta	PRON	PRO	_	16	nsubj	_	_
@@ -7717,7 +7717,7 @@
 22	baobab	baobab	NOUN	Nb	_	24	nsubj	_	_
 23	sẽ	sẽ	ADV	Adv	_	24	advmod	_	_
 24	mọc	mọc	VERB	V	_	16	appos:nmod	_	_
-25	cao	cao	ADJ	Adj	_	24	acomp	_	_
+25	cao	cao	ADJ	Adj	_	24	xcomp	_	_
 26	và	và	CCONJ	C	_	29	cc	_	_
 27	rễ	rễ	NOUN	N	_	29	nsubj	_	_
 28	nó	nó	PRON	PRO	_	27	nmod	_	_
@@ -7738,7 +7738,7 @@
 8	bước	bước	VERB	V	_	0	root	_	_
 9	quả quyết	quả quyết	ADJ	Adj	_	8	advmod:adj	_	_
 10	thật	thật	ADV	Adv	_	11	advmod	_	_
-11	nhanh	nhanh	ADJ	Adj	_	8	acomp	_	_
+11	nhanh	nhanh	ADJ	Adj	_	8	xcomp	_	_
 12	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = dev-9581
@@ -7872,7 +7872,7 @@
 37	,	,	PUNCT	PUNCT	_	39	punct	_	_
 38	tôi	tôi	PRON	PRO	_	39	nsubj	_	_
 39	làm	làm	VERB	V	_	8	parataxis	_	_
-40	khác	khác	ADJ	Adj	_	39	acomp	_	_
+40	khác	khác	ADJ	Adj	_	39	xcomp	_	_
 41	với	với	SCONJ	C	_	42	case	_	_
 42	nguyên tắc	nguyên tắc	NOUN	N	_	40	obl:adj	_	_
 43	của	của	ADV	Pre	_	44	case	_	_
@@ -7952,7 +7952,7 @@
 45	tôi	tôi	PRON	PRO	_	46	nsubj	_	_
 46	ra sức	ra sức	VERB	V	_	11	parataxis	_	_
 47	thật	thật	PART	Prt	_	48	discourse	_	_
-48	nhiều	nhiều	ADJ	Adj	_	46	acomp	_	_
+48	nhiều	nhiều	ADJ	Adj	_	46	xcomp	_	_
 49	để	để	ADV	Pre	_	50	mark:pcomp	_	_
 50	vẽ	vẽ	VERB	V	_	46	advcl:objective	_	_
 51	bức	bức	NOUN	Nc	_	50	obj	_	_
@@ -8301,7 +8301,7 @@
 4	cảnh	cảnh	NOUN	N	_	2	obl:comp	_	_
 5	mặt trời	mặt trời	NOUN	N	_	6	nsubj	_	_
 6	lặn	lặn	VERB	V	_	4	acl	_	_
-7	hụt	hụt	ADJ	Adj	_	6	acomp	_	_
+7	hụt	hụt	ADJ	Adj	_	6	xcomp	_	_
 8	của	của	ADV	Pre	_	9	case	_	_
 9	em	em	NOUN	N	_	4	nmod:poss	_	_
 10	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -8411,7 +8411,7 @@
 10	cho	cho	ADV	Pre	_	11	case	_	_
 11	ông hoàng	ông hoàng	NOUN	N	_	9	obl:comp	_	_
 12	nhỏ	nhỏ	ADJ	Adj	_	11	amod	_	_
-13	miên man	miên man	ADJ	Adj	_	9	acomp	_	_
+13	miên man	miên man	ADJ	Adj	_	9	xcomp	_	_
 14	buồn	buồn	ADJ	Adj	_	13	compound:adj	_	_
 15	:	:	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -8496,7 +8496,7 @@
 2	nó	nó	PRON	PRO	_	3	nsubj	_	_
 3	giúp	giúp	VERB	V	_	0	root	_	_
 4	ta	ta	PRON	PRO	_	3	obj	_	_
-5	giàu	giàu	ADJ	Adj	_	3	acomp	_	_
+5	giàu	giàu	ADJ	Adj	_	3	xcomp	_	_
 6	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-9622
@@ -9319,7 +9319,7 @@
 7	hoa	hoa	NOUN	N	_	8	nsubj	_	_
 8	trả lời	trả lời	VERB	V	_	2	parataxis	_	_
 9	một cách	một cách	ADV	Adv	_	10	advmod	_	_
-10	nhẹ nhàng	nhẹ nhàng	ADJ	Adj	_	8	acomp	_	_
+10	nhẹ nhàng	nhẹ nhàng	ADJ	Adj	_	8	xcomp	_	_
 11	-	-	PUNCT	PUNCT	_	8	punct	_	_
 12	và	và	CCONJ	C	_	16	cc	_	_
 13	em	em	NOUN	N	_	16	nsubj	_	_
@@ -9343,7 +9343,7 @@
 8	lấy	lấy	PART	Prt	_	11	discourse	_	_
 9	gì	gì	ADV	Adv	_	8	advmod	_	_
 10	làm	làm	VERB	V	_	3	xcomp	_	_
-11	khiêm tốn	khiêm tốn	ADJ	Adj	_	10	acomp	_	_
+11	khiêm tốn	khiêm tốn	ADJ	Adj	_	10	xcomp	_	_
 12	lắm	lắm	ADV	Adv	_	11	advmod	_	_
 13	,	,	PUNCT	PUNCT	_	10	punct	_	_
 14	nhưng	nhưng	SCONJ	C	_	18	mark	_	_
@@ -10232,7 +10232,7 @@
 3	cảm	cảm	VERB	V	_	0	root	_	_
 4	thấy	thấy	VERB	V	_	3	compound:svc	_	_
 5	hơi	hơi	ADV	Adv	_	6	advmod	_	_
-6	buồn	buồn	ADJ	Adj	_	3	acomp	_	_
+6	buồn	buồn	ADJ	Adj	_	3	xcomp	_	_
 7	vì	vì	ADV	Pre	_	9	mark	_	_
 8	chợt	chợt	ADV	Adv	_	9	advmod	_	_
 9	nghĩ	nghĩ	VERB	V	_	3	advcl	_	_
@@ -10260,7 +10260,7 @@
 3	hãy	hãy	ADV	Adv	_	4	advmod	_	_
 4	làm	làm	VERB	V	_	1	xcomp	_	_
 5	tôi	tôi	PRON	PRO	_	4	obj	_	_
-6	vui lòng	vui lòng	ADJ	Adj	_	4	acomp	_	_
+6	vui lòng	vui lòng	ADJ	Adj	_	4	xcomp	_	_
 7	,	,	PUNCT	PUNCT	_	9	punct	_	_
 8	hãy	hãy	ADV	Adv	_	9	advmod	_	_
 9	ra lệnh	ra lệnh	VERB	V	_	1	conj	_	_
@@ -10502,7 +10502,7 @@
 9	không	không	ADV	Adv	_	10	advmod:neg	_	_
 10	muốn	muốn	AUX	aux	_	11	aux	_	_
 11	làm	làm	VERB	V	_	6	conj	_	_
-12	phiền lòng	phiền lòng	ADJ	Adj	_	11	acomp	_	_
+12	phiền lòng	phiền lòng	ADJ	Adj	_	11	xcomp	_	_
 13	vị	vị	NOUN	N	_	14	clf:det	_	_
 14	vua	vua	NOUN	N	_	11	obj	_	_
 15	già	già	ADJ	Adj	_	14	amod	_	_
@@ -10656,7 +10656,7 @@
 16	trông chừng	trông chừng	VERB	V	_	6	conj	_	_
 17	con	con	NOUN	Nc	_	18	clf:det	_	_
 18	cừu	cừu	NOUN	N	_	16	obj	_	_
-19	cẩn thận	cẩn thận	ADJ	Adj	_	16	acomp	_	_
+19	cẩn thận	cẩn thận	ADJ	Adj	_	16	xcomp	_	_
 20	.	.	PUNCT	PUNCT	_	6	punct	_	_
 21	"	"	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -11224,8 +11224,8 @@
 2	ngài	ngài	PRON	PRO	_	1	obj	_	_
 3	có	có	VERB	V	_	1	advmod	_	_
 4	vẻ	vẻ	NOUN	N	_	3	fixed	_	_
-5	uy nghi	uy nghi	ADJ	Adj	_	1	acomp	_	_
-6	lẫm liệt	lẫm liệt	ADJ	Adj	_	1	acomp	_	_
+5	uy nghi	uy nghi	ADJ	Adj	_	1	xcomp	_	_
+6	lẫm liệt	lẫm liệt	ADJ	Adj	_	1	xcomp	_	_
 7	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # sent_id = dev-9775
@@ -11371,7 +11371,7 @@
 4	mũ	mũ	NOUN	N	_	3	obj	_	_
 5	chào	chào	VERB	V	_	3	xcomp	_	_
 6	một cách	một cách	ADV	Adv	_	7	advmod	_	_
-7	khiêm tốn	khiêm tốn	ADJ	Adj	_	5	acomp	_	_
+7	khiêm tốn	khiêm tốn	ADJ	Adj	_	5	xcomp	_	_
 8	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-9784
@@ -11412,7 +11412,7 @@
 6	ông hoàng	ông hoàng	NOUN	N	_	8	nsubj	_	_
 7	nhỏ	nhỏ	ADJ	Adj	_	6	amod	_	_
 8	thấy	thấy	VERB	V	_	0	root	_	_
-9	chán	chán	ADJ	Adj	_	8	acomp	_	_
+9	chán	chán	ADJ	Adj	_	8	xcomp	_	_
 10	vì	vì	ADV	Pre	_	11	case	_	_
 11	sự	sự	NOUN	N	_	8	obl	_	_
 12	đơn điệu	đơn điệu	ADJ	Adj	_	11	amod	_	_
@@ -11467,7 +11467,7 @@
 3	em	em	NOUN	N	_	2	compound	_	_
 4	khâm phục	khâm phục	VERB	V	_	0	root	_	_
 5	ta	ta	PRON	PRO	_	4	obj	_	_
-6	nhiều	nhiều	ADJ	Adj	_	4	acomp	_	_
+6	nhiều	nhiều	ADJ	Adj	_	4	xcomp	_	_
 7	thật	thật	PART	Prt	_	6	discourse	_	_
 8	chứ	chứ	PART	Prt	_	4	discourse	_	_
 9	?	?	PUNCT	PUNCT	_	4	punct	_	_
@@ -11485,7 +11485,7 @@
 9	nhất	nhất	ADV	Adv	_	8	advmod	_	_
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	ăn mặc	ăn mặc	VERB	V	_	8	conj	_	_
-12	sang	sang	ADJ	Adj	_	11	acomp	_	_
+12	sang	sang	ADJ	Adj	_	11	xcomp	_	_
 13	nhất	nhất	ADV	Adv	_	12	advmod	_	_
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	giàu có	giàu có	ADJ	Adj	_	11	conj	_	_
@@ -11991,7 +11991,7 @@
 5	này	này	PRON	PRO	_	4	det:pmod	_	_
 6	lại	lại	ADV	Adv	_	7	advmod	_	_
 7	quay	quay	VERB	V	_	0	root	_	_
-8	nhanh	nhanh	ADJ	Adj	_	7	acomp	_	_
+8	nhanh	nhanh	ADJ	Adj	_	7	xcomp	_	_
 9	hơn	hơn	ADV	Adv	_	7	advmod	_	_
 10	,	,	PUNCT	PUNCT	_	14	punct	_	_
 11	thế mà	thế mà	SCONJ	C	_	14	cc	_	_
@@ -12299,7 +12299,7 @@
 9	cho	cho	ADV	Pre	_	10	case	_	_
 10	ta	ta	PRON	PRO	_	8	obl:comp	_	_
 11	cộng	cộng	VERB	V	_	8	xcomp	_	_
-12	sai	sai	ADJ	Adj	_	11	acomp	_	_
+12	sai	sai	ADJ	Adj	_	11	xcomp	_	_
 13	bốn	bốn	NUM	Num	_	14	nummod	_	_
 14	chỗ	chỗ	NOUN	N	_	11	obj	_	_
 15	trong	trong	ADV	Pre	_	17	case	_	_
@@ -13642,7 +13642,7 @@
 8	là	là	SCONJ	C	_	10	cop	_	_
 9	không	không	ADV	Adv	_	10	advmod:neg	_	_
 10	thấy	thấy	VERB	V	_	0	root	_	_
-11	buồn cười	buồn cười	ADJ	Adj	_	10	acomp	_	_
+11	buồn cười	buồn cười	ADJ	Adj	_	10	xcomp	_	_
 12	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = dev-9962
@@ -14075,7 +14075,7 @@
 5	ông hoàng	ông hoàng	NOUN	N	_	7	nsubj	_	_
 6	nhỏ	nhỏ	ADJ	Adj	_	5	amod	_	_
 7	nói	nói	VERB	V	_	2	parataxis	_	_
-8	bâng quơ	bâng quơ	ADJ	Adj	_	7	acomp	_	_
+8	bâng quơ	bâng quơ	ADJ	Adj	_	7	xcomp	_	_
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = dev-9997
@@ -14178,7 +14178,7 @@
 2	sa mạc	sa mạc	NOUN	N	_	3	obl	_	_
 3	thấy	thấy	VERB	V	_	0	root	_	_
 4	hơi	hơi	ADV	Adv	_	5	advmod	_	_
-5	bơ vơ	bơ vơ	ADJ	Adj	_	3	acomp	_	_
+5	bơ vơ	bơ vơ	ADJ	Adj	_	3	xcomp	_	_
 6	...	...	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-10007
@@ -14459,7 +14459,7 @@
 1	anh	anh	NOUN	N	_	3	nsubj	_	_
 2	muốn	muốn	AUX	aux	_	3	aux	_	_
 3	đi	đi	VERB	V	_	0	root	_	_
-4	xa	xa	ADJ	Adj	_	3	acomp	_	_
+4	xa	xa	ADJ	Adj	_	3	xcomp	_	_
 5	cũng	cũng	ADV	Adv	_	3	advmod	_	_
 6	không	không	ADV	Adv	_	7	advmod:neg	_	_
 7	được	được	ADV	Adv	_	3	advmod	_	_
@@ -14998,7 +14998,7 @@
 3	cảm	cảm	VERB	V	_	0	root	_	_
 4	thấy	thấy	VERB	V	_	3	xcomp	_	_
 5	rất	rất	ADV	Adv	_	6	advmod	_	_
-6	đau khổ	đau khổ	ADJ	Adj	_	4	acomp	_	_
+6	đau khổ	đau khổ	ADJ	Adj	_	4	xcomp	_	_
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-10077
@@ -15177,7 +15177,7 @@
 7	chết	chết	VERB	V	_	6	xcomp	_	_
 8	cho	cho	SCONJ	C	_	9	mark:pcomp	_	_
 9	đỡ	đỡ	VERB	V	_	3	advcl:objective	_	_
-10	ngượng	ngượng	ADJ	Adj	_	9	acomp	_	_
+10	ngượng	ngượng	ADJ	Adj	_	9	xcomp	_	_
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-10090
@@ -16749,7 +16749,7 @@
 12	bây giờ	bây giờ	PRON	PRO	_	14	obl:tmod	_	_
 13	nó	nó	PRON	PRO	_	14	nsubj	_	_
 14	trở nên	trở nên	VERB	V	_	4	conj	_	_
-15	duy nhất	duy nhất	ADJ	Adj	_	14	acomp	_	_
+15	duy nhất	duy nhất	ADJ	Adj	_	14	xcomp	_	_
 16	trên	trên	ADV	Pre	_	17	case	_	_
 17	đời	đời	NOUN	N	_	14	obl	_	_
 18	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -16988,7 +16988,7 @@
 2	không	không	ADV	Adv	_	3	advmod:neg	_	_
 3	lường	lường	VERB	V	_	0	root	_	_
 4	được	được	ADV	Adv	_	3	advmod	_	_
-5	hiểm nguy	hiểm nguy	ADJ	Adj	_	3	acomp	_	_
+5	hiểm nguy	hiểm nguy	ADJ	Adj	_	3	xcomp	_	_
 6	,	,	PUNCT	PUNCT	_	8	punct	_	_
 7	tôi	tôi	PRON	PRO	_	8	nsubj	_	_
 8	nghĩ	nghĩ	VERB	V	_	3	parataxis	_	_
@@ -17945,7 +17945,7 @@
 4	hãy	hãy	ADV	Adv	_	5	advmod	_	_
 5	ngồi	ngồi	VERB	V	_	0	root	_	_
 6	hơi	hơi	ADV	Adv	_	7	advmod	_	_
-7	xa	xa	ADJ	Adj	_	5	acomp	_	_
+7	xa	xa	ADJ	Adj	_	5	xcomp	_	_
 8	tớ	tớ	PRON	PRO	_	7	obj	_	_
 9	một tí	một tí	DET	Det	_	7	det	_	_
 10	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -19429,7 +19429,7 @@
 11	tôi	tôi	PRON	PRO	_	12	nsubj	_	_
 12	cảm	cảm	VERB	V	_	0	root	_	_
 13	thấy	thấy	VERB	V	_	12	compound:svc	_	_
-14	buồn bã	buồn bã	ADJ	Adj	_	12	acomp	_	_
+14	buồn bã	buồn bã	ADJ	Adj	_	12	xcomp	_	_
 15	một	một	NUM	Num	_	16	nummod	_	_
 16	cách	cách	NOUN	N	_	12	obl	_	_
 17	kỳ lạ	kỳ lạ	ADJ	Adj	_	16	amod	_	_
@@ -20066,7 +20066,7 @@
 6	lại	lại	ADV	Adv	_	7	advmod	_	_
 7	cảm	cảm	VERB	V	_	0	root	_	_
 8	thấy	thấy	VERB	V	_	7	compound:svc	_	_
-9	lạnh	lạnh	ADJ	Adj	_	7	acomp	_	_
+9	lạnh	lạnh	ADJ	Adj	_	7	xcomp	_	_
 10	buốt	buốt	ADJ	Adj	_	9	advmod:adj	_	_
 11	người	người	NOUN	N	_	9	obj	_	_
 12	vì	vì	ADV	Pre	_	18	mark	_	_
@@ -20165,7 +20165,7 @@
 31	búp bê	búp bê	NOUN	N	_	33	nsubj	_	_
 32	ấy	ấy	PRON	PRO	_	31	det:pmod	_	_
 33	trở nên	trở nên	VERB	V	_	8	conj	_	_
-34	quan trọng	quan trọng	ADJ	Adj	_	33	acomp	_	_
+34	quan trọng	quan trọng	ADJ	Adj	_	33	xcomp	_	_
 35	lắm	lắm	ADV	Adv	_	34	advmod	_	_
 36	,	,	PUNCT	PUNCT	_	38	punct	_	_
 37	ai	ai	PRON	PRO	_	38	nsubj	_	_
@@ -20230,7 +20230,7 @@
 12	làm	làm	VERB	V	_	11	acl:tonp	_	_
 13	chúng ta	chúng ta	PRON	PRO	_	12	obj	_	_
 14	trở nên	trở nên	VERB	V	_	4	conj	_	_
-15	đẹp	đẹp	ADJ	Adj	_	14	acomp	_	_
+15	đẹp	đẹp	ADJ	Adj	_	14	xcomp	_	_
 16	thì	thì	SCONJ	C	_	18	mark	_	_
 17	không thể	không thể	ADV	Adv	_	18	advmod:neg	_	_
 18	nhìn	nhìn	VERB	V	_	0	root	_	_
@@ -20570,7 +20570,7 @@
 12	không	không	ADV	Adv	_	13	advmod:neg	_	_
 13	làm	làm	VERB	V	_	3	parataxis	_	_
 14	tôi	tôi	PRON	PRO	_	13	obj	_	_
-15	đau	đau	ADJ	Adj	_	13	acomp	_	_
+15	đau	đau	ADJ	Adj	_	13	xcomp	_	_
 16	lâu	lâu	ADJ	Adj	_	15	amod	_	_
 17	chứ	chứ	PART	Prt	_	13	discourse	_	_
 18	?	?	PUNCT	PUNCT	_	13	punct	_	_
@@ -21060,7 +21060,7 @@
 8	một	một	NUM	Num	_	9	nummod	_	_
 9	ngày	ngày	NOUN	N	_	6	obl:comp	_	_
 10	trở nên	trở nên	VERB	V	_	6	xcomp	_	_
-11	khác	khác	ADJ	Adj	_	10	acomp	_	_
+11	khác	khác	ADJ	Adj	_	10	xcomp	_	_
 12	những	những	DET	Det	_	13	det	_	_
 13	ngày	ngày	NOUN	N	_	11	obj	_	_
 14	khác	khác	ADJ	Adj	_	13	amod	_	_
@@ -21068,7 +21068,7 @@
 16	một	một	NUM	Num	_	17	nummod	_	_
 17	giờ	giờ	NOUN	Nu	_	18	nsubj	_	_
 18	trở nên	trở nên	VERB	V	_	6	conj	_	_
-19	khác	khác	ADJ	Adj	_	18	acomp	_	_
+19	khác	khác	ADJ	Adj	_	18	xcomp	_	_
 20	những	những	DET	Det	_	21	det	_	_
 21	giờ	giờ	NOUN	N	_	19	obj	_	_
 22	khác	khác	ADJ	Adj	_	21	amod	_	_
@@ -21517,7 +21517,7 @@
 2	em	em	NOUN	N	_	3	nsubj	_	_
 3	lấy	lấy	VERB	V	_	0	root	_	_
 4	lại	lại	VERB	V	_	3	compound:svc	_	_
-5	can đảm	can đảm	ADJ	Adj	_	3	acomp	_	_
+5	can đảm	can đảm	ADJ	Adj	_	3	xcomp	_	_
 6	:	:	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-10481
@@ -21823,7 +21823,7 @@
 4	quan trọng	quan trọng	ADJ	Adj	_	6	csubj	_	_
 5	không thể	không thể	ADV	Adv	_	6	aux	_	_
 6	đi	đi	VERB	V	_	0	root	_	_
-7	lung tung	lung tung	ADJ	Adj	_	6	acomp	_	_
+7	lung tung	lung tung	ADJ	Adj	_	6	xcomp	_	_
 8	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = dev-10504
@@ -21906,7 +21906,7 @@
 5	nào	nào	PRON	PRO	_	3	det:pmod	_	_
 6	uống	uống	VERB	V	_	0	root	_	_
 7	rượu	rượu	NOUN	N	_	6	obj	_	_
-8	nhiều	nhiều	ADJ	Adj	_	6	acomp	_	_
+8	nhiều	nhiều	ADJ	Adj	_	6	xcomp	_	_
 9	quá	quá	ADV	Adv	_	8	advmod	_	_
 10	nữa	nữa	ADV	Adv	_	6	advmod	_	_
 11	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -22555,7 +22555,7 @@
 # sent_id = dev-10556
 # text = nhìn xa xa một chút cảnh đốt đèn đó thật tuyệt diệu .
 1	nhìn	nhìn	VERB	V	_	9	advcl	_	_
-2	xa xa	xa xa	ADJ	Adj	_	1	acomp	_	_
+2	xa xa	xa xa	ADJ	Adj	_	1	xcomp	_	_
 3	một chút	một chút	DET	Det	_	2	det	_	_
 4	cảnh	cảnh	NOUN	N	_	9	nsubj	_	_
 5	đốt	đốt	VERB	V	_	4	acl	_	_
@@ -22607,7 +22607,7 @@
 18	đã	đã	ADV	Adv	_	19	advmod	_	_
 19	cảm	cảm	VERB	V	_	0	root	_	_
 20	thấy	thấy	VERB	V	_	19	compound:svc	_	_
-21	hạnh phúc	hạnh phúc	ADJ	Adj	_	19	acomp	_	_
+21	hạnh phúc	hạnh phúc	ADJ	Adj	_	19	xcomp	_	_
 22	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
 # sent_id = dev-10560
@@ -22641,7 +22641,7 @@
 8	được	được	AUX	aux	_	9	aux:pass	_	_
 9	chứng minh	chứng minh	VERB	V	_	3	acl:tmod	_	_
 10	là	là	SCONJ	C	_	11	mark	_	_
-11	tốt	tốt	ADJ	Adj	_	9	acomp	_	_
+11	tốt	tốt	ADJ	Adj	_	9	xcomp	_	_
 12	rồi	rồi	PART	Prt	_	9	discourse	_	_
 13	,	,	PUNCT	PUNCT	_	3	punct	_	_
 14	thì	thì	SCONJ	C	_	9	cc	_	_
