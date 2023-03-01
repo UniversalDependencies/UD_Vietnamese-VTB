@@ -10751,7 +10751,7 @@
 13	sang	sang	VERB	V	_	8	xcomp	_	_
 14	đoá	đoá	NOUN	Nc	_	15	clf:det	_	_
 15	hoa	hoa	NOUN	N	_	13	obj	_	_
-16	kia	kia	PRON	PRO	15	det:pmod	_	_
+16	kia	kia	PRON	PRO	_	15	det:pmod	_	_
 17	như	như	SCONJ	C	_	20	case	_	_
 18	một	một	NUM	Num	_	20	nummod	_	_
 19	con	con	NOUN	Nc	_	18	clf	_	_
@@ -14246,8 +14246,8 @@
 23	một	một	NUM	Num	_	24	nummod	_	_
 24	câu	câu	NOUN	N	_	22	obj	_	_
 25	hỏi	hỏi	VERB	V	_	24	compound	_	_
-26	,	,	PUNCT	PUNCT	_	21	punct	_	_
-27	một khi	một khi	NOUN	N	_	29	fixed	_	_
+26	,	,	PUNCT	PUNCT	_	30	punct	_	_
+27	một khi	một khi	NOUN	N	_	29	obl:tmod	_	_
 28	đã	đã	ADV	Adv	_	29	advmod	_	_
 29	nêu	nêu	VERB	V	_	24	acl	_	_
 30	nó	nó	PRON	PRO	_	29	obj	_	_
@@ -17162,7 +17162,7 @@
 14	một	một	NUM	NUM	_	15	nummod	_	_
 15	câu	câu	NOUN	N	_	12	obj	_	_
 16	hỏi	hỏi	VERB	V	_	15	compound:vmod	_	_
-17	một khi	một khi	NOUN	N	_	19	fixed	_	_
+17	một khi	một khi	NOUN	N	_	19	obl:tmod	_	_
 18	đã	đã	ADV	ADV	_	19	advmod	_	_
 19	nêu	nêu	VERB	V	_	12	acl	_	_
 20	nó	nó	PROPN	NNP	_	19	obj	_	_
@@ -17172,7 +17172,7 @@
 # sent_id = dev-10246
 # text = " Ta , ông hoàng nhỏ nghĩ thầm , nếu ta có năm mươi ba phút để làm gì thì làm , ta sẽ bước thật nhẹ nhàng đến một cái nguồn nước ... "
 1	"	"	PUNCT	PUNCT	_	22	punct	_	_
-2	Ta	ta	PROPN	NNP	_	6	expl	_	_
+2	Ta	ta	PRON	PRO	_	6	expl	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	ông hoàng	ông hoàng	NOUN	N	_	6	nsubj	_	_
 5	nhỏ	nhỏ	ADJ	ADJ	_	4	amod	_	_
@@ -19829,7 +19829,7 @@
 # sent_id = dev-10416
 # text = - nào có ích gì ...
 1	-	-	PUNCT	PUNCT	_	3	punct	_	_
-2	nào	nào	PRON	PRO	_	3	advmod	_	_
+2	nào	nào	PRON	PRO	_	3	det:mod	_	_
 3	có	có	VERB	V	_	0	root	_	_
 4	ích	ích	NOUN	N	_	3	obj	_	_
 5	gì	gì	ADV	Adv	_	4	advmod	_	_
@@ -21037,7 +21037,7 @@
 37	ta	ta	PRON	PRO	_	39	nsubj	_	_
 38	không	không	ADV	Adv	_	39	advmod:neg	_	_
 39	biết	biết	VERB	V	_	21	conj	_	_
-40	,	,	PUNCT	PUNCT	_	45	punct	_	_
+40	,	,	PUNCT	PUNCT	_	42	punct	_	_
 41	đã	đã	ADV	Adv	_	42	advmod	_	_
 42	có	có	ADV	Adv	_	39	advmod	_	_
 43	hay là	hay là	SCONJ	C	_	44	cc	_	_
@@ -21158,8 +21158,8 @@
 # sent_id = dev-10466
 # text = nếu hai tỷ con người đang sống trên mặt đất này mà đứng khá sát vào nhau , như trong một cuộc meeting , thì họ sẽ đứng gọn trong một quảng trường chỉ rộng hơn hai dặm , dài hai mươi
 1	nếu	nếu	SCONJ	C	_	12	mark	_	_
-2	hai	hai	NUM	Num	_	3	nummod	_	_
-3	tỷ	tỷ	NOUN	N	_	4	flat:number	_	_
+2	hai	hai	NUM	Num	_	4	nummod	_	_
+3	tỷ	tỷ	NUM	Num	_	2	flat:number	_	_
 4	con người	con người	NOUN	N	_	6	nsubj	_	_
 5	đang	đang	ADV	Adv	_	6	advmod	_	_
 6	sống	sống	VERB	V	_	12	csubj	_	_
@@ -21383,8 +21383,8 @@
 41	nghĩa là	nghĩa là	VERB	V	_	42	mark	_	_
 42	vào	vào	VERB	V	_	3	parataxis	_	_
 43	quãng	quãng	NOUN	N	_	42	obj	_	_
-44	hai	hai	NUM	Num	_	45	nummod	_	_
-45	tỉ	tỉ	NUM	Num	_	46	flat:number	_	_
+44	hai	hai	NUM	Num	_	46	nummod	_	_
+45	tỉ	tỉ	NUM	Num	_	44	flat:number	_	_
 46	người lớn	người lớn	NOUN	N	_	43	obj	_	_
 47	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -22733,7 +22733,7 @@
 
 # sent_id = dev-10567
 # text = ở trên đó có một tôn ông già đang viết những cuốn sách dày cộp .
-1	ở	ở	PRE	Pre	_	2	case	_	_
+1	ở	ở	ADP	Pre	_	2	case	_	_
 2	trên	trên	ADV	Pre	_	3	case	_	_
 3	đó	đó	NOUN	N	_	4	obl	_	_
 4	có	có	VERB	V	_	0	root	_	_
@@ -22752,7 +22752,7 @@
 # sent_id = dev-10568
 # text = - vì các bợm nhậu thấy một thành hai .
 1	-	-	PUNCT	PUNCT	_	6	punct	_	_
-2	vì	vì	ADV	Pre	_	6	mark	_	_
+2	vì	vì	ADP	Pre	_	6	mark	_	_
 3	các	các	DET	Det	_	4	det	_	_
 4	bợm	bợm	NOUN	N	_	6	nsubj	_	_
 5	nhậu	nhậu	VERB	V	_	4	compound:vmod	_	_
