@@ -1,0 +1,685 @@
+# sent_id = dev-9001
+# text = Nói là chứng minh ngay .
+1	Nói	nói	VERB	V	_	0	root	_	_
+2	là	là	SCONJ	SC	_	1	cc	_	_
+3	chứng minh	chứng minh	VERB	V	_	1	conj	_	_
+4	ngay	ngay	ADV	ADV	_	3	advmod	_	_
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9002
+# text = Bữa lướt facebook nhỏ bạn thấy có check-in ly trà sữa khổng lồ cùng viên phô mai to ú nụ .
+1	Bữa	bữa	NOUN	N	_	6	obl:tmod	_	_
+2	lướt	lướt	VERB	V	_	6	advcl	_	_
+3	facebook	facebook	NOUN	NB	_	2	obj	_	_
+4	nhỏ	nhỏ	NOUN	N	_	3	nmod:poss	_	_
+5	bạn	bạn	NOUN	N	_	4	nmod	_	_
+6	thấy	thấy	VERB	V	_	0	root	_	_
+7	có	có	ADV	ADV	_	6	advmod	_	_
+8	check-in	check-in	SYM	SYM	_	6	xcomp	_	_
+9	ly	ly	NOUN	N	_	8	obj	_	_
+10	trà sữa	trà sữa	NOUN	N	_	9	nmod	_	_
+11	khổng lồ	khổng lồ	ADJ	ADJ	_	9	amod	_	_
+12	cùng	cùng	SCONJ	SC	_	16	case	_	_
+13	viên	viên	NOUN	N	_	14	det:clf	_	_
+14	phô mai	phô mai	NOUN	NB	_	16	nsubj	_	_
+15	to	to	ADJ	ADJ	_	14	amod	_	_
+16	ú nụ	ú nụ	ADJ	ADJ	_	9	conj	_	_
+17	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-9003
+# text = Ăn hoài không ngán .
+1	Ăn	ăn	VERB	V	_	4	csubj:vsubj	_	_
+2	hoài	hoài	ADV	ADV	_	4	advmod	_	_
+3	không	không	ADV	ADV	_	4	advmod:neg	_	_
+4	ngán	ngán	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9004
+# text = Mình bị hấp dẫn trong ngày từ cái nhìn đầu tiên nên đòi anh người yêu chở đi mua cho bằng được hihi .
+1	Mình	mình	PRON	PRO	_	3	nsubj:pass	_	_
+2	bị	bị	VERB	V	_	3	aux:pass	_	_
+3	hấp dẫn	hấp dẫn	VERB	V	_	11	advcl	_	_
+4	trong	trong	ADP	PRE	_	5	case	_	_
+5	ngày	ngày	NOUN	N	_	3	obl	_	_
+6	từ	từ	ADP	PRE	_	7	case	_	_
+7	cái	cái	NOUN	N	_	3	obl	_	_
+8	nhìn	nhìn	VERB	V	_	7	acl:tonp	_	_
+9	đầu tiên	đầu tiên	ADJ	ADJ	_	7	amod	_	_
+10	nên	nên	SCONJ	SC	_	11	mark	_	_
+11	đòi	đòi	VERB	V	_	0	root	_	_
+12	anh	anh	NOUN	N	_	11	obj	_	_
+13	người yêu	người yêu	NOUN	N	_	12	nmod	_	_
+14	chở	chở	VERB	V	_	11	xcomp	_	_
+15	đi	đi	VERB	V	_	14	compound:svc	_	_
+16	mua	mua	VERB	V	_	14	advcl:objective	_	_
+17	cho	cho	ADP	PRE	_	16	discourse	_	_
+18	bằng được	bằng được	ADV	ADV	_	16	advmod	_	_
+19	hihi	hihi	INTJ	I	_	11	discourse	_	_
+20	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = dev-9005
+# text = Thế là hôm qua cũng rảnh rỗi nên rủ tụi ‘ cạ cứng ’ đi uống thử .
+1	Thế là	thế là	SCONJ	SC	_	6	cc	_	_
+2	hôm qua	hôm qua	NOUN	N	_	4	obl:tmod	_	_
+3	cũng	cũng	ADV	ADV	_	4	advmod	_	_
+4	rảnh rỗi	rảnh rỗi	ADJ	ADJ	_	6	advcl	_	_
+5	nên	nên	SCONJ	SC	_	6	mark	_	_
+6	rủ	rủ	VERB	V	_	0	root	_	_
+7	tụi	tụi	SYM	SYM	_	6	obj	_	_
+8	‘	‘	PUNCT	PUNCT	_	9	punct	_	_
+9	cạ	cạ	NOUN	N	_	7	nmod	_	_
+10	cứng	cứng	ADJ	ADJ	_	9	amod	_	_
+11	’	’	PUNCT	PUNCT	_	9	punct	_	_
+12	đi	đi	VERB	V	_	6	xcomp	_	_
+13	uống	uống	VERB	V	_	12	advcl:objective	_	_
+14	thử	thử	VERB	V	_	13	compound:svc	_	_
+15	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-9006
+# text = Nhóm tụi mình uống 4 ly mà chỉ có 143K thôi .
+1	Nhóm	nhóm	SYM	SYM	_	2	det	_	_
+2	tụi	tụi	SYM	SYM	_	4	nsubj	_	_
+3	mình	mình	PRON	PRO	_	2	det:pmod	_	_
+4	uống	uống	VERB	V	_	0	root	_	_
+5	4	4	NUM	NUM	_	6	nummod	_	_
+6	ly	ly	NOUN	N	_	4	obj	_	_
+7	mà	mà	SCONJ	SC	_	10	cc	_	_
+8	chỉ	chỉ	ADV	ADV	_	10	advmod	_	_
+9	có	có	PART	PRT	_	10	discourse	_	_
+10	143K	143k	SYM	SYM	_	4	conj	_	_
+11	thôi	thôi	PART	PRT	_	10	discourse	_	_
+12	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9007
+# text = Tuy nhiên giá cả cũng có hơi cao 1 tý .
+1	Tuy nhiên	tuy nhiên	SCONJ	SC	_	6	mark	_	_
+2	giá cả	giá cả	NOUN	N	_	6	nsubj	_	_
+3	cũng	cũng	ADV	ADV	_	6	advmod	_	_
+4	có	có	ADV	ADV	_	6	advmod	_	_
+5	hơi	hơi	ADV	ADV	_	6	advmod	_	_
+6	cao	cao	ADJ	ADJ	_	0	root	_	_
+7	1	1	NUM	NUM	_	8	nummod	_	_
+8	tý	tý	NOUN	N	_	6	obl	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-9008
+# text = Hai đứa muốn ngập mặt tại chỗ .
+1	Hai	hai	NUM	NUM	_	2	nummod	_	_
+2	đứa	đứa	SYM	SYM	_	4	nsubj	_	_
+3	muốn	muốn	VERB	V	_	4	aux	_	_
+4	ngập mặt	ngập mặt	ADJ	ADJ	_	0	root	_	_
+5	tại chỗ	tại chỗ	ADJ	ADJ	_	4	compound:adj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9009
+# text = Tối nay bọn mình vừa ghé quán ăn .
+1	Tối	tối	NOUN	N	_	6	obl:tmod	_	_
+2	nay	nay	PRON	PRO	_	1	det:pmod	_	_
+3	bọn	bọn	SYM	SYM	_	6	nsubj	_	_
+4	mình	mình	PRON	PRO	_	3	det:pmod	_	_
+5	vừa	vừa	ADV	ADV	_	6	advmod	_	_
+6	ghé	ghé	VERB	V	_	0	root	_	_
+7	quán	quán	NOUN	N	_	6	obj	_	_
+8	ăn	ăn	NOUN	N	_	6	xcomp	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-9010
+# text = Nhân viên cũng rất thân thiện và nhiệt tình .
+1	Nhân viên	nhân viên	NOUN	N	_	4	nsubj	_	_
+2	cũng	cũng	ADV	ADV	_	4	advmod	_	_
+3	rất	rất	ADV	ADV	_	4	advmod	_	_
+4	thân thiện	thân thiện	ADJ	ADJ	_	0	root	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
+6	nhiệt tình	nhiệt tình	ADJ	ADJ	_	4	conj	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9011
+# text = Pizza thì bán theo size nhé .
+1	Pizza	pizza	NOUN	NB	_	3	nsubj	_	_
+2	thì	thì	SCONJ	SC	_	3	mark	_	_
+3	bán	bán	VERB	V	_	0	root	_	_
+4	theo	theo	VERB	V	_	3	xcomp	_	_
+5	size	size	NOUN	NB	_	4	obj	_	_
+6	nhé	nhé	PART	PRT	_	3	discourse	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9012
+# text = Khu ăn uống nằm chung với khu mua sắm siêu thị luôn nhé .
+1	Khu	khu	NOUN	N	_	3	nsubj	_	_
+2	ăn uống	ăn uống	VERB	V	_	1	compound:vmod	_	_
+3	nằm	nằm	VERB	V	_	0	root	_	_
+4	chung	chung	ADJ	ADJ	_	3	advmod:adj	_	_
+5	với	với	ADP	PRE	_	6	case	_	_
+6	khu	khu	NOUN	N	_	3	obl:comp	_	_
+7	mua sắm	mua sắm	VERB	V	_	6	compound:vmod	_	_
+8	siêu thị	siêu thị	NOUN	N	_	7	conj	_	_
+9	luôn	luôn	ADV	ADV	_	3	advmod	_	_
+10	nhé	nhé	PART	PRT	_	3	discourse	_	_
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9013
+# text = Nói chung giá cũng bình dân 20k-30k thôi .
+1	Nói chung	nói chung	X	X	_	4	advcl	_	_
+2	giá	giá	NOUN	N	_	4	nsubj	_	_
+3	cũng	cũng	ADV	ADV	_	4	advmod	_	_
+4	bình dân	bình dân	ADJ	ADJ	_	0	root	_	_
+5	20k-30k	20k-30k	SYM	SYM	_	4	appos:nmod	_	_
+6	thôi	thôi	PART	PRT	_	5	discourse	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9014
+# text = Có cả khoai mì , bắp , xôi nè .
+1	Có	có	VERB	V	_	0	root	_	_
+2	cả	cả	PART	PRT	_	3	discourse	_	_
+3	khoai mì	khoai mì	NOUN	N	_	1	obj	_	_
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	bắp	bắp	NOUN	N	_	3	conj	_	_
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	xôi	xôi	NOUN	N	_	3	conj	_	_
+8	nè	nè	PART	PRT	_	1	discourse	_	_
+9	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9015
+# text = Gỏi cuốn , Bì cuốn 14k .
+1	Gỏi cuốn	gỏi cuốn	NOUN	N	_	4	nsubj	_	_
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	Bì cuốn	bì cuốn	NOUN	N	_	1	conj	_	_
+4	14k	14k	SYM	SYM	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9016
+# text = Còn đây là quầy mình ăn chơi nhẹ nè .
+1	Còn	còn	SCONJ	SC	_	4	cc	_	_
+2	đây	đây	PRON	PRO	_	4	nsubj	_	_
+3	là	là	AUX	V	_	4	cop	_	_
+4	quầy	quầy	NOUN	N	_	0	root	_	_
+5	mình	mình	PRON	PRO	_	6	nsubj	_	_
+6	ăn chơi	ăn chơi	VERB	V	_	4	acl	_	_
+7	nhẹ	nhẹ	ADJ	ADJ	_	6	advmod:adj	_	_
+8	nè	nè	PART	PRT	_	6	discourse	_	_
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9017
+# text = ly nữa .
+1	ly	ly	NOUN	N	_	0	root	_	_
+2	nữa	nữa	ADV	ADV	_	1	advmod	_	_
+3	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9018
+# text = Nước lèo rất ngon , mình ăn 2 lần nhưng không bị dị ứng vì bột ngọt nhiều .
+1	Nước lèo	nước lèo	NOUN	N	_	3	nsubj	_	_
+2	rất	rất	ADV	ADV	_	3	advmod	_	_
+3	ngon	ngon	ADJ	ADJ	_	0	root	_	_
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	mình	mình	PRON	PRO	_	6	nsubj	_	_
+6	ăn	ăn	VERB	V	_	3	parataxis	_	_
+7	2	2	NUM	NUM	_	8	nummod	_	_
+8	lần	lần	NOUN	N	_	6	obl	_	_
+9	nhưng	nhưng	SCONJ	SC	_	12	cc	_	_
+10	không	không	ADV	ADV	_	12	advmod:neg	_	_
+11	bị	bị	VERB	V	_	12	aux:pass	_	_
+12	dị ứng	dị ứng	VERB	V	_	6	conj	_	_
+13	vì	vì	ADP	PRE	_	14	case	_	_
+14	bột ngọt	bột ngọt	NOUN	N	_	12	obl	_	_
+15	nhiều	nhiều	ADJ	ADJ	_	14	advmod:adj	_	_
+16	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9019
+# text = Dung tích theo mình nghĩ cỡ 1 lít chứ chẳng chơi .
+1	Dung tích	dung tích	NOUN	N	_	7	nsubj	_	_
+2	theo	theo	VERB	V	_	7	advcl	_	_
+3	mình	mình	PRON	PRO	_	4	nsubj	_	_
+4	nghĩ	nghĩ	VERB	V	_	2	ccomp	_	_
+5	cỡ	cỡ	NOUN	N	_	7	advmod	_	_
+6	1	1	NUM	NUM	_	7	nummod	_	_
+7	lít	lít	NOUN	NU	_	0	root	_	_
+8	chứ	chứ	SCONJ	SC	_	10	mark	_	_
+9	chẳng	chẳng	ADV	ADV	_	10	advmod:neg	_	_
+10	chơi	chơi	VERB	V	_	7	xcomp	_	_
+11	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-9020
+# text = phô mai quán làm thơm vị sữa tươi và chút vị béo nhẹ .
+1	phô mai	phô mai	NOUN	NB	_	3	dislocated	_	_
+2	quán	quán	NOUN	N	_	3	nsubj	_	_
+3	làm	làm	VERB	V	_	4	csubj	_	_
+4	thơm	thơm	ADJ	ADJ	_	0	root	_	_
+5	vị	vị	NOUN	N	_	4	obl	_	_
+6	sữa tươi	sữa tươi	NOUN	N	_	5	nmod	_	_
+7	và	và	CCONJ	CC	_	9	cc	_	_
+8	chút	chút	DET	DET	_	9	det	_	_
+9	vị	vị	NOUN	N	_	5	conj	_	_
+10	béo	béo	ADJ	ADJ	_	9	amod	_	_
+11	nhẹ	nhẹ	ADJ	ADJ	_	10	compound:adj	_	_
+12	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9021
+# text = Đây là lần thứ hai , chất lượng ngon vẫn không đổi .
+1	Đây	đây	PRON	PRO	_	3	nsubj	_	_
+2	là	là	AUX	V	_	3	cop	_	_
+3	lần	lần	NOUN	N	_	0	root	_	_
+4	thứ	thứ	NOUN	N	_	3	nmod	_	_
+5	hai	hai	NUM	NUM	_	4	compound	_	_
+6	,	,	PUNCT	PUNCT	_	11	punct	_	_
+7	chất lượng	chất lượng	NOUN	N	_	11	nsubj	_	_
+8	ngon	ngon	ADJ	ADJ	_	7	amod	_	_
+9	vẫn	vẫn	ADV	ADV	_	11	advmod	_	_
+10	không	không	ADV	ADV	_	11	advmod:neg	_	_
+11	đổi	đổi	VERB	V	_	3	conj	_	_
+12	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9022
+# text = Quán này nằm trong hẻm , hơi khó tìm , ở đây đa số khách quen ghé ăn nhiều .
+1	Quán	quán	NOUN	N	_	3	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	nằm	nằm	VERB	V	_	0	root	_	_
+4	trong	trong	ADP	PRE	_	5	case	_	_
+5	hẻm	hẻm	NOUN	N	_	3	obl:comp	_	_
+6	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	hơi	hơi	ADV	ADV	_	9	advmod	_	_
+8	khó	khó	ADJ	ADJ	_	9	advmod:adj	_	_
+9	tìm	tìm	VERB	V	_	3	conj	_	_
+10	,	,	PUNCT	PUNCT	_	3	punct	_	_
+11	ở	ở	ADP	PRE	_	12	case	_	_
+12	đây	đây	PRON	PRO	_	16	obl	_	_
+13	đa số	đa số	DET	DET	_	14	det	_	_
+14	khách	khách	NOUN	N	_	16	nsubj	_	_
+15	quen	quen	VERB	V	_	14	compound:amod	_	_
+16	ghé	ghé	VERB	V	_	3	parataxis	_	_
+17	ăn	ăn	VERB	V	_	16	xcomp	_	_
+18	nhiều	nhiều	ADJ	ADJ	_	16	acomp	_	_
+19	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9023
+# text = Mình nói là ngon lắm nhưng không nghe .
+1	Mình	mình	PRON	PRO	_	2	nsubj	_	_
+2	nói	nói	VERB	V	_	0	root	_	_
+3	là	là	SCONJ	SC	_	4	mark	_	_
+4	ngon	ngon	ADJ	ADJ	_	2	ccomp	_	_
+5	lắm	lắm	ADV	ADV	_	4	advmod	_	_
+6	nhưng	nhưng	SCONJ	SC	_	8	mark	_	_
+7	không	không	ADV	ADV	_	8	advmod:neg	_	_
+8	nghe	nghe	VERB	V	_	2	conj	_	_
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-9024
+# text = 1 viên theo mình nhớ giá chỉ có 9k thôi .
+1	1	1	NUM	NUM	_	2	nummod	_	_
+2	viên	viên	NOUN	N	_	9	dislocated	_	_
+3	theo	theo	VERB	V	_	9	advcl	_	_
+4	mình	mình	PRON	PRO	_	5	nsubj	_	_
+5	nhớ	nhớ	VERB	V	_	3	ccomp	_	_
+6	giá	giá	NOUN	N	_	9	nsubj	_	_
+7	chỉ	chỉ	ADV	ADV	_	9	advmod	_	_
+8	có	có	PART	PRT	_	9	discourse	_	_
+9	9k	9k	SYM	SYM	_	0	root	_	_
+10	thôi	thôi	PART	PRT	_	9	discourse	_	_
+11	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = dev-9025
+# text = Quán mở từ thứ hai đến thứ bảy , 14h tới 18h30 .
+1	Quán	quán	NOUN	N	_	2	nsubj	_	_
+2	mở	mở	VERB	V	_	0	root	_	_
+3	từ	từ	ADP	PRE	_	4	case	_	_
+4	thứ hai	thứ hai	NOUN	N	_	2	obl:comp	_	_
+5	đến	đến	ADP	PRE	_	6	case	_	_
+6	thứ bảy	thứ bảy	NOUN	N	_	4	conj	_	_
+7	,	,	PUNCT	PUNCT	_	8	punct	_	_
+8	14h	14h	SYM	SYM	_	2	conj	_	_
+9	tới	tới	ADP	PRE	_	10	case	_	_
+10	18h30	18h30	SYM	SYM	_	8	flat:time	_	_
+11	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-9026
+# text = Đồ ăn ở đây ngon , giá ok , nhưng quán có một số qui định , ban đầu cũng làm mình bất ngờ .
+1	Đồ ăn	đồ ăn	NOUN	N	_	4	nsubj	_	_
+2	ở	ở	ADP	PRE	_	3	case	_	_
+3	đây	đây	PRON	PRO	_	4	obl	_	_
+4	ngon	ngon	ADJ	ADJ	_	0	root	_	_
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	giá	giá	NOUN	N	_	7	nsubj	_	_
+7	ok	ok	SYM	SYM	_	4	conj	_	_
+8	,	,	PUNCT	PUNCT	_	11	punct	_	_
+9	nhưng	nhưng	SCONJ	SC	_	11	cc	_	_
+10	quán	quán	NOUN	N	_	11	nsubj	_	_
+11	có	có	VERB	V	_	4	conj	_	_
+12	một số	một số	DET	DET	_	13	det	_	_
+13	qui định	qui định	NOUN	N	_	11	obj	_	_
+14	,	,	PUNCT	PUNCT	_	17	punct	_	_
+15	ban đầu	ban đầu	NOUN	N	_	17	obl:tmod	_	_
+16	cũng	cũng	ADV	ADV	_	17	advmod	_	_
+17	làm	làm	VERB	V	_	11	conj	_	_
+18	mình	mình	PRON	PRO	_	17	obj	_	_
+19	bất ngờ	bất ngờ	ADJ	ADJ	_	17	acomp	_	_
+20	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9027
+# text = Không gian quán nhỏ , ngồi ngoài trời thoáng mát .
+1	Không gian	không gian	NOUN	N	_	3	nsubj	_	_
+2	quán	quán	NOUN	N	_	1	nmod	_	_
+3	nhỏ	nhỏ	ADJ	ADJ	_	0	root	_	_
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	ngồi	ngồi	VERB	V	_	7	csubj	_	_
+6	ngoài trời	ngoài trời	X	X	_	5	obl:comp	_	_
+7	thoáng mát	thoáng mát	ADJ	ADJ	_	3	conj	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9028
+# text = Ăn ngon tụi mình còn mua mỗi đứa thêm 1 viên nữa hihi .
+1	Ăn	ăn	VERB	V	_	6	advcl	_	_
+2	ngon	ngon	ADJ	ADJ	_	1	acomp	_	_
+3	tụi	tụi	SYM	SYM	_	6	nsubj	_	_
+4	mình	mình	PRON	PRO	_	3	det:pmod	_	_
+5	còn	còn	ADV	ADV	_	6	advmod	_	_
+6	mua	mua	VERB	V	_	0	root	_	_
+7	mỗi	mỗi	DET	DET	_	8	det	_	_
+8	đứa	đứa	SYM	SYM	_	9	nsubj	_	_
+9	thêm	thêm	VERB	V	_	6	xcomp	_	_
+10	1	1	NUM	NUM	_	11	nummod	_	_
+11	viên	viên	NOUN	N	_	9	obj	_	_
+12	nữa	nữa	ADV	ADV	_	6	advmod	_	_
+13	hihi	hihi	INTJ	I	_	6	discourse	_	_
+14	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-9029
+# text = trên lầu game nhìn xuống nè .
+1	trên	trên	NOUN	N	_	2	case	_	_
+2	lầu	lầu	NOUN	N	_	4	obl	_	_
+3	game	game	NOUN	NB	_	2	nmod	_	_
+4	nhìn	nhìn	VERB	V	_	0	root	_	_
+5	xuống	xuống	VERB	V	_	4	compound:dir	_	_
+6	nè	nè	PART	PRT	_	4	discourse	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9030
+# text = Mì được chú tự làm , rất dai , mềm và có độ beo béo mình rất thích .
+1	Mì	mì	NOUN	N	_	5	nsubj:pass	_	_
+2	được	được	VERB	V	_	5	aux:pass	_	_
+3	chú	chú	NOUN	N	_	5	obl:agent	_	_
+4	tự	tự	PRON	PRO	_	5	advmod	_	_
+5	làm	làm	VERB	V	_	0	root	_	_
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	rất	rất	ADV	ADV	_	8	advmod	_	_
+8	dai	dai	ADJ	ADJ	_	5	conj	_	_
+9	,	,	PUNCT	PUNCT	_	10	punct	_	_
+10	mềm	mềm	ADJ	ADJ	_	8	conj	_	_
+11	và	và	CCONJ	CC	_	12	cc	_	_
+12	có	có	VERB	V	_	5	conj	_	_
+13	độ	độ	NOUN	N	_	12	obj	_	_
+14	beo béo	beo béo	ADJ	ADJ	_	13	compound:amod	_	_
+15	mình	mình	PRON	PRO	_	17	nsubj	_	_
+16	rất	rất	ADV	ADV	_	17	advmod	_	_
+17	thích	thích	VERB	V	_	5	parataxis	_	_
+18	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-9031
+# text = Mấy nhà hàng siêu thị lớn lớn đều có hết ở quận này .
+1	Mấy	mấy	DET	DET	_	2	det	_	_
+2	nhà hàng	nhà hàng	NOUN	N	_	6	nsubj	_	_
+3	siêu thị	siêu thị	NOUN	N	_	2	conj	_	_
+4	lớn lớn	lớn lớn	ADJ	ADJ	_	2	amod	_	_
+5	đều	đều	ADV	ADV	_	6	advmod	_	_
+6	có	có	VERB	V	_	0	root	_	_
+7	hết	hết	VERB	V	_	6	compound:svc	_	_
+8	ở	ở	ADP	PRE	_	9	case	_	_
+9	quận	quận	NOUN	N	_	6	obl:comp	_	_
+10	này	này	PRON	PRO	_	9	det:pmod	_	_
+11	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-9032
+# text = Chụp sơ sài 2 tấm ^^ .
+1	Chụp	chụp	NOUN	N	_	0	root	_	_
+2	sơ sài	sơ sài	ADJ	ADJ	_	1	advmod:adj	_	_
+3	2	2	NUM	NUM	_	4	nummod	_	_
+4	tấm	tấm	NOUN	N	_	1	obj	_	_
+5	^^	^^	PUNCT	PUNCT	_	1	punct	_	_
+6	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9033
+# text = Quầy bánh Puddin và sanwich với cơm nấm các loại .
+1	Quầy	quầy	NOUN	N	_	0	root	_	_
+2	bánh	bánh	NOUN	N	_	1	nmod	_	_
+3	Puddin	puddin	NOUN	NB	_	2	compound	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
+5	sanwich	sanwich	NOUN	NB	_	2	conj	_	_
+6	với	với	ADP	PRE	_	7	case	_	_
+7	cơm	cơm	NOUN	N	_	1	conj	_	_
+8	nấm	nấm	NOUN	N	_	7	nmod	_	_
+9	các	các	DET	DET	_	10	det	_	_
+10	loại	loại	NOUN	N	_	7	nmod	_	_
+11	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9034
+# text = Còn có thêm nước ngọt 10k
+1	Còn	còn	SCONJ	SC	_	2	cc	_	_
+2	có	có	VERB	V	_	0	root	_	_
+3	thêm	thêm	VERB	V	_	2	xcomp	_	_
+4	nước ngọt	nước ngọt	NOUN	N	_	3	obj	_	_
+5	10k	10k	SYM	SYM	_	4	nummod	_	_
+
+# sent_id = dev-9035
+# text = Quầy nước ép trái cây 19k .
+1	Quầy	quầy	NOUN	N	_	5	nsubj	_	_
+2	nước	nước	NOUN	N	_	1	nmod	_	_
+3	ép	ép	VERB	V	_	2	compound:vmod	_	_
+4	trái cây	trái cây	NOUN	N	_	3	obj	_	_
+5	19k	19k	SYM	SYM	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-9036
+# text = Ghê chưa ^^ .
+1	Ghê	ghê	ADJ	ADJ	_	0	root	_	_
+2	chưa	chưa	ADV	ADV	_	1	advmod	_	_
+3	^^	^^	PUNCT	PUNCT	_	1	punct	_	_
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9037
+# text = Với ly khổng lồ thì có mặc định sẵn có trân châu , muốn ăn thêm thạch khác có thể order thêm .
+1	Với	với	ADP	PRE	_	2	case	_	_
+2	ly	ly	NOUN	N	_	6	obl	_	_
+3	khổng lồ	khổng lồ	ADJ	ADJ	_	2	amod	_	_
+4	thì	thì	SCONJ	SC	_	6	mark	_	_
+5	có	có	ADV	ADV	_	6	advmod	_	_
+6	mặc định	mặc định	VERB	V	_	0	root	_	_
+7	sẵn	sẵn	ADJ	ADJ	_	6	advmod:adj	_	_
+8	có	có	VERB	V	_	6	xcomp	_	_
+9	trân châu	trân châu	NOUN	N	_	8	obj	_	_
+10	,	,	PUNCT	PUNCT	_	17	punct	_	_
+11	muốn	muốn	VERB	V	_	12	aux	_	_
+12	ăn	ăn	VERB	V	_	17	advcl	_	_
+13	thêm	thêm	VERB	V	_	12	compound:svc	_	_
+14	thạch	thạch	NOUN	N	_	12	obj	_	_
+15	khác	khác	ADJ	ADJ	_	14	amod	_	_
+16	có thể	có thể	ADV	ADV	_	17	aux	_	_
+17	order	order	SYM	SYM	_	6	appos:nmod	_	_
+18	thêm	thêm	VERB	V	_	17	compound:svc	_	_
+19	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-9038
+# text = Việc múc bằng muỗng để múc phô mai khó lắm nha , to và nặng quá mà .
+1	Việc	việc	NOUN	N	_	8	nsubj	_	_
+2	múc	múc	VERB	V	_	1	acl:subj	_	_
+3	bằng	bằng	ADP	PRE	_	4	case	_	_
+4	muỗng	muỗng	NOUN	N	_	2	obl	_	_
+5	để	để	ADP	PRE	_	6	mark:pcomp	_	_
+6	múc	múc	VERB	V	_	1	advcl:objective	_	_
+7	phô mai	phô mai	NOUN	NB	_	6	obj	_	_
+8	khó	khó	ADJ	ADJ	_	0	root	_	_
+9	lắm	lắm	ADV	ADV	_	8	advmod	_	_
+10	nha	nha	PART	PRT	_	8	discourse	_	_
+11	,	,	PUNCT	PUNCT	_	12	punct	_	_
+12	to	to	ADJ	ADJ	_	8	parataxis	_	_
+13	và	và	CCONJ	CC	_	14	cc	_	_
+14	nặng	nặng	ADJ	ADJ	_	12	conj	_	_
+15	quá	quá	ADV	ADV	_	14	advmod	_	_
+16	mà	mà	PART	PRT	_	12	discourse	_	_
+17	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = dev-9039
+# text = Còn bánh xèo bánh khọt 25k .
+1	Còn	còn	VERB	V	_	4	cc	_	_
+2	bánh xèo	bánh xèo	NOUN	N	_	4	nsubj	_	_
+3	bánh khọt	bánh khọt	NOUN	N	_	2	conj	_	_
+4	25k	25k	SYM	SYM	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9040
+# text = Bánh ướt nè 25k á .
+1	Bánh ướt	bánh ướt	NOUN	N	_	3	nsubj	_	_
+2	nè	nè	PART	PRT	_	1	discourse	_	_
+3	25k	25k	SYM	SYM	_	0	root	_	_
+4	á	á	PART	PRT	_	3	discourse	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9041
+# text = Lầu game đây .
+1	Lầu	lầu	NOUN	N	_	0	root	_	_
+2	game	game	NOUN	NB	_	1	nmod	_	_
+3	đây	đây	PRON	PRO	_	1	det:pmod	_	_
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9042
+# text = Bánh bò bánh các kiểu luôn .
+1	Bánh bò	bánh bò	NOUN	N	_	0	root	_	_
+2	bánh	bánh	NOUN	N	_	1	conj	_	_
+3	các	các	DET	DET	_	4	det	_	_
+4	kiểu	kiểu	NOUN	N	_	2	nmod	_	_
+5	luôn	luôn	ADV	ADV	_	1	advmod	_	_
+6	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-9043
+# text = Đây đây đồ ăn ra rồi ^^ .
+1	Đây	đây	PRON	PRO	_	4	obl	_	_
+2	đây	đây	PRON	PRO	_	1	det:pmod	_	_
+3	đồ ăn	đồ ăn	NOUN	N	_	4	nsubj	_	_
+4	ra	ra	VERB	V	_	0	root	_	_
+5	rồi	rồi	ADV	ADV	_	4	advmod	_	_
+6	^^	^^	PUNCT	PUNCT	_	4	punct	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9044
+# text = Ếch chiên xù 14.4k .
+1	Ếch	ếch	NOUN	N	_	3	nsubj	_	_
+2	chiên xù	chiên xù	VERB	V	_	1	acl:subj	_	_
+3	14.4k	14.4k	SYM	SYM	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-9045
+# text = Gà và khoai tây cân kí nè .
+1	Gà	gà	NOUN	N	_	4	nsubj	_	_
+2	và	và	CCONJ	CC	_	3	cc	_	_
+3	khoai tây	khoai tây	NOUN	N	_	1	conj	_	_
+4	cân	cân	VERB	V	_	0	root	_	_
+5	kí	kí	NOUN	N	_	4	obj	_	_
+6	nè	nè	PART	PRT	_	4	discourse	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-9046
+# text = Thực đơn đúng các món ăn vặt teen khoái khẩu , vì quán gần trường học nên đa số khách là các bạn học sinh .
+1	Thực đơn	thực đơn	NOUN	N	_	2	nsubj	_	_
+2	đúng	đúng	ADJ	ADJ	_	0	root	_	_
+3	các	các	DET	DET	_	4	det	_	_
+4	món	món	NOUN	N	_	7	acl:relcl	_	_
+5	ăn vặt	ăn vặt	VERB	V	_	4	compound:vmod	_	_
+6	teen	teen	NOUN	NB	_	7	nsubj	_	_
+7	khoái khẩu	khoái khẩu	ADJ	ADJ	_	2	ccomp	_	_
+8	,	,	PUNCT	PUNCT	_	10	conj	_	_
+9	vì	vì	ADP	PRE	_	10	cc	_	_
+10	quán	quán	NOUN	N	_	18	obl	_	_
+11	gần	gần	ADJ	ADJ	_	10	acl:subj	_	_
+12	trường học	trường học	NOUN	N	_	11	obl:comp	_	_
+13	nên	nên	SCONJ	SC	_	18	mark	_	_
+14	đa số	đa số	NOUN	N	_	15	det	_	_
+15	khách	khách	NOUN	N	_	18	nsubj	_	_
+16	là	là	SCONJ	SC	_	18	cop	_	_
+17	các	các	DET	DET	_	18	det	_	_
+18	bạn	bạn	NOUN	N	_	2	parataxis	_	_
+19	học sinh	học sinh	NOUN	N	_	18	nmod	_	_
+20	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-9047
+# text = Được nhỏ bạn cứ khen quán hủ tiếu này hoài nên quyết tâm đi ăn cho bằng được . Uống cũng bình thường thôi được cái sữa thơm lắm , trà hơi ít , trân châu thì bình thường .
+1	Được	được	VERB	V	_	11	advcl	_	_
+2	nhỏ	nhỏ	NOUN	N	_	5	nsubj	_	_
+3	bạn	bạn	NOUN	N	_	2	compound	_	_
+4	cứ	cứ	ADV	ADV	_	5	advmod	_	_
+5	khen	khen	VERB	V	_	1	ccomp	_	_
+6	quán	quán	NOUN	N	_	5	obj	_	_
+7	hủ tiếu	hủ tiếu	NOUN	N	_	6	nmod	_	_
+8	này	này	PRON	PRO	_	6	det:pmod	_	_
+9	hoài	hoài	ADV	ADV	_	5	advmod	_	_
+10	nên	nên	SCONJ	SC	_	11	mark	_	_
+11	quyết tâm	quyết tâm	VERB	V	_	0	root	_	_
+12	đi	đi	VERB	V	_	11	xcomp	_	_
+13	ăn	ăn	VERB	V	_	12	compound:svc	_	_
+14	cho	cho	ADP	PRE	_	12	discourse	_	_
+15	bằng được	bằng được	ADV	ADV	_	12	advmod	_	_
+16	.	.	PUNCT	PUNCT	_	11	punct	_	_
+17	Uống	uống	VERB	V	_	11	parataxis	_	_
+18	cũng	cũng	ADV	ADV	_	19	advmod	_	_
+19	bình thường	bình thường	ADJ	ADJ	_	17	acomp	_	_
+20	thôi	thôi	PART	PRT	_	17	discourse	_	_
+21	được cái	được cái	X	X	_	23	mark	_	_
+22	sữa	sữa	NOUN	N	_	23	nsubj	_	_
+23	thơm	thơm	ADJ	ADJ	_	17	parataxis	_	_
+24	lắm	lắm	ADV	ADV	_	23	advmod	_	_
+25	,	,	PUNCT	PUNCT	_	28	punct	_	_
+26	trà	trà	NOUN	N	_	28	nsubj	_	_
+27	hơi	hơi	ADV	ADV	_	28	advmod	_	_
+28	ít	ít	ADJ	ADJ	_	23	conj	_	_
+29	,	,	PUNCT	PUNCT	_	32	punct	_	_
+30	trân châu	trân châu	NOUN	N	_	32	nsubj	_	_
+31	thì	thì	SCONJ	SC	_	32	mark	_	_
+32	bình thường	bình thường	ADJ	ADJ	_	23	conj	_	_
+33	.	.	PUNCT	PUNCT	_	17	punct	_	_
+
+# sent_id = dev-9048
+# text = Cherry Chocolate Mousse 70k
+1	Cherry	cherry	NOUN	NB	_	4	nsubj	_	_
+2	Chocolate	chocolate	NOUN	NB	_	1	flat:name	_	_
+3	Mousse	mousse	NOUN	NB	_	1	flat:name	_	_
+4	70k	70k	SYM	SYM	_	0	root	_	_
+
+# sent_id = dev-9049
+# text = 1 ly , cái ly nhìn siêu đẹp luôn nha mà vị thì hông được ngon cho lắm .
+1	1	1	NUM	NUM	_	2	nummod	_	_
+2	ly	ly	NOUN	N	_	0	root	_	_
+3	,	,	PUNCT	PUNCT	_	6	punct	_	_
+4	cái	cái	NOUN	N	_	5	det:clf	_	_
+5	ly	ly	NOUN	N	_	6	nsubj	_	_
+6	nhìn	nhìn	VERB	V	_	2	appos:nmod	_	_
+7	siêu đẹp	siêu đẹp	ADJ	ADJ	_	6	acomp	_	_
+8	luôn	luôn	ADV	ADV	_	7	advmod	_	_
+9	nha	nha	PART	PRT	_	6	discourse	_	_
+10	mà	mà	SCONJ	SC	_	15	cc	_	_
+11	vị	vị	NOUN	N	_	15	nsubj	_	_
+12	thì	thì	SCONJ	SC	_	15	mark	_	_
+13	hông	hông	ADV	ADV	_	14	advmod:neg	_	_
+14	được	được	ADV	ADV	_	15	aux	_	_
+15	ngon	ngon	ADJ	ADJ	_	6	parataxis	_	_
+16	cho lắm	cho lắm	ADV	ADV	_	15	advmod	_	_
+17	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-9050
+# text = Kẹo này tên là nougat gì đó mình quên tên rồi 55k
+1	Kẹo	kẹo	NOUN	N	_	5	dislocated	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	tên	tên	NOUN	N	_	5	nsubj	_	_
+4	là	là	SCONJ	SC	_	5	cop	_	_
+5	nougat	nougat	NOUN	NB	_	0	root	_	_
+6	gì	gì	PRON	PRO	_	5	nmod	_	_
+7	đó	đó	PRON	PRO	_	6	det:pmod	_	_
+8	mình	mình	PRON	PRO	_	9	nsubj	_	_
+9	quên	quên	VERB	V	_	5	appos:nmod	_	_
+10	tên	tên	NOUN	N	_	9	obj	_	_
+11	rồi	rồi	ADV	ADV	_	9	advmod	_	_
+12	55k	55k	SYM	SYM	_	5	appos:nmod	_	_
+
+# sent_id = dev-9051
+# text = hình như 25k hay sao á .
+1	hình như	hình như	ADV	ADV	_	2	advmod	_	_
+2	25k	25k	SYM	SYM	_	0	root	_	_
+3	hay sao	hay sao	ADV	ADV	_	2	advmod	_	_
+4	á	á	PART	PRT	_	2	discourse	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
