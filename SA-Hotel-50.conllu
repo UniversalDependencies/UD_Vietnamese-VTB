@@ -1,4 +1,4 @@
-# sent_id = dev-10501
+# sent_id = dev-16001
 # text = Ga giường không sạch , nhân viên quên dọn phòng một ngày .
 1	Ga	ga	NOUN	N	_	4	nsubj	_	_
 2	giường	giường	NOUN	N	_	1	nmod	_	_
@@ -13,7 +13,7 @@
 11	ngày	ngày	NOUN	N	_	8	obl:tmod	_	_
 12	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = dev-10502
+# sent_id = dev-16002
 # text = Khăn tắm cũ , dơ .
 1	Khăn tắm	khăn tắm	NOUN	N	_	2	nsubj	_	_
 2	cũ	cũ	ADJ	ADJ	_	0	root	_	_
@@ -21,7 +21,7 @@
 4	dơ	dơ	ADJ	ADJ	_	2	conj	_	_
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10503
+# sent_id = dev-16003
 # text = Đồ dùng trong toilet là đồ sử dụng lại .
 1	Đồ dùng	đồ dùng	NOUN	N	_	5	nsubj	_	_
 2	trong	trong	ADP	PRE	_	3	case	_	_
@@ -32,13 +32,13 @@
 7	lại	lại	ADV	ADV	_	5	advmod	_	_
 8	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = dev-10504
+# sent_id = dev-16004
 # text = Nhân viên dễ thương .
 1	Nhân viên	nhân viên	NOUN	N	_	2	nsubj	_	_
 2	dễ thương	dễ thương	ADJ	ADJ	_	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10505
+# sent_id = dev-16005
 # text = Phòng đẹp , sạch sẽ và gần biển .
 1	Phòng	phòng	NOUN	N	_	2	nsubj	_	_
 2	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
@@ -49,14 +49,14 @@
 7	biển	biển	NOUN	N	_	2	conj	_	_
 8	.	.	PUNCT	PUNCT	_	2	compound	_	_
 
-# sent_id = dev-10506
+# sent_id = dev-16006
 # text = Rộng rãi , sạch sẽ .
 1	Rộng rãi	rộng rãi	ADJ	ADJ	_	0	root	_	_
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
 3	sạch sẽ	sạch sẽ	ADJ	ADJ	_	1	conj	_	_
 4	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = dev-10507
+# sent_id = dev-16007
 # text = khách sạn nhỏ nhưng rất đẹp và sang trọng , nhân viên vui vẻ nhiệt tình , giá cả hợp lý cho một khách sạn gần biển .
 1	khách sạn	khách sạn	NOUN	N	_	2	nsubj	_	_
 2	nhỏ	nhỏ	ADJ	ADJ	_	0	root	_	_
@@ -79,7 +79,7 @@
 19	biển	biển	NOUN	N	_	18	obj	_	_
 20	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10508
+# sent_id = dev-16008
 # text = Không giống như quảng cáo và đánh giá trên booking .
 1	Không	không	ADV	ADV	_	2	advmod:neg	_	_
 2	giống	giống	ADJ	ADJ	_	0	root	_	_
@@ -91,7 +91,7 @@
 8	booking	booking	NOUN	NB	_	4	obl	_	_
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10509
+# sent_id = dev-16009
 # text = Điện thoại bàn không gọi được cho lễ tân .
 1	Điện thoại bàn	điện thoại bàn	NOUN	N	_	3	nsubj	_	_
 2	không	không	ADV	ADV	_	3	advmod:neg	_	_
@@ -101,7 +101,7 @@
 6	lễ tân	lễ tân	NOUN	N	_	3	obl:comp	_	_
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10510
+# sent_id = dev-16010
 # text = Phòng không có view biển như lúc đặt , Tv hay mất cáp .
 1	Phòng	phòng	NOUN	N	_	3	nsubj	_	_
 2	không	không	ADV	ADV	_	3	advmod:neg	_	_
@@ -118,7 +118,7 @@
 13	cáp	cáp	NOUN	N	_	12	obj	_	_
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10511
+# sent_id = dev-16011
 # text = Khách sạn mới xây , nội thất còn rất mới .
 1	Khách sạn	khách sạn	NOUN	N	_	3	nsubj	_	_
 2	mới	mới	ADV	ADV	_	3	advmod	_	_
@@ -130,7 +130,7 @@
 8	mới	mới	ADJ	ADJ	_	3	conj	_	_
 9	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10512
+# sent_id = dev-16012
 # text = Cô dọn phòng cũng quên để các loại khăn và nước free cho phòng mình .
 1	Cô	cô	NOUN	N	_	5	nsubj	_	_
 2	dọn	dọn	VERB	V	_	1	acl:subj	_	_
@@ -149,14 +149,14 @@
 15	mình	mình	PRON	PRO	_	14	det:pmod	_	_
 16	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = dev-10513
+# sent_id = dev-16013
 # text = Khách sạn gần biển .
 1	Khách sạn	khách sạn	NOUN	N	_	2	nsubj	_	_
 2	gần	gần	ADJ	ADJ	_	0	root	_	_
 3	biển	biển	NOUN	N	_	2	obj	_	_
 4	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10514
+# sent_id = dev-16014
 # text = Nền gạch rít do không lau .
 1	Nền	nền	NOUN	N	_	3	nsubj	_	_
 2	gạch	gạch	NOUN	N	_	1	compound	_	_
@@ -166,7 +166,7 @@
 6	lau	lau	VERB	V	_	3	advcl	_	_
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10515
+# sent_id = dev-16015
 # text = Mình book được phòng nằm ngay tầng trệt , cửa gỗ khá chắc chắn .
 1	Mình	mình	PRON	PRO	_	2	nsubj	_	_
 2	book	book	SYM	SYM	_	0	root	_	_
@@ -183,7 +183,7 @@
 13	chắc chắn	chắc chắn	ADJ	ADJ	_	5	conj	_	_
 14	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10516
+# sent_id = dev-16016
 # text = Ngày nào đi chơi về cũng như có cô tấm mới xuất hiện :)) .
 1	Ngày	ngày	NOUN	N	_	3	obl:tmod	_	_
 2	nào	nào	PRON	PRO	_	1	det:pmod	_	_
@@ -200,14 +200,14 @@
 13	:))	:))	PUNCT	PUNCT	_	3	punct	_	_
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10517
+# sent_id = dev-16017
 # text = Cảm giác rất dễ chịu .
 1	Cảm giác	cảm giác	NOUN	N	_	3	nsubj	_	_
 2	rất	rất	ADV	ADV	_	3	advmod	_	_
 3	dễ chịu	dễ chịu	ADJ	ADJ	_	0	root	_	_
 4	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10518
+# sent_id = dev-16018
 # text = Phòng thì rộng và đẹp , giá cũng rẻ nhưng quá tệ phong cách phục vụ .
 1	Phòng	phòng	NOUN	N	_	3	nsubj	_	_
 2	thì	thì	SCONJ	SC	_	3	mark	_	_
@@ -225,7 +225,7 @@
 14	phục vụ	phục vụ	VERB	V	_	13	compound:vmod	_	_
 15	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10519
+# sent_id = dev-16019
 # text = Khách sạn còn cho gửi đồ lại dù đã trả phòng nữa .
 1	Khách sạn	khách sạn	NOUN	N	_	3	nsubj	_	_
 2	còn	còn	ADV	ADV	_	3	advmod	_	_
@@ -240,13 +240,13 @@
 11	nữa	nữa	ADV	ADV	_	3	advmod	_	_
 12	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10520
+# sent_id = dev-16020
 # text = Rất cũ kĩ .
 1	Rất	rất	ADV	ADV	_	2	advmod	_	_
 2	cũ kĩ	cũ kĩ	ADJ	ADJ	_	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10521
+# sent_id = dev-16021
 # text = Tất cả mọi thứ đều sạch sẽ , giường ngủ rất thoải mái .
 1	Tất cả	tất cả	PRON	PRO	_	3	det	_	_
 2	mọi	mọi	DET	DET	_	3	det	_	_
@@ -260,7 +260,7 @@
 10	thoải mái	thoải mái	ADJ	ADJ	_	5	parataxis	_	_
 11	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = dev-10522
+# sent_id = dev-16022
 # text = Nv nhiệt tình , phòng ở sạch sẽ , tiện nghi , vị trí khá thuận tiện cho việc di chuyển đến các địa điểm ăn + chơi Phòng có gián
 1	Nv	nv	NOUN	NY	_	2	nsubj	_	_
 2	nhiệt tình	nhiệt tình	ADJ	ADJ	_	0	root	_	_
@@ -286,7 +286,7 @@
 22	có	có	VERB	V	_	2	parataxis	_	_
 23	gián	gián	NOUN	N	_	22	obj	_	_
 
-# sent_id = dev-10523
+# sent_id = dev-16023
 # text = Đi bộ ra biển gần , tiện đi lại Phòng view biển nhưng cửa sổ view biển khá bé
 1	Đi	đi	VERB	V	_	0	root	_	_
 2	bộ	bộ	NOUN	N	_	1	obj	_	_
@@ -306,7 +306,7 @@
 16	khá	khá	ADV	ADV	_	17	advmod	_	_
 17	bé	bé	ADJ	ADJ	_	1	parataxis	_	_
 
-# sent_id = dev-10524
+# sent_id = dev-16024
 # text = Không có quạt điện mà chỉ có điều hòa nên có chút bất tiện .
 1	Không	không	ADV	ADV	_	2	advmod:neg	_	_
 2	có	có	VERB	V	_	11	advcl	_	_
@@ -321,7 +321,7 @@
 11	bất tiện	bất tiện	ADJ	ADJ	_	0	root	_	_
 12	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
-# sent_id = dev-10525
+# sent_id = dev-16025
 # text = phòng ốc mới , sang trọng , giường thoải mái , sạch sẽ Chỗ để xe hơi chật chọi{chội}
 1	phòng ốc	phòng ốc	NOUN	N	_	2	nsubj	_	_
 2	mới	mới	ADJ	ADJ	_	0	root	_	_
@@ -338,7 +338,7 @@
 13	hơi	hơi	ADV	ADV	_	14	advmod	_	_
 14	chật chọi{chội}	chật chọi{chội}	ADJ	ADJ	_	2	parataxis	_	_
 
-# sent_id = dev-10526
+# sent_id = dev-16026
 # text = Không phải đồ nguyên seal
 1	Không	không	ADV	ADV	_	2	advmod:neg	_	_
 2	phải	phải	VERB	V	_	0	root	_	_
@@ -346,7 +346,7 @@
 4	nguyên	nguyên	ADJ	ADJ	_	3	advmod:adj	_	_
 5	seal	seal	X	X	_	3	nmod	_	_
 
-# sent_id = dev-10527
+# sent_id = dev-16027
 # text = Có chỗ trong phòng không bắt được wifi
 1	Có	có	VERB	V	_	6	csubj:vsubj	_	_
 2	chỗ	chỗ	NOUN	N	_	1	obj	_	_
@@ -357,7 +357,7 @@
 7	được	được	ADV	ADV	_	6	compound:svc	_	_
 8	wifi	wifi	SYM	SYM	_	6	obj	_	_
 
-# sent_id = dev-10528
+# sent_id = dev-16028
 # text = Làm mình phải kêu rất nhiều .
 1	Làm	làm	VERB	V	_	0	root	_	_
 2	mình	mình	PRON	PRO	_	1	obj	_	_
@@ -367,7 +367,7 @@
 6	nhiều	nhiều	ADJ	ADJ	_	4	advmod:adj	_	_
 7	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = dev-10529
+# sent_id = dev-16029
 # text = Khách sạn cách cửa hàng tiện lợi vài ba căn , nằm rất gần biển ( khoảng 5p đi bộ ) .
 1	Khách sạn	khách sạn	NOUN	N	_	2	nsubj	_	_
 2	cách	cách	VERB	V	_	0	root	_	_
@@ -388,7 +388,7 @@
 17	)	)	PUNCT	PUNCT	_	13	punct	_	_
 18	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10530
+# sent_id = dev-16030
 # text = Toilet bẩn , bàn trà bẩn , lau không sạch , còn rất nhiều vết trà và cà phê cũ .
 1	Toilet	toilet	NOUN	NB	_	2	nsubj	_	_
 2	bẩn	bẩn	ADJ	ADJ	_	0	root	_	_
@@ -410,7 +410,7 @@
 18	cũ	cũ	ADJ	ADJ	_	17	amod	_	_
 19	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10531
+# sent_id = dev-16031
 # text = Chúng tôi được yêu cầu không động vào giường bên cạnh vì giá đặt là phòng 1 giường .
 1	Chúng tôi	chúng tôi	PRON	PRO	_	3	nsubj:pass	_	_
 2	được	được	VERB	V	_	3	aux:pass	_	_
@@ -429,7 +429,7 @@
 15	giường	giường	NOUN	N	_	13	nmod	_	_
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = dev-10532
+# sent_id = dev-16032
 # text = Nếu lần sau thay đổi thì mình sẽ đến lại vì giá ok .
 1	Nếu	nếu	SCONJ	SC	_	4	case	_	_
 2	lần	lần	NOUN	N	_	4	obl:tmod	_	_
@@ -445,7 +445,7 @@
 12	ok	ok	SYM	SYM	_	8	advcl	_	_
 13	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = dev-10533
+# sent_id = dev-16033
 # text = Trong khi lại để trà và cà phê trên bàn .
 1	Trong	trong	ADP	PRE	_	2	case	_	_
 2	khi	khi	NOUN	N	_	4	obl:tmod	_	_
@@ -458,7 +458,7 @@
 9	bàn	bàn	NOUN	N	_	4	obl:comp	_	_
 10	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = dev-10534
+# sent_id = dev-16034
 # text = Mình mang theo bé 3 tháng phải trả phòng trong đêm vì muỗi quá nhiều không thể ngủ được .
 1	Mình	mình	PRON	PRO	_	2	nsubj	_	_
 2	mang	mang	VERB	V	_	8	csubj	_	_
@@ -480,7 +480,7 @@
 18	được	được	ADV	ADV	_	17	advmod	_	_
 19	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = dev-10535
+# sent_id = dev-16035
 # text = Ok không sao nhưng phòng quá nhiều muỗi .
 1	Ok	ok	SYM	SYM	_	7	discourse	_	_
 2	không	không	ADV	ADV	_	3	advmod:neg	_	_
@@ -492,7 +492,7 @@
 8	muỗi	muỗi	NOUN	N	_	7	obj	_	_
 9	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = dev-10536
+# sent_id = dev-16036
 # text = Nhưng mà mấy bạn lễ tân dễ thương lắm , ra nói cô quên cái là mấy bạn lấy đưa liền .
 1	Nhưng mà	nhưng mà	SCONJ	SC	_	5	mark	_	_
 2	mấy	mấy	DET	DET	_	3	det	_	_
@@ -514,7 +514,7 @@
 18	liền	liền	ADV	ADV	_	17	compound:prt	_	_
 19	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = dev-10537
+# sent_id = dev-16037
 # text = Không có ly uống nước , mặc dù đi thang máy xuống nhiều lần nhưng ks bảo không có ly .
 1	Không	không	ADV	ADV	_	2	advmod:neg	_	_
 2	có	có	VERB	V	_	0	root	_	_
@@ -536,7 +536,7 @@
 18	ly	ly	NOUN	N	_	17	obj	_	_
 19	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10538
+# sent_id = dev-16038
 # text = Wifi + nước mạnh , .
 1	Wifi	wifi	SYM	SYM	_	4	nsubj	_	_
 2	+	+	PUNCT	PUNCT	_	3	punct	_	_
@@ -545,7 +545,7 @@
 5	,	,	PUNCT	PUNCT	_	4	punct	_	_
 6	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = dev-10539
+# sent_id = dev-16039
 # text = Khách sạn gần biển nên buổitối chỉ cần rảnh là ra được biển chơi .
 1	Khách sạn	khách sạn	NOUN	N	_	2	nsubj	_	_
 2	gần	gần	ADJ	ADJ	_	10	advcl	_	_
@@ -562,7 +562,7 @@
 13	chơi	chơi	VERB	V	_	12	advcl:objective	_	_
 14	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = dev-10540
+# sent_id = dev-16040
 # text = Tuy hơi xa trung tâm thành phố nhưng cũng không ảnh hưởng gì nhiều vì đường phố Đà Nẵng khá rộng , thoáng , dễ đi .
 1	Tuy	tuy	SCONJ	SC	_	3	mark	_	_
 2	hơi	hơi	ADV	ADV	_	3	advmod	_	_
@@ -587,7 +587,7 @@
 21	đi	đi	VERB	V	_	20	compound:atov	_	_
 22	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
-# sent_id = dev-10541
+# sent_id = dev-16041
 # text = Lễ tân nhiệt tình , vui vẻ , hôm đầu tiên vào nhận phòng lễ tân có nói rõ nước nào tính tiền và free ( cảm giác khá rõ ràng ) , phòng rất sạch và thơm .
 1	Lễ tân	lễ tân	NOUN	N	_	2	nsubj	_	_
 2	nhiệt tình	nhiệt tình	ADJ	ADJ	_	0	root	_	_
@@ -622,7 +622,7 @@
 31	thơm	thơm	ADJ	ADJ	_	29	conj	_	_
 32	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = dev-10542
+# sent_id = dev-16042
 # text = Giường sạch sẽ , thoải mái , đầy đủ thiết bị cần thiết , ăn cũng trang bị sẵn nếu bạn lười Phòng tắm chưa chia được ko gian khô và ướt
 1	Giường	giường	NOUN	N	_	2	nsubj	_	_
 2	sạch sẽ	sạch sẽ	ADJ	ADJ	_	0	root	_	_
@@ -649,7 +649,7 @@
 23	và	và	CCONJ	SC	_	24	cc	_	_
 24	ướt	ướt	ADJ	ADJ	_	21	conj	_	_
 
-# sent_id = dev-10543
+# sent_id = dev-16043
 # text = Phòng đúng là cách âm không được tốt .
 1	Phòng	phòng	NOUN	N	_	4	nsubj	_	_
 2	đúng	đúng	ADJ	ADJ	_	4	advmod:adj	_	_
@@ -660,7 +660,7 @@
 7	tốt	tốt	ADJ	ADJ	_	4	advmod:adj	_	_
 8	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = dev-10544
+# sent_id = dev-16044
 # text = Theo đánh giá khen trên booking đa phần nói nội thất mới mình không hề thấy mới .
 1	Theo	theo	ADP	PRE	_	7	advcl	_	_
 2	đánh giá	đánh giá	VERB	V	_	1	xcomp	_	_
@@ -678,7 +678,7 @@
 14	mới	mới	ADJ	ADJ	_	13	acomp	_	_
 15	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = dev-10545
+# sent_id = dev-16045
 # text = Và tệ nhất là không gạc{gạt} công tắt{tắc} máy lạnh , mình phải xuống tận lễ tân yêu cầu .
 1	Và	và	SCONJ	SC	_	12	cc	_	_
 2	tệ	tệ	ADJ	ADJ	_	12	advcl	_	_
@@ -697,7 +697,7 @@
 15	yêu cầu	yêu cầu	VERB	V	_	12	xcomp	_	_
 16	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = dev-10546
+# sent_id = dev-16046
 # text = Đặt phòng suite nhưng vì hết nên cho lên phòng cao nhất nằm phía sau , k có cửa kính ban công như đã Book trước đó .
 1	Đặt	đặt	VERB	V	_	8	csubj	_	_
 2	phòng	phòng	NOUN	N	_	1	obj	_	_
@@ -726,7 +726,7 @@
 25	đó	đó	PRON	PRO	_	24	det:pmod	_	_
 26	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
-# sent_id = dev-10547
+# sent_id = dev-16047
 # text = Từ khi vào ở đến lúc check out lễ tân đều đi ngủ trong phòng không ra tiếp khách .
 1	Từ	từ	ADP	PRE	_	2	case	_	_
 2	khi	khi	NOUN	N	_	10	obl:tmod	_	_
@@ -747,7 +747,7 @@
 17	khách	khách	NOUN	N	_	16	obj	_	_
 18	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
-# sent_id = dev-10548
+# sent_id = dev-16048
 # text = Nói chung với giá mình book được so với tiện nghi thì không còn gì để chê trách .
 1	Nói chung	nói chung	X	X	_	12	advcl	_	_
 2	với	với	ADP	PRE	_	3	case	_	_
@@ -766,7 +766,7 @@
 15	chê trách	chê trách	VERB	V	_	12	advcl:objective	_	_
 16	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
-# sent_id = dev-10549
+# sent_id = dev-16049
 # text = Phòng khá ổn so với giá tiền , mình cho là khá đầy đủ tiện nghi và sạch sẽ ( có máy sấy tóc , ấm đun sẵn trong phòng , cả wifi và nước nóng đều tốt ) .
 1	Phòng	phòng	NOUN	N	_	3	nsubj	_	_
 2	khá	khá	ADV	ADV	_	3	advmod	_	_
