@@ -47,7 +47,7 @@
 5	và	và	CCONJ	SC	_	7	cc	_	_
 6	gần	gần	ADJ	ADJ	_	7	advmod:adj	_	_
 7	biển	biển	NOUN	N	_	2	conj	_	_
-8	.	.	PUNCT	PUNCT	_	2	compound	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = dev-16006
 # text = Rộng rãi , sạch sẽ .
@@ -317,7 +317,7 @@
 7	điều hòa	điều hòa	NOUN	N	_	6	obj	_	_
 8	nên	nên	SCONJ	SC	_	11	mark	_	_
 9	có	có	ADV	ADV	_	11	advmod	_	_
-10	chút	chút	NOUN	N	_	9	det	_	_
+10	chút	chút	DET	DET	_	9	det	_	_
 11	bất tiện	bất tiện	ADJ	ADJ	_	0	root	_	_
 12	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
@@ -361,7 +361,7 @@
 # text = Làm mình phải kêu rất nhiều .
 1	Làm	làm	VERB	V	_	0	root	_	_
 2	mình	mình	PRON	PRO	_	1	obj	_	_
-3	phải	phải	VERB	V	_	4	aux	_	_
+3	phải	phải	AUX	AUX	_	4	aux	_	_
 4	kêu	kêu	VERB	V	_	1	xcomp	_	_
 5	rất	rất	ADV	ADV	_	6	advmod	_	_
 6	nhiều	nhiều	ADJ	ADJ	_	4	advmod:adj	_	_
@@ -398,7 +398,7 @@
 6	,	,	PUNCT	PUNCT	_	7	punct	_	_
 7	lau	lau	VERB	V	_	5	conj	_	_
 8	không	không	ADV	ADV	_	9	advmod:neg	_	_
-9	sạch	sạch	ADJ	ADJ	_	7	acomp	_	_
+9	sạch	sạch	ADJ	ADJ	_	7	xcomp	_	_
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	còn	còn	VERB	V	_	2	conj	_	_
 12	rất	rất	ADV	ADV	_	14	advmod	_	_
@@ -413,7 +413,7 @@
 # sent_id = dev-16031
 # text = Chúng tôi được yêu cầu không động vào giường bên cạnh vì giá đặt là phòng 1 giường .
 1	Chúng tôi	chúng tôi	PRON	PRO	_	3	nsubj:pass	_	_
-2	được	được	VERB	V	_	3	aux:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
 3	yêu cầu	yêu cầu	VERB	V	_	0	root	_	_
 4	không	không	ADV	ADV	_	5	advmod:neg	_	_
 5	động	động	VERB	V	_	3	xcomp	_	_
@@ -423,7 +423,7 @@
 9	vì	vì	ADP	PRE	_	13	mark	_	_
 10	giá	giá	NOUN	N	_	13	nsubj	_	_
 11	đặt	đặt	VERB	V	_	10	acl	_	_
-12	là	là	ADP	PRE	_	13	cop	_	_
+12	là	là	AUX	AUX	_	13	cop	_	_
 13	phòng	phòng	NOUN	N	_	3	advcl	_	_
 14	1	1	NUM	NUM	_	15	nummod	_	_
 15	giường	giường	NOUN	N	_	13	nmod	_	_
@@ -466,7 +466,7 @@
 4	bé	bé	NOUN	N	_	2	obj	_	_
 5	3	3	NUM	NUM	_	6	nummod	_	_
 6	tháng	tháng	NOUN	N	_	4	nmod	_	_
-7	phải	phải	VERB	V	_	8	aux	_	_
+7	phải	phải	AUX	AUX	_	8	aux	_	_
 8	trả	trả	VERB	V	_	0	root	_	_
 9	phòng	phòng	NOUN	N	_	8	obj	_	_
 10	trong	trong	ADP	PRE	_	11	case	_	_
@@ -484,7 +484,7 @@
 # text = Ok không sao nhưng phòng quá nhiều muỗi .
 1	Ok	ok	SYM	SYM	_	7	discourse	_	_
 2	không	không	ADV	ADV	_	3	advmod:neg	_	_
-3	sao	sao	PRON	PRO	_	7	advmod	_	_
+3	sao	sao	PRON	PRO	_	7	det:pmod	_	_
 4	nhưng	nhưng	SCONJ	SC	_	7	cc	_	_
 5	phòng	phòng	NOUN	N	_	7	nsubj	_	_
 6	quá	quá	ADV	ADV	_	7	advmod	_	_
@@ -525,7 +525,7 @@
 7	mặc dù	mặc dù	SCONJ	SC	_	8	cc	_	_
 8	đi	đi	VERB	V	_	2	conj	_	_
 9	thang máy	thang máy	NOUN	N	_	8	obl	_	_
-10	xuống	xuống	VERB	V	_	8	advmod:dir	_	_
+10	xuống	xuống	VERB	V	_	8	xcomp:dir	_	_
 11	nhiều	nhiều	ADJ	ADJ	_	12	advmod:adj	_	_
 12	lần	lần	NOUN	N	_	8	obl	_	_
 13	nhưng	nhưng	SCONJ	SC	_	15	cc	_	_
@@ -554,7 +554,7 @@
 5	buổitối	buổitối	NOUN	N	_	10	obl:tmod	_	_
 6	chỉ	chỉ	ADV	ADV	_	7	advmod	_	_
 7	cần	cần	VERB	V	_	10	advcl	_	_
-8	rảnh	rảnh	ADJ	ADJ	_	7	acomp	_	_
+8	rảnh	rảnh	ADJ	ADJ	_	7	xcomp	_	_
 9	là	là	SCONJ	SC	_	10	mark	_	_
 10	ra	ra	VERB	V	_	0	root	_	_
 11	được	được	ADV	ADV	_	10	compound:prt	_	_
@@ -600,7 +600,7 @@
 9	nhận	nhận	VERB	V	_	8	compound:svc	_	_
 10	phòng	phòng	NOUN	N	_	9	obj	_	_
 11	lễ tân	lễ tân	NOUN	N	_	13	nsubj	_	_
-12	có	có	VERB	V	_	13	advmod	_	_
+12	có	có	ADV	ADV	_	13	advmod	_	_
 13	nói	nói	VERB	V	_	2	conj	_	_
 14	rõ	rõ	ADJ	ADJ	_	13	advmod:adj	_	_
 15	nước	nước	NOUN	N	_	13	obj	_	_
@@ -675,7 +675,7 @@
 11	không	không	ADV	ADV	_	13	advmod:neg	_	_
 12	hề	hề	PART	PRT	_	11	discourse	_	_
 13	thấy	thấy	VERB	V	_	7	parataxis	_	_
-14	mới	mới	ADJ	ADJ	_	13	acomp	_	_
+14	mới	mới	ADJ	ADJ	_	13	xcomp	_	_
 15	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = dev-16045
@@ -690,7 +690,7 @@
 8	máy lạnh	máy lạnh	NOUN	N	_	7	nmod	_	_
 9	,	,	PUNCT	PUNCT	_	12	punct	_	_
 10	mình	mình	PRON	PRO	_	12	nsubj	_	_
-11	phải	phải	VERB	V	_	12	aux	_	_
+11	phải	phải	AUX	AUX	_	12	aux	_	_
 12	xuống	xuống	VERB	V	_	0	root	_	_
 13	tận	tận	ADP	PRE	_	14	case	_	_
 14	lễ tân	lễ tân	NOUN	N	_	12	obj	_	_

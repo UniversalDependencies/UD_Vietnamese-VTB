@@ -20,7 +20,7 @@
 10	trà sữa	trà sữa	NOUN	N	_	9	nmod	_	_
 11	khổng lồ	khổng lồ	ADJ	ADJ	_	9	amod	_	_
 12	cùng	cùng	SCONJ	SC	_	16	case	_	_
-13	viên	viên	NOUN	N	_	14	det:clf	_	_
+13	viên	viên	NOUN	N	_	14	clf:det	_	_
 14	phô mai	phô mai	NOUN	NB	_	16	nsubj	_	_
 15	to	to	ADJ	ADJ	_	14	amod	_	_
 16	ú nụ	ú nụ	ADJ	ADJ	_	9	conj	_	_
@@ -37,7 +37,7 @@
 # sent_id = dev-15004
 # text = Mình bị hấp dẫn trong ngày từ cái nhìn đầu tiên nên đòi anh người yêu chở đi mua cho bằng được hihi .
 1	Mình	mình	PRON	PRO	_	3	nsubj:pass	_	_
-2	bị	bị	VERB	V	_	3	aux:pass	_	_
+2	bị	bị	AUX	AUX	_	3	aux:pass	_	_
 3	hấp dẫn	hấp dẫn	VERB	V	_	11	advcl	_	_
 4	trong	trong	ADP	PRE	_	5	case	_	_
 5	ngày	ngày	NOUN	N	_	3	obl	_	_
@@ -77,8 +77,8 @@
 
 # sent_id = dev-15006
 # text = Nhóm tụi mình uống 4 ly mà chỉ có 143K thôi .
-1	Nhóm	nhóm	SYM	SYM	_	2	det	_	_
-2	tụi	tụi	SYM	SYM	_	4	nsubj	_	_
+1	Nhóm	nhóm	NOUN	N	_	2	nmod	_	_
+2	tụi	tụi	NOUN	N	_	4	nsubj	_	_
 3	mình	mình	PRON	PRO	_	2	det:pmod	_	_
 4	uống	uống	VERB	V	_	0	root	_	_
 5	4	4	NUM	NUM	_	6	nummod	_	_
@@ -106,7 +106,7 @@
 # text = Hai đứa muốn ngập mặt tại chỗ .
 1	Hai	hai	NUM	NUM	_	2	nummod	_	_
 2	đứa	đứa	SYM	SYM	_	4	nsubj	_	_
-3	muốn	muốn	VERB	V	_	4	aux	_	_
+3	muốn	muốn	AUX	AUX	_	4	aux	_	_
 4	ngập mặt	ngập mặt	ADJ	ADJ	_	0	root	_	_
 5	tại chỗ	tại chỗ	ADJ	ADJ	_	4	compound:adj	_	_
 6	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -217,7 +217,7 @@
 8	lần	lần	NOUN	N	_	6	obl	_	_
 9	nhưng	nhưng	SCONJ	SC	_	12	cc	_	_
 10	không	không	ADV	ADV	_	12	advmod:neg	_	_
-11	bị	bị	VERB	V	_	12	aux:pass	_	_
+11	bị	bị	AUX	AUX	_	12	aux:pass	_	_
 12	dị ứng	dị ứng	VERB	V	_	6	conj	_	_
 13	vì	vì	ADP	PRE	_	14	case	_	_
 14	bột ngọt	bột ngọt	NOUN	N	_	12	obl	_	_
@@ -230,7 +230,7 @@
 2	theo	theo	VERB	V	_	7	advcl	_	_
 3	mình	mình	PRON	PRO	_	4	nsubj	_	_
 4	nghĩ	nghĩ	VERB	V	_	2	ccomp	_	_
-5	cỡ	cỡ	NOUN	N	_	7	advmod	_	_
+5	cỡ	cỡ	NOUN	N	_	7	nmod	_	_
 6	1	1	NUM	NUM	_	7	nummod	_	_
 7	lít	lít	NOUN	NU	_	0	root	_	_
 8	chứ	chứ	SCONJ	SC	_	10	mark	_	_
@@ -287,7 +287,7 @@
 15	quen	quen	VERB	V	_	14	compound:amod	_	_
 16	ghé	ghé	VERB	V	_	3	parataxis	_	_
 17	ăn	ăn	VERB	V	_	16	xcomp	_	_
-18	nhiều	nhiều	ADJ	ADJ	_	16	acomp	_	_
+18	nhiều	nhiều	ADJ	ADJ	_	16	xcomp	_	_
 19	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-15023
@@ -350,7 +350,7 @@
 16	cũng	cũng	ADV	ADV	_	17	advmod	_	_
 17	làm	làm	VERB	V	_	11	conj	_	_
 18	mình	mình	PRON	PRO	_	17	obj	_	_
-19	bất ngờ	bất ngờ	ADJ	ADJ	_	17	acomp	_	_
+19	bất ngờ	bất ngờ	ADJ	ADJ	_	17	xcomp	_	_
 20	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = dev-15027
@@ -367,7 +367,7 @@
 # sent_id = dev-15028
 # text = Ăn ngon tụi mình còn mua mỗi đứa thêm 1 viên nữa hihi .
 1	Ăn	ăn	VERB	V	_	6	advcl	_	_
-2	ngon	ngon	ADJ	ADJ	_	1	acomp	_	_
+2	ngon	ngon	ADJ	ADJ	_	1	xcomp	_	_
 3	tụi	tụi	SYM	SYM	_	6	nsubj	_	_
 4	mình	mình	PRON	PRO	_	3	det:pmod	_	_
 5	còn	còn	ADV	ADV	_	6	advmod	_	_
@@ -394,9 +394,9 @@
 # sent_id = dev-15030
 # text = Mì được chú tự làm , rất dai , mềm và có độ beo béo mình rất thích .
 1	Mì	mì	NOUN	N	_	5	nsubj:pass	_	_
-2	được	được	VERB	V	_	5	aux:pass	_	_
+2	được	được	AUX	AUX	_	5	aux:pass	_	_
 3	chú	chú	NOUN	N	_	5	obl:agent	_	_
-4	tự	tự	PRON	PRO	_	5	advmod	_	_
+4	tự	tự	PRON	PRO	_	5	det:pmod	_	_
 5	làm	làm	VERB	V	_	0	root	_	_
 6	,	,	PUNCT	PUNCT	_	8	punct	_	_
 7	rất	rất	ADV	ADV	_	8	advmod	_	_
@@ -485,12 +485,12 @@
 8	có	có	VERB	V	_	6	xcomp	_	_
 9	trân châu	trân châu	NOUN	N	_	8	obj	_	_
 10	,	,	PUNCT	PUNCT	_	17	punct	_	_
-11	muốn	muốn	VERB	V	_	12	aux	_	_
+11	muốn	muốn	AUX	AUX	_	12	aux	_	_
 12	ăn	ăn	VERB	V	_	17	advcl	_	_
 13	thêm	thêm	VERB	V	_	12	compound:svc	_	_
 14	thạch	thạch	NOUN	N	_	12	obj	_	_
 15	khác	khác	ADJ	ADJ	_	14	amod	_	_
-16	có thể	có thể	ADV	ADV	_	17	aux	_	_
+16	có thể	có thể	AUX	AUX	_	17	aux	_	_
 17	order	order	SYM	SYM	_	6	appos:nmod	_	_
 18	thêm	thêm	VERB	V	_	17	compound:svc	_	_
 19	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -517,7 +517,7 @@
 
 # sent_id = dev-15039
 # text = Còn bánh xèo bánh khọt 25k .
-1	Còn	còn	VERB	V	_	4	cc	_	_
+1	Còn	còn	SCONJ	SC	_	4	cc	_	_
 2	bánh xèo	bánh xèo	NOUN	N	_	4	nsubj	_	_
 3	bánh khọt	bánh khọt	NOUN	N	_	2	conj	_	_
 4	25k	25k	SYM	SYM	_	0	root	_	_
@@ -583,15 +583,15 @@
 5	ăn vặt	ăn vặt	VERB	V	_	4	compound:vmod	_	_
 6	teen	teen	NOUN	NB	_	7	nsubj	_	_
 7	khoái khẩu	khoái khẩu	ADJ	ADJ	_	2	ccomp	_	_
-8	,	,	PUNCT	PUNCT	_	10	conj	_	_
+8	,	,	PUNCT	PUNCT	_	10	punct	_	_
 9	vì	vì	ADP	PRE	_	10	cc	_	_
 10	quán	quán	NOUN	N	_	18	obl	_	_
 11	gần	gần	ADJ	ADJ	_	10	acl:subj	_	_
 12	trường học	trường học	NOUN	N	_	11	obl:comp	_	_
 13	nên	nên	SCONJ	SC	_	18	mark	_	_
-14	đa số	đa số	NOUN	N	_	15	det	_	_
+14	đa số	đa số	DET	DET	_	15	det	_	_
 15	khách	khách	NOUN	N	_	18	nsubj	_	_
-16	là	là	SCONJ	SC	_	18	cop	_	_
+16	là	là	AUX	AUX	_	18	cop	_	_
 17	các	các	DET	DET	_	18	det	_	_
 18	bạn	bạn	NOUN	N	_	2	parataxis	_	_
 19	học sinh	học sinh	NOUN	N	_	18	nmod	_	_
@@ -617,7 +617,7 @@
 16	.	.	PUNCT	PUNCT	_	11	punct	_	_
 17	Uống	uống	VERB	V	_	11	parataxis	_	_
 18	cũng	cũng	ADV	ADV	_	19	advmod	_	_
-19	bình thường	bình thường	ADJ	ADJ	_	17	acomp	_	_
+19	bình thường	bình thường	ADJ	ADJ	_	17	xcomp	_	_
 20	thôi	thôi	PART	PRT	_	17	discourse	_	_
 21	được cái	được cái	X	X	_	23	mark	_	_
 22	sữa	sữa	NOUN	N	_	23	nsubj	_	_
@@ -645,17 +645,17 @@
 1	1	1	NUM	NUM	_	2	nummod	_	_
 2	ly	ly	NOUN	N	_	0	root	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
-4	cái	cái	NOUN	N	_	5	det:clf	_	_
+4	cái	cái	NOUN	N	_	5	clf:det	_	_
 5	ly	ly	NOUN	N	_	6	nsubj	_	_
 6	nhìn	nhìn	VERB	V	_	2	appos:nmod	_	_
-7	siêu đẹp	siêu đẹp	ADJ	ADJ	_	6	acomp	_	_
+7	siêu đẹp	siêu đẹp	ADJ	ADJ	_	6	xcomp	_	_
 8	luôn	luôn	ADV	ADV	_	7	advmod	_	_
 9	nha	nha	PART	PRT	_	6	discourse	_	_
 10	mà	mà	SCONJ	SC	_	15	cc	_	_
 11	vị	vị	NOUN	N	_	15	nsubj	_	_
 12	thì	thì	SCONJ	SC	_	15	mark	_	_
-13	hông	hông	ADV	ADV	_	14	advmod:neg	_	_
-14	được	được	ADV	ADV	_	15	aux	_	_
+13	hông	hông	ADV	ADV	_	15	advmod:neg	_	_
+14	được	được	AUX	AUX	_	15	aux	_	_
 15	ngon	ngon	ADJ	ADJ	_	6	parataxis	_	_
 16	cho lắm	cho lắm	ADV	ADV	_	15	advmod	_	_
 17	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -665,7 +665,7 @@
 1	Kẹo	kẹo	NOUN	N	_	5	dislocated	_	_
 2	này	này	PRON	PRO	_	1	det:pmod	_	_
 3	tên	tên	NOUN	N	_	5	nsubj	_	_
-4	là	là	SCONJ	SC	_	5	cop	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
 5	nougat	nougat	NOUN	NB	_	0	root	_	_
 6	gì	gì	PRON	PRO	_	5	nmod	_	_
 7	đó	đó	PRON	PRO	_	6	det:pmod	_	_
