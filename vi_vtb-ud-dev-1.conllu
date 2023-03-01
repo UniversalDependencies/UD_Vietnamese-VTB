@@ -11476,7 +11476,7 @@
 # text = - khâm phục nghĩa là thừa nhận ta là người đẹp nhất , ăn mặc sang nhất , giàu có nhất và thông minh nhất trên hành tinh .
 1	-	-	PUNCT	PUNCT	_	4	punct	_	_
 2	khâm phục	khâm phục	VERB	V	_	4	csubj:vsubj	_	_
-3	nghĩa là	nghĩa là	AUX	Aux	_	4	cop	_	_
+3	nghĩa là	nghĩa là	AUX	V	_	4	cop	_	_
 4	thừa nhận	thừa nhận	VERB	V	_	0	root	_	_
 5	ta	ta	PRON	PRO	_	7	nsubj	_	_
 6	là	là	AUX	aux	_	7	cop	_	_
@@ -14246,7 +14246,7 @@
 23	một	một	NUM	Num	_	24	nummod	_	_
 24	câu	câu	NOUN	N	_	22	obj	_	_
 25	hỏi	hỏi	VERB	V	_	24	compound	_	_
-26	,	,	PUNCT	PUNCT	_	30	punct	_	_
+26	,	,	PUNCT	PUNCT	_	29	punct	_	_
 27	một khi	một khi	NOUN	N	_	29	obl:tmod	_	_
 28	đã	đã	ADV	Adv	_	29	advmod	_	_
 29	nêu	nêu	VERB	V	_	24	acl	_	_
@@ -19829,7 +19829,7 @@
 # sent_id = dev-10416
 # text = - nào có ích gì ...
 1	-	-	PUNCT	PUNCT	_	3	punct	_	_
-2	nào	nào	PRON	PRO	_	3	det:mod	_	_
+2	nào	nào	PRON	PRO	_	3	det:pmod	_	_
 3	có	có	VERB	V	_	0	root	_	_
 4	ích	ích	NOUN	N	_	3	obj	_	_
 5	gì	gì	ADV	Adv	_	4	advmod	_	_
@@ -22733,7 +22733,7 @@
 
 # sent_id = dev-10567
 # text = ở trên đó có một tôn ông già đang viết những cuốn sách dày cộp .
-1	ở	ở	ADP	Pre	_	2	case	_	_
+1	ở	ở	ADP	Pre	_	3	case	_	_
 2	trên	trên	ADV	Pre	_	3	case	_	_
 3	đó	đó	NOUN	N	_	4	obl	_	_
 4	có	có	VERB	V	_	0	root	_	_
