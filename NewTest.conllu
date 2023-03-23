@@ -4876,7 +4876,7 @@
 1	Cô	cô	NOUN	N	_	3	nsubj	_	_
 2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
 3	xinh	xinh	ADJ	ADJ	_	0	root	_	_
-4	ra	ra	VERB	V	_	3	advmod:verb	_	_
+4	ra	ra	VERB	V	_	3	xcomp:advmod	_	_
 5	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = dev-20488
@@ -4885,7 +4885,7 @@
 2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
 3	đang	đang	ADV	ADV	_	4	advmod	_	_
 4	béo	béo	ADJ	ADJ	_	0	root	_	_
-5	lên	lên	VERB	V	_	4	advmod:verb	_	_
+5	lên	lên	VERB	V	_	4	xcomp:advmod	_	_
 6	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = dev-20489
@@ -4895,7 +4895,7 @@
 3	đang	đang	ADV	ADV	_	4	advmod	_	_
 4	béo	béo	ADJ	ADJ	_	0	root	_	_
 5	dần	dần	ADV	ADV	_	4	advmod	_	_
-6	lên	lên	VERB	V	_	4	advmod:verb	_	_
+6	lên	lên	VERB	V	_	4	xcomp:advmod	_	_
 7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = dev-20490
@@ -4905,7 +4905,7 @@
 3	ông	ông	NOUN	N	_	1	nmod:poss	_	_
 4	ngày càng	ngày càng	ADV	ADV	_	5	advmod	_	_
 5	nhỏ	nhỏ	ADJ	ADJ	_	0	root	_	_
-6	đi	đi	VERB	V	_	5	advmod:verb	_	_
+6	đi	đi	VERB	V	_	5	xcomp:advmod	_	_
 7	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = dev-20491
@@ -4915,7 +4915,7 @@
 3	ta	ta	PRON	PRO	_	2	compound:pron	_	_
 4	đang	đang	ADV	ADV	_	5	advmod	_	_
 5	đỏ	đỏ	ADJ	ADJ	_	0	root	_	_
-6	lên	lên	VERB	V	_	5	advmod:verb	_	_
+6	lên	lên	VERB	V	_	5	xcomp:advmod	_	_
 7	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = dev-20492
@@ -4926,7 +4926,7 @@
 4	đang	đang	ADV	ADV	_	5	advmod	_	_
 5	đỏ	đỏ	ADJ	ADJ	_	0	root	_	_
 6	dần	dần	ADV	ADV	_	5	advmod	_	_
-7	lên	lên	VERB	V	_	5	advmod:verb	_	_
+7	lên	lên	VERB	V	_	5	xcomp:advmod	_	_
 8	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = dev-20493
@@ -4935,7 +4935,7 @@
 2	cố tình	cố tình	VERB	V	_	0	root	_	_
 3	hiểu	hiểu	VERB	V	_	2	xcomp	_	_
 4	khác	khác	ADJ	ADJ	_	3	xcomp	_	_
-5	đi	đi	VERB	V	_	4	advmod:verb	_	_
+5	đi	đi	VERB	V	_	4	xcomp:advmod	_	_
 6	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = dev-20494
