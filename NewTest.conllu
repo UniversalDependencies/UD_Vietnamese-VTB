@@ -603,7 +603,7 @@
 1	Phụ nữ	phụ nữ	NOUN	N	_	2	nsubj	_	_
 2	viết	viết	VERB	V	_	5	csubj	_	_
 3	tiểu thuyết	tiểu thuyết	NOUN	N	_	2	obj	_	_
-4	đã	đã	ADV	ADV	_	5	advmod	_	_
+4	đã	đã	ADV	ADV	_	7	advmod	_	_
 5	trở thành	trở thành	VERB	V	_	0	root	_	_
 6	một	một	DET	DET	_	7	det	_	_
 7	hiện tượng	hiện tượng	NOUN	N	_	5	obl:comp	_	_
@@ -624,7 +624,7 @@
 # text = Người nói dối sẽ bị máy phát hiện .
 1	Người	người	NOUN	N	_	2	nsubj	_	_
 2	nói dối	nói dối	VERB	V	_	6	csubj:pass	_	_
-3	sẽ	sẽ	VERB	V	_	4	advmod	_	_
+3	sẽ	sẽ	ADV	ADV	_	5	advmod	_	_
 4	bị	bị	AUX	AUX	_	6	aux:pass	_	_
 5	máy	máy	NOUN	N	_	6	obl:agent	_	_
 6	phát hiện	phát hiện	VERB	V	_	0	root	_	_
@@ -635,7 +635,7 @@
 1	Học sinh	học sinh	NOUN	N	_	2	nsubj	_	_
 2	đoạt	đoạt	VERB	V	_	7	csubj:pass	_	_
 3	giải	giải	NOUN	N	_	2	obj	_	_
-4	sẽ	sẽ	ADV	ADV	_	5	advmod	_	_
+4	sẽ	sẽ	ADV	ADV	_	7	advmod	_	_
 5	được	được	AUX	AUX	_	7	aux:pass	_	_
 6	nhà trường	nhà trường	NOUN	N	_	7	obl:agent	_	_
 7	khen thưởng	khen thưởng	VERB	V	_	0	root	_	_
@@ -646,7 +646,7 @@
 1	Những	những	DET	DET	_	2	det	_	_
 2	người	người	NOUN	N	_	3	nsubj	_	_
 3	bị thương	bị thương	VERB	V	_	6	csubj:pass	_	_
-4	đã	đã	ADV	ADV	_	5	advmod	_	_
+4	đã	đã	ADV	ADV	_	6	advmod	_	_
 5	được	được	AUX	AUX	_	6	aux:pass	_	_
 6	cấp cứu	cấp cứu	VERB	V	_	0	root	_	_
 7	kịp thời	kịp thời	ADJ	ADJ	_	6	advmod:adj	_	_
@@ -1188,7 +1188,7 @@
 # text = Thuốc này đã được cơ quan chức năng phê duyệt cho sử dụng trong y học .
 1	Thuốc	thuốc	NOUN	N	_	7	nsubj:pass	_	_
 2	này	này	PRON	PRO	_	1	det:pmod	_	_
-3	đã	đã	ADV	ADV	_	4	advmod	_	_
+3	đã	đã	ADV	ADV	_	7	advmod	_	_
 4	được	được	AUX	AUX	_	7	aux:pass	_	_
 5	cơ quan	cơ quan	NOUN	N	_	7	obl:agent	_	_
 6	chức năng	chức năng	NOUN	N	_	5	compound	_	_
@@ -1575,7 +1575,7 @@
 1	Vì thế	vì thế	SCONJ	SC	_	6	mark	_	_
 2	,	,	PUNCT	PUNCT	_	6	punct	_	_
 3	chúng	chúng	PRON	PRO	_	6	nsubj:pass	_	_
-4	cũng	cũng	ADV	ADV	_	5	advmod	_	_
+4	cũng	cũng	ADV	ADV	_	6	advmod	_	_
 5	bị	bị	AUX	AUX	_	6	aux:pass	_	_
 6	tán xạ	tán xạ	VERB	V	_	0	root	_	_
 7	bởi	bởi	ADP	PRE	_	8	case	_	_
@@ -1585,7 +1585,7 @@
 # sent_id = dev-20168
 # text = Phần cứng thường được hướng dẫn qua phần mềm .
 1	Phần cứng	phần cứng	NOUN	N	_	4	nsubj:pass	_	_
-2	thường	thường	ADV	ADV	_	3	advmod	_	_
+2	thường	thường	ADV	ADV	_	4	advmod	_	_
 3	được	được	AUX	AUX	_	4	aux:pass	_	_
 4	hướng dẫn	hướng dẫn	VERB	V	_	0	root	_	_
 5	qua	qua	ADP	PRE	_	6	case	_	_
@@ -1625,7 +1625,7 @@
 # text = Anh ấy không muốn phụ thuộc vào gia đình .
 1	Anh	anh	NOUN	N	_	5	nsubj	_	_
 2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
-3	không	không	ADV	ADV	_	4	advmod:neg	_	_
+3	không	không	ADV	ADV	_	5	advmod:neg	_	_
 4	muốn	muốn	AUX	AUX	_	5	aux	_	_
 5	phụ thuộc	phụ thuộc	VERB	V	_	0	root	_	_
 6	vào	vào	ADP	PRE	_	7	case	_	_
@@ -1941,7 +1941,7 @@
 # sent_id = dev-20205
 # text = Bệnh nhân đã chết vì ung thư .
 1	Bệnh nhân	bệnh nhân	NOUN	N	_	3	nsubj	_	_
-2	đã	đã	AUX	AUX	_	3	advmod	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
 3	chết	chết	VERB	V	_	0	root	_	_
 4	vì	vì	SCONJ	SC	_	5	case	_	_
 5	ung thư	ung thư	NOUN	N	_	3	obl	_	_
@@ -1958,7 +1958,7 @@
 # sent_id = dev-20207
 # text = Anh đã hi sinh vì tổ quốc .
 1	Anh	anh	NOUN	N	_	3	nsubj	_	_
-2	đã	đã	AUX	AUX	_	3	advmod	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
 3	hi sinh	hi sinh	VERB	V	_	0	root	_	_
 4	vì	vì	SCONJ	SC	_	5	case	_	_
 5	tổ quốc	tổ quốc	NOUN	N	_	3	obl	_	_
@@ -2454,7 +2454,7 @@
 # text = Toà nhà đã được xây dựng lại .
 1	Toà	toà	NOUN	N	_	2	clf:det	_	_
 2	nhà	nhà	NOUN	N	_	5	nsubj:pass	_	_
-3	đã	đã	ADV	ADV	_	4	advmod	_	_
+3	đã	đã	ADV	ADV	_	5	advmod	_	_
 4	được	được	AUX	AUX	_	5	aux:pass	_	_
 5	xây dựng	xây dựng	VERB	V	_	0	root	_	_
 6	lại	lại	VERB	V	_	5	compound:svc	_	_
@@ -3131,8 +3131,8 @@
 9	đánh chiếm	đánh chiếm	VERB	V	_	8	acl:subj	_	_
 10	trận địa	trận địa	NOUN	N	_	9	obj	_	_
 11	,	,	PUNCT	PUNCT	_	8	punct	_	_
-12	đã	đã	ADV	ADV	_	13	advmod	_	_
-13	bị	bị	VERB	V	_	14	aux:pass	_	_
+12	đã	đã	ADV	ADV	_	14	advmod	_	_
+13	bị	bị	AUX	AUX	_	14	aux:pass	_	_
 14	đập tan	đập tan	VERB	V	_	0	root	_	_
 15	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
@@ -3285,7 +3285,7 @@
 4	bộ	bộ	NOUN	N	_	3	obl:comp	_	_
 5	gen	gen	NOUN	NB	_	4	nmod	_	_
 6	ti thể	ti thể	NOUN	N	_	5	nmod	_	_
-7	đều	đều	ADV	ADV	_	8	advmod	_	_
+7	đều	đều	ADV	ADV	_	9	advmod	_	_
 8	là	là	AUX	AUX	_	9	cop	_	_
 9	ADN	adn	NOUN	NY	_	0	root	_	_
 10	vòng	vòng	NOUN	N	_	9	nmod	_	_
@@ -3306,7 +3306,7 @@
 2	làm	làm	VERB	V	_	0	root	_	_
 3	thái thượng hoàng	thái thượng hoàng	NOUN	N	_	2	obj	_	_
 4	cho	cho	PART	PRT	_	6	case	_	_
-5	đến	đến	ADP	PRE	_	4	compound	_	_
+5	đến	đến	ADP	PRE	_	6	case	_	_
 6	khi	khi	NOUN	N	_	2	obl:tmod	_	_
 7	qua đời	qua đời	VERB	V	_	6	acl:tmod	_	_
 8	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -3542,9 +3542,9 @@
 # text = Để làm việc hiệu quả nhà máy cần trang bị máy móc hiện đai .
 1	Để	để	ADP	PRE	_	2	mark:pcomp	_	_
 2	làm việc	làm việc	VERB	V	_	6	advcl:objective	_	_
-3	hiệu quả	hiệu quả	ADJ,	ADJ,	_	2	xcomp	_	_
+3	hiệu quả	hiệu quả	ADJ	ADJ	_	2	xcomp	_	_
 4	nhà máy	nhà máy	NOUN	N	_	6	nsubj	_	_
-5	cần	cần	AUX	AUX	_	6	advmod	_	_
+5	cần	cần	AUX	AUX	_	6	aux	_	_
 6	trang bị	trang bị	VERB	V	_	0	root	_	_
 7	máy móc	máy móc	NOUN	N	_	6	obj	_	_
 8	hiện đai	hiện đai	ADJ	ADJ	_	7	amod	_	_
@@ -3613,7 +3613,7 @@
 2	bảo	bảo	VERB	V	_	0	root	_	_
 3	:	:	PUNCT	PUNCT	_	7	punct	_	_
 4	Anh	anh	NOUN	N	_	7	nsubj	_	_
-5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+5	không	không	ADV	ADV	_	7	advmod:neg	_	_
 6	được	được	AUX	AUX	_	7	aux	_	_
 7	đi	đi	VERB	V	_	2	parataxis	_	_
 8	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -3625,7 +3625,7 @@
 3	:	:	PUNCT	PUNCT	_	8	punct	_	_
 4	“	“	PUNCT	PUNCT	_	8	punct	_	_
 5	Anh	anh	NOUN	N	_	8	nsubj	_	_
-6	không	không	ADV	ADV	_	7	advmod:neg	_	_
+6	không	không	ADV	ADV	_	8	advmod:neg	_	_
 7	được	được	AUX	AUX	_	8	aux	_	_
 8	đi	đi	VERB	V	_	2	parataxis	_	_
 9	”	”	PUNCT	PUNCT	_	8	punct	_	_
@@ -3753,7 +3753,7 @@
 
 # sent_id = dev-20373
 # text = Cây này , lá to
-1	Cây	cây	NOUN	N	_	4	dislocated	_	_
+1	Cây	cây	NOUN	N	_	5	dislocated	_	_
 2	này	này	PRON	PRO	_	1	det:pmod	_	_
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
 4	lá	lá	VERB	V	_	5	nsubj	_	_
@@ -3875,7 +3875,7 @@
 # sent_id = dev-20384
 # text = Anh ơi chờ em với !
 1	Anh	anh	NOUN	N	_	3	vocative	_	_
-2	ơi	ơi	I,	I,	_	1	discourse	_	_
+2	ơi	ơi	PRON	PRO	_	1	discourse	_	_
 3	chờ	chờ	VERB	V	_	0	root	_	_
 4	em	em	NOUN	N	_	3	obj	_	_
 5	với	với	PART	PRT	_	3	discourse	_	_
@@ -4094,7 +4094,7 @@
 1	Máy bay	máy bay	NOUN	N	_	8	nsubj:pass	_	_
 2	của	của	ADP	PRE	_	3	case	_	_
 3	địch	địch	NOUN	N	_	1	nmod:poss	_	_
-4	vừa	vừa	ADV	ADV	_	5	advmod	_	_
+4	vừa	vừa	ADV	ADV	_	8	advmod	_	_
 5	bị	bị	AUX	AUX	_	8	aux:pass	_	_
 6	quân	quân	NOUN	N	_	8	obl:agent	_	_
 7	ta	ta	PRON	PRO	_	6	compound:pron	_	_
@@ -4187,7 +4187,7 @@
 # sent_id = dev-20418
 # text = Tôi vừa bị mất cắp .
 1	Tôi	tôi	PRON	PRO	_	4	nsubj:pass	_	_
-2	vừa	vừa	ADV	ADV	_	3	advmod	_	_
+2	vừa	vừa	ADV	ADV	_	4	advmod	_	_
 3	bị	bị	AUX	AUX	_	4	aux:pass	_	_
 4	mất cắp	mất cắp	VERB	V	_	0	root	_	_
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
@@ -4196,7 +4196,7 @@
 # text = Đất nước ta đã bị tàn phá nặng nề .
 1	Đất nước	đất nước	NOUN	N	_	5	nsubj:pass	_	_
 2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
-3	đã	đã	ADV	ADV	_	4	advmod	_	_
+3	đã	đã	ADV	ADV	_	5	advmod	_	_
 4	bị	bị	AUX	AUX	_	5	aux:pass	_	_
 5	tàn phá	tàn phá	VERB	V	_	0	root	_	_
 6	nặng nề	nặng nề	ADJ	ADJ	_	5	xcomp	_	_
@@ -4296,7 +4296,7 @@
 # text = Anh ấy vẫn là anh ấy .
 1	Anh	anh	NOUN	N	_	5	nsubj:nn	_	_
 2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
-3	vẫn	vẫn	ADV	ADV	_	4	advmod	_	_
+3	vẫn	vẫn	ADV	ADV	_	5	advmod	_	_
 4	là	là	AUX	AUX	_	5	cop	_	_
 5	anh	anh	NOUN	N	_	0	root	_	_
 6	ấy	ấy	PRON	PRO	_	5	det:pmod	_	_
@@ -4320,7 +4320,7 @@
 # text = Hôm đó chính là ngày sinh của Mịch .
 1	Hôm	hôm	NOUN	N	_	5	nsubj:nn	_	_
 2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
-3	chính	chính	T	T	_	4	discourse	_	_
+3	chính	chính	PART	PRT	_	5	discourse	_	_
 4	là	là	AUX	AUX	_	5	cop	_	_
 5	ngày sinh	ngày sinh	NOUN	N	_	0	root	_	_
 6	của	của	ADP	PRE	_	7	case	_	_
@@ -4359,7 +4359,7 @@
 6	vụ	vụ	NOUN	N	_	10	nsubj:xsubj	_	_
 7	vận chuyển	vận chuyển	VERB	V	_	6	acl:subj	_	_
 8	ma tuý	ma tuý	NOUN	N	_	7	obj	_	_
-9	được	được	VERB	V	_	10	aux	_	_
+9	được	được	AUX	AUX	_	10	aux	_	_
 10	tiến hành	tiến hành	VERB	V	_	4	xcomp	_	_
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -4397,7 +4397,7 @@
 # sent_id = dev-20438
 # text = Tôi với anh sẽ đi lên
 1	Tôi	tôi	PRON	PRO	_	5	nsubj	_	_
-2	với	với	CC	CC	_	3	cc	_	_
+2	với	với	CCONJ	CC	_	3	cc	_	_
 3	anh	anh	NOUN	N	_	1	conj	_	_
 4	sẽ	sẽ	ADV	ADV	_	5	advmod	_	_
 5	đi	đi	VERB	V	_	0	root	_	_
@@ -4501,7 +4501,7 @@
 4	đảo	đảo	NOUN	N	_	6	csubj	_	_
 5	hoang	hoang	ADJ	ADJ	_	4	amod	_	_
 6	nằm	nằm	VERB	V	_	0	root	_	_
-7	ở	ở	PRON	PRO	_	8	case	_	_
+7	ở	ở	ADP	PRE	_	8	case	_	_
 8	phía	phía	NOUN	N	_	6	obl:comp	_	_
 9	tây	tây	NOUN	N	_	8	compound	_	_
 10	thuộc	thuộc	VERB	V	_	6	conj	_	_
@@ -4848,7 +4848,7 @@
 # sent_id = dev-20485
 # text = Bài đã được chỉnh sửa lần đầu tiên lên website .
 1	Bài	bài	NOUN	N	_	4	nsubj:pass	_	_
-2	đã	đã	ADV	ADV	_	3	advmod	_	_
+2	đã	đã	ADV	ADV	_	4	advmod	_	_
 3	được	được	AUX	AUX	_	4	aux:pass	_	_
 4	chỉnh sửa	chỉnh sửa	VERB	V	_	0	root	_	_
 5	lần	lần	NOUN	N	_	4	obl	_	_
@@ -4865,7 +4865,7 @@
 4	đều	đều	ADV	ADV	_	5	advmod	_	_
 5	bắt đầu	bắt đầu	VERB	V	_	0	root	_	_
 6	từ	từ	ADP	PRE	_	8	case	_	_
-7	trong	trong	ADP	PRE	_	6	compound	_	_
+7	trong	trong	ADP	PRE	_	8	case	_	_
 8	suy nghĩ	suy nghĩ	NOUN	N	_	5	obl:comp	_	_
 9	mà	mà	SCONJ	SC	_	10	mark	_	_
 10	ra	ra	VERB	V	_	5	advmod:dir	_	_
@@ -4948,7 +4948,7 @@
 # sent_id = dev-20495
 # text = Ông cùng Minh Thái Tổ Chu Nguyên Chương lật đổ nhà Nguyên .
 1	Ông	ông	NOUN	N	_	9	nsubj	_	_
-2	cùng	cùng	CC	CC	_	3	cc	_	_
+2	cùng	cùng	CCONJ	CC	_	3	cc	_	_
 3	Minh	minh	NOUN	N	_	1	conj	_	_
 4	Thái	thái	NOUN	N	_	3	flat:name	_	_
 5	Tổ	tổ	NOUN	N	_	3	flat:name	_	_
@@ -5039,7 +5039,7 @@
 1	Nó	nó	PRON	PRO	_	3	nsubj	_	_
 2	cứ	cứ	ADV	ADV	_	3	advmod	_	_
 3	xưng	xưng	VERB	V	_	0	root	_	_
-4	ông ông tôi tôi	ông ông tôi tôi	PRO:G	PRO:G	_	3	obl:comp	_	_
+4	ông ông tôi tôi	ông ông tôi tôi	PRO	PRO	_	3	obl:comp	_	_
 5	với	với	ADP	PRE	_	7	case	_	_
 6	mọi	mọi	DET	DET	_	7	det	_	_
 7	người	người	NOUN	N	_	3	obl:with	_	_
@@ -5220,7 +5220,7 @@
 # sent_id = dev-20522
 # text = Vụ việc đang được cơ quan chức năng tiếp tục điều tra .
 1	Vụ việc	vụ việc	NOUN	N	_	7	nsubj:pass	_	_
-2	đang	đang	ADV	ADV	_	3	advmod	_	_
+2	đang	đang	ADV	ADV	_	7	advmod	_	_
 3	được	được	AUX	AUX	_	7	aux:pass	_	_
 4	cơ quan	cơ quan	NOUN	N	_	7	obl:agent	_	_
 5	chức năng	chức năng	NOUN	N	_	4	nmod	_	_
@@ -5622,9 +5622,9 @@
 6	,	,	PUNCT	PUNCT	_	7	punct	_	_
 7	con trai	con trai	NOUN	N	_	4	conj	_	_
 8	,	,	PUNCT	PUNCT	_	9	punct	_	_
-9	con dâu	con dâu	N	N	_	4	conj	_	_
+9	con dâu	con dâu	NOUN	N	_	4	conj	_	_
 10	cháu	cháu	NOUN	N	_	4	conj	_	_
-11	trai	trai	N	N	_	10	nmod	_	_
+11	trai	trai	NOUN	N	_	10	nmod	_	_
 12	cháu	cháu	NOUN	N	_	4	conj	_	_
 13	gái	gái	NOUN	N	_	12	nmod	_	_
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -5729,7 +5729,7 @@
 # text = Kẻ phá hoại phải bị trừng trị đích đáng .
 1	Kẻ	kẻ	NOUN	N	_	5	nsubj:pass	_	_
 2	phá hoại	phá hoại	VERB	V	_	1	compound:vmod	_	_
-3	phải	phải	AUX	AUX	_	4	aux	_	_
+3	phải	phải	AUX	AUX	_	5	aux	_	_
 4	bị	bị	AUX	AUX	_	5	aux:pass	_	_
 5	trừng trị	trừng trị	VERB	V	_	0	root	_	_
 6	đích đáng	đích đáng	ADJ	ADJ	_	5	xcomp	_	_
@@ -5872,7 +5872,7 @@
 1	Các	các	DET	DET	_	2	det	_	_
 2	chiến sĩ	chiến sĩ	NOUN	N	_	6	nsubj:pass	_	_
 3	này	này	PRON	PRO	_	2	det:pmod	_	_
-4	vừa	vừa	ADV	ADV	_	5	advmod	_	_
+4	vừa	vừa	ADV	ADV	_	6	advmod	_	_
 5	được	được	AUX	AUX	_	6	aux:pass	_	_
 6	tuyên dương	tuyên dương	VERB	V	_	0	root	_	_
 7	.	.	PUNCT	PUNCT	_	6	punct	_	_
