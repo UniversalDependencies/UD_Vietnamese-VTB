@@ -1,0 +1,5879 @@
+# sent_id = dev-20001
+# text = Linh nói rất nhiều chuyện .
+1	Linh	linh	NOUN	N	_	2	nsubj	_	_
+2	nói	nói	VERB	V	_	0	root	_	_
+3	rất	rất	ADV	ADV	_	4	advmod	_	_
+4	nhiều	nhiều	ADJ	ADJ	_	5	advmod:adj	_	_
+5	chuyện	chuyện	NOUN	N	_	2	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20002
+# text = Nhà chỉ có vài sào ruộng .
+1	Nhà	nhà	NOUN	N	_	3	nsubj	_	_
+2	chỉ	chỉ	ADV	ADV	_	3	advmod	_	_
+3	có	có	VERB	V	_	0	root	_	_
+4	vài	vài	DET	DET	_	5	det	_	_
+5	sào	sào	NU	NU	_	3	obj	_	_
+6	ruộng	ruộng	NOUN	N	_	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20003
+# text = Công việc ngày càng thuận lợi .
+1	Công việc	công việc	NOUN	N	_	3	nsubj	_	_
+2	ngày càng	ngày càng	ADV:G	ADV:G	_	3	advmod	_	_
+3	thuận lợi	thuận lợi	ADJ	ADJ	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20004
+# text = Cuộc sống trở nên khó khăn .
+1	Cuộc sống	cuộc sống	NOUN	N	_	2	nsubj	_	_
+2	trở nên	trở nên	VERB	V	_	0	root	_	_
+3	khó khăn	khó khăn	ADJ	ADJ	_	2	acomp	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20005
+# text = Câu hỏi ấy cứ lởn vởn trong đầu tôi .
+1	Câu hỏi	câu hỏi	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	cứ	cứ	ADV	ADV	_	4	advmod	_	_
+4	lởn vởn	lởn vởn	VERB	V	_	0	root	_	_
+5	trong	trong	ADP	PRE	_	6	case	_	_
+6	đầu	đầu	NOUN	N	_	4	obl:comp	_	_
+7	tôi	tôi	PRON	PRO	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20006
+# text = Nó vẫn cứ chứng nào tật ấy .
+1	Nó	nó	PRON	PRO	_	4	nsubj	_	_
+2	vẫn	vẫn	ADV	ADV	_	4	advmod	_	_
+3	cứ	cứ	ADV	ADV	_	4	advmod	_	_
+4	chứng nào tật ấy	chứng nào tật ấy	NOUN	N:G	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20007
+# text = Ổng đương ở trong quán cà phê kia .
+1	Ổng	ổng	PRON	PRO	_	3	nsubj	_	_
+2	đương	đương	ADV	ADV	_	3	advmod	_	_
+3	ở	ở	VERB	V	_	0	root	_	_
+4	trong	trong	ADP	PRE	_	5	case	_	_
+5	quán	quán	NOUN	N	_	3	obl:comp	_	_
+6	cà phê	cà phê	NOUN	NB	_	5	nmod	_	_
+7	kia	kia	PRON	PRO	_	5	det:pmod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20008
+# text = Thằng chả có cặp mắt tinh đời .
+1	Thằng chả	thằng chả	PRON	PRO	_	2	nsubj	_	_
+2	có	có	VERB	V	_	0	root	_	_
+3	cặp	cặp	DET	DET	_	4	det	_	_
+4	mắt	mắt	NOUN	N	_	2	obj	_	_
+5	tinh đời	tinh đời	ADJ	ADJ	_	4	amod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20009
+# text = Anh cho bò ăn cỏ .
+1	Anh	anh	NOUN	N	_	2	nsubj	_	_
+2	cho	cho	VERB	V	_	0	root	_	_
+3	bò	bò	NOUN	N	_	4	nsubj:xsubj	_	_
+4	ăn	ăn	VERB	V	_	2	xcomp	_	_
+5	cỏ	cỏ	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20010
+# text = Chúng tôi mong họ thay đổi suy nghĩ .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	2	nsubj	_	_
+2	mong	mong	VERB	V	_	0	root	_	_
+3	họ	họ	NOUN	N	_	4	nsubj	_	_
+4	thay đổi	thay đổi	VERB	V	_	2	ccomp	_	_
+5	suy nghĩ	suy nghĩ	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20011
+# text = Họ không cho đối thủ có cơ hội tấn công .
+1	Họ	họ	PRON	PRO	_	3	nsubj	_	_
+2	không	không	ADV	ADV	_	3	advmod:neg	_	_
+3	cho	cho	VERB	V	_	0	root	_	_
+4	đối thủ	đối thủ	NOUN	N	_	3	obj	_	_
+5	có	có	VERB	V	_	4	acl:subj	_	_
+6	cơ hội	cơ hội	NOUN	N	_	5	obj	_	_
+7	tấn công	tấn công	VERB	V	_	6	compound:vmod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20012
+# text = Hoa đề nghị Nam đáp ứng mong muốn của tôi .
+1	Hoa	hoa	NOUN	N	_	2	nsubj	_	_
+2	đề nghị	đề nghị	VERB	V	_	0	root	_	_
+3	Nam	nam	NOUN	N	_	4	nsubj:xsubj	_	_
+4	đáp ứng	đáp ứng	VERB	V	_	2	xcomp	_	_
+5	mong muốn	mong muốn	NOUN	N	_	4	obj	_	_
+6	của	của	ADP	PRE	_	7	case	_	_
+7	tôi	tôi	PRON	PRO	_	5	nmod:poss	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20013
+# text = Nhân viên mời khách vào nhà .
+1	Nhân viên	nhân viên	NOUN	N	_	2	nsubj	_	_
+2	mời	mời	VERB	V	_	0	root	_	_
+3	khách	khách	NOUN	N	_	2	obj	_	_
+4	vào	vào	VERB	V	_	3	acl:subj	_	_
+5	nhà	nhà	NOUN	N	_	4	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20014
+# text = Mẹ giúp con học bài .
+1	Mẹ	mẹ	NOUN	N	_	2	nsubj	_	_
+2	giúp	giúp	VERB	V	_	0	root	_	_
+3	con	con	NOUN	N	_	4	nsubj:xsubj	_	_
+4	học	học	VERB	V	_	2	xcomp	_	_
+5	bài	bài	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20015
+# text = Đảng lãnh đạo quần chúng đấu tranh .
+1	Đảng	đảng	NOUN	N	_	2	nsubj	_	_
+2	lãnh đạo	lãnh đạo	VERB	V	_	0	root	_	_
+3	quần chúng	quần chúng	NOUN	N	_	2	obj	_	_
+4	đấu tranh	đấu tranh	VERB	V	_	3	acl:subj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20016
+# text = Tôi đưa trâu ra đồng .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	đưa	đưa	VERB	V	_	0	root	_	_
+3	trâu	trâu	NOUN	N	_	4	nsubj:xsubj	_	_
+4	ra	ra	VERB	V	_	2	xcomp	_	_
+5	đồng	đồng	NOUN	N	_	4	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20017
+# text = Nam bị đánh .
+1	Nam	nam	NOUN	N	_	3	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	3	aux:pass	_	_
+3	đánh	đánh	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20018
+# text = Nó bị bố đánh .
+1	Nó	nó	PRON	PRO	_	4	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	4	aux:pass	_	_
+3	bố	bố	NOUN	N	_	4	obl:agent	_	_
+4	đánh	đánh	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20019
+# text = Lan được khen .
+1	Lan	lan	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	khen	khen	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20020
+# text = Lớp 12A được nhà trường khen .
+1	Lớp	lớp	NOUN	N	_	5	nsubj:pass	_	_
+2	12A	12a	NOUN	N	_	1	compound	_	_
+3	được	được	AUX	AUX	_	5	aux:pass	_	_
+4	nhà trường	nhà trường	NOUN	N	_	5	obl:agent	_	_
+5	khen	khen	VERB	V	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20021
+# text = Tèo bị cho điểm kém .
+1	Tèo	tèo	NOUN	N	_	3	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	3	aux:pass	_	_
+3	cho	cho	VERB	V	_	0	root	_	_
+4	điểm	điểm	NOUN	N	_	3	obj	_	_
+5	kém	kém	ADJ	ADJ	_	4	amod	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20022
+# text = Cô ấy nhìn rất đẹp .
+1	Cô	cô	NOUN	N	_	3	nsubj:pass	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	nhìn	nhìn	VERB	V	_	0	root	_	_
+4	rất	rất	ADV	ADV	_	5	advmod	_	_
+5	đẹp	đẹp	ADJ	ADJ	_	3	acomp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20023
+# text = Nam 30 tuổi .
+1	Nam	nam	NOUN	N	_	3	nsubj:nn	_	_
+2	30	30	NUM	NUM	_	3	nummod	_	_
+3	tuổi	tuổi	NOUN	N	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20024
+# text = Anh người vùng nào ?
+1	Anh	anh	NOUN	N	_	2	nsubj:nn	_	_
+2	người	người	NOUN	N	_	0	root	_	_
+3	vùng	vùng	NOUN	N	_	2	nmod	_	_
+4	nào	nào	PRON	PRO	_	3	det:pmod	_	_
+5	?	?	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20025
+# text = Chị Hai , người Mỹ Tho .
+1	Chị	chị	NOUN	N	_	2	det:clf	_	_
+2	Hai	hai	NOUN	N	_	4	nsubj:nn	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	người	người	NOUN	N	_	0	root	_	_
+5	Mỹ	mỹ	NOUN	N	_	4	nmod	_	_
+6	Tho	tho	NOUN	N	_	5	compound	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20026
+# text = Tôi người Hà Nội .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj:nn	_	_
+2	người	người	NOUN	N	_	0	root	_	_
+3	Hà	hà	NOUN	N	_	2	nmod	_	_
+4	Nội	nội	NOUN	N	_	3	compound	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20027
+# text = Thấm thoắt nó mười lăm .
+1	Thấm thoắt	thấm thoắt	ADJ	ADJ	_	3	advcl	_	_
+2	nó	nó	PRON	PRO	_	3	nsubj:nn	_	_
+3	mười lăm	mười lăm	NUM	NUM	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20028
+# text = Bây giờ đã 7 giờ tối .
+1	Bây giờ	bây giờ	PRON	PRO	_	4	nsubj:nn	_	_
+2	đã	đã	ADV	ADV	_	4	advmod	_	_
+3	7	7	NUM	NUM	_	4	nummod	_	_
+4	giờ	giờ	NOUN	N	_	0	root	_	_
+5	tối	tối	NOUN	N	_	4	nmod	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20029
+# text = Hôm nay chủ nhật , ngày 24 tháng 1 .
+1	Hôm nay	hôm nay	NOUN	N	_	2	nsubj:nn	_	_
+2	chủ nhật	chủ nhật	NOUN	N	_	0	root	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	ngày	ngày	NOUN	N	_	2	appos	_	_
+5	24	24	NUM	NUM	_	4	flat:date	_	_
+6	tháng	tháng	NOUN	N	_	4	flat:date	_	_
+7	1	1	NUM	NUM	_	4	flat:date	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20030
+# text = Thủ phạm đằng sau thủ phạm .
+1	Thủ phạm	thủ phạm	NOUN	N	_	2	nsubj	_	_
+2	đằng	đằng	NOUN	N	_	0	root	_	_
+3	sau	sau	NOUN	N	_	2	compound	_	_
+4	thủ phạm	thủ phạm	NOUN	N	_	2	nmod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20031
+# text = Chiếc xe này ba bánh .
+1	Chiếc	chiếc	NOUN	N	_	2	det:clf	_	_
+2	xe	xe	NOUN	N	_	5	nsubj:nn	_	_
+3	này	này	PRON	PRO	_	2	det:pmod	_	_
+4	ba	ba	NUM	NUM	_	5	nummod	_	_
+5	bánh	bánh	NOUN	N	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20032
+# text = Nhà ông ấy năm gian .
+1	Nhà	nhà	NOUN	N	_	5	nsubj:nn	_	_
+2	ông	ông	NOUN	N	_	1	nmod	_	_
+3	ấy	ấy	PRON	PRO	_	2	det:pmod	_	_
+4	năm	năm	NUM	NUM	_	5	nummod	_	_
+5	gian	gian	NOUN	N	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20033
+# text = Đám mây hình trái tim .
+1	Đám	đám	NOUN	N	_	2	det:clf	_	_
+2	mây	mây	NOUN	N	_	3	nsubj:nn	_	_
+3	hình	hình	NOUN	N	_	0	root	_	_
+4	trái tim	trái tim	NOUN	N	_	3	nmod	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20034
+# text = Bông hoa này màu đỏ .
+1	Bông	bông	NOUN	N	_	2	det:clf	_	_
+2	hoa	hoa	NOUN	N	_	4	nsubj:nn	_	_
+3	này	này	PRON	PRO	_	2	det:pmod	_	_
+4	màu	màu	NOUN	N	_	0	root	_	_
+5	đỏ	đỏ	ADJ	ADJ	_	4	compound:amod	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20035
+# text = Cái này 80 đồng .
+1	Cái	cái	NOUN	N	_	4	nsubj:nn	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	80	80	NUM	NUM	_	4	nummod	_	_
+4	đồng	đồng	NU	NU	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20036
+# text = Cái này bao nhiêu tiền ?
+1	Cái	cái	NOUN	N	_	4	nsubj:nn	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	bao nhiêu	bao nhiêu	PRON	PRO	_	4	det	_	_
+4	tiền	tiền	NOUN	N	_	0	root	_	_
+5	?	?	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20037
+# text = Áo này của Nam mà .
+1	Áo	áo	NOUN	N	_	4	nsubj:nn	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	của	của	ADP	PRE	_	4	case	_	_
+4	Nam	nam	NOUN	N	_	0	root	_	_
+5	mà	mà	PART	PRT	_	4	discourse	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20038
+# text = Cảnh vật vẫn như xưa .
+1	Cảnh vật	cảnh vật	NOUN	N	_	4	nsubj:nn	_	_
+2	vẫn	vẫn	ADV	ADV	_	4	advmod	_	_
+3	như	như	SCONJ	SC	_	4	case	_	_
+4	xưa	xưa	NOUN	N	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20039
+# text = Trình độ của hai người như nhau .
+1	Trình độ	trình độ	NOUN	N	_	6	nsubj	_	_
+2	của	của	ADP	PRE	_	4	case	_	_
+3	hai	hai	NUM	NUM	_	4	nummod	_	_
+4	người	người	NOUN	N	_	1	nmod:poss	_	_
+5	như	như	SCONJ	SC	_	6	mark	_	_
+6	nhau	nhau	NOUN	N	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20040
+# text = Thằng ấy đầu to mà dại .
+1	Thằng	thằng	NOUN	N	_	3	nsubj:nn	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	đầu	đầu	NOUN	N	_	6	csubj	_	_
+4	to	to	ADJ	ADJ	_	3	amod	_	_
+5	mà	mà	SCONJ	SC	_	6	mark	_	_
+6	dại	dại	ADJ	ADJ	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20041
+# text = Cô ấy là người yêu của anh ta .
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	người yêu	người yêu	NOUN	N	_	0	root	_	_
+5	của	của	ADP	PRE	_	6	case	_	_
+6	anh	anh	NOUN	N	_	4	nmod:poss	_	_
+7	ta	ta	PRON	PRO	_	6	det:pmod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20042
+# text = Học tập là quyền lợi của mỗi người .
+1	Học tập	học tập	VERB	V	_	3	csubj:vsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	quyền lợi	quyền lợi	NOUN	N	_	0	root	_	_
+4	của	của	ADP	PRE	_	6	case	_	_
+5	mỗi	mỗi	DET	DET	_	6	det	_	_
+6	người	người	NOUN	N	_	3	nmod:poss	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20043
+# text = Tập thể dục là bảo vệ sức khoẻ .
+1	Tập thể dục	tập thể dục	VERB	V	_	3	csubj:vsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	bảo vệ	bảo vệ	VERB	V	_	0	root	_	_
+4	sức khoẻ	sức khoẻ	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20044
+# text = Viết tiểu thuyết đã trở thành một nghề riêng .
+1	Viết	viết	VERB	V	_	4	csubj:vsubj	_	_
+2	tiểu thuyết	tiểu thuyết	NOUN	N	_	1	obj	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	trở thành	trở thành	VERB	V	_	0	root	_	_
+5	một	một	DET	DET	_	6	det	_	_
+6	nghề	nghề	NOUN	N	_	4	obj	_	_
+7	riêng	riêng	ADJ	ADJ	_	6	amod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20045
+# text = Đã đánh thì phải thắng .
+1	Đã	đã	ADV	ADV	_	2	advmod	_	_
+2	đánh	đánh	VERB	V	_	5	csubj:vsubj	_	_
+3	thì	thì	SCONJ	SC	_	5	mark	_	_
+4	phải	phải	AUX	AUX	_	5	aux	_	_
+5	thắng	thắng	VERB	V	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20046
+# text = Phát triển là bản chất của sự vận động .
+1	Phát triển	phát triển	VERB	V	_	3	csubj:vsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	bản chất	bản chất	NOUN	N	_	0	root	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	sự	sự	NOUN	N	_	3	nmod:poss	_	_
+6	vận động	vận động	VERB	V	_	5	acl:tonp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20047
+# text = Vay mượn là biện pháp làm giàu ngôn ngữ .
+1	Vay mượn	vay mượn	VERB	V	_	3	csubj:vsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	biện pháp	biện pháp	NOUN	N	_	0	root	_	_
+4	làm giàu	làm giàu	VERB	V	_	3	acl:subj	_	_
+5	ngôn ngữ	ngôn ngữ	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20048
+# text = Cải cách là sửa cái cũ thành cái mới .
+1	Cải cách	cải cách	VERB	V	_	3	csubj:vsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	sửa	sửa	VERB	V	_	0	root	_	_
+4	cái	cái	NOUN	N	_	3	obj	_	_
+5	cũ	cũ	ADJ	ADJ	_	4	compound:amod	_	_
+6	thành	thành	VERB	V	_	3	xcomp	_	_
+7	cái	cái	NOUN	N	_	6	obj	_	_
+8	mới	mới	ADJ	ADJ	_	7	compound:amod	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20049
+# text = Khóc là yếu hèn .
+1	Khóc	khóc	VERB	V	_	3	csubj:vsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	yếu hèn	yếu hèn	ADJ	ADJ	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20050
+# text = Thay đổi nhằm phát triển .
+1	Thay đổi	thay đổi	VERB	V	_	2	csubj:vsubj	_	_
+2	nhằm	nhằm	VERB	V	_	0	root	_	_
+3	phát triển	phát triển	VERB	V	_	2	compound:svc	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20051
+# text = Khóc như mưa .
+1	Khóc	khóc	VERB	V	_	3	csubj:vsubj	_	_
+2	như	như	SCONJ	SC	_	3	mark	_	_
+3	mưa	mưa	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20052
+# text = Mưa như trút nước .
+1	Mưa	mưa	VERB	V	_	3	csubj:vsubj	_	_
+2	như	như	SCONJ	SC	_	3	mark	_	_
+3	trút	trút	VERB	V	_	0	root	_	_
+4	nước	nước	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20053
+# text = Nói dối hơn Cuội .
+1	Nói dối	nói dối	VERB	V	_	2	csubj:vsubj	_	_
+2	hơn	hơn	ADJ	ADJ	_	0	root	_	_
+3	Cuội	cuội	NOUN	N	_	2	obl:adj	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20054
+# text = Cố quá thì quá cố .
+1	Cố	cố	VERB	V	_	4	csubj:vsubj	_	_
+2	quá	quá	ADV	ADV	_	1	advmod	_	_
+3	thì	thì	SCONJ	SC	_	4	mark	_	_
+4	quá cố	quá cố	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20055
+# text = Chiến đấu hay là chết .
+1	Chiến đấu	chiến đấu	VERB	V	_	3	csubj:vsubj	_	_
+2	hay là	hay là	SCONJ	SC	_	3	mark	_	_
+3	chết	chết	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20056
+# text = Khoẻ mạnh là hạnh phúc .
+1	Khoẻ mạnh	khoẻ mạnh	ADJ	ADJ	_	3	csubj:asubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	hạnh phúc	hạnh phúc	NOUN	N	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20057
+# text = Chăm chỉ là đức tính tốt .
+1	Chăm chỉ	chăm chỉ	ADJ	ADJ	_	3	csubj:asubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	đức tính	đức tính	NOUN	N	_	0	root	_	_
+4	tốt	tốt	ADJ	ADJ	_	3	amod	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20058
+# text = Hấp tấp là nhược điểm của nhiều học sinh .
+1	Hấp tấp	hấp tấp	ADJ	ADJ	_	3	csubj:asubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	nhược điểm	nhược điểm	NOUN	N	_	0	root	_	_
+4	của	của	ADP	PRE	_	6	case	_	_
+5	nhiều	nhiều	ADJ	ADJ	_	6	advmod:adj	_	_
+6	học sinh	học sinh	NOUN	N	_	3	nmod:poss	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20059
+# text = Giản dị là phẩm chất đạo đức cần có ở mỗi người .
+1	Giản dị	giản dị	ADJ	ADJ	_	3	csubj:asubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	phẩm chất	phẩm chất	NOUN	N	_	0	root	_	_
+4	đạo đức	đạo đức	NOUN	N	_	3	compound	_	_
+5	cần	cần	AUX	AUX	_	6	aux	_	_
+6	có	có	VERB	V	_	3	acl:subj	_	_
+7	ở	ở	ADP	PRE	_	9	case	_	_
+8	mỗi	mỗi	DET	DET	_	9	det	_	_
+9	người	người	NOUN	N	_	6	obl	_	_
+10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20060
+# text = Trắng như tuyết .
+1	Trắng	trắng	ADJ	ADJ	_	3	csubj:asubj	_	_
+2	như	như	SCONJ	SC	_	3	mark	_	_
+3	tuyết	tuyết	NOUN	N	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20061
+# text = Câm như hến .
+1	Câm	câm	ADJ	ADJ	_	3	csubj:asubj	_	_
+2	như	như	SCONJ	SC	_	3	mark	_	_
+3	hến	hến	NOUN	N	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20062
+# text = Êm như ru .
+1	Êm	êm	ADJ	ADJ	_	3	csubj:asubj	_	_
+2	như	như	SCONJ	SC	_	3	mark	_	_
+3	ru	ru	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20063
+# text = Nhanh hơn điện .
+1	Nhanh	nhanh	ADJ	ADJ	_	2	csubj:asubj	_	_
+2	hơn	hơn	ADJ	ADJ	_	0	root	_	_
+3	điện	điện	NOUN	N	_	2	obl:comp	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20064
+# text = Con học giỏi làm bố mẹ rất vui lòng .
+1	Con	con	NOUN	N	_	2	nsubj	_	_
+2	học	học	VERB	V	_	4	csubj	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	2	acomp	_	_
+4	làm	làm	VERB	V	_	0	root	_	_
+5	bố mẹ	bố mẹ	NOUN	N	_	7	nsubj	_	_
+6	rất	rất	ADV	ADV	_	7	advmod	_	_
+7	vui lòng	vui lòng	ADJ	ADJ	_	4	ccomp	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20065
+# text = Em làm được bài này chứng tỏ đã tiến bộ .
+1	Em	em	NOUN	N	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	6	csubj	_	_
+3	được	được	ADV	ADV	_	2	advmod	_	_
+4	bài	bài	NOUN	N	_	2	obj	_	_
+5	này	này	PRON	PRO	_	4	det:pmod	_	_
+6	chứng tỏ	chứng tỏ	VERB	V	_	0	root	_	_
+7	đã	đã	ADV	ADV	_	8	advmod	_	_
+8	tiến bộ	tiến bộ	VERB	V	_	6	ccomp	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20066
+# text = Nó chăm ngoan là dấu hiệu tốt .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	chăm ngoan	chăm ngoan	ADJ	ADJ	_	4	csubj	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	dấu hiệu	dấu hiệu	NOUN	N	_	0	root	_	_
+5	tốt	tốt	ADJ	ADJ	_	4	amod	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20067
+# text = Anh thành công khiến em rất vui mừng .
+1	Anh	anh	NOUN	N	_	2	nsubj	_	_
+2	thành công	thành công	VERB	V	_	3	csubj	_	_
+3	khiến	khiến	VERB	V	_	0	root	_	_
+4	em	em	NOUN	N	_	6	nsubj	_	_
+5	rất	rất	ADV	ADV	_	6	advmod	_	_
+6	vui mừng	vui mừng	ADJ	ADJ	_	3	ccomp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20068
+# text = Đồng chí làm thế không đúng .
+1	Đồng chí	đồng chí	NOUN	N	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	5	csubj	_	_
+3	thế	thế	PRON	PRO	_	2	obj	_	_
+4	không	không	ADV	ADV	_	5	advmod:neg	_	_
+5	đúng	đúng	ADJ	ADJ	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20069
+# text = Phụ nữ viết tiểu thuyết đã trở thành một hiện tượng .
+1	Phụ nữ	phụ nữ	NOUN	N	_	2	nsubj	_	_
+2	viết	viết	VERB	V	_	5	csubj	_	_
+3	tiểu thuyết	tiểu thuyết	NOUN	N	_	2	obj	_	_
+4	đã	đã	ADV	ADV	_	5	advmod	_	_
+5	trở thành	trở thành	VERB	V	_	0	root	_	_
+6	một	một	DET	DET	_	7	det	_	_
+7	hiện tượng	hiện tượng	NOUN	N	_	5	obl:comp	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20070
+# text = Tài xế gây tai nạn đã bị cảnh sát bắt .
+1	Tài xế	tài xế	NOUN	N	_	2	nsubj	_	_
+2	gây	gây	VERB	V	_	7	csubj:pass	_	_
+3	tai nạn	tai nạn	NOUN	N	_	2	obj	_	_
+4	đã	đã	ADV	ADV	_	5	advmod	_	_
+5	bị	bị	AUX	AUX	_	7	aux:pass	_	_
+6	cảnh sát	cảnh sát	NOUN	N	_	7	obl:agent	_	_
+7	bắt	bắt	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20071
+# text = Người nói dối sẽ bị máy phát hiện .
+1	Người	người	NOUN	N	_	2	nsubj	_	_
+2	nói dối	nói dối	VERB	V	_	6	csubj:pass	_	_
+3	sẽ	sẽ	VERB	V	_	4	advmod	_	_
+4	bị	bị	AUX	AUX	_	6	aux:pass	_	_
+5	máy	máy	NOUN	N	_	6	obl:agent	_	_
+6	phát hiện	phát hiện	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20072
+# text = Học sinh đoạt giải sẽ được nhà trường khen thưởng .
+1	Học sinh	học sinh	NOUN	N	_	2	nsubj	_	_
+2	đoạt	đoạt	VERB	V	_	7	csubj:pass	_	_
+3	giải	giải	NOUN	N	_	2	obj	_	_
+4	sẽ	sẽ	ADV	ADV	_	5	advmod	_	_
+5	được	được	AUX	AUX	_	7	aux:pass	_	_
+6	nhà trường	nhà trường	NOUN	N	_	7	obl:agent	_	_
+7	khen thưởng	khen thưởng	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20073
+# text = Những người bị thương đã được cấp cứu kịp thời .
+1	Những	những	DET	DET	_	2	det	_	_
+2	người	người	NOUN	N	_	3	nsubj	_	_
+3	bị thương	bị thương	VERB	V	_	6	csubj:pass	_	_
+4	đã	đã	ADV	ADV	_	5	advmod	_	_
+5	được	được	AUX	AUX	_	6	aux:pass	_	_
+6	cấp cứu	cấp cứu	VERB	V	_	0	root	_	_
+7	kịp thời	kịp thời	ADJ	ADJ	_	6	advmod:adj	_	_
+8	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20074
+# text = Bộ đội phá cầu .
+1	Bộ đội	bộ đội	NOUN	N	_	2	nsubj	_	_
+2	phá	phá	VERB	V	_	0	root	_	_
+3	cầu	cầu	NOUN	N	_	2	obj	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20075
+# text = Cô giáo đang viết thư .
+1	Cô giáo	cô giáo	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	viết	viết	VERB	V	_	0	root	_	_
+4	thư	thư	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20076
+# text = Nam vừa giơ tay .
+1	Nam	nam	NOUN	N	_	3	nsubj	_	_
+2	vừa	vừa	ADV	ADV	_	3	advmod	_	_
+3	giơ	giơ	VERB	V	_	0	root	_	_
+4	tay	tay	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20077
+# text = Bố đang gói bánh chưng .
+1	Bố	bố	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	gói	gói	VERB	V	_	0	root	_	_
+4	bánh chưng	bánh chưng	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20078
+# text = Em nhớ anh .
+1	Em	em	NOUN	N	_	2	nsubj	_	_
+2	nhớ	nhớ	VERB	V	_	0	root	_	_
+3	anh	anh	NOUN	N	_	2	obj	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20079
+# text = Mọi người đều nhớ quê hương .
+1	Mọi	mọi	DET	DET	_	2	det	_	_
+2	người	người	NOUN	N	_	4	nsubj	_	_
+3	đều	đều	ADV	ADV	_	4	advmod	_	_
+4	nhớ	nhớ	VERB	V	_	0	root	_	_
+5	quê hương	quê hương	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20080
+# text = Em tin anh .
+1	Em	em	NOUN	N	_	2	nsubj	_	_
+2	tin	tin	VERB	V	_	0	root	_	_
+3	anh	anh	NOUN	N	_	2	obj	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20081
+# text = Tôi vẫn luôn tin bạn .
+1	Tôi	tôi	PRON	PRO	_	4	nsubj	_	_
+2	vẫn	vẫn	ADV	ADV	_	3	advmod	_	_
+3	luôn	luôn	ADV	ADV	_	4	advmod	_	_
+4	tin	tin	VERB	V	_	0	root	_	_
+5	bạn	bạn	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20082
+# text = Bạn rất hiểu tôi .
+1	Bạn	bạn	NOUN	N	_	3	nsubj	_	_
+2	rất	rất	ADV	ADV	_	3	advmod	_	_
+3	hiểu	hiểu	VERB	V	_	0	root	_	_
+4	tôi	tôi	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20083
+# text = Bà hay đau lưng .
+1	Bà	bà	NOUN	N	_	3	nsubj	_	_
+2	hay	hay	ADV	ADV	_	3	advmod	_	_
+3	đau	đau	VERB	V	_	0	root	_	_
+4	lưng	lưng	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20084
+# text = Nó bị tổn thương mô .
+1	Nó	nó	PRON	PRO	_	3	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	3	aux:pass	_	_
+3	tổn thương	tổn thương	VERB	V	_	0	root	_	_
+4	mô	mô	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20085
+# text = Cháu biếu bà cân cam .
+1	Cháu	cháu	NOUN	N	_	2	nsubj	_	_
+2	biếu	biếu	VERB	V	_	0	root	_	_
+3	bà	bà	NOUN	N	_	2	iobj	_	_
+4	cân	cân	NU	NU	_	2	obj	_	_
+5	cam	cam	NOUN	N	_	4	nmod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20086
+# text = Học sinh tặng cô giáo hoa .
+1	Học sinh	học sinh	NOUN	N	_	2	nsubj	_	_
+2	tặng	tặng	VERB	V	_	0	root	_	_
+3	cô giáo	cô giáo	NOUN	N	_	2	iobj	_	_
+4	hoa	hoa	NOUN	N	_	2	obj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20087
+# text = Tôi tặng người yêu một bó hoa hồng .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	tặng	tặng	VERB	V	_	0	root	_	_
+3	người yêu	người yêu	NOUN	N	_	2	iobj	_	_
+4	một	một	NUM	NUM	_	6	nummod	_	_
+5	bó	bó	NOUN	N	_	4	clf	_	_
+6	hoa hồng	hoa hồng	NOUN	N	_	2	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20088
+# text = Chị cho em kẹo .
+1	Chị	chị	NOUN	N	_	2	nsubj	_	_
+2	cho	cho	VERB	V	_	0	root	_	_
+3	em	em	NOUN	N	_	2	iobj	_	_
+4	kẹo	kẹo	NOUN	N	_	2	obj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20089
+# text = Cậu chưa gửi tôi tiền .
+1	Cậu	cậu	NOUN	N	_	3	nsubj	_	_
+2	chưa	chưa	ADV	ADV	_	3	advmod:neg	_	_
+3	gửi	gửi	VERB	V	_	0	root	_	_
+4	tôi	tôi	PRON	PRO	_	3	iobj	_	_
+5	tiền	tiền	NOUN	N	_	3	obj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20090
+# text = Anh đã gửi em mấy cuốn sách rồi .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	gửi	gửi	VERB	V	_	0	root	_	_
+4	em	em	NOUN	N	_	3	iobj	_	_
+5	mấy	mấy	DET	DET	_	7	det	_	_
+6	cuốn	cuốn	NOUN	N	_	5	clf	_	_
+7	sách	sách	NOUN	N	_	3	obj	_	_
+8	rồi	rồi	ADV	ADV	_	3	advmod	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20091
+# text = Anh vừa trả tiền ngân hàng .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	vừa	vừa	ADV	ADV	_	3	advmod	_	_
+3	trả	trả	VERB	V	_	0	root	_	_
+4	tiền	tiền	NOUN	N	_	3	obj	_	_
+5	ngân hàng	ngân hàng	NOUN	N	_	3	iobj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20092
+# text = Bộ đội lấy súng địch đánh địch .
+1	Bộ đội	bộ đội	NOUN	N	_	2	nsubj	_	_
+2	lấy	lấy	VERB	V	_	0	root	_	_
+3	súng	súng	NOUN	N	_	2	obj	_	_
+4	địch	địch	NOUN	N	_	2	iobj	_	_
+5	đánh	đánh	VERB	V	_	2	advcl:objective	_	_
+6	địch	địch	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20093
+# text = Bà ấy mượn lược thầy tu .
+1	Bà	bà	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	mượn	mượn	VERB	V	_	0	root	_	_
+4	lược	lược	NOUN	N	_	3	obj	_	_
+5	thầy tu	thầy tu	NOUN	N	_	3	iobj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20094
+# text = Khách hàng vay tiền ngân hàng .
+1	Khách hàng	khách hàng	NOUN	N	_	2	nsubj	_	_
+2	vay	vay	VERB	V	_	0	root	_	_
+3	tiền	tiền	NOUN	N	_	2	obj	_	_
+4	ngân hàng	ngân hàng	NOUN	N	_	2	iobj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20095
+# text = Nhà giàu cướp công kẻ khó .
+1	Nhà	nhà	NOUN	N	_	3	nsubj	_	_
+2	giàu	giàu	ADJ	ADJ	_	1	amod	_	_
+3	cướp	cướp	VERB	V	_	0	root	_	_
+4	công	công	NOUN	N	_	3	obj	_	_
+5	kẻ	kẻ	NOUN	N	_	3	iobj	_	_
+6	khó	khó	ADJ	ADJ	_	5	amod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20096
+# text = Học sinh tặng hoa cho cô giáo .
+1	Học sinh	học sinh	NOUN	N	_	2	nsubj	_	_
+2	tặng	tặng	VERB	V	_	0	root	_	_
+3	hoa	hoa	NOUN	N	_	2	obj	_	_
+4	cho	cho	ADP	PRE	_	5	case	_	_
+5	cô giáo	cô giáo	NOUN	N	_	2	obl:iobj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20097
+# text = Ông ấy hiến đất cho làng .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	hiến	hiến	VERB	V	_	0	root	_	_
+4	đất	đất	NOUN	N	_	3	obj	_	_
+5	cho	cho	ADP	PRE	_	6	case	_	_
+6	làng	làng	NOUN	N	_	3	obl:iobj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20098
+# text = Bộ đội lấy súng của địch đánh địch .
+1	Bộ đội	bộ đội	NOUN	N	_	2	nsubj	_	_
+2	lấy	lấy	VERB	V	_	0	root	_	_
+3	súng	súng	NOUN	N	_	2	obj	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	địch	địch	NOUN	N	_	2	obl:iobj	_	_
+6	đánh	đánh	VERB	V	_	2	advcl:objective	_	_
+7	địch	địch	NOUN	N	_	6	obj	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20099
+# text = Bà ấy mượn lược của thầy tu .
+1	Bà	bà	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	mượn	mượn	VERB	V	_	0	root	_	_
+4	lược	lược	NOUN	N	_	3	obj	_	_
+5	của	của	ADP	PRE	_	6	case	_	_
+6	thầy tu	thầy tu	NOUN	N	_	3	obl:iobj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20100
+# text = Khách hàng vay tiền của ngân hàng .
+1	Khách hàng	khách hàng	NOUN	N	_	2	nsubj	_	_
+2	vay	vay	VERB	V	_	0	root	_	_
+3	tiền	tiền	NOUN	N	_	2	obj	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	ngân hàng	ngân hàng	NOUN	N	_	2	obl:iobj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20101
+# text = Nhà giàu cướp công của kẻ khó .
+1	Nhà	nhà	NOUN	N	_	3	nsubj	_	_
+2	giàu	giàu	ADJ	ADJ	_	1	amod	_	_
+3	cướp	cướp	VERB	V	_	0	root	_	_
+4	công	công	NOUN	N	_	3	obj	_	_
+5	của	của	ADP	PRE	_	6	case	_	_
+6	kẻ	kẻ	NOUN	N	_	3	obl:iobj	_	_
+7	khó	khó	ADJ	ADJ	_	6	amod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20102
+# text = Em đang nghĩ đến anh .
+1	Em	em	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	nghĩ	nghĩ	VERB	V	_	0	root	_	_
+4	đến	đến	ADP	PRE	_	5	case	_	_
+5	anh	anh	NOUN	N	_	3	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20103
+# text = Chúng tôi làm cho con .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	0	root	_	_
+3	cho	cho	ADP	PRE	_	4	case	_	_
+4	con	con	NOUN	N	_	2	obl:iobj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20104
+# text = Ông luôn lo lắng cho con cháu .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	luôn	luôn	ADV	ADV	_	3	advmod	_	_
+3	lo lắng	lo lắng	VERB	V	_	0	root	_	_
+4	cho	cho	ADP	PRE	_	5	case	_	_
+5	con cháu	con cháu	NOUN	N	_	3	obl:iobj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20105
+# text = Gió quét sạch lá vàng .
+1	Gió	gió	NOUN	N	_	2	nsubj	_	_
+2	quét	quét	VERB	V	_	0	root	_	_
+3	sạch	sạch	ADJ	ADJ	_	2	acomp	_	_
+4	lá	lá	NOUN	N	_	2	obj	_	_
+5	vàng	vàng	ADJ	ADJ	_	4	amod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20106
+# text = Tên cướp chạy tắt qua đồng .
+1	Tên	tên	NOUN	N	_	2	det:clf	_	_
+2	cướp	cướp	NOUN	N	_	3	nsubj	_	_
+3	chạy	chạy	VERB	V	_	0	root	_	_
+4	tắt	tắt	ADJ	ADJ	_	3	acomp	_	_
+5	qua	qua	VERB	V	_	3	xcomp	_	_
+6	đồng	đồng	NOUN	N	_	5	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20107
+# text = Đạn bay vèo vèo trên đầu .
+1	Đạn	đạn	NOUN	N	_	2	nsubj	_	_
+2	bay	bay	VERB	V	_	0	root	_	_
+3	vèo vèo	vèo vèo	ADJ	ADJ	_	2	acomp	_	_
+4	trên	trên	NOUN	N	_	5	case	_	_
+5	đầu	đầu	NOUN	N	_	2	obl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20108
+# text = Xe lao vun vút xuống dốc .
+1	Xe	xe	NOUN	N	_	2	nsubj	_	_
+2	lao	lao	VERB	V	_	0	root	_	_
+3	vun vút	vun vút	ADJ	ADJ	_	2	advmod:adj	_	_
+4	xuống	xuống	VERB	V	_	2	compound:dir	_	_
+5	dốc	dốc	NOUN	N	_	4	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20109
+# text = Tôi không làm vừa ý cha mẹ .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj	_	_
+2	không	không	ADV	ADV	_	3	advmod:neg	_	_
+3	làm	làm	VERB	V	_	0	root	_	_
+4	vừa ý	vừa ý	ADJ	ADJ	_	3	acomp	_	_
+5	cha mẹ	cha mẹ	NOUN	N	_	3	obj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20110
+# text = Sao mày ăn nói bậy bạ thế ?
+1	Sao	sao	PRON	PRO	_	3	obl	_	_
+2	mày	mày	PRON	PRO	_	3	nsubj	_	_
+3	ăn nói	ăn nói	VERB	V	_	0	root	_	_
+4	bậy bạ	bậy bạ	ADJ	ADJ	_	3	acomp	_	_
+5	thế	thế	PART	PRT	_	3	discourse	_	_
+6	?	?	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20111
+# text = Mắt nó cứ nhìn đau đáu vào gốc cây .
+1	Mắt	mắt	NOUN	N	_	4	nsubj	_	_
+2	nó	nó	PRON	PRO	_	1	nmod	_	_
+3	cứ	cứ	ADV	ADV	_	4	advmod	_	_
+4	nhìn	nhìn	VERB	V	_	0	root	_	_
+5	đau đáu	đau đáu	ADJ	ADJ	_	4	acomp	_	_
+6	vào	vào	ADP	PRE	_	7	case	_	_
+7	gốc	gốc	NOUN	N	_	4	obl:comp	_	_
+8	cây	cây	NOUN	N	_	7	nmod	_	_
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20112
+# text = Cô ấy thích người đẹp trai .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	thích	thích	VERB	V	_	0	root	_	_
+4	người	người	NOUN	N	_	5	nsubj	_	_
+5	đẹp trai	đẹp trai	ADJ	ADJ	_	3	ccomp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20113
+# text = Em muốn tôi ngồi bên em .
+1	Em	em	NOUN	N	_	2	nsubj	_	_
+2	muốn	muốn	VERB	V	_	0	root	_	_
+3	tôi	tôi	PRON	PRO	_	4	nsubj	_	_
+4	ngồi	ngồi	VERB	V	_	2	ccomp	_	_
+5	bên	bên	NOUN	N	_	4	obl	_	_
+6	em	em	NOUN	N	_	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20114
+# text = Mẹ mong chị lấy chồng sớm .
+1	Mẹ	mẹ	NOUN	N	_	2	nsubj	_	_
+2	mong	mong	VERB	V	_	0	root	_	_
+3	chị	chị	NOUN	N	_	4	nsubj:xsubj	_	_
+4	lấy	lấy	VERB	V	_	2	xcomp	_	_
+5	chồng	chồng	NOUN	N	_	4	obj	_	_
+6	sớm	sớm	ADJ	ADJ	_	4	advmod:adj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20115
+# text = Tôi cũng chẳng cần chị thăm nom .
+1	Tôi	tôi	PRON	PRO	_	4	nsubj	_	_
+2	cũng	cũng	ADV	ADV	_	4	advmod	_	_
+3	chẳng	chẳng	ADV	ADV	_	4	advmod:neg	_	_
+4	cần	cần	VERB	V	_	0	root	_	_
+5	chị	chị	NOUN	N	_	6	nsubj	_	_
+6	thăm nom	thăm nom	NOUN	N	_	4	ccomp	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20116
+# text = Tôi cam đoan rằng anh ta đã làm điều đó .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	cam đoan	cam đoan	VERB	V	_	0	root	_	_
+3	rằng	rằng	SCONJ	SC	_	7	mark	_	_
+4	anh	anh	NOUN	N	_	7	nsubj	_	_
+5	ta	ta	PRON	PRO	_	4	compound:pron	_	_
+6	đã	đã	ADV	ADV	_	7	advmod	_	_
+7	làm	làm	VERB	V	_	2	ccomp	_	_
+8	điều	điều	NOUN	N	_	7	obj	_	_
+9	đó	đó	PRON	PRO	_	8	det:pmod	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20117
+# text = Họ nghĩ rằng giá cổ phiếu FPT sẽ tăng .
+1	Họ	họ	PRON	PRO	_	2	nsubj	_	_
+2	nghĩ	nghĩ	VERB	V	_	0	root	_	_
+3	rằng	rằng	SCONJ	SC	_	8	mark	_	_
+4	giá	giá	NOUN	N	_	8	nsubj	_	_
+5	cổ phiếu	cổ phiếu	NOUN	N	_	4	nmod	_	_
+6	FPT	fpt	NOUN	NY	_	5	nmod	_	_
+7	sẽ	sẽ	ADV	ADV	_	8	advmod	_	_
+8	tăng	tăng	VERB	V	_	2	ccomp	_	_
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20118
+# text = Tôi tin là tương lai sẽ tốt đẹp .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	tin	tin	VERB	V	_	0	root	_	_
+3	là	là	SCONJ	SC	_	6	mark	_	_
+4	tương lai	tương lai	NOUN	N	_	6	nsubj	_	_
+5	sẽ	sẽ	ADV	ADV	_	6	advmod	_	_
+6	tốt đẹp	tốt đẹp	ADJ	ADJ	_	2	ccomp	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20119
+# text = Tôi đoán rằng anh ấy sắp cưới cô ta .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	đoán	đoán	VERB	V	_	0	root	_	_
+3	rằng	rằng	SCONJ	SC	_	7	mark	_	_
+4	anh	anh	NOUN	N	_	7	nsubj	_	_
+5	ấy	ấy	PRON	PRO	_	4	det:pmod	_	_
+6	sắp	sắp	ADV	ADV	_	7	advmod	_	_
+7	cưới	cưới	VERB	V	_	2	ccomp	_	_
+8	cô	cô	NOUN	N	_	7	obj	_	_
+9	ta	ta	PRON	PRO	_	8	compound:pron	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20120
+# text = Thuốc này tạo màng ngăn chống đông máu .
+1	Thuốc	thuốc	NOUN	N	_	3	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	tạo	tạo	VERB	V	_	0	root	_	_
+4	màng ngăn	màng ngăn	NOUN	N	_	5	nsubj	_	_
+5	chống	chống	VERB	V	_	3	ccomp	_	_
+6	đông	đông	VERB	V	_	5	ccomp	_	_
+7	máu	máu	NOUN	N	_	6	obj	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20121
+# text = Bệnh có thể dẫn đến tử vong .
+1	Bệnh	bệnh	NOUN	N	_	3	nsubj	_	_
+2	có thể	có thể	ADV	ADV	_	3	advmod	_	_
+3	dẫn	dẫn	VERB	V	_	0	root	_	_
+4	đến	đến	VERB	V	_	3	compound:svc	_	_
+5	tử vong	tử vong	VERB	V	_	3	ccomp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20122
+# text = Chẳng ai phòng chống sạt lở , ngăn chặn tình trạng khai thác cát bừa bãi .
+1	Chẳng	chẳng	ADV	ADV	_	2	advmod:neg	_	_
+2	ai	ai	PRON	PRO	_	3	nsubj	_	_
+3	phòng chống	phòng chống	VERB	V	_	0	root	_	_
+4	sạt lở	sạt lở	VERB	V	_	3	ccomp	_	_
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	ngăn chặn	ngăn chặn	VERB	V	_	3	xcomp	_	_
+7	tình trạng	tình trạng	NOUN	N	_	6	obj	_	_
+8	khai thác	khai thác	VERB	V	_	7	acl:subj	_	_
+9	cát	cát	NOUN	N	_	8	obj	_	_
+10	bừa bãi	bừa bãi	ADJ	ADJ	_	8	acomp	_	_
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20123
+# text = Sue yêu cầu George đáp ứng lời đề nghị của cô ấy .
+1	Sue	sue	NOUN	N	_	2	nsubj	_	_
+2	yêu cầu	yêu cầu	VERB	V	_	0	root	_	_
+3	George	george	NOUN	N	_	4	nsubj:xsubj	_	_
+4	đáp ứng	đáp ứng	VERB	V	_	2	xcomp	_	_
+5	lời	lời	NOUN	N	_	4	obj	_	_
+6	đề nghị	đề nghị	VERB	V	_	5	compound:vmod	_	_
+7	của	của	ADP	PRE	_	8	case	_	_
+8	cô	cô	NOUN	N	_	5	nmod:poss	_	_
+9	ấy	ấy	PRON	PRO	_	8	det:pmod	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20124
+# text = Anh cho bò ăn cỏ .
+1	Anh	anh	NOUN	N	_	2	nsubj	_	_
+2	cho	cho	VERB	V	_	0	root	_	_
+3	bò	bò	NOUN	N	_	4	nsubj:xsubj	_	_
+4	ăn	ăn	VERB	V	_	2	xcomp	_	_
+5	cỏ	cỏ	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20125
+# text = Chúng tôi mong họ thay đổi suy nghĩ .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	2	nsubj	_	_
+2	mong	mong	VERB	V	_	0	root	_	_
+3	họ	họ	NOUN	N	_	4	nsubj:xsubj	_	_
+4	thay đổi	thay đổi	VERB	V	_	2	xcomp	_	_
+5	suy nghĩ	suy nghĩ	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20126
+# text = Tôi nhìn bạn tuyệt lắm .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	nhìn	nhìn	VERB	V	_	0	root	_	_
+3	bạn	bạn	NOUN	N	_	4	nsubj	_	_
+4	tuyệt	tuyệt	ADJ	ADJ	_	2	ccomp	_	_
+5	lắm	lắm	ADV	ADV	_	4	advmod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20127
+# text = Tôi coi anh ta như ngốc .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	coi	coi	VERB	V	_	0	root	_	_
+3	anh	anh	NOUN	N	_	2	obj	_	_
+4	ta	ta	PRON	PRO	_	3	compound:pron	_	_
+5	như	như	SCONJ	SC	_	6	mark	_	_
+6	ngốc	ngốc	ADJ	ADJ	_	2	advcl	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20128
+# text = Nhân dân chuẩn bị đối phó với thiên tai .
+1	Nhân dân	nhân dân	NOUN	N	_	2	nsubj	_	_
+2	chuẩn bị	chuẩn bị	VERB	V	_	0	root	_	_
+3	đối phó	đối phó	VERB	V	_	2	xcomp	_	_
+4	với	với	ADP	PRE	_	5	case	_	_
+5	thiên tai	thiên tai	NOUN	N	_	3	obl:with	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20129
+# text = Giải pháp đó giúp giảm ùn tắc giao thông .
+1	Giải pháp	giải pháp	NOUN	N	_	3	nsubj	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	giúp	giúp	VERB	V	_	0	root	_	_
+4	giảm	giảm	VERB	V	_	3	xcomp	_	_
+5	ùn tắc	ùn tắc	VERB	V	_	4	xcomp	_	_
+6	giao thông	giao thông	NOUN	N	_	5	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20130
+# text = Thuốc này đã được cơ quan chức năng phê duyệt cho sử dụng trong y học .
+1	Thuốc	thuốc	NOUN	N	_	7	nsubj:pass	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	được	được	AUX	AUX	_	7	aux:pass	_	_
+5	cơ quan	cơ quan	NOUN	N	_	7	obl:agent	_	_
+6	chức năng	chức năng	NOUN	N	_	5	compound	_	_
+7	phê duyệt	phê duyệt	VERB	V	_	0	root	_	_
+8	cho	cho	VERB	V	_	7	xcomp	_	_
+9	sử dụng	sử dụng	VERB	V	_	8	xcomp	_	_
+10	trong	trong	ADP	PRE	_	11	case	_	_
+11	y học	y học	NOUN	N	_	9	obl	_	_
+12	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20131
+# text = Cô ấy giỏi đánh nhau .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	0	root	_	_
+4	đánh	đánh	VERB	V	_	3	xcomp:adj	_	_
+5	nhau	nhau	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20132
+# text = Anh ấy thích chơi cờ .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	thích	thích	ADJ	ADJ	_	0	root	_	_
+4	chơi	chơi	VERB	V	_	3	xcomp	_	_
+5	cờ	cờ	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20133
+# text = Anh ấy nói thích bơi .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	nói	nói	VERB	V	_	0	root	_	_
+4	thích	thích	ADJ	ADJ	_	3	ccomp	_	_
+5	bơi	bơi	VERB	V	_	4	xcomp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20134
+# text = Cái áo của tôi đã rách .
+1	Cái	cái	NOUN	N	_	2	det:clf	_	_
+2	áo	áo	NOUN	N	_	6	nsubj	_	_
+3	của	của	ADP	PRE	_	4	case	_	_
+4	tôi	tôi	PRON	PRO	_	2	nmod:poss	_	_
+5	đã	đã	ADV	ADV	_	6	advmod	_	_
+6	rách	rách	ADJ	ADJ	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20135
+# text = Thợ lặn đang lặn xuống dưới nước .
+1	Thợ lặn	thợ lặn	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	lặn	lặn	VERB	V	_	0	root	_	_
+4	xuống	xuống	VERB	V	_	3	compound:dir	_	_
+5	dưới	dưới	ADP	PRE	_	6	case	_	_
+6	nước	nước	NOUN	N	_	3	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20136
+# text = Thuỷ thủ bỏ cá xuống dưới hầm tàu .
+1	Thuỷ thủ	thuỷ thủ	NOUN	N	_	2	nsubj	_	_
+2	bỏ	bỏ	VERB	V	_	0	root	_	_
+3	cá	cá	NOUN	N	_	2	obj	_	_
+4	xuống	xuống	VERB	V	_	2	xcomp	_	_
+5	dưới	dưới	ADP	PRE	_	6	case	_	_
+6	hầm tàu	hầm tàu	NOUN	N	_	4	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20137
+# text = Công nhân vừa chuyển hàng lên trên bờ .
+1	Công nhân	công nhân	NOUN	N	_	3	nsubj	_	_
+2	vừa	vừa	ADV	ADV	_	3	advmod	_	_
+3	chuyển	chuyển	VERB	V	_	0	root	_	_
+4	hàng	hàng	NOUN	N	_	3	obj	_	_
+5	lên	lên	VERB	V	_	3	xcomp	_	_
+6	trên	trên	ADP	PRE	_	7	case	_	_
+7	bờ	bờ	NOUN	N	_	5	obl:comp	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20138
+# text = Nó chặt thịt bằng dao .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	chặt	chặt	VERB	V	_	0	root	_	_
+3	thịt	thịt	NOUN	N	_	2	obj	_	_
+4	bằng	bằng	ADP	PRE	_	5	case	_	_
+5	dao	dao	NOUN	N	_	2	obl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20139
+# text = Tôi ngồi trên ghế .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	ngồi	ngồi	VERB	V	_	0	root	_	_
+3	trên	trên	ADP	PRE	_	4	case	_	_
+4	ghế	ghế	NOUN	N	_	2	obl	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20140
+# text = Bà ta bị trói buộc bởi tập quán cũ .
+1	Bà	bà	NOUN	N	_	4	nsubj:pass	_	_
+2	ta	ta	PRON	PRO	_	1	det:pmod	_	_
+3	bị	bị	AUX	AUX	_	4	aux:pass	_	_
+4	trói buộc	trói buộc	VERB	V	_	0	root	_	_
+5	bởi	bởi	ADP	PRE	_	6	case	_	_
+6	tập quán	tập quán	NOUN	N	_	4	obl	_	_
+7	cũ	cũ	ADJ	ADJ	_	6	amod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20141
+# text = Cô gái chạy lên trên đồi .
+1	Cô	cô	NOUN	N	_	2	det:clf	_	_
+2	gái	gái	NOUN	N	_	3	nsubj	_	_
+3	chạy	chạy	VERB	V	_	0	root	_	_
+4	lên	lên	VERB	V	_	3	compound:dir	_	_
+5	trên	trên	ADP	PRE	_	6	case	_	_
+6	đồi	đồi	NOUN	N	_	3	obl	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20142
+# text = Con chim bay vút lên trên trời xanh .
+1	Con	con	NOUN	N	_	2	det:clf	_	_
+2	chim	chim	NOUN	N	_	3	nsubj	_	_
+3	bay	bay	VERB	V	_	0	root	_	_
+4	vút	vút	VERB	V	_	3	xcomp	_	_
+5	lên	lên	VERB	V	_	4	compound:dir	_	_
+6	trên	trên	ADP	PRE	_	7	case	_	_
+7	trời	trời	NOUN	N	_	4	obl	_	_
+8	xanh	xanh	ADJ	ADJ	_	7	amod	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20143
+# text = Con học giỏi vì cha mẹ .
+1	Con	con	NOUN	N	_	2	nsubj	_	_
+2	học	học	VERB	V	_	0	root	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	2	acomp	_	_
+4	vì	vì	ADP	PRE	_	5	case	_	_
+5	cha mẹ	cha mẹ	NOUN	N	_	2	obl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20144
+# text = Họ đi từ Anh sang Pháp .
+1	Họ	họ	PRON	PRO	_	2	nsubj	_	_
+2	đi	đi	VERB	V	_	0	root	_	_
+3	từ	từ	ADP	PRE	_	4	case	_	_
+4	Anh	anh	NOUN	N	_	2	obl:comp	_	_
+5	sang	sang	VERB	V	_	2	xcomp	_	_
+6	Pháp	pháp	NOUN	N	_	5	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20145
+# text = Thuộc tính này chuyển từ thế hệ cha mẹ sang thế hệ con cái .
+1	Thuộc tính	thuộc tính	NOUN	N	_	3	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	chuyển	chuyển	VERB	V	_	0	root	_	_
+4	từ	từ	ADP	PRE	_	5	case	_	_
+5	thế hệ	thế hệ	NOUN	N	_	3	obl:comp	_	_
+6	cha mẹ	cha mẹ	NOUN	N	_	5	nmod	_	_
+7	sang	sang	VERB	V	_	3	xcomp	_	_
+8	thế hệ	thế hệ	NOUN	N	_	7	obl:comp	_	_
+9	con cái	con cái	NOUN	N	_	8	nmod	_	_
+10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20146
+# text = Ngoài vườn , hoa đang nở .
+1	Ngoài	ngoài	ADP	PRE	_	2	case	_	_
+2	vườn	vườn	NOUN	N	_	6	obl	_	_
+3	,	,	PUNCT	PUNCT	_	6	punct	_	_
+4	hoa	hoa	NOUN	N	_	6	nsubj	_	_
+5	đang	đang	ADV	ADV	_	6	advmod	_	_
+6	nở	nở	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20147
+# text = Trên trời , những ngôi sao đã tắt .
+1	Trên	trên	ADP	PRE	_	2	case	_	_
+2	trời	trời	NOUN	N	_	8	obl	_	_
+3	,	,	PUNCT	PUNCT	_	8	punct	_	_
+4	những	những	DET	DET	_	6	det	_	_
+5	ngôi	ngôi	NOUN	N	_	4	clf	_	_
+6	sao	sao	NOUN	N	_	8	nsubj	_	_
+7	đã	đã	ADV	ADV	_	8	advmod	_	_
+8	tắt	tắt	VERB	V	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = dev-20148
+# text = Nam nhận trách nhiệm về việc đó .
+1	Nam	nam	NOUN	N	_	2	nsubj	_	_
+2	nhận	nhận	VERB	V	_	0	root	_	_
+3	trách nhiệm	trách nhiệm	NOUN	N	_	2	obj	_	_
+4	về	về	ADP	PRE	_	5	case	_	_
+5	việc	việc	NOUN	N	_	2	obl:about	_	_
+6	đó	đó	PRON	PRO	_	5	det:pmod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20149
+# text = Chúng ta phải nhìn về phía trước .
+1	Chúng ta	chúng ta	PRON	PRO	_	3	nsubj	_	_
+2	phải	phải	AUX	AUX	_	3	aux	_	_
+3	nhìn	nhìn	NOUN	N	_	0	root	_	_
+4	về	về	ADP	PRE	_	5	case	_	_
+5	phía	phía	NOUN	N	_	3	obl:about	_	_
+6	trước	trước	NOUN	N	_	5	compound	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20150
+# text = Anh là chuyên gia nghiên cứu về người máy .
+1	Anh	anh	NOUN	N	_	3	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	chuyên gia	chuyên gia	NOUN	N	_	0	root	_	_
+4	nghiên cứu	nghiên cứu	VERB	V	_	3	acl:subj	_	_
+5	về	về	ADP	PRE	_	6	case	_	_
+6	người máy	người máy	NOUN	N	_	4	obl:about	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20151
+# text = Nội dung của ca khúc nói về tâm trạng của một cô gái đang yêu .
+1	Nội dung	nội dung	NOUN	N	_	4	nsubj	_	_
+2	của	của	ADP	PRE	_	3	case	_	_
+3	ca khúc	ca khúc	NOUN	N	_	1	nmod:poss	_	_
+4	nói	nói	VERB	V	_	0	root	_	_
+5	về	về	ADP	PRE	_	6	case	_	_
+6	tâm trạng	tâm trạng	NOUN	N	_	4	obl:about	_	_
+7	của	của	ADP	PRE	_	10	case	_	_
+8	một	một	DET	DET	_	10	det	_	_
+9	cô	cô	NOUN	N	_	8	clf	_	_
+10	gái	gái	NOUN	N	_	6	nmod:poss	_	_
+11	đang	đang	ADV	ADV	_	12	advmod	_	_
+12	yêu	yêu	VERB	V	_	10	acl:subj	_	_
+13	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20152
+# text = Ông ta đã đánh giá sai lầm về thực lực của quân địch .
+1	Ông	ông	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	det:pmod	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	đánh giá	đánh giá	VERB	V	_	0	root	_	_
+5	sai lầm	sai lầm	ADJ	ADJ	_	4	acomp	_	_
+6	về	về	ADP	PRE	_	7	case	_	_
+7	thực lực	thực lực	NOUN	N	_	4	obl:about	_	_
+8	của	của	ADP	PRE	_	9	case	_	_
+9	quân	quân	NOUN	N	_	7	nmod:poss	_	_
+10	địch	địch	NOUN	N	_	9	compound	_	_
+11	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20153
+# text = Anh là nhà khoa học về người máy .
+1	Anh	anh	NOUN	N	_	3	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	nhà	nhà	NOUN	N	_	0	root	_	_
+4	khoa học	khoa học	NOUN	N	_	3	compound	_	_
+5	về	về	ADP	PRE	_	6	case	_	_
+6	người máy	người máy	NOUN	N	_	3	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20154
+# text = Nam nói chuyện với tôi .
+1	Nam	nam	NOUN	N	_	2	nsubj	_	_
+2	nói chuyện	nói chuyện	VERB	V	_	0	root	_	_
+3	với	với	ADP	PRE	_	4	case	_	_
+4	tôi	tôi	PRON	PRO	_	2	obl:with	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20155
+# text = Trứng chọi với đá .
+1	Trứng	trứng	NOUN	N	_	2	nsubj	_	_
+2	chọi	chọi	VERB	V	_	0	root	_	_
+3	với	với	ADP	PRE	_	4	case	_	_
+4	đá	đá	NOUN	N	_	2	obl:comp	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20156
+# text = Tôi không ở chung với bạn .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj	_	_
+2	không	không	ADV	ADV	_	3	advmod:neg	_	_
+3	ở	ở	VERB	V	_	0	root	_	_
+4	chung	chung	ADJ	ADJ	_	3	advmod:adj	_	_
+5	với	với	ADP	PRE	_	6	case	_	_
+6	bạn	bạn	NOUN	N	_	3	obl:with	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20157
+# text = Anh bàn với mọi thành viên trong gia đình .
+1	Anh	anh	NOUN	N	_	2	nsubj	_	_
+2	bàn	bàn	VERB	V	_	0	root	_	_
+3	với	với	ADP	PRE	_	5	case	_	_
+4	mọi	mọi	DET	DET	_	5	det	_	_
+5	thành viên	thành viên	NOUN	N	_	2	obl:with	_	_
+6	trong	trong	ADP	PRE	_	7	case	_	_
+7	gia đình	gia đình	NOUN	N	_	5	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20158
+# text = Giám đốc đang làm việc với chuyên gia nước ngoài .
+1	Giám đốc	giám đốc	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	làm việc	làm việc	VERB	V	_	0	root	_	_
+4	với	với	ADP	PRE	_	5	case	_	_
+5	chuyên gia	chuyên gia	NOUN	N	_	3	obl:with	_	_
+6	nước ngoài	nước ngoài	NOUN	N	_	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20159
+# text = Chúng ta cần thực hiện biện pháp cách li với người bệnh .
+1	Chúng ta	chúng ta	PRON	PRO	_	3	nsubj	_	_
+2	cần	cần	AUX	AUX	_	3	aux	_	_
+3	thực hiện	thực hiện	VERB	V	_	0	root	_	_
+4	biện pháp	biện pháp	NOUN	N	_	3	obj	_	_
+5	cách li	cách li	VERB	V	_	4	acl:subj	_	_
+6	với	với	ADP	PRE	_	7	case	_	_
+7	người bệnh	người bệnh	NOUN	N	_	5	obl:with	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20160
+# text = Hành động này phù hợp với thực tế .
+1	Hành động	hành động	NOUN	N	_	3	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	phù hợp	phù hợp	VERB	V	_	0	root	_	_
+4	với	với	ADP	PRE	_	5	case	_	_
+5	thực tế	thực tế	NOUN	N	_	3	obl:with	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20161
+# text = Công nhân làm việc với cường độ cao .
+1	Công nhân	công nhân	NOUN	N	_	2	nsubj	_	_
+2	làm việc	làm việc	VERB	V	_	0	root	_	_
+3	với	với	ADP	PRE	_	4	case	_	_
+4	cường độ	cường độ	NOUN	N	_	2	obl:with	_	_
+5	cao	cao	ADJ	ADJ	_	4	amod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20162
+# text = Việc đó đe doạ đối với hạnh phúc gia đình .
+1	Việc	việc	NOUN	N	_	3	nsubj	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	đe doạ	đe doạ	VERB	V	_	0	root	_	_
+4	đối với	đối với	ADP	PRE	_	5	case	_	_
+5	hạnh phúc	hạnh phúc	NOUN	N	_	3	obl:with	_	_
+6	gia đình	gia đình	NOUN	N	_	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20163
+# text = Việc này không khó đối với ông ấy .
+1	Việc	việc	NOUN	N	_	4	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	không	không	ADV	ADV	_	4	advmod:neg	_	_
+4	khó	khó	ADJ	ADJ	_	0	root	_	_
+5	đối với	đối với	ADP	PRE	_	6	case	_	_
+6	ông	ông	NOUN	N	_	4	obl:with	_	_
+7	ấy	ấy	PRON	PRO	_	6	det:pmod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20164
+# text = Anh ta rất chân thành đối với mọi người .
+1	Anh	anh	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	det:pmod	_	_
+3	rất	rất	ADV	ADV	_	4	advmod	_	_
+4	chân thành	chân thành	ADJ	ADJ	_	0	root	_	_
+5	đối với	đối với	ADP	PRE	_	7	case	_	_
+6	mọi	mọi	DET	DET	_	7	det	_	_
+7	người	người	NOUN	N	_	4	obl:with	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20165
+# text = Công trình được kiến trúc sư Việt Nam thiết kế .
+1	Công trình	công trình	NOUN	N	_	6	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	6	aux:pass	_	_
+3	kiến trúc sư	kiến trúc sư	NOUN	N	_	6	obl:agent	_	_
+4	Việt	việt	NOUN	N	_	3	nmod	_	_
+5	Nam	nam	NOUN	N	_	4	compound	_	_
+6	thiết kế	thiết kế	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20166
+# text = Truyện này được viết bởi người lao công .
+1	Truyện	truyện	NOUN	N	_	4	nsubj:pass	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	được	được	AUX	AUX	_	4	aux:pass	_	_
+4	viết	viết	VERB	V	_	0	root	_	_
+5	bởi	bởi	ADP	PRE	_	7	case	_	_
+6	người	người	NOUN	N	_	7	det:clf	_	_
+7	lao công	lao công	NOUN	N	_	4	obl:agent	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20167
+# text = Vì thế , chúng cũng bị tán xạ bởi từ trường .
+1	Vì thế	vì thế	SCONJ	SC	_	6	mark	_	_
+2	,	,	PUNCT	PUNCT	_	6	punct	_	_
+3	chúng	chúng	PRON	PRO	_	6	nsubj:pass	_	_
+4	cũng	cũng	ADV	ADV	_	5	advmod	_	_
+5	bị	bị	AUX	AUX	_	6	aux:pass	_	_
+6	tán xạ	tán xạ	VERB	V	_	0	root	_	_
+7	bởi	bởi	ADP	PRE	_	8	case	_	_
+8	từ trường	từ trường	NOUN	N	_	6	obl:agent	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20168
+# text = Phần cứng thường được hướng dẫn qua phần mềm .
+1	Phần cứng	phần cứng	NOUN	N	_	4	nsubj:pass	_	_
+2	thường	thường	ADV	ADV	_	3	advmod	_	_
+3	được	được	AUX	AUX	_	4	aux:pass	_	_
+4	hướng dẫn	hướng dẫn	VERB	V	_	0	root	_	_
+5	qua	qua	ADP	PRE	_	6	case	_	_
+6	phần mềm	phần mềm	NOUN	N	_	4	obl	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20169
+# text = Họ sống ở Hà Nội .
+1	Họ	họ	PRON	PRO	_	2	nsubj	_	_
+2	sống	sống	VERB	V	_	0	root	_	_
+3	ở	ở	ADP	PRE	_	4	case	_	_
+4	Hà	hà	NOUN	N	_	2	obl:comp	_	_
+5	Nội	nội	NOUN	N	_	4	compound	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20170
+# text = Học sinh đang đi đến trường .
+1	Học sinh	học sinh	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	đi	đi	VERB	V	_	0	root	_	_
+4	đến	đến	ADP	PRE	_	5	case	_	_
+5	trường	trường	NOUN	N	_	3	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20171
+# text = Đội bóng đã lọt vào vòng chung kết .
+1	Đội	đội	NOUN	N	_	4	nsubj	_	_
+2	bóng	bóng	NOUN	N	_	1	nmod	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	lọt	lọt	VERB	V	_	0	root	_	_
+5	vào	vào	ADP	PRE	_	6	case	_	_
+6	vòng	vòng	NOUN	N	_	4	obl:comp	_	_
+7	chung kết	chung kết	NOUN	N	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20172
+# text = Anh ấy không muốn phụ thuộc vào gia đình .
+1	Anh	anh	NOUN	N	_	5	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	không	không	ADV	ADV	_	4	advmod:neg	_	_
+4	muốn	muốn	AUX	AUX	_	5	aux	_	_
+5	phụ thuộc	phụ thuộc	VERB	V	_	0	root	_	_
+6	vào	vào	ADP	PRE	_	7	case	_	_
+7	gia đình	gia đình	NOUN	N	_	5	obl:comp	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20173
+# text = Tôi chỉ dựa vào sức mình là chính .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj	_	_
+2	chỉ	chỉ	ADV	ADV	_	3	advmod	_	_
+3	dựa	dựa	VERB	V	_	0	root	_	_
+4	vào	vào	ADP	PRE	_	5	case	_	_
+5	sức	sức	NOUN	N	_	3	obl:comp	_	_
+6	mình	mình	PRON	PRO	_	5	compound:pron	_	_
+7	là	là	PART	PRT	_	8	discourse	_	_
+8	chính	chính	ADJ	ADJ	_	3	acomp	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20174
+# text = Họ trông chờ tới sự giúp đỡ của mọi người .
+1	Họ	họ	PRON	PRO	_	2	nsubj	_	_
+2	trông chờ	trông chờ	VERB	V	_	0	root	_	_
+3	tới	tới	ADP	PRE	_	4	case	_	_
+4	sự	sự	NOUN	N	_	2	obl:comp	_	_
+5	giúp đỡ	giúp đỡ	VERB	V	_	4	acl:tonp	_	_
+6	của	của	ADP	PRE	_	8	case	_	_
+7	mọi	mọi	DET	DET	_	8	det	_	_
+8	người	người	NOUN	N	_	4	nmod:poss	_	_
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20175
+# text = Ông đã đi khắp châu Âu .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	đi	đi	VERB	V	_	0	root	_	_
+4	khắp	khắp	ADJ	ADJ	_	5	advmod:adj	_	_
+5	châu	châu	NOUN	N	_	3	obl:comp	_	_
+6	Âu	âu	NOUN	N	_	5	compound	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20176
+# text = Họ đã làm hết sức mình .
+1	Họ	họ	PRON	PRO	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	làm	làm	VERB	V	_	0	root	_	_
+4	hết	hết	VERB	V	_	3	xcomp	_	_
+5	sức	sức	NOUN	N	_	4	obl:comp	_	_
+6	mình	mình	PRON	PRO	_	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20177
+# text = Công ti hết tiền mặt .
+1	Công ti	công ti	NOUN	N	_	2	nsubj	_	_
+2	hết	hết	VERB	V	_	0	root	_	_
+3	tiền mặt	tiền mặt	NOUN	N	_	2	obl:comp	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20178
+# text = Hắn còn tiền trong túi .
+1	Hắn	hắn	NOUN	N	_	2	nsubj	_	_
+2	còn	còn	VERB	V	_	0	root	_	_
+3	tiền	tiền	NOUN	N	_	2	obj	_	_
+4	trong	trong	ADP	PRE	_	5	case	_	_
+5	túi	túi	NOUN	N	_	2	obl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20179
+# text = Cửa hàng có sách mới .
+1	Cửa hàng	cửa hàng	NOUN	N	_	2	nsubj	_	_
+2	có	có	VERB	V	_	0	root	_	_
+3	sách	sách	NOUN	N	_	2	obl:comp	_	_
+4	mới	mới	ADJ	ADJ	_	3	amod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20180
+# text = Nhà này có 5 gian .
+1	Nhà	nhà	NOUN	N	_	3	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	có	có	VERB	V	_	0	root	_	_
+4	5	5	NUM	NUM	_	5	nummod	_	_
+5	gian	gian	NOUN	N	_	3	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20181
+# text = Chúng trở thành bạn thân .
+1	Chúng	chúng	PRON	PRO	_	2	nsubj	_	_
+2	trở thành	trở thành	VERB	V	_	0	root	_	_
+3	bạn	bạn	NOUN	N	_	2	obl:comp	_	_
+4	thân	thân	ADJ	ADJ	_	3	compound:amod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20182
+# text = Mèo già hoá cáo .
+1	Mèo	mèo	NOUN	N	_	3	nsubj	_	_
+2	già	già	ADJ	ADJ	_	1	amod	_	_
+3	hoá	hoá	VERB	V	_	0	root	_	_
+4	cáo	cáo	NOUN	N	_	3	obl:comp	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20183
+# text = Cô ấy giỏi toán .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	0	root	_	_
+4	toán	toán	NOUN	N	_	3	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20184
+# text = Cô ấy giỏi về toán .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	0	root	_	_
+4	về	về	ADP	PRE	_	5	case	_	_
+5	toán	toán	NOUN	N	_	3	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20185
+# text = Sợi đơn chỉ gồm một chuỗi pôlyribônuclêôtit .
+1	Sợi	sợi	NOUN	N	_	4	nsubj	_	_
+2	đơn	đơn	ADJ	ADJ	_	1	amod	_	_
+3	chỉ	chỉ	ADV	ADV	_	4	advmod	_	_
+4	gồm	gồm	VERB	V	_	0	root	_	_
+5	một	một	NUM	NUM	_	6	nummod	_	_
+6	chuỗi	chuỗi	NOUN	N	_	4	obl:comp	_	_
+7	pôlyribônuclêôtit	pôlyribônuclêôtit	NOUN	NB	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20186
+# text = Anh ta đá ở vị trí tiền vệ .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	det:pmod	_	_
+3	đá	đá	VERB	V	_	0	root	_	_
+4	ở	ở	ADP	PRE	_	5	case	_	_
+5	vị trí	vị trí	NOUN	N	_	3	obl:comp	_	_
+6	tiền vệ	tiền vệ	NOUN	N	_	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20187
+# text = Cô ấy nghỉ việc từ hôm qua .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	nghỉ việc	nghỉ việc	VERB	V	_	0	root	_	_
+4	từ	từ	ADP	PRE	_	5	case	_	_
+5	hôm qua	hôm qua	NOUN	N	_	3	obl:tmod	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20188
+# text = Chúng ta sẽ làm việc trong hai ngày .
+1	Chúng ta	chúng ta	NOUN	N	_	3	nsubj	_	_
+2	sẽ	sẽ	ADV	ADV	_	3	advmod	_	_
+3	làm việc	làm việc	VERB	V	_	0	root	_	_
+4	trong	trong	ADP	PRE	_	6	case	_	_
+5	hai	hai	NUM	NUM	_	6	nummod	_	_
+6	ngày	ngày	NOUN	N	_	3	obl:tmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20189
+# text = Nó sáng tác bài hát khi mới lên 10 tuổi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	sáng tác	sáng tác	VERB	V	_	0	root	_	_
+3	bài	bài	NOUN	N	_	2	obj	_	_
+4	hát	hát	VERB	V	_	3	compound:vmod	_	_
+5	khi	khi	NOUN	N	_	2	obl:tmod	_	_
+6	mới	mới	ADV	ADV	_	7	advmod	_	_
+7	lên	lên	VERB	V	_	5	acl:tmod	_	_
+8	10	10	NUM	NUM	_	9	nummod	_	_
+9	tuổi	tuổi	NOUN	N	_	7	obj	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20190
+# text = Ngư dân đánh cá ban đêm .
+1	Ngư dân	ngư dân	NOUN	N	_	2	nsubj	_	_
+2	đánh cá	đánh cá	VERB	V	_	0	root	_	_
+3	ban đêm	ban đêm	NOUN	N	_	2	obl:tmod	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20191
+# text = Phân xưởng được nghỉ bốn giờ .
+1	Phân xưởng	phân xưởng	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	nghỉ	nghỉ	VERB	V	_	0	root	_	_
+4	bốn	bốn	NUM	NUM	_	5	nummod	_	_
+5	giờ	giờ	NU	NU	_	3	obl:tmod	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20192
+# text = Họ đã đi sau 30 phút .
+1	Họ	họ	PRON	PRO	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	đi	đi	VERB	V	_	0	root	_	_
+4	sau	sau	NOUN	N	_	3	obl:tmod	_	_
+5	30	30	NUM	NUM	_	6	nummod	_	_
+6	phút	phút	NU	NU	_	4	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20193
+# text = Chuyện xảy ra 20 năm về trước .
+1	Chuyện	chuyện	NOUN	N	_	2	nsubj	_	_
+2	xảy	xảy	VERB	V	_	0	root	_	_
+3	ra	ra	VERB	V	_	2	compound:svc	_	_
+4	20	20	NUM	NUM	_	5	nummod	_	_
+5	năm	năm	NOUN	N	_	2	obl:tmod	_	_
+6	về	về	ADP	PRE	_	7	case	_	_
+7	trước	trước	NOUN	N	_	5	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20194
+# text = Du khách nằm ngả ngớn trên cát .
+1	Du khách	du khách	NOUN	N	_	2	nsubj	_	_
+2	nằm	nằm	VERB	V	_	0	root	_	_
+3	ngả ngớn	ngả ngớn	ADJ	ADJ	_	2	acomp	_	_
+4	trên	trên	ADP	PRE	_	5	case	_	_
+5	cát	cát	NOUN	N	_	2	obl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20195
+# text = Bọn trẻ đang ngồi ở bãi cỏ .
+1	Bọn	bọn	NOUN	N	_	2	det:clf	_	_
+2	trẻ	trẻ	NOUN	N	_	4	nsubj	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	ngồi	ngồi	VERB	V	_	0	root	_	_
+5	ở	ở	ADP	PRE	_	6	case	_	_
+6	bãi	bãi	NOUN	N	_	4	obl	_	_
+7	cỏ	cỏ	NOUN	N	_	6	compound	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20196
+# text = Bộ đội đang truy kích địch trong làng .
+1	Bộ đội	bộ đội	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	truy kích	truy kích	VERB	V	_	0	root	_	_
+4	địch	địch	NOUN	N	_	3	obj	_	_
+5	trong	trong	ADP	PRE	_	6	case	_	_
+6	làng	làng	NOUN	N	_	3	obl	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20197
+# text = Công binh tháo bom dưới đèo .
+1	Công binh	công binh	NOUN	N	_	2	nsubj	_	_
+2	tháo	tháo	VERB	V	_	0	root	_	_
+3	bom	bom	NOUN	N	_	2	obj	_	_
+4	dưới	dưới	ADP	PRE	_	5	case	_	_
+5	đèo	đèo	NOUN	N	_	2	obl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20198
+# text = Ông ấy chiến đấu anh dũng trong hải quân .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	chiến đấu	chiến đấu	VERB	V	_	0	root	_	_
+4	anh dũng	anh dũng	ADJ	ADJ	_	3	acomp	_	_
+5	trong	trong	ADP	PRE	_	6	case	_	_
+6	hải quân	hải quân	NOUN	N	_	3	obl	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20199
+# text = Nó đang nằm võng .
+1	Nó	nó	PRON	PRO	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	nằm	nằm	VERB	V	_	0	root	_	_
+4	võng	võng	NOUN	N	_	3	obl	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20200
+# text = Tên cướp vừa rời khỏi ngôi nhà .
+1	Tên	tên	NOUN	N	_	2	det:clf	_	_
+2	cướp	cướp	NOUN	N	_	4	nsubj	_	_
+3	vừa	vừa	ADV	ADV	_	4	advmod	_	_
+4	rời	rời	VERB	V	_	0	root	_	_
+5	khỏi	khỏi	VERB	V	_	4	compound:dir	_	_
+6	ngôi	ngôi	NOUN	N	_	7	det:clf	_	_
+7	nhà	nhà	NOUN	N	_	4	obl:comp	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20201
+# text = Đầu bếp đang chặt gà bằng dao phay .
+1	Đầu bếp	đầu bếp	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	chặt	chặt	VERB	V	_	0	root	_	_
+4	gà	gà	NOUN	N	_	3	obj	_	_
+5	bằng	bằng	ADP	PRE	_	6	case	_	_
+6	dao phay	dao phay	NOUN	N	_	3	obl	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20202
+# text = Chúng tôi in sách bằng kĩ thuật mới .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	2	nsubj	_	_
+2	in	in	VERB	V	_	0	root	_	_
+3	sách	sách	NOUN	N	_	2	obj	_	_
+4	bằng	bằng	ADP	PRE	_	5	case	_	_
+5	kĩ thuật	kĩ thuật	NOUN	N	_	2	obl	_	_
+6	mới	mới	ADJ	ADJ	_	5	amod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20203
+# text = Sản phẩm được in máy .
+1	Sản phẩm	sản phẩm	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	in	in	VERB	V	_	0	root	_	_
+4	máy	máy	NOUN	N	_	3	compound:verbnoun	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20204
+# text = Sản phẩm được làm với nguyên liệu nhập ngoại .
+1	Sản phẩm	sản phẩm	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	làm	làm	VERB	V	_	0	root	_	_
+4	với	với	ADP	PRE	_	5	case	_	_
+5	nguyên liệu	nguyên liệu	NOUN	N	_	3	obl	_	_
+6	nhập ngoại	nhập ngoại	VERB	V	_	5	compound:vmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20205
+# text = Bệnh nhân đã chết vì ung thư .
+1	Bệnh nhân	bệnh nhân	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	AUX	AUX	_	3	advmod	_	_
+3	chết	chết	VERB	V	_	0	root	_	_
+4	vì	vì	SCONJ	SC	_	5	case	_	_
+5	ung thư	ung thư	NOUN	N	_	3	obl	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20206
+# text = Mùa màng thất bát do lũ lụt .
+1	Mùa màng	mùa màng	NOUN	N	_	2	nsubj	_	_
+2	thất bát	thất bát	VERB	V	_	0	root	_	_
+3	do	do	SCONJ	SC	_	4	case	_	_
+4	lũ lụt	lũ lụt	NOUN	N	_	2	obl	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20207
+# text = Anh đã hi sinh vì tổ quốc .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	AUX	AUX	_	3	advmod	_	_
+3	hi sinh	hi sinh	VERB	V	_	0	root	_	_
+4	vì	vì	SCONJ	SC	_	5	case	_	_
+5	tổ quốc	tổ quốc	NOUN	N	_	3	obl	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20208
+# text = Cha mẹ luôn hi sinh vì con cái .
+1	Cha mẹ	cha mẹ	NOUN	N	_	3	nsubj	_	_
+2	luôn	luôn	ADV	ADV	_	3	advmod	_	_
+3	hi sinh	hi sinh	VERB	V	_	0	root	_	_
+4	vì	vì	SCONJ	SC	_	5	case	_	_
+5	con cái	con cái	NOUN	N	_	3	obl	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20209
+# text = Chúng tôi hành động vì sự an toàn của nhân dân .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	2	nsubj	_	_
+2	hành động	hành động	VERB	V	_	0	root	_	_
+3	vì	vì	SCONJ	SC	_	4	case	_	_
+4	sự	sự	NOUN	N	_	2	obl	_	_
+5	an toàn	an toàn	ADJ	ADJ	_	4	compound:amod	_	_
+6	của	của	ADP	PRE	_	7	case	_	_
+7	nhân dân	nhân dân	NOUN	N	_	4	nmod:poss	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20210
+# text = Nó nói như vẹt .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	nói	nói	VERB	V	_	0	root	_	_
+3	như	như	SCONJ	SC	_	4	case	_	_
+4	vẹt	vẹt	NOUN	N	_	2	obl	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20211
+# text = Ông bà coi tôi như con .
+1	Ông bà	ông bà	NOUN	N	_	2	nsubj	_	_
+2	coi	coi	VERB	V	_	0	root	_	_
+3	tôi	tôi	PRON	PRO	_	2	obj	_	_
+4	như	như	SCONJ	SC	_	5	case	_	_
+5	con	con	NOUN	N	_	2	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20212
+# text = Hắn chạy như một thằng điên .
+1	Hắn	hắn	PRON	PRO	_	2	nsubj	_	_
+2	chạy	chạy	VERB	V	_	0	root	_	_
+3	như	như	SCONJ	SC	_	5	case	_	_
+4	một	một	DET	DET	_	5	det	_	_
+5	thằng	thằng	NOUN	N	_	2	obl	_	_
+6	điên	điên	ADJ	ADJ	_	5	compound:amod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20213
+# text = Về điểm số thì nó bằng tôi .
+1	Về	về	ADP	PRE	_	2	case	_	_
+2	điểm số	điểm số	NOUN	N	_	5	obl	_	_
+3	thì	thì	SCONJ	SC	_	5	mark	_	_
+4	nó	nó	NOUN	N	_	5	nsubj	_	_
+5	bằng	bằng	VERB	V	_	0	root	_	_
+6	tôi	tôi	PRON	PRO	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20214
+# text = Tôi thua nó nhiều mặt .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	thua	thua	VERB	V	_	0	root	_	_
+3	nó	nó	PRON	PRO	_	2	obj	_	_
+4	nhiều	nhiều	ADJ	ADJ	_	5	advmod:adj	_	_
+5	mặt	mặt	NOUN	N	_	2	obl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20215
+# text = Ban giám khảo làm việc với tinh thần trách nhiệm cao .
+1	Ban	ban	NOUN	N	_	3	nsubj	_	_
+2	giám khảo	giám khảo	NOUN	N	_	1	compound	_	_
+3	làm việc	làm việc	VERB	V	_	0	root	_	_
+4	với	với	ADP	PRE	_	5	case	_	_
+5	tinh thần	tinh thần	NOUN	N	_	3	obl	_	_
+6	trách nhiệm	trách nhiệm	NOUN	N	_	5	compound	_	_
+7	cao	cao	ADJ	ADJ	_	5	amod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20216
+# text = Nhân dân đấu tranh trong niềm tin sâu sắc .
+1	Nhân dân	nhân dân	NOUN	N	_	2	nsubj	_	_
+2	đấu tranh	đấu tranh	VERB	V	_	0	root	_	_
+3	trong	trong	ADP	PRE	_	4	case	_	_
+4	niềm	niềm	NOUN	N	_	2	obl	_	_
+5	tin	tin	ADJ	ADJ	_	4	compound:amod	_	_
+6	sâu sắc	sâu sắc	ADJ	ADJ	_	4	amod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20217
+# text = Nó giống tôi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	giống	giống	ADJ	ADJ	_	0	root	_	_
+3	tôi	tôi	PRON	PRO	_	2	obj	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20218
+# text = Nó xinh như chị nó .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	xinh	xinh	ADJ	ADJ	_	0	root	_	_
+3	như	như	SCONJ	SC	_	4	case	_	_
+4	chị	chị	NOUN	N	_	2	obl	_	_
+5	nó	nó	PRON	PRO	_	4	compound:pron	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20219
+# text = Quán gần trường .
+1	Quán	quán	NOUN	N	_	2	nsubj	_	_
+2	gần	gần	ADJ	ADJ	_	0	root	_	_
+3	trường	trường	NOUN	N	_	2	obl:adj	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20220
+# text = Hố sâu 2 mét .
+1	Hố	hố	NOUN	N	_	2	nsubj	_	_
+2	sâu	sâu	ADJ	ADJ	_	0	root	_	_
+3	2	2	NUM	NUM	_	4	nummod	_	_
+4	mét	mét	NU	NU	_	2	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20221
+# text = Cảnh đẹp như tranh .
+1	Cảnh	cảnh	NOUN	N	_	2	nsubj	_	_
+2	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+3	như	như	SCONJ	SC	_	4	case	_	_
+4	tranh	tranh	NOUN	N	_	2	obl	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20222
+# text = Nó nói nhanh mồm .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	nói	nói	VERB	V	_	0	root	_	_
+3	nhanh	nhanh	ADJ	ADJ	_	2	acomp	_	_
+4	mồm	mồm	NOUN	N	_	3	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20223
+# text = Nó làm nhanh tay .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	0	root	_	_
+3	nhanh	nhanh	ADJ	ADJ	_	2	acomp	_	_
+4	tay	tay	NOUN	N	_	3	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20224
+# text = Anh học kém em .
+1	Anh	anh	NOUN	N	_	2	nsubj	_	_
+2	học	học	VERB	V	_	0	root	_	_
+3	kém	kém	ADJ	ADJ	_	2	acomp	_	_
+4	em	em	NOUN	N	_	3	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20225
+# text = Nó thông minh hơn tôi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	thông minh	thông minh	ADJ	ADJ	_	0	root	_	_
+3	hơn	hơn	ADJ	ADJ	_	2	advmod:adj	_	_
+4	tôi	tôi	PRON	PRO	_	3	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20226
+# text = Nó cao bằng tôi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	cao	cao	ADJ	ADJ	_	0	root	_	_
+3	bằng	bằng	ADJ	ADJ	_	2	advmod:adj	_	_
+4	tôi	tôi	PRON	PRO	_	3	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20227
+# text = Nó hơn mọi người trong thể thao .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	hơn	hơn	ADJ	ADJ	_	0	root	_	_
+3	mọi	mọi	DET	DET	_	4	det	_	_
+4	người	người	NOUN	N	_	2	obl:adj	_	_
+5	trong	trong	ADP	PRE	_	6	case	_	_
+6	thể thao	thể thao	NOUN	N	_	2	obl	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20228
+# text = Chúng ta kém đội bạn khi tranh chấp trên không .
+1	Chúng ta	chúng ta	PRON	PRO	_	2	nsubj	_	_
+2	kém	kém	ADJ	ADJ	_	0	root	_	_
+3	đội	đội	NOUN	N	_	2	obl:adj	_	_
+4	bạn	bạn	NOUN	N	_	3	nmod	_	_
+5	khi	khi	NOUN	N	_	2	obl:tmod	_	_
+6	tranh chấp	tranh chấp	VERB	V	_	5	acl:tmod	_	_
+7	trên	trên	ADP	PRE	_	8	case	_	_
+8	không	không	NOUN	N	_	6	obl	_	_
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20229
+# text = Nó có ít tiền hơn tôi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	có	có	VERB	V	_	0	root	_	_
+3	ít	ít	ADJ	ADJ	_	2	acomp	_	_
+4	tiền	tiền	NOUN	N	_	2	obj	_	_
+5	hơn	hơn	ADJ	ADJ	_	3	advmod:adj	_	_
+6	tôi	tôi	PRON	PRO	_	5	obl:adj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20230
+# text = Nó khôn hơn mày nghĩ .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	khôn	khôn	ADJ	ADJ	_	0	root	_	_
+3	hơn	hơn	ADJ	ADJ	_	2	advmod:adj	_	_
+4	mày	mày	PRON	PRO	_	5	nsubj	_	_
+5	nghĩ	nghĩ	VERB	V	_	2	advcl	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20231
+# text = Học máy rất gần với suy diễn thống kê tuy có khác nhau về thuật ngữ .
+1	Học máy	học máy	NOUN	N	_	3	nsubj	_	_
+2	rất	rất	ADV	ADV	_	3	advmod	_	_
+3	gần	gần	ADJ	ADJ	_	0	root	_	_
+4	với	với	ADP	PRE	_	5	case	_	_
+5	suy diễn	suy diễn	NOUN	N	_	3	obl:adj	_	_
+6	thống kê	thống kê	VERB	V	_	5	compound:vmod	_	_
+7	tuy	tuy	SCONJ	SC	_	9	mark	_	_
+8	có	có	ADV	ADV	_	9	advmod	_	_
+9	khác	khác	ADJ	ADJ	_	3	conj	_	_
+10	nhau	nhau	NOUN	N	_	9	obl:adj	_	_
+11	về	về	ADP	PRE	_	12	case	_	_
+12	thuật ngữ	thuật ngữ	NOUN	N	_	9	obl:about	_	_
+13	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20232
+# text = Nó nói luôn mồm .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	nói	nói	VERB	V	_	0	root	_	_
+3	luôn	luôn	ADV	ADV	_	2	advmod	_	_
+4	mồm	mồm	NOUN	N	_	3	obl:adv	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20233
+# text = Nó làm luôn tay .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	0	root	_	_
+3	luôn	luôn	ADV	ADV	_	2	advmod	_	_
+4	tay	tay	NOUN	N	_	3	obl:adv	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20234
+# text = Ông ta gắt vợ luôn miệng .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	gắt	gắt	VERB	V	_	0	root	_	_
+4	vợ	vợ	NOUN	N	_	3	obj	_	_
+5	luôn	luôn	ADV	ADV	_	3	advmod	_	_
+6	miệng	miệng	NOUN	N	_	5	obl:adv	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20235
+# text = Triệu chứng gồm nuốt khó , đau họng .
+1	Triệu chứng	triệu chứng	NOUN	N	_	2	nsubj	_	_
+2	gồm	gồm	VERB	V	_	0	root	_	_
+3	nuốt	nuốt	VERB	V	_	2	obl:verb	_	_
+4	khó	khó	ADJ	ADJ	_	3	acomp	_	_
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	đau	đau	VERB	V	_	3	conj	_	_
+7	họng	họng	NOUN	N	_	6	obj	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20236
+# text = Công việc gồm nấu ăn , rửa bát , quét nhà .
+1	Công việc	công việc	NOUN	N	_	2	nsubj	_	_
+2	gồm	gồm	VERB	V	_	0	root	_	_
+3	nấu ăn	nấu ăn	VERB	V	_	2	obl:verb	_	_
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	rửa	rửa	VERB	V	_	3	conj	_	_
+6	bát	bát	NOUN	N	_	5	obj	_	_
+7	,	,	PUNCT	PUNCT	_	8	punct	_	_
+8	quét	quét	VERB	V	_	3	conj	_	_
+9	nhà	nhà	NOUN	N	_	8	obj	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20237
+# text = Các triệu chứng có thể bao gồm tăng cân , cảm thấy mệt mỏi .
+1	Các	các	DET	DET	_	2	det	_	_
+2	triệu chứng	triệu chứng	NOUN	N	_	4	nsubj	_	_
+3	có thể	có thể	ADV	ADV	_	4	advmod	_	_
+4	bao gồm	bao gồm	VERB	V	_	0	root	_	_
+5	tăng	tăng	VERB	V	_	4	obl:verb	_	_
+6	cân	cân	NOUN	N	_	5	obj	_	_
+7	,	,	PUNCT	PUNCT	_	8	punct	_	_
+8	cảm thấy	cảm thấy	VERB	V	_	5	conj	_	_
+9	mệt mỏi	mệt mỏi	ADJ	ADJ	_	8	acomp	_	_
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20238
+# text = Ông được điều trị phối hợp phẫu thuật , xạ trị , hoá trị và điều trị đích .
+1	Ông	ông	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	điều trị	điều trị	VERB	V	_	0	root	_	_
+4	phối hợp	phối hợp	VERB	V	_	3	xcomp	_	_
+5	phẫu thuật	phẫu thuật	VERB	V	_	4	obl:verb	_	_
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	xạ trị	xạ trị	VERB	V	_	5	conj	_	_
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	hoá trị	hoá trị	VERB	V	_	5	conj	_	_
+10	và	và	CCONJ	CC	_	11	cc	_	_
+11	điều trị	điều trị	VERB	V	_	5	conj	_	_
+12	đích	đích	NOUN	N	_	11	compound:verbnoun	_	_
+13	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20239
+# text = Chất thừa thải ra ngoài cơ thể gọi là bài tiết .
+1	Chất	chất	NOUN	N	_	7	nsubj	_	_
+2	thừa	thừa	ADJ	ADJ	_	1	amod	_	_
+3	thải	thải	VERB	V	_	1	acl:subj	_	_
+4	ra	ra	VERB	V	_	3	compound:dir	_	_
+5	ngoài	ngoài	NOUN	N	_	6	case	_	_
+6	cơ thể	cơ thể	NOUN	N	_	3	obl:comp	_	_
+7	gọi là	gọi là	VERB	V	_	0	root	_	_
+8	bài tiết	bài tiết	VERB	V	_	7	obl:verb	_	_
+9	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20240
+# text = Một dạng nghiêm trọng của tình trạng này được gọi là nôn nghén .
+1	Một	một	DET	DET	_	2	det	_	_
+2	dạng	dạng	NOUN	N	_	8	nsubj:pass	_	_
+3	nghiêm trọng	nghiêm trọng	ADJ	ADJ	_	2	amod	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	tình trạng	tình trạng	NOUN	N	_	2	nmod:poss	_	_
+6	này	này	PRON	PRO	_	5	det:pmod	_	_
+7	được	được	AUX	AUX	_	8	aux:pass	_	_
+8	gọi là	gọi là	VERB	V	_	0	root	_	_
+9	nôn nghén	nôn nghén	VERB	V	_	8	obl:verb	_	_
+10	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = dev-20241
+# text = Cả nhà vừa ăn cơm xong .
+1	Cả	cả	DET	DET	_	2	det	_	_
+2	nhà	nhà	NOUN	N	_	4	nsubj	_	_
+3	vừa	vừa	ADV	ADV	_	4	advmod	_	_
+4	ăn	ăn	VERB	V	_	0	root	_	_
+5	cơm	cơm	NOUN	N	_	4	obj	_	_
+6	xong	xong	VERB	V	_	4	obl:verb	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20242
+# text = Thằng Tý đã chén đĩa thịt hết nhẵn .
+1	Thằng	thằng	NOUN	N	_	2	det:clf	_	_
+2	Tý	tý	NOUN	N	_	4	nsubj	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	chén	chén	VERB	V	_	0	root	_	_
+5	đĩa	đĩa	NOUN	N	_	4	obj	_	_
+6	thịt	thịt	NOUN	N	_	5	nmod	_	_
+7	hết	hết	VERB	V	_	4	xcomp	_	_
+8	nhẵn	nhẵn	ADV	ADV	_	7	advmod	_	_
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20243
+# text = Nó tính mãi vẫn không ra .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	tính	tính	VERB	V	_	0	root	_	_
+3	mãi	mãi	ADV	ADV	_	2	advmod	_	_
+4	vẫn	vẫn	ADV	ADV	_	6	advmod	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	ra	ra	VERB	V	_	2	obl:verb	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20244
+# text = Bà có cố mấy cũng nuốt không vào .
+1	Bà	bà	NOUN	N	_	3	nsubj	_	_
+2	có	có	ADV	ADV	_	3	advmod	_	_
+3	cố	cố	VERB	V	_	6	csubj	_	_
+4	mấy	mấy	DET	DET	_	3	det	_	_
+5	cũng	cũng	ADV	ADV	_	6	advmod	_	_
+6	nuốt	nuốt	VERB	V	_	0	root	_	_
+7	không	không	ADV	ADV	_	8	advmod:neg	_	_
+8	vào	vào	VERB	V	_	6	obl:verb	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20245
+# text = Em làm được bài này chứng tỏ đã tiến bộ .
+1	Em	em	NOUN	N	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	6	csubj	_	_
+3	được	được	ADV	ADV	_	2	advmod	_	_
+4	bài	bài	NOUN	N	_	2	obj	_	_
+5	này	này	PRON	PRO	_	4	det:pmod	_	_
+6	chứng tỏ	chứng tỏ	VERB	V	_	0	root	_	_
+7	đã	đã	ADV	ADV	_	8	advmod	_	_
+8	tiến bộ	tiến bộ	VERB	V	_	6	obl:verb	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20246
+# text = Địch tiến không được mà lùi cũng không xong .
+1	Địch	địch	NOUN	N	_	2	nsubj	_	_
+2	tiến	tiến	VERB	V	_	0	root	_	_
+3	không	không	ADV	ADV	_	4	advmod:neg	_	_
+4	được	được	VERB	V	_	2	obl:verb	_	_
+5	mà	mà	SCONJ	SC	_	9	mark	_	_
+6	lùi	lùi	VERB	V	_	9	csubj:vsubj	_	_
+7	cũng	cũng	ADV	ADV	_	9	advmod	_	_
+8	không	không	ADV	ADV	_	9	advmod:neg	_	_
+9	xong	xong	VERB	V	_	2	obl:verb	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20247
+# text = Hai con trâu đang ăn cỏ .
+1	Hai	hai	NUM	NUM	_	3	nummod	_	_
+2	con	con	NOUN	N	_	1	clf	_	_
+3	trâu	trâu	NOUN	N	_	5	nsubj	_	_
+4	đang	đang	ADV	ADV	_	5	advmod	_	_
+5	ăn	ăn	VERB	V	_	0	root	_	_
+6	cỏ	cỏ	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20248
+# text = Nó cầm một bó hoa trên tay .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	cầm	cầm	VERB	V	_	0	root	_	_
+3	một	một	NUM	NUM	_	5	nummod	_	_
+4	bó	bó	NOUN	N	_	3	clf	_	_
+5	hoa	hoa	NOUN	N	_	2	obj	_	_
+6	trên	trên	ADP	PRE	_	7	case	_	_
+7	tay	tay	NOUN	N	_	2	obl	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20249
+# text = Ông ấy có ba cái nhà .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	có	có	VERB	V	_	0	root	_	_
+4	ba	ba	NUM	NUM	_	6	nummod	_	_
+5	cái	cái	NOUN	N	_	4	clf	_	_
+6	nhà	nhà	NOUN	N	_	3	obj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20250
+# text = Ireland là một hòn đảo nằm ở Đại Tây Dương .
+1	Ireland	ireland	NOUN	N	_	5	nsubj	_	_
+2	là	là	AUX	AUX	_	5	cop	_	_
+3	một	một	NUM	NUM	_	5	nummod	_	_
+4	hòn	hòn	NOUN	N	_	3	clf	_	_
+5	đảo	đảo	NOUN	N	_	0	root	_	_
+6	nằm	nằm	VERB	V	_	5	acl:subj	_	_
+7	ở	ở	ADP	PRE	_	8	case	_	_
+8	Đại	đại	NOUN	N	_	6	obl:comp	_	_
+9	Tây	tây	NOUN	N	_	8	compound	_	_
+10	Dương	dương	NOUN	N	_	8	compound	_	_
+11	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20251
+# text = Những quả cam này chín mọng .
+1	Những	những	DET	DET	_	3	det	_	_
+2	quả	quả	NOUN	N	_	1	clf	_	_
+3	cam	cam	NOUN	N	_	5	nsubj	_	_
+4	này	này	PRON	PRO	_	3	det:pmod	_	_
+5	chín	chín	VERB	V	_	0	root	_	_
+6	mọng	mọng	ADJ	ADJ	_	5	acomp	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20252
+# text = Dòng phim đen bao gồm các bộ phim hình sự .
+1	Dòng	dòng	NOUN	N	_	3	nsubj	_	_
+2	phim đen	phim đen	NOUN	N	_	1	nmod	_	_
+3	bao gồm	bao gồm	VERB	V	_	0	root	_	_
+4	các	các	DET	DET	_	6	det	_	_
+5	bộ	bộ	NOUN	N	_	4	clf	_	_
+6	phim	phim	NOUN	NB	_	3	obj	_	_
+7	hình sự	hình sự	NOUN	N	_	6	compound	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20253
+# text = Con mèo đang chạy .
+1	Con	con	NOUN	N	_	2	det:clf	_	_
+2	mèo	mèo	NOUN	N	_	4	nsubj	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	chạy	chạy	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20254
+# text = Cái bánh bị hỏng .
+1	Cái	cái	NOUN	N	_	2	det:clf	_	_
+2	bánh	bánh	NOUN	N	_	4	nsubj:pass	_	_
+3	bị	bị	AUX	AUX	_	4	aux:pass	_	_
+4	hỏng	hỏng	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20255
+# text = Vợ ông Công nằm viện .
+1	Vợ	vợ	NOUN	N	_	4	nsubj	_	_
+2	ông	ông	NOUN	N	_	3	det:clf	_	_
+3	Công	công	NOUN	N	_	1	nmod:poss	_	_
+4	nằm viện	nằm viện	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20256
+# text = Toà nhà đã được xây dựng lại .
+1	Toà	toà	NOUN	N	_	2	det:clf	_	_
+2	nhà	nhà	NOUN	N	_	5	nsubj:pass	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	được	được	AUX	AUX	_	5	aux:pass	_	_
+5	xây dựng	xây dựng	VERB	V	_	0	root	_	_
+6	lại	lại	VERB	V	_	5	compound:svc	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20257
+# text = Bà giáo nuôi 2 con mèo .
+1	Bà	bà	NOUN	N	_	2	det:clf	_	_
+2	giáo	giáo	NOUN	N	_	3	nsubj	_	_
+3	nuôi	nuôi	VERB	V	_	0	root	_	_
+4	2	2	NUM	NUM	_	6	nummod	_	_
+5	con	con	NOUN	N	_	4	clf	_	_
+6	mèo	mèo	NOUN	N	_	3	obj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20258
+# text = Dân số của Việt Nam là 100 triệu người .
+1	Dân số	dân số	NOUN	N	_	8	nsubj:nn	_	_
+2	của	của	ADP	PRE	_	3	case	_	_
+3	Việt	việt	NOUN	N	_	1	nmod:poss	_	_
+4	Nam	nam	NOUN	N	_	3	compound	_	_
+5	là	là	AUX	AUX	_	8	cop	_	_
+6	100	100	NUM	NUM	_	8	nummod	_	_
+7	triệu	triệu	NUM	NUM	_	6	flat:number	_	_
+8	người	người	NOUN	N	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = dev-20259
+# text = Năng suất đạt 10 tấn .
+1	Năng suất	năng suất	NOUN	N	_	2	nsubj	_	_
+2	đạt	đạt	VERB	V	_	0	root	_	_
+3	10	10	NUM	NUM	_	4	nummod	_	_
+4	tấn	tấn	NU	NU	_	2	obj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20260
+# text = Giếng sâu 15 mét .
+1	Giếng	giếng	NOUN	N	_	2	nsubj	_	_
+2	sâu	sâu	ADJ	ADJ	_	0	root	_	_
+3	15	15	NUM	NUM	_	4	nummod	_	_
+4	mét	mét	NU	NU	_	2	obl:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20261
+# text = Toà nhà cao 30 tầng .
+1	Toà	toà	NOUN	N	_	2	det:clf	_	_
+2	nhà	nhà	NOUN	N	_	3	nsubj	_	_
+3	cao	cao	ADJ	ADJ	_	0	root	_	_
+4	30	30	NUM	NUM	_	5	nummod	_	_
+5	tầng	tầng	NOUN	N	_	3	obl:adj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20262
+# text = Số điện thoại đang ở trên bàn .
+1	Số	số	NOUN	N	_	4	nsubj	_	_
+2	điện thoại	điện thoại	NOUN	N	_	1	nmod	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	ở	ở	VERB	V	_	0	root	_	_
+5	trên	trên	ADP	PRE	_	6	case	_	_
+6	bàn	bàn	NOUN	N	_	4	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20263
+# text = Loài cá này thuộc chi Alosa .
+1	Loài	loài	NOUN	N	_	4	nsubj	_	_
+2	cá	cá	NOUN	N	_	1	nmod	_	_
+3	này	này	PRON	PRO	_	1	det:pmod	_	_
+4	thuộc	thuộc	VERB	V	_	0	root	_	_
+5	chi	chi	NOUN	N	_	4	obl:comp	_	_
+6	Alosa	alosa	NOUN	NB	_	5	compound	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20264
+# text = Cơ quan mua bàn máy tính .
+1	Cơ quan	cơ quan	NOUN	N	_	2	nsubj	_	_
+2	mua	mua	VERB	V	_	0	root	_	_
+3	bàn	bàn	NOUN	N	_	2	obj	_	_
+4	máy tính	máy tính	NOUN	N	_	3	nmod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20265
+# text = Em ấy là học sinh người dân tộc .
+1	Em	em	NOUN	N	_	4	nsubj:nn	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	học sinh	học sinh	NOUN	N	_	0	root	_	_
+5	người	người	NOUN	N	_	4	nmod	_	_
+6	dân tộc	dân tộc	NOUN	N	_	5	compound	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20266
+# text = Tôi dậy khi sáng .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	dậy	dậy	VERB	V	_	0	root	_	_
+3	khi	khi	NOUN	N	_	2	obl:tmod	_	_
+4	sáng	sáng	NOUN	N	_	3	nmod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20267
+# text = Nhân dân Việt Nam luôn yêu chuộng hoà bình .
+1	Nhân dân	nhân dân	NOUN	N	_	5	nsubj	_	_
+2	Việt	việt	NOUN	N	_	1	nmod	_	_
+3	Nam	nam	NOUN	N	_	2	compound	_	_
+4	luôn	luôn	ADV	ADV	_	5	advmod	_	_
+5	yêu chuộng	yêu chuộng	ADJ	ADJ	_	0	root	_	_
+6	hoà bình	hoà bình	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20268
+# text = Quân Nga chặn đứng quân Đức .
+1	Quân	quân	NOUN	N	_	3	nsubj	_	_
+2	Nga	nga	NOUN	N	_	1	nmod	_	_
+3	chặn đứng	chặn đứng	VERB	V	_	0	root	_	_
+4	quân	quân	NOUN	N	_	3	obj	_	_
+5	Đức	đức	NOUN	N	_	4	nmod	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20269
+# text = Nhà nằm bên đường .
+1	Nhà	nhà	NOUN	N	_	2	nsubj	_	_
+2	nằm	nằm	VERB	V	_	0	root	_	_
+3	bên	bên	NOUN	N	_	2	obl:comp	_	_
+4	đường	đường	NOUN	N	_	3	nmod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20270
+# text = Nhà nằm bên đường .
+1	Nhà	nhà	NOUN	N	_	2	nsubj	_	_
+2	nằm	nằm	VERB	V	_	0	root	_	_
+3	bên	bên	NOUN	N	_	2	obl:comp	_	_
+4	đường	đường	NOUN	N	_	3	nmod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20271
+# text = Thuyền đi dọc bờ sông .
+1	Thuyền	thuyền	NOUN	N	_	2	nsubj	_	_
+2	đi	đi	VERB	V	_	0	root	_	_
+3	dọc	dọc	ADJ	ADJ	_	2	acomp	_	_
+4	bờ	bờ	NOUN	N	_	3	obl:adj	_	_
+5	sông	sông	NOUN	N	_	4	compound	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20272
+# text = Bà ta đã mua một lít dung môi .
+1	Bà	bà	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	mua	mua	VERB	V	_	0	root	_	_
+5	một	một	NUM	NUM	_	7	nummod	_	_
+6	lít	lít	NU	NU	_	7	nmod	_	_
+7	dung môi	dung môi	NOUN	N	_	4	obj	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20273
+# text = Công ti vừa xuất khẩu hai triệu tấn gạo .
+1	Công ti	công ti	NOUN	N	_	3	nsubj	_	_
+2	vừa	vừa	ADV	ADV	_	3	advmod	_	_
+3	xuất khẩu	xuất khẩu	VERB	V	_	0	root	_	_
+4	hai	hai	NUM	NUM	_	6	nummod	_	_
+5	triệu	triệu	NUM	NUM	_	4	flat:number	_	_
+6	tấn	tấn	NU	NU	_	3	obj	_	_
+7	gạo	gạo	NOUN	N	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20274
+# text = Ngôi nhà đó của ông tôi .
+1	Ngôi	ngôi	NOUN	N	_	2	det:clf	_	_
+2	nhà	nhà	NOUN	N	_	0	root	_	_
+3	đó	đó	PRON	PRO	_	2	det:pmod	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	ông	ông	NOUN	N	_	2	nmod:poss	_	_
+6	tôi	tôi	PRON	PRO	_	5	compound:pron	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20275
+# text = Đức là thành viên của Liên Hiệp Quốc .
+1	Đức	đức	NOUN	N	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	thành viên	thành viên	NOUN	N	_	0	root	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	Liên	liên	NOUN	N	_	3	nmod:poss	_	_
+6	Hiệp	hiệp	NOUN	N	_	5	compound	_	_
+7	Quốc	quốc	NOUN	N	_	5	compound	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20276
+# text = Bộ đôi công phá công sự của địch .
+1	Bộ đôi	bộ đôi	NOUN	N	_	2	nsubj	_	_
+2	công phá	công phá	VERB	V	_	0	root	_	_
+3	công sự	công sự	NOUN	N	_	2	obj	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	địch	địch	NOUN	N	_	3	nmod:poss	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20277
+# text = Đó là tình thương của người mẹ .
+1	Đó	đó	PRON	PRO	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	tình thương	tình thương	NOUN	N	_	0	root	_	_
+4	của	của	ADP	PRE	_	6	case	_	_
+5	người	người	NOUN	N	_	6	det:clf	_	_
+6	mẹ	mẹ	NOUN	N	_	3	nmod:poss	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20278
+# text = Đó là tình thương con của người mẹ .
+1	Đó	đó	PRON	PRO	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	tình	tình	NOUN	N	_	0	root	_	_
+4	thương	thương	VERB	V	_	3	compound:vmod	_	_
+5	con	con	NOUN	N	_	3	compound	_	_
+6	của	của	ADP	PRE	_	8	case	_	_
+7	người	người	NOUN	N	_	8	det:clf	_	_
+8	mẹ	mẹ	NOUN	N	_	3	nmod:poss	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20279
+# text = Áo tôi rách vai .
+1	Áo	áo	NOUN	N	_	3	nsubj	_	_
+2	tôi	tôi	PRON	PRO	_	1	nmod:poss	_	_
+3	rách	rách	ADJ	ADJ	_	0	root	_	_
+4	vai	vai	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20280
+# text = Bố cháu chưa về .
+1	Bố	bố	NOUN	N	_	4	nsubj	_	_
+2	cháu	cháu	NOUN	N	_	1	nmod:poss	_	_
+3	chưa	chưa	ADV	ADV	_	4	advmod:neg	_	_
+4	về	về	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20281
+# text = Cô ấy là vợ tôi .
+1	Cô	cô	NOUN	N	_	4	nsubj:nn	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	vợ	vợ	NOUN	N	_	0	root	_	_
+5	tôi	tôi	PRON	PRO	_	4	nmod:poss	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20282
+# text = Bụng tôi bị đau .
+1	Bụng	bụng	NOUN	N	_	4	nsubj	_	_
+2	tôi	tôi	PRON	PRO	_	1	nmod:poss	_	_
+3	bị	bị	AUX	AUX	_	4	aux	_	_
+4	đau	đau	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20283
+# text = Ngựa tôi tôi cưỡi .
+1	Ngựa	ngựa	NOUN	N	_	4	dislocated	_	_
+2	tôi	tôi	PRON	PRO	_	1	nmod:poss	_	_
+3	tôi	tôi	PRON	PRO	_	4	nsubj	_	_
+4	cưỡi	cưỡi	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20284
+# text = Cô gái có đôi mắt xanh .
+1	Cô	cô	NOUN	N	_	2	det:clf	_	_
+2	gái	gái	NOUN	N	_	3	nsubj	_	_
+3	có	có	VERB	V	_	0	root	_	_
+4	đôi	đôi	NUM	NUM	_	5	nummod	_	_
+5	mắt	mắt	NOUN	N	_	3	obj	_	_
+6	xanh	xanh	ADJ	ADJ	_	5	amod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20285
+# text = Ngôi nhà có cái cửa màu trắng .
+1	Ngôi	ngôi	NOUN	N	_	2	det:clf	_	_
+2	nhà	nhà	NOUN	N	_	3	nsubj	_	_
+3	có	có	VERB	V	_	0	root	_	_
+4	cái	cái	NOUN	N	_	5	det:clf	_	_
+5	cửa	cửa	NOUN	N	_	3	obj	_	_
+6	màu	màu	NOUN	N	_	5	nmod	_	_
+7	trắng	trắng	ADJ	ADJ	_	6	compound:amod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20286
+# text = Tôi mua chiếc áo cộc kia .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	mua	mua	VERB	V	_	0	root	_	_
+3	chiếc	chiếc	NOUN	N	_	4	det:clf	_	_
+4	áo	áo	NOUN	N	_	2	obj	_	_
+5	cộc	cộc	ADJ	ADJ	_	4	amod	_	_
+6	kia	kia	PRON	PRO	_	4	det:pmod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20287
+# text = Có mùi thơm của hoa nhài .
+1	Có	có	VERB	V	_	0	root	_	_
+2	mùi	mùi	NOUN	N	_	1	obj	_	_
+3	thơm	thơm	ADJ	ADJ	_	2	compound:amod	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	hoa nhài	hoa nhài	NOUN	N	_	2	nmod:poss	_	_
+6	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20288
+# text = Tôi đến đây lần đầu tiên .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	đến	đến	VERB	V	_	0	root	_	_
+3	đây	đây	PRON	PRO	_	2	obl:comp	_	_
+4	lần	lần	NOUN	N	_	2	obl:tmod	_	_
+5	đầu tiên	đầu tiên	ADJ	ADJ	_	4	amod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20289
+# text = Đó là triệu chứng thông thường .
+1	Đó	đó	PRON	PRO	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	triệu chứng	triệu chứng	NOUN	N	_	0	root	_	_
+4	thông thường	thông thường	ADJ	ADJ	_	3	amod	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20290
+# text = Anh đã ghi bàn thắng quốc tế đầu tiên .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	ghi	ghi	VERB	V	_	0	root	_	_
+4	bàn thắng	bàn thắng	NOUN	N	_	3	obj	_	_
+5	quốc tế	quốc tế	ADJ	ADJ	_	4	amod	_	_
+6	đầu tiên	đầu tiên	ADJ	ADJ	_	4	amod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20291
+# text = Những vì sao lấp lánh trên bầu trời .
+1	Những	những	DET	DET	_	3	det	_	_
+2	vì	vì	NOUN	N	_	1	clf	_	_
+3	sao	sao	NOUN	N	_	4	nsubj	_	_
+4	lấp lánh	lấp lánh	ADJ	ADJ	_	0	root	_	_
+5	trên	trên	ADP	PRE	_	6	case	_	_
+6	bầu trời	bầu trời	NOUN	N	_	4	obl	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20292
+# text = Những vì sao lấp lánh trên bầu trời .
+1	Những	những	DET	DET	_	3	det	_	_
+2	vì	vì	NOUN	N	_	1	clf	_	_
+3	sao	sao	NOUN	N	_	4	nsubj	_	_
+4	lấp lánh	lấp lánh	ADJ	ADJ	_	0	root	_	_
+5	trên	trên	ADP	PRE	_	6	case	_	_
+6	bầu trời	bầu trời	NOUN	N	_	4	obl	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20293
+# text = Tôi đã đến hầu hết các nước trên thế giới .
+1	Tôi	tôi	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	đến	đến	VERB	V	_	0	root	_	_
+4	hầu hết	hầu hết	ADV	ADV	_	5	advmod	_	_
+5	các	các	DET	DET	_	6	det	_	_
+6	nước	nước	NOUN	N	_	3	obl:comp	_	_
+7	trên	trên	ADP	PRE	_	8	case	_	_
+8	thế giới	thế giới	NOUN	N	_	6	nmod	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20294
+# text = Ông ấy ở lại khách sạn một vài ngày .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	ở	ở	VERB	V	_	0	root	_	_
+4	lại	lại	VERB	V	_	3	compound:svc	_	_
+5	khách sạn	khách sạn	NOUN	N	_	3	obl:comp	_	_
+6	một vài	một vài	DET	DET	_	7	det	_	_
+7	ngày	ngày	NOUN	N	_	3	obl:tmod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20295
+# text = Cả nhà đều đi vắng .
+1	Cả	cả	DET	DET	_	2	det	_	_
+2	nhà	nhà	NOUN	N	_	4	nsubj	_	_
+3	đều	đều	ADV	ADV	_	4	advmod	_	_
+4	đi	đi	VERB	V	_	0	root	_	_
+5	vắng	vắng	ADJ	ADJ	_	4	acomp	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20296
+# text = Bà phải làm tất cả mọi việc .
+1	Bà	bà	NOUN	N	_	3	nsubj	_	_
+2	phải	phải	AUX	AUX	_	3	aux	_	_
+3	làm	làm	VERB	V	_	0	root	_	_
+4	tất cả	tất cả	DET	DET	_	6	det	_	_
+5	mọi	mọi	DET	DET	_	6	det	_	_
+6	việc	việc	NOUN	N	_	3	obj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20297
+# text = Chúng ta nên kiểm tra toàn bộ khu vực .
+1	Chúng ta	chúng ta	PRON	PRO	_	3	nsubj	_	_
+2	nên	nên	AUX	AUX	_	3	aux	_	_
+3	kiểm tra	kiểm tra	VERB	V	_	0	root	_	_
+4	toàn bộ	toàn bộ	DET	DET	_	5	det	_	_
+5	khu vực	khu vực	NOUN	N	_	3	obj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20298
+# text = Chí là một nhân vật điển hình trong tác phẩm .
+1	Chí	chí	NOUN	N	_	4	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	4	cop	_	_
+3	một	một	DET	DET	_	4	det	_	_
+4	nhân vật	nhân vật	NOUN	N	_	0	root	_	_
+5	điển hình	điển hình	ADJ	ADJ	_	4	amod	_	_
+6	trong	trong	ADP	PRE	_	7	case	_	_
+7	tác phẩm	tác phẩm	NOUN	N	_	4	obl	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20299
+# text = Làng là một nhân vật điển hình trong tác phẩm .
+1	Làng	làng	NOUN	N	_	4	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	4	cop	_	_
+3	một	một	DET	DET	_	4	det	_	_
+4	nhân vật	nhân vật	NOUN	N	_	0	root	_	_
+5	điển hình	điển hình	ADJ	ADJ	_	4	amod	_	_
+6	trong	trong	ADP	PRE	_	7	case	_	_
+7	tác phẩm	tác phẩm	NOUN	N	_	4	obl	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20300
+# text = Chèo là một loại hình nghệ thuật sân khấu dân gian .
+1	Chèo	chèo	NOUN	N	_	4	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	4	cop	_	_
+3	một	một	DET	DET	_	4	det	_	_
+4	loại hình	loại hình	NOUN	N	_	0	root	_	_
+5	nghệ thuật	nghệ thuật	NOUN	N	_	4	nmod	_	_
+6	sân khấu	sân khấu	NOUN	N	_	5	nmod	_	_
+7	dân gian	dân gian	NOUN	N	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20301
+# text = Câu là một thuật ngữ ngôn ngữ học .
+1	Câu	câu	NOUN	N	_	4	nsubj	_	_
+2	là	là	AUX	AUX	_	4	cop	_	_
+3	một	một	DET	DET	_	4	det	_	_
+4	thuật ngữ	thuật ngữ	NOUN	N	_	0	root	_	_
+5	ngôn ngữ học	ngôn ngữ học	NOUN	N	_	4	nmod	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20302
+# text = Cô ấy đến rồi .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	đến	đến	VERB	V	_	0	root	_	_
+4	rồi	rồi	ADV	ADV	_	3	advmod	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20303
+# text = Cô ta là ai ?
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	ai	ai	PRON	PRO	_	0	root	_	_
+5	?	?	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20304
+# text = Bài toán này nó làm được .
+1	Bài toán	bài toán	NOUN	N	_	4	dislocated	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	nó	nó	PRON	PRO	_	4	nsubj	_	_
+4	làm	làm	VERB	V	_	0	root	_	_
+5	được	được	ADV	ADV	_	4	advmod	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20305
+# text = Mùa thu đó đã đi qua .
+1	Mùa thu	mùa thu	NOUN	N	_	4	nsubj	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	đi	đi	VERB	V	_	0	root	_	_
+5	qua	qua	VERB	V	_	4	compound:svc	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20306
+# text = Nơi đây tôi đã lớn lên .
+1	Nơi	nơi	NOUN	N	_	5	obl	_	_
+2	đây	đây	PRON	PRO	_	1	det:pmod	_	_
+3	tôi	tôi	PRON	PRO	_	5	nsubj	_	_
+4	đã	đã	ADV	ADV	_	5	advmod	_	_
+5	lớn	lớn	VERB	V	_	0	root	_	_
+6	lên	lên	VERB	V	_	5	compound:svc	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20307
+# text = Chuyện nọ xọ chuyện kia .
+1	Chuyện	chuyện	NOUN	N	_	3	nsubj	_	_
+2	nọ	nọ	PRON	PRO	_	1	det:pmod	_	_
+3	xọ	xọ	VERB	V	_	0	root	_	_
+4	chuyện	chuyện	NOUN	N	_	3	obj	_	_
+5	kia	kia	PRON	PRO	_	4	det:pmod	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20308
+# text = Cuộc vui chưa tàn .
+1	Cuộc	cuộc	NOUN	N	_	4	nsubj	_	_
+2	vui	vui	ADJ	ADJ	_	1	acl:tonp	_	_
+3	chưa	chưa	ADV	ADV	_	4	advmod:neg	_	_
+4	tàn	tàn	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20309
+# text = Chúng tôi đang tận hưởng niềm vui chiến thắng .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	tận hưởng	tận hưởng	VERB	V	_	0	root	_	_
+4	niềm	niềm	NOUN	N	_	3	obj	_	_
+5	vui	vui	ADJ	ADJ	_	4	compound:amod	_	_
+6	chiến thắng	chiến thắng	VERB	V	_	4	compound:vmod	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20310
+# text = Chị đã chịu nhiều nỗi xót xa .
+1	Chị	chị	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	chịu	chịu	VERB	V	_	0	root	_	_
+4	nhiều	nhiều	ADJ	ADJ	_	5	advmod:adj	_	_
+5	nỗi	nỗi	NOUN	N	_	3	obj	_	_
+6	xót xa	xót xa	ADJ	ADJ	_	5	acl:tonp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20311
+# text = Cái đẹp lên ngôi .
+1	Cái	cái	NOUN	N	_	3	nsubj	_	_
+2	đẹp	đẹp	ADJ	ADJ	_	1	acl:tonp	_	_
+3	lên ngôi	lên ngôi	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20312
+# text = Đám cháy đang lan rộng .
+1	Đám	đám	NOUN	N	_	4	nsubj	_	_
+2	cháy	cháy	VERB	V	_	1	acl:tonp	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	lan	lan	VERB	V	_	0	root	_	_
+5	rộng	rộng	ADJ	ADJ	_	4	acomp	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20313
+# text = Sự giản dị trong sáng của cô ấy
+1	Sự	sự	NOUN	N	_	0	root	_	_
+2	giản dị	giản dị	ADJ	ADJ	_	1	acl:tonp	_	_
+3	trong sáng	trong sáng	ADJ	ADJ	_	1	acl:tonp	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	cô	cô	NOUN	N	_	1	nmod:poss	_	_
+6	ấy	ấy	PRON	PRO	_	5	det:pmod	_	_
+
+# sent_id = dev-20314
+# text = TP Huế , quê tôi , thật là đẹp .
+1	TP	tp	NOUN	NY	_	9	nsubj	_	_
+2	Huế	huế	NOUN	N	_	1	compound	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	quê	quê	NOUN	N	_	1	appos:nmod	_	_
+5	tôi	tôi	PRON	PRO	_	4	compound:pron	_	_
+6	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	thật	thật	PART	PRT	_	9	discourse	_	_
+8	là	là	PART	PRT	_	7	fixed	_	_
+9	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = dev-20315
+# text = Tên của ông là Nguyễn Văn Vân - trưởng khoa khoa tiêu hoá .
+1	Tên	tên	NOUN	N	_	5	nsubj:nn	_	_
+2	của	của	ADP	PRE	_	3	case	_	_
+3	ông	ông	NOUN	N	_	1	nmod:poss	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	Nguyễn	nguyễn	NOUN	N	_	0	root	_	_
+6	Văn	văn	NOUN	N	_	5	flat:name	_	_
+7	Vân	vân	NOUN	N	_	5	flat:name	_	_
+8	-	-	PUCT	PUCT	_	9	punct	_	_
+9	trưởng khoa	trưởng khoa	NOUN	N	_	5	appos	_	_
+10	khoa	khoa	NOUN	N	_	9	nmod	_	_
+11	tiêu hoá	tiêu hoá	VERB	V	_	10	compound:vmod	_	_
+12	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20316
+# text = Ông Phan , giám đốc công ti , chia sẻ về khâu thanh toán .
+1	Ông	ông	NOUN	N	_	2	det:clf	_	_
+2	Phan	phan	NOUN	N	_	7	nsubj	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	giám đốc	giám đốc	NOUN	N	_	2	appos	_	_
+5	công ti	công ti	NOUN	N	_	4	nmod	_	_
+6	,	,	PUCT	PUCT	_	7	punct	_	_
+7	chia sẻ	chia sẻ	VERB	V	_	0	root	_	_
+8	về	về	ADP	PRE	_	9	case	_	_
+9	khâu	khâu	NOUN	N	_	7	obl:about	_	_
+10	thanh toán	thanh toán	VERB	V	_	9	compound:vmod	_	_
+11	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20317
+# text = Người đàn ông ấy , Tham Nhân , đã gây nên hai cuộc ẩu đả .
+1	Người	người	NOUN	N	_	2	det:clf	_	_
+2	đàn ông	đàn ông	NOUN	N	_	9	nsubj	_	_
+3	ấy	ấy	PRON	PRO	_	2	det:pmod	_	_
+4	,	,	PUCT	PUCT	_	5	punct	_	_
+5	Tham	tham	NOUN	N	_	2	appos	_	_
+6	Nhân	nhân	NOUN	N	_	5	flat:name	_	_
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	đã	đã	ADV	ADV	_	9	advmod	_	_
+9	gây	gây	VERB	V	_	0	root	_	_
+10	nên	nên	VERB	V	_	9	compound:svc	_	_
+11	hai	hai	NUM	NUM	_	12	nummod	_	_
+12	cuộc	cuộc	NOUN	N	_	9	obj	_	_
+13	ẩu đả	ẩu đả	VERB	V	_	12	acl:tonp	_	_
+14	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = dev-20318
+# text = Ông ấy chỉ có một người con gái , hình như tên Kim .
+1	Ông	ông	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	chỉ	chỉ	ADV	ADV	_	4	advmod	_	_
+4	có	có	VERB	V	_	0	root	_	_
+5	một	một	NUM	NUM	_	7	nummod	_	_
+6	người	người	NOUN	N	_	5	clf	_	_
+7	con gái	con gái	NOUN	N	_	4	obj	_	_
+8	,	,	PUNCT	PUNCT	_	11	punct	_	_
+9	hình như	hình như	ADV	ADV	_	11	advmod	_	_
+10	tên	tên	NOUN	N	_	11	nsubj:nn	_	_
+11	Kim	kim	NOUN	N	_	4	parataxis	_	_
+12	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20319
+# text = Cơ quan này , một đơn vị truyền thông , sẽ chịu trách nhiệm về việc này .
+1	Cơ quan	cơ quan	NOUN	N	_	9	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	một	một	DET	DET	_	5	det	_	_
+5	đơn vị	đơn vị	NOUN	N	_	1	appos	_	_
+6	truyền thông	truyền thông	VERB	V	_	5	compound:vmod	_	_
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	sẽ	sẽ	ADV	ADV	_	9	advmod	_	_
+9	chịu	chịu	VERB	V	_	0	root	_	_
+10	trách nhiệm	trách nhiệm	NOUN	N	_	9	obj	_	_
+11	về	về	ADP	PRE	_	12	case	_	_
+12	việc	việc	NOUN	N	_	10	nmod	_	_
+13	này	này	PRON	PRO	_	12	det:pmod	_	_
+14	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = dev-20320
+# text = Thọ , người Nam Định , hỏi tôi .
+1	Thọ	thọ	NOUN	N	_	7	nsubj	_	_
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	người	người	NOUN	N	_	1	appos:nmod	_	_
+4	Nam	nam	NOUN	N	_	3	nmod	_	_
+5	Định	định	NOUN	N	_	4	compound	_	_
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	hỏi	hỏi	VERB	V	_	0	root	_	_
+8	tôi	tôi	PRON	PRO	_	7	obj	_	_
+9	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20321
+# text = Chùa Một Cột ( Hà Nội ) được xây dựng giữa một hồ nước .
+1	Chùa	chùa	NOUN	N	_	9	nsubj:pass	_	_
+2	Một	một	NOUN	N	_	1	compound	_	_
+3	Cột	cột	NOUN	N	_	1	compound	_	_
+4	(	(	PUNCT	PUNCT	_	5	punct	_	_
+5	Hà	hà	NOUN	N	_	1	appos:nmod	_	_
+6	Nội	nội	NOUN	N	_	5	compound	_	_
+7	)	)	PUNCT	PUNCT	_	5	punct	_	_
+8	được	được	AUX	AUX	_	9	aux:pass	_	_
+9	xây dựng	xây dựng	VERB	V	_	0	root	_	_
+10	giữa	giữa	NOUN	N	_	9	obl	_	_
+11	một	một	NUM	NUM	_	12	nummod	_	_
+12	hồ	hồ	NOUN	N	_	10	nmod	_	_
+13	nước	nước	NOUN	N	_	12	compound	_	_
+14	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = dev-20322
+# text = Cuộc tấn công ở cánh trái , với nhiệm vụ đánh chiếm trận địa , đã bị đập tan .
+1	Cuộc	cuộc	NOUN	N	_	14	nsubj:pass	_	_
+2	tấn công	tấn công	VERB	V	_	1	compound:vmod	_	_
+3	ở	ở	ADP	PRE	_	4	case	_	_
+4	cánh	cánh	NOUN	N	_	1	nmod	_	_
+5	trái	trái	ADJ	ADJ	_	4	amod	_	_
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	với	với	ADP	PRE	_	8	case	_	_
+8	nhiệm vụ	nhiệm vụ	NOUN	N	_	1	appos:nmod	_	_
+9	đánh chiếm	đánh chiếm	VERB	V	_	8	acl:subj	_	_
+10	trận địa	trận địa	NOUN	N	_	9	obj	_	_
+11	,	,	PUNCT	PUNCT	_	8	punct	_	_
+12	đã	đã	ADV	ADV	_	13	advmod	_	_
+13	bị	bị	VERB	V	_	14	aux:pass	_	_
+14	đập tan	đập tan	VERB	V	_	0	root	_	_
+15	.	.	PUNCT	PUNCT	_	14	punct	_	_
+
+# sent_id = dev-20323
+# text = Đôla là đơn vị tiền tệ của một số nước như Mĩ , Canada , Australia , New Zealand , Singapore , Đài Loan , Hongkong .
+1	Đôla	đôla	NOUN	NB	_	3	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	đơn vị tiền tệ	đơn vị tiền tệ	NOUN	N	_	0	root	_	_
+4	của	của	ADP	PRE	_	6	case	_	_
+5	một số	một số	DET	DET	_	6	det	_	_
+6	nước	nước	NOUN	N	_	3	nmod:poss	_	_
+7	như	như	SCONJ	SC	_	8	case	_	_
+8	Mĩ	mĩ	NOUN	N	_	6	appos:nmod	_	_
+9	,	,	PUNCT	PUNCT	_	10	punct	_	_
+10	Canada	canada	NOUN	N	_	8	conj	_	_
+11	,	,	PUNCT	PUNCT	_	12	punct	_	_
+12	Australia	australia	NOUN	N	_	8	conj	_	_
+13	,	,	PUNCT	PUNCT	_	14	punct	_	_
+14	New	new	NOUN	N	_	8	conj	_	_
+15	Zealand	zealand	NOUN	N	_	14	compound	_	_
+16	,	,	PUNCT	PUNCT	_	17	punct	_	_
+17	Singapore	singapore	NOUN	N	_	8	conj	_	_
+18	,	,	PUNCT	PUNCT	_	19	punct	_	_
+19	Đài	đài	NOUN	N	_	8	conj	_	_
+20	Loan	loan	NOUN	N	_	19	compound	_	_
+21	,	,	PUNCT	PUNCT	_	22	punct	_	_
+22	Hongkong	hongkong	NOUN	N	_	8	conj	_	_
+23	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20324
+# text = Anh Đu nuôi đến khi heo lớn .
+1	Anh	anh	NOUN	N	_	2	det:clf	_	_
+2	Đu	đu	NOUN	N	_	3	nsubj	_	_
+3	nuôi	nuôi	VERB	V	_	0	root	_	_
+4	đến	đến	ADP	PRE	_	5	case	_	_
+5	khi	khi	NOUN	N	_	3	obl:tmod	_	_
+6	heo	heo	NOUN	N	_	7	nsubj	_	_
+7	lớn	lớn	ADJ	ADJ	_	5	acl:tmod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20325
+# text = Lụt là hiện tượng nước tràn ngập một vùng đất .
+1	Lụt	lụt	NOUN	N	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	hiện tượng	hiện tượng	NOUN	N	_	0	root	_	_
+4	nước	nước	NOUN	N	_	5	nsubj	_	_
+5	tràn ngập	tràn ngập	VERB	V	_	3	acl	_	_
+6	một	một	DET	DET	_	7	det	_	_
+7	vùng	vùng	NOUN	N	_	5	obl:comp	_	_
+8	đất	đất	NOUN	N	_	7	compound	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20326
+# text = Tác phẩm thể hiện lập trường chính trị phải phụng sự cho chiến tranh .
+1	Tác phẩm	tác phẩm	NOUN	N	_	2	nsubj	_	_
+2	thể hiện	thể hiện	VERB	V	_	0	root	_	_
+3	lập trường	lập trường	NOUN	N	_	2	obl:comp	_	_
+4	chính trị	chính trị	NOUN	N	_	6	nsubj	_	_
+5	phải	phải	AUX	AUX	_	6	aux	_	_
+6	phụng sự	phụng sự	VERB	V	_	3	acl	_	_
+7	cho	cho	ADP	PRE	_	8	case	_	_
+8	chiến tranh	chiến tranh	NOUN	N	_	6	obl:iobj	_	_
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20327
+# text = Cuộc chiến được ghi nhớ bởi việc hai bên không sử dụng không quân tham chiến .
+1	Cuộc chiến	cuộc chiến	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	ghi nhớ	ghi nhớ	VERB	V	_	0	root	_	_
+4	bởi	bởi	ADP	PRE	_	5	case	_	_
+5	việc	việc	NOUN	N	_	3	obl	_	_
+6	hai	hai	NUM	NUM	_	7	nummod	_	_
+7	bên	bên	NOUN	N	_	9	nsubj	_	_
+8	không	không	ADV	ADV	_	9	advmod:neg	_	_
+9	sử dụng	sử dụng	VERB	V	_	5	acl	_	_
+10	không quân	không quân	NOUN	N	_	9	obj	_	_
+11	tham chiến	tham chiến	VERB	V	_	10	acl:subj	_	_
+12	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20328
+# text = Liban , tên đầy đủ Cộng hoà Liban , là một quốc gia nhỏ tại vùng Trung Đông .
+1	Liban	liban	NOUN	N	_	10	nsubj:nn	_	_
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
+3	tên	tên	NOUN	N	_	5	nsubj:nn	_	_
+4	đầy đủ	đầy đủ	ADJ	ADJ	_	3	amod	_	_
+5	Cộng hoà	cộng hoà	NOUN	N	_	1	acl	_	_
+6	Liban	liban	NOUN	N	_	5	compound	_	_
+7	,	,	PUNCT	PUNCT	_	10	punct	_	_
+8	là	là	AUX	AUX	_	10	cop	_	_
+9	một	một	DET	DET	_	10	det	_	_
+10	quốc gia	quốc gia	NOUN	N	_	0	root	_	_
+11	nhỏ	nhỏ	ADJ	ADJ	_	10	amod	_	_
+12	tại	tại	ADP	PRE	_	13	case	_	_
+13	vùng	vùng	NOUN	N	_	10	obl	_	_
+14	Trung	trung	NOUN	N	_	13	compound	_	_
+15	Đông	đông	NOUN	N	_	14	compound	_	_
+16	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = dev-20329
+# text = Tôi đã gặp cô giáo dạy THCS .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	gặp	gặp	VERB	V	_	0	root	_	_
+4	cô giáo	cô giáo	NOUN	N	_	3	obj	_	_
+5	dạy	dạy	VERB	V	_	4	acl:subj	_	_
+6	THCS	thcs	NOUN	NY	_	5	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20330
+# text = Có nhiều website cung cấp các nơi đặt phòng .
+1	Có	có	VERB	V	_	0	root	_	_
+2	nhiều	nhiều	ADJ	ADJ	_	3	advmod:adj	_	_
+3	website	website	NOUN	NB	_	1	obj	_	_
+4	cung cấp	cung cấp	VERB	V	_	3	acl:subj	_	_
+5	các	các	DET	DET	_	6	det	_	_
+6	nơi	nơi	NOUN	N	_	4	obj	_	_
+7	đặt	đặt	VERB	V	_	6	acl:subj	_	_
+8	phòng	phòng	NOUN	N	_	7	obj	_	_
+9	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20331
+# text = Thần xã Itsukushima là nơi thờ Thần đạo nằm trên đảo Itsukushima .
+1	Thần xã	thần xã	NOUN	N	_	4	nsubj:nn	_	_
+2	Itsukushima	itsukushima	NOUN	N	_	1	compound	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	nơi	nơi	NOUN	N	_	7	csubj	_	_
+5	thờ	thờ	VERB	V	_	4	acl:subj	_	_
+6	Thần đạo	thần đạo	NOUN	N	_	5	obj	_	_
+7	nằm	nằm	VERB	V	_	0	root	_	_
+8	trên	trên	ADP	PRE	_	9	case	_	_
+9	đảo	đảo	NOUN	N	_	7	obl:comp	_	_
+10	Itsukushima	itsukushima	NOUN	N	_	9	compound	_	_
+11	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20332
+# text = Tôi thích cái áo rách này .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	thích	thích	ADJ	ADJ	_	0	root	_	_
+3	cái	cái	NOUN	N	_	4	det:clf	_	_
+4	áo	áo	NOUN	N	_	2	obj	_	_
+5	rách	rách	ADJ	ADJ	_	4	amod	_	_
+6	này	này	PRON	PRO	_	4	det:pmod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20333
+# text = Các phân tử thuộc bộ gen ti thể đều là ADN vòng .
+1	Các	các	DET	DET	_	2	det	_	_
+2	phân tử	phân tử	NOUN	N	_	9	nsubj:nn	_	_
+3	thuộc	thuộc	VERB	V	_	2	acl:subj	_	_
+4	bộ	bộ	NOUN	N	_	3	obl:comp	_	_
+5	gen	gen	NOUN	NB	_	4	nmod	_	_
+6	ti thể	ti thể	NOUN	N	_	5	nmod	_	_
+7	đều	đều	ADV	ADV	_	8	advmod	_	_
+8	là	là	AUX	AUX	_	9	cop	_	_
+9	ADN	adn	NOUN	NY	_	0	root	_	_
+10	vòng	vòng	NOUN	N	_	9	nmod	_	_
+11	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = dev-20334
+# text = Tôi ngủ trong khi họp .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	ngủ	ngủ	VERB	V	_	0	root	_	_
+3	trong	trong	ADP	PRE	_	4	case	_	_
+4	khi	khi	NOUN	N	_	2	obl:tmod	_	_
+5	họp	họp	VERB	V	_	4	acl:tmod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20335
+# text = Ông làm thái thượng hoàng cho đến khi qua đời .
+1	Ông	ông	NOUN	N	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	0	root	_	_
+3	thái thượng hoàng	thái thượng hoàng	NOUN	N	_	2	obj	_	_
+4	cho	cho	PART	PRT	_	6	case	_	_
+5	đến	đến	ADP	PRE	_	4	compound	_	_
+6	khi	khi	NOUN	N	_	2	obl:tmod	_	_
+7	qua đời	qua đời	VERB	V	_	6	acl:tmod	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20336
+# text = Tôi dậy khi trời sáng .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	dậy	dậy	VERB	V	_	0	root	_	_
+3	khi	khi	NOUN	N	_	2	obl:tmod	_	_
+4	trời	trời	NOUN	N	_	5	nsubj	_	_
+5	sáng	sáng	ADJ	ADJ	_	3	acl:tmod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20337
+# text = Johnson qua đời sau khi ông nhậm chức được 5 tháng .
+1	Johnson	johnson	NOUN	N	_	2	nsubj	_	_
+2	qua đời	qua đời	VERB	V	_	0	root	_	_
+3	sau	sau	NOUN	N	_	2	obl:tmod	_	_
+4	khi	khi	NOUN	N	_	3	compound	_	_
+5	ông	ông	NOUN	N	_	6	nsubj	_	_
+6	nhậm chức	nhậm chức	VERB	V	_	3	acl:tmod	_	_
+7	được	được	ADV	ADV	_	9	advmod	_	_
+8	5	5	NUM	NUM	_	9	nummod	_	_
+9	tháng	tháng	NOUN	N	_	6	obl:tmod	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20338
+# text = Tôi thấy người đàn ông mà em yêu .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	thấy	thấy	VERB	V	_	0	root	_	_
+3	người	người	NOUN	N	_	4	det:clf	_	_
+4	đàn ông	đàn ông	NOUN	N	_	2	obj	_	_
+5	mà	mà	SCONJ	SC	_	7	mark	_	_
+6	em	em	NOUN	N	_	7	nsubj	_	_
+7	yêu	yêu	VERB	V	_	4	acl:relcl	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20339
+# text = Thực đơn đúng các món mà em thích .
+1	Thực đơn	thực đơn	NOUN	N	_	2	nsubj	_	_
+2	đúng	đúng	ADJ	ADJ	_	0	root	_	_
+3	các	các	DET	DET	_	4	det	_	_
+4	món	món	NOUN	N	_	2	obl:adj	_	_
+5	mà	mà	SCONJ	SC	_	7	mark	_	_
+6	em	em	NOUN	N	_	7	nsubj	_	_
+7	thích	thích	ADJ	ADJ	_	4	acl:relcl	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20340
+# text = Đây là nơi tôi đã sinh ra .
+1	Đây	đây	PRON	PRO	_	3	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	nơi	nơi	NOUN	N	_	0	root	_	_
+4	tôi	tôi	PRON	PRO	_	6	nsubj	_	_
+5	đã	đã	ADV	ADV	_	6	advmod	_	_
+6	sinh	sinh	VERB	V	_	3	acl:relcl	_	_
+7	ra	ra	VERB	V	_	6	compound:svc	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20341
+# text = ADN mang thông tin di truyền về sản phẩm mà gen đó quy định .
+1	ADN	adn	NOUN	NY	_	2	nsubj	_	_
+2	mang	mang	VERB	V	_	0	root	_	_
+3	thông tin	thông tin	NOUN	N	_	2	obj	_	_
+4	di truyền	di truyền	VERB	V	_	3	compound:vmod	_	_
+5	về	về	ADP	PRE	_	6	case	_	_
+6	sản phẩm	sản phẩm	NOUN	N	_	3	nmod	_	_
+7	mà	mà	SCONJ	SC	_	10	mark	_	_
+8	gen	gen	NOUN	NB	_	10	nsubj	_	_
+9	đó	đó	PRON	PRO	_	8	det:pmod	_	_
+10	quy định	quy định	VERB	V	_	6	acl:relcl	_	_
+11	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20342
+# text = Kyansittha đã xây dựng chùa Shwezigon mà vua Anawrahta còn làm dang dở .
+1	Kyansittha	kyansittha	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	xây dựng	xây dựng	VERB	V	_	0	root	_	_
+4	chùa	chùa	NOUN	N	_	3	obj	_	_
+5	Shwezigon	shwezigon	NOUN	N	_	4	compound	_	_
+6	mà	mà	SCONJ	SC	_	10	mark	_	_
+7	vua	vua	NOUN	N	_	10	nsubj	_	_
+8	Anawrahta	anawrahta	NOUN	N	_	7	compound	_	_
+9	còn	còn	ADV	ADV	_	10	advmod	_	_
+10	làm	làm	VERB	V	_	4	acl:relcl	_	_
+11	dang dở	dang dở	ADJ	ADJ	_	10	acomp	_	_
+12	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20343
+# text = Quyển sách này , tôi chỉ thấy bán ở đây .
+1	Quyển	quyển	NOUN	N	_	2	det:clf	_	_
+2	sách	sách	NOUN	N	_	7	dislocated	_	_
+3	này	này	PRON	PRO	_	2	det:pmod	_	_
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	tôi	tôi	PRON	PRO	_	7	nsubj	_	_
+6	chỉ	chỉ	ADV	ADV	_	7	advmod	_	_
+7	thấy	thấy	VERB	V	_	0	root	_	_
+8	bán	bán	VERB	V	_	7	ccomp	_	_
+9	ở	ở	ADP	PRE	_	10	case	_	_
+10	đây	đây	PRON	PRO	_	8	obl:comp	_	_
+11	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20344
+# text = Nhà , ông ấy có năm bảy cái .
+1	Nhà	nhà	NOUN	N	_	5	dislocated	_	_
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
+3	ông	ông	NOUN	N	_	5	nsubj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	có	có	VERB	V	_	0	root	_	_
+6	năm bảy	năm bảy	NUM	NUM	_	7	nummod	_	_
+7	cái	cái	NOUN	N	_	5	obj	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20345
+# text = Cụ thể : Chúng ta phải đi ngay .
+1	Cụ thể	cụ thể	ADJ	ADJ	_	5	advcl	_	_
+2	:	:	PUNCT	PUNCT	_	5	punct	_	_
+3	Chúng ta	chúng ta	PRON	PRO	_	5	nsubj	_	_
+4	phải	phải	AUX	AUX	_	5	aux	_	_
+5	đi	đi	VERB	V	_	0	root	_	_
+6	ngay	ngay	PART	PRT	_	5	discourse	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20346
+# text = Như trên đã nói , anh ấy vô tội .
+1	Như	như	SCONJ	SC	_	4	mark	_	_
+2	trên	trên	NOUN	N	_	4	obl	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	nói	nói	VERB	V	_	8	advcl	_	_
+5	,	,	PUNCT	PUNCT	_	8	punct	_	_
+6	anh	anh	NOUN	N	_	8	nsubj	_	_
+7	ấy	ấy	PRON	PRO	_	6	det:pmod	_	_
+8	vô tội	vô tội	ADJ	ADJ	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = dev-20347
+# text = Chiều , trời sẽ nổi gió .
+1	Chiều	chiều	NOUN	N	_	5	obl:tmod	_	_
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
+3	trời	trời	NOUN	N	_	5	nsubj	_	_
+4	sẽ	sẽ	ADV	ADV	_	5	advmod	_	_
+5	nổi	nổi	VERB	V	_	0	root	_	_
+6	gió	gió	NOUN	N	_	5	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20348
+# text = Hôm nay , học sinh thi môn văn .
+1	Hôm nay	hôm nay	NOUN	N	_	4	obl:tmod	_	_
+2	,	,	PUNCT	PUNCT	_	4	punct	_	_
+3	học sinh	học sinh	NOUN	N	_	4	nsubj	_	_
+4	thi	thi	VERB	V	_	0	root	_	_
+5	môn	môn	NOUN	N	_	4	obj	_	_
+6	văn	văn	NOUN	N	_	5	compound	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20349
+# text = Hiện tại , anh ấy không có mặt ở nhà .
+1	Hiện tại	hiện tại	NOUN	N	_	6	obl:tmod	_	_
+2	,	,	PUNCT	PUNCT	_	6	punct	_	_
+3	anh	anh	NOUN	N	_	6	nsubj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	có mặt	có mặt	VERB	V	_	0	root	_	_
+7	ở	ở	ADP	PRE	_	8	case	_	_
+8	nhà	nhà	NOUN	N	_	6	obl:comp	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20350
+# text = Năm nay , thời tiết không bình thường .
+1	Năm	năm	NOUN	N	_	6	obl:tmod	_	_
+2	nay	nay	PRON	PRO	_	1	det:pmod	_	_
+3	,	,	PUNCT	PUNCT	_	6	punct	_	_
+4	thời tiết	thời tiết	NOUN	N	_	6	nsubj	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	bình thường	bình thường	ADJ	ADJ	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20351
+# text = Năm 1900 , ông ra nước ngoài .
+1	Năm	năm	NOUN	N	_	5	obl:tmod	_	_
+2	1900	1900	NUM	NUM	_	1	flat:date	_	_
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	ông	ông	NOUN	N	_	5	nsubj	_	_
+5	ra	ra	VERB	V	_	0	root	_	_
+6	nước ngoài	nước ngoài	NOUN	N	_	5	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20352
+# text = Ông ra nước ngoài năm 20 tuổi .
+1	Ông	ông	NOUN	N	_	2	nsubj	_	_
+2	ra	ra	VERB	V	_	0	root	_	_
+3	nước ngoài	nước ngoài	NOUN	N	_	2	obl:comp	_	_
+4	năm	năm	NOUN	N	_	2	obl:tmod	_	_
+5	20	20	NUM	NUM	_	6	nummod	_	_
+6	tuổi	tuổi	NOUN	N	_	4	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20353
+# text = Nó học giỏi để cha mẹ vui lòng .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	học	học	VERB	V	_	0	root	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	2	acomp	_	_
+4	để	để	ADP	PRE	_	6	mark:pcomp	_	_
+5	cha mẹ	cha mẹ	NOUN	N	_	6	nsubj	_	_
+6	vui lòng	vui lòng	ADJ	ADJ	_	2	advcl:objective	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20354
+# text = Xe máy điện không dùng bàn đạp để chạy .
+1	Xe máy	xe máy	NOUN	N	_	4	nsubj	_	_
+2	điện	điện	NOUN	N	_	1	nmod	_	_
+3	không	không	ADV	ADV	_	4	advmod:neg	_	_
+4	dùng	dùng	VERB	V	_	0	root	_	_
+5	bàn đạp	bàn đạp	NOUN	N	_	4	obj	_	_
+6	để	để	ADP	PRE	_	7	mark:pcomp	_	_
+7	chạy	chạy	VERB	V	_	4	advcl:objective	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20355
+# text = Đó là phương pháp thực nghiệm nhằm phân biệt các loài vi khuẩn .
+1	Đó	đó	PRON	PRO	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	phương pháp	phương pháp	NOUN	N	_	0	root	_	_
+4	thực nghiệm	thực nghiệm	VERB	V	_	3	compound:vmod	_	_
+5	nhằm	nhằm	VERB	V	_	3	acl:subj	_	_
+6	phân biệt	phân biệt	VERB	V	_	5	advcl:objective	_	_
+7	các	các	DET	DET	_	8	det	_	_
+8	loài	loài	NOUN	N	_	6	obj	_	_
+9	vi khuẩn	vi khuẩn	NOUN	N	_	8	nmod	_	_
+10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20356
+# text = Để làm việc hiệu quả nhà máy cần trang bị máy móc hiện đai .
+1	Để	để	ADP	PRE	_	2	mark:pcomp	_	_
+2	làm việc	làm việc	VERB	V	_	6	advcl:objective	_	_
+3	hiệu quả	hiệu quả	ADJ,	ADJ,	_	2	acomp	_	_
+4	nhà máy	nhà máy	NOUN	N	_	6	nsubj	_	_
+5	cần	cần	AUX	AUX	_	6	advmod	_	_
+6	trang bị	trang bị	VERB	V	_	0	root	_	_
+7	máy móc	máy móc	NOUN	N	_	6	obj	_	_
+8	hiện đai	hiện đai	ADJ	ADJ	_	7	amod	_	_
+9	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20357
+# text = Theo luật , tôi đã đúng .
+1	Theo	theo	VERB	V	_	6	advcl	_	_
+2	luật	luật	NOUN	N	_	1	obl:comp	_	_
+3	,	,	PUNCT	PUNCT	_	6	punct	_	_
+4	tôi	tôi	PRON	PRO	_	6	nsubj	_	_
+5	đã	đã	ADV	ADV	_	6	advmod	_	_
+6	đúng	đúng	ADJ	ADJ	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20358
+# text = Trời vừa sáng , tôi đã thức dậy .
+1	Trời	trời	NOUN	N	_	3	nsubj	_	_
+2	vừa	vừa	ADV	ADV	_	3	advmod	_	_
+3	sáng	sáng	ADJ	ADJ	_	7	advcl	_	_
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	tôi	tôi	PRON	PRO	_	7	nsubj	_	_
+6	đã	đã	ADV	ADV	_	7	advmod	_	_
+7	thức	thức	VERB	V	_	0	root	_	_
+8	dậy	dậy	VERB	V	_	7	compound:svc	_	_
+9	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20359
+# text = Nó chạy như điên .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	chạy	chạy	VERB	V	_	0	root	_	_
+3	như	như	SCONJ	SC	_	4	mark	_	_
+4	điên	điên	ADJ	ADJ	_	2	advcl	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20360
+# text = Nó làm như không biết gì .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	0	root	_	_
+3	như	như	SCONJ	SC	_	5	mark	_	_
+4	không	không	ADV	ADV	_	5	advmod:neg	_	_
+5	biết	biết	VERB	V	_	2	advcl	_	_
+6	gì	gì	PRON	PRO	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20361
+# text = Tôi không nhìn thấy con suối vì nó nằm khuất sau đồi cát .
+1	Tôi	tôi	ADP	PRE	_	3	nsubj	_	_
+2	không	không	ADV	ADV	_	3	advmod:neg	_	_
+3	nhìn	nhìn	VERB	V	_	0	root	_	_
+4	thấy	thấy	VERB	V	_	3	compound:svc	_	_
+5	con	con	NOUN	N	_	6	det:clf	_	_
+6	suối	suối	NOUN	N	_	3	obj	_	_
+7	vì	vì	ADP	PRE	_	9	case	_	_
+8	nó	nó	PRON	PRO	_	9	nsubj	_	_
+9	nằm	nằm	VERB	V	_	3	advcl	_	_
+10	khuất	khuất	ADJ	ADJ	_	9	acomp	_	_
+11	sau	sau	NOUN	N	_	9	obl	_	_
+12	đồi	đồi	NOUN	N	_	11	nmod	_	_
+13	cát	cát	NOUN	N	_	12	compound	_	_
+14	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20362
+# text = Nó bảo : Anh không được đi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	bảo	bảo	VERB	V	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	7	punct	_	_
+4	Anh	anh	NOUN	N	_	7	nsubj	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	được	được	AUX	AUX	_	7	aux	_	_
+7	đi	đi	VERB	V	_	2	parataxis	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20363
+# text = Nó bảo : “ Anh không được đi ” .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	bảo	bảo	VERB	V	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	8	punct	_	_
+4	“	“	PUNCT	PUNCT	_	8	punct	_	_
+5	Anh	anh	NOUN	N	_	8	nsubj	_	_
+6	không	không	ADV	ADV	_	7	advmod:neg	_	_
+7	được	được	AUX	AUX	_	8	aux	_	_
+8	đi	đi	VERB	V	_	2	parataxis	_	_
+9	”	”	PUNCT	PUNCT	_	8	punct	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20364
+# text = Rồng râu là thợ săn tầm nhìn , chúng cần nhìn thấy thức ăn để di chuyển .
+1	Rồng	rồng	NOUN	N	_	4	nsubj:nn	_	_
+2	râu	râu	NOUN	N	_	1	nmod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	thợ săn	thợ săn	NOUN	N	_	0	root	_	_
+5	tầm nhìn	tầm nhìn	NOUN	N	_	4	nmod	_	_
+6	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	chúng	chúng	PRON	PRO	_	9	nsubj	_	_
+8	cần	cần	AUX	AUX	_	9	aux	_	_
+9	nhìn	nhìn	VERB	V	_	4	parataxis	_	_
+10	thấy	thấy	VERB	V	_	9	compound:svc	_	_
+11	thức ăn	thức ăn	NOUN	N	_	9	obj	_	_
+12	để	để	ADP	PRE	_	13	mark:pcomp	_	_
+13	di chuyển	di chuyển	VERB	V	_	9	advcl:objective	_	_
+14	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20365
+# text = Gã đó , anh nói , đã đi rồi .
+1	Gã	gã	NOUN	N	_	8	nsubj	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	anh	anh	NOUN	N	_	5	nsubj	_	_
+5	nói	nói	VERB	V	_	8	parataxis	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	đã	đã	ADV	ADV	_	8	advmod	_	_
+8	đi	đi	VERB	V	_	0	root	_	_
+9	rồi	rồi	ADV	ADV	_	8	advmod	_	_
+10	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = dev-20366
+# text = " Ông nói : Kỷ luật cán bộ gây chậm giải ngân vốn đầu tư công "
+1	"	"	PUNCT	PUNCT	_	3	punct	_	_
+2	Ông	ông	NOUN	N	_	3	nsubj	_	_
+3	nói	nói	VERB	V	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	7	punct	_	_
+5	Kỷ luật	kỷ luật	VERB	V	_	7	csubj:vsubj	_	_
+6	cán bộ	cán bộ	NOUN	N	_	5	obj	_	_
+7	gây	gây	VERB	V	_	3	parataxis	_	_
+8	chậm	chậm	ADJ	ADJ	_	9	advmod:adj	_	_
+9	giải ngân	giải ngân	VERB	V	_	7	xcomp	_	_
+10	vốn	vốn	NOUN	N	_	9	obj	_	_
+11	đầu tư	đầu tư	VERB	V	_	10	compound:vmod	_	_
+12	công	công	ADJ	ADJ	_	10	amod	_	_
+13	"	"	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20367
+# text = " Bà viết : Kỷ luật cán bộ gây chậm giải ngân vốn đầu tư công "
+1	"	"	PUNCT	PUNCT	_	3	punct	_	_
+2	Bà	bà	NOUN	N	_	3	nsubj	_	_
+3	viết	viết	VERB	V	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	7	punct	_	_
+5	Kỷ luật	kỷ luật	VERB	V	_	7	csubj:vsubj	_	_
+6	cán bộ	cán bộ	NOUN	N	_	5	obj	_	_
+7	gây	gây	VERB	V	_	3	parataxis	_	_
+8	chậm	chậm	ADJ	ADJ	_	9	advmod:adj	_	_
+9	giải ngân	giải ngân	VERB	V	_	7	xcomp	_	_
+10	vốn	vốn	NOUN	N	_	9	obj	_	_
+11	đầu tư	đầu tư	VERB	V	_	10	compound:vmod	_	_
+12	công	công	ADJ	ADJ	_	10	amod	_	_
+13	"	"	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20368
+# text = " Thủ tướng : Kỷ luật cán bộ gây chậm giải ngân vốn đầu tư công "
+1	"	"	PUNCT	PUNCT	_	6	punct	_	_
+2	Thủ tướng	thủ tướng	NOUN	N	_	6	obl	_	_
+3	:	:	PUNCT	PUNCT	_	6	punct	_	_
+4	Kỷ luật	kỷ luật	VERB	V	_	6	csubj:vsubj	_	_
+5	cán bộ	cán bộ	NOUN	N	_	4	obj	_	_
+6	gây	gây	VERB	V	_	0	root	_	_
+7	chậm	chậm	ADJ	ADJ	_	8	advmod:adj	_	_
+8	giải ngân	giải ngân	VERB	V	_	6	xcomp	_	_
+9	vốn	vốn	NOUN	N	_	8	obj	_	_
+10	đầu tư	đầu tư	VERB	V	_	9	compound:vmod	_	_
+11	công	công	ADJ	ADJ	_	9	amod	_	_
+12	"	"	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20369
+# text = Sống , chúng ta mong được sống làm người .
+1	Sống	sống	VERB	V	_	4	parataxis	_	_
+2	,	,	PUNCT	PUNCT	_	4	punct	_	_
+3	chúng ta	chúng ta	PRON	PRO	_	4	nsubj	_	_
+4	mong	mong	VERB	V	_	0	root	_	_
+5	được	được	AUX	AUX	_	6	aux	_	_
+6	sống	sống	VERB	V	_	4	ccomp	_	_
+7	làm	làm	VERB	V	_	6	xcomp	_	_
+8	người	người	NOUN	N	_	7	obj	_	_
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20370
+# text = Nhà , ông ấy có năm bảy cái nhà .
+1	Nhà	nhà	NOUN	N	_	5	parataxis	_	_
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
+3	ông	ông	NOUN	N	_	5	nsubj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	có	có	VERB	V	_	0	root	_	_
+6	năm bảy	năm bảy	NUM	NUM	_	8	nummod	_	_
+7	cái	cái	NOUN	N	_	6	clf	_	_
+8	nhà	nhà	NOUN	N	_	5	obj	_	_
+9	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20371
+# text = Thuốc , ông ấy không hút .
+1	Thuốc	thuốc	NOUN	N	_	6	dislocated	_	_
+2	,	,	PUNCT	PUNCT	_	6	punct	_	_
+3	ông	ông	NOUN	N	_	6	nsubj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	hút	hút	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20372
+# text = Toán , cô ấy giỏi .
+1	Toán	toán	NOUN	N	_	5	dislocated	_	_
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
+3	cô	cô	NOUN	N	_	5	nsubj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	giỏi	giỏi	ADJ	ADJ	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20373
+# text = Cây này , lá to
+1	Cây	cây	NOUN	N	_	4	dislocated	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	lá	lá	VERB	V	_	5	nsubj	_	_
+5	to	to	ADJ	ADJ	_	0	root	_	_
+
+# sent_id = dev-20374
+# text = Cô ấy đẹp nước da .
+1	Cô	cô	NOUN	N	_	4	dislocated	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+4	nước da	nước da	NOUN	N	_	3	nsubj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20375
+# text = Vợ , ông ấy có hai bà .
+1	Vợ	vợ	NOUN	N	_	5	dislocated	_	_
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
+3	ông	ông	NOUN	N	_	5	nsubj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	có	có	VERB	V	_	0	root	_	_
+6	hai	hai	NUM	NUM	_	7	nummod	_	_
+7	bà	bà	NOUN	N	_	5	obj	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20376
+# text = Hàng do chúng tôi sản xuất .
+1	Hàng	hàng	NOUN	N	_	4	dislocated	_	_
+2	do	do	ADP	PRE	_	4	mark	_	_
+3	chúng tôi	chúng tôi	PRON	PRO	_	4	nsubj	_	_
+4	sản xuất	sản xuất	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20377
+# text = Chiến lược phát triển do lãnh đạo quyết định .
+1	Chiến lược	chiến lược	NOUN	N	_	5	dislocated	_	_
+2	phát triển	phát triển	VERB	V	_	1	compound:vmod	_	_
+3	do	do	ADP	PRE	_	5	mark	_	_
+4	lãnh đạo	lãnh đạo	NOUN	N	_	5	nsubj	_	_
+5	quyết định	quyết định	VERB	V	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20378
+# text = Bệnh dại là bệnh do virus dại gây nên .
+1	Bệnh	bệnh	NOUN	N	_	4	nsubj:nn	_	_
+2	dại	dại	ADJ	ADJ	_	1	compound:amod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	bệnh	bệnh	NOUN	N	_	0	root	_	_
+5	do	do	ADP	PRE	_	8	mark	_	_
+6	virus	virus	NOUN	NB	_	8	nsubj	_	_
+7	dại	dại	ADJ	ADJ	_	6	compound:amod	_	_
+8	gây	gây	VERB	V	_	4	advcl	_	_
+9	nên	nên	VERB	V	_	8	compound:svc	_	_
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20379
+# text = Những gì cô ấy nói có ý nghĩa .
+1	Những	những	DET	DET	_	2	det	_	_
+2	gì	gì	PRON	PRO	_	5	dislocated	_	_
+3	cô	cô	NOUN	N	_	5	nsubj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	nói	nói	VERB	V	_	0	root	_	_
+6	có	có	VERB	V	_	5	ccomp	_	_
+7	ý nghĩa	ý nghĩa	NOUN	N	_	6	obl:comp	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20380
+# text = Lan nó rất ngoan .
+1	Lan	lan	NOUN	N	_	4	nsubj	_	_
+2	nó	nó	PRON	PRO	_	4	expl	_	_
+3	rất	rất	ADV	ADV	_	4	advmod	_	_
+4	ngoan	ngoan	ADJ	ADJ	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20381
+# text = Giống đực , nó thường tổn hao đối với giống cái .
+1	Giống	giống	NOUN	N	_	6	nsubj	_	_
+2	đực	đực	ADJ	ADJ	_	1	compound	_	_
+3	,	,	PUNCT	PUNCT	_	6	punct	_	_
+4	nó	nó	PRON	PRO	_	6	expl	_	_
+5	thường	thường	ADV	ADV	_	6	advmod	_	_
+6	tổn hao	tổn hao	VERB	V	_	0	root	_	_
+7	đối với	đối với	ADP	PRE	_	8	case	_	_
+8	giống	giống	NOUN	N	_	6	obl:with	_	_
+9	cái	cái	ADJ	ADJ	_	8	compound	_	_
+10	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20382
+# text = Một hợp chất có tính kiềm mạnh , nó rất hữu ích trong tổng hợp hữu cơ .
+1	Một	một	DET	DET	_	2	det	_	_
+2	hợp chất	hợp chất	NOUN	N	_	10	nsubj	_	_
+3	có	có	VERB	V	_	2	acl:subj	_	_
+4	tính	tính	NOUN	N	_	3	obj	_	_
+5	kiềm	kiềm	NOUN	N	_	4	compound	_	_
+6	mạnh	mạnh	ADJ	ADJ	_	4	amod	_	_
+7	,	,	PUNCT	PUNCT	_	10	punct	_	_
+8	nó	nó	PRON	PRO	_	10	expl	_	_
+9	rất	rất	ADV	ADV	_	10	advmod	_	_
+10	hữu ích	hữu ích	ADJ	ADJ	_	0	root	_	_
+11	trong	trong	ADP	PRE	_	12	case	_	_
+12	tổng hợp	tổng hợp	VERB	V	_	10	obl	_	_
+13	hữu cơ	hữu cơ	NOUN	N	_	12	obj	_	_
+14	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = dev-20383
+# text = Phép tính lambda bất định kiểu không tránh khỏi các nghịch lí về lí thuyết tập hợp .
+1	Phép tính	phép tính	NOUN	N	_	6	nsubj	_	_
+2	lambda	lambda	NOUN	NB	_	1	compound	_	_
+3	bất định	bất định	ADJ	ADJ	_	1	compound:amod	_	_
+4	kiểu	kiểu	NOUN	N	_	1	compound	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	tránh	tránh	VERB	V	_	0	root	_	_
+7	khỏi	khỏi	VERB	V	_	6	compound:svc	_	_
+8	các	các	DET	DET	_	9	det	_	_
+9	nghịch lí	nghịch lí	NOUN	N	_	6	obj	_	_
+10	về	về	ADP	PRE	_	11	case	_	_
+11	lí thuyết tập hợp	lí thuyết tập hợp	NOUN	N	_	9	nmod	_	_
+12	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20384
+# text = Anh ơi chờ em với !
+1	Anh	anh	NOUN	N	_	3	vocative	_	_
+2	ơi	ơi	I,	I,	_	1	discourse	_	_
+3	chờ	chờ	VERB	V	_	0	root	_	_
+4	em	em	NOUN	N	_	3	obj	_	_
+5	với	với	PART	PRT	_	3	discourse	_	_
+6	!	!	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20385
+# text = Chuẩn bị lên đường , anh em ơi !
+1	Chuẩn bị	chuẩn bị	VERB	V	_	0	root	_	_
+2	lên đường	lên đường	VERB	V	_	1	xcomp	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	anh em	anh em	NOUN	N	_	1	vocative	_	_
+5	ơi	ơi	PRON	PRO	_	4	discourse	_	_
+6	!	!	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20386
+# text = Lu , im đi !
+1	Lu	lu	NOUN	N	_	3	vocative	_	_
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	im	im	ADJ	ADJ	_	0	root	_	_
+4	đi	đi	ADV	ADV	_	3	advmod	_	_
+5	!	!	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20387
+# text = Shop ơi ! Bạn có đấy không ?
+1	Shop	shop	NOUN	NB	_	5	vocative	_	_
+2	ơi	ơi	PRON	PRO	_	1	discourse	_	_
+3	!	!	PUNCT	PUNCT	_	5	punct	_	_
+4	Bạn	bạn	NOUN	N	_	5	nsubj	_	_
+5	có	có	VERB	V	_	0	root	_	_
+6	đấy	đấy	PRON	PRO	_	5	obl:comp	_	_
+7	không	không	ADV	ADV	_	5	advmod	_	_
+8	?	?	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20388
+# text = Có được đổi hàng không ad nhỉ ?
+1	Có	có	ADV	ADV	_	3	advmod	_	_
+2	được	được	AUX	AUX	_	3	aux	_	_
+3	đổi	đổi	VERB	V	_	0	root	_	_
+4	hàng	hàng	NOUN	N	_	3	obj	_	_
+5	không	không	ADV	ADV	_	3	advmod	_	_
+6	ad	ad	NOUN	NY	_	3	vocative	_	_
+7	nhỉ	nhỉ	PART	PRT	_	6	discourse	_	_
+8	?	?	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20389
+# text = Bạn có thể nói rõ được không bạn !
+1	Bạn	bạn	NOUN	N	_	3	nsubj	_	_
+2	có thể	có thể	ADV	ADV	_	3	advmod	_	_
+3	nói	nói	VERB	V	_	0	root	_	_
+4	rõ	rõ	ADJ	ADJ	_	3	acomp	_	_
+5	được	được	ADV	ADV	_	4	advmod	_	_
+6	không	không	ADV	ADV	_	5	advmod	_	_
+7	bạn	bạn	NOUN	N	_	3	vocative	_	_
+8	!	!	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20390
+# text = Tôi đây , bạn cần gì ?
+1	Tôi	tôi	PRON	PRO	_	5	vocative	_	_
+2	đây	đây	PRON	PRO	_	1	det:pmod	_	_
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	bạn	bạn	NOUN	N	_	5	nsubj	_	_
+5	cần	cần	VERB	V	_	0	root	_	_
+6	gì	gì	PRON	PRO	_	5	obj	_	_
+7	?	?	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20391
+# text = Ôi , trời mưa !
+1	Ôi	ôi	PRON	PRO	_	4	discourse	_	_
+2	,	,	PUNCT	PUNCT	_	4	punct	_	_
+3	trời	trời	NOUN	N	_	4	nsubj	_	_
+4	mưa	mưa	VERB	V	_	0	root	_	_
+5	!	!	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20392
+# text = Trời ! đám mạ bị trâu giẫm nát rồi .
+1	Trời	trời	PRON	PRO	_	7	discourse	_	_
+2	!	!	PUNCT	PUNCT	_	7	punct	_	_
+3	đám	đám	NOUN	N	_	4	det:clf	_	_
+4	mạ	mạ	NOUN	N	_	7	nsubj:pass	_	_
+5	bị	bị	AUX	AUX	_	7	aux:pass	_	_
+6	trâu	trâu	NOUN	N	_	7	obl:agent	_	_
+7	giẫm	giẫm	VERB	V	_	0	root	_	_
+8	nát	nát	ADJ	ADJ	_	7	acomp	_	_
+9	rồi	rồi	PART	PRT	_	7	discourse	_	_
+10	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20393
+# text = Cái này ăn được nè !
+1	Cái	cái	NOUN	N	_	2	det:clf	_	_
+2	này	này	PRON	PRO	_	3	nsubj	_	_
+3	ăn	ăn	VERB	V	_	0	root	_	_
+4	được	được	ADV	ADV	_	3	advmod	_	_
+5	nè	nè	PART	PRT	_	3	discourse	_	_
+6	!	!	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20394
+# text = Nó hên thiệt .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	hên	hên	ADJ	ADJ	_	0	root	_	_
+3	thiệt	thiệt	PART	PRT	_	2	discourse	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20395
+# text = Cái con mèo đấy mắn đẻ lắm !
+1	Cái	cái	PART	PRT	_	3	discourse	_	_
+2	con	con	NOUN	N	_	3	det:clf	_	_
+3	mèo	mèo	NOUN	N	_	5	nsubj	_	_
+4	đấy	đấy	PRON	PRO	_	3	det:pmod	_	_
+5	mắn	mắn	ADJ	ADJ	_	0	root	_	_
+6	đẻ	đẻ	VERB	V	_	5	xcomp:adj	_	_
+7	lắm	lắm	ADV	ADV	_	5	advmod	_	_
+8	!	!	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20396
+# text = Việc đó chính tôi cũng không biết .
+1	Việc	việc	NOUN	N	_	7	dislocated	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	chính	chính	PART	PRT	_	4	discourse	_	_
+4	tôi	tôi	PRON	PRO	_	7	nsubj	_	_
+5	cũng	cũng	ADV	ADV	_	6	advmod	_	_
+6	không	không	ADV	ADV	_	7	advmod:neg	_	_
+7	biết	biết	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20397
+# text = Tôi quên khuấy đi .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	quên khuấy	quên khuấy	VERB	V	_	0	root	_	_
+3	đi	đi	PART	PRT	_	2	discourse	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20398
+# text = Tôi quên khuấy đi mất .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	quên khuấy	quên khuấy	VERB	V	_	0	root	_	_
+3	đi	đi	PART	PRT	_	2	discourse	_	_
+4	mất	mất	PART	PRT	_	2	discourse	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20399
+# text = Chúng ta phải đi thôi !
+1	Chúng ta	chúng ta	PRON	PRO	_	3	nsubj	_	_
+2	phải	phải	AUX	AUX	_	3	aux	_	_
+3	đi	đi	VERB	V	_	0	root	_	_
+4	thôi	thôi	PART	PRT	_	3	discourse	_	_
+5	!	!	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20400
+# text = Tôi được ăn ngon .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj	_	_
+2	được	được	AUX	AUX	_	3	aux	_	_
+3	ăn	ăn	VERB	V	_	0	root	_	_
+4	ngon	ngon	ADJ	ADJ	_	3	acomp	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20401
+# text = Tôi phải đi ngay .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj	_	_
+2	phải	phải	AUX	AUX	_	3	aux	_	_
+3	đi	đi	VERB	V	_	0	root	_	_
+4	ngay	ngay	ADV	ADV	_	3	advmod	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20402
+# text = Tôi quyết ra đi .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj	_	_
+2	quyết	quyết	AUX	AUX	_	3	aux	_	_
+3	ra	ra	VERB	V	_	0	root	_	_
+4	đi	đi	VERB	V	_	3	compound:svc	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20403
+# text = Anh muốn chơi cờ .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	muốn	muốn	AUX	AUX	_	3	aux	_	_
+3	chơi	chơi	VERB	V	_	0	root	_	_
+4	cờ	cờ	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20404
+# text = Việc đó đáng làm .
+1	Việc	việc	NOUN	N	_	3	nsubj	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	đáng	đáng	VERB	V	_	0	root	_	_
+4	làm	làm	VERB	V	_	3	xcomp	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20405
+# text = Tôi muốn bố mẹ giúp Tuấn tiền .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	muốn	muốn	VERB	V	_	0	root	_	_
+3	bố mẹ	bố mẹ	NOUN	N	_	4	nsubj:xsubj	_	_
+4	giúp	giúp	VERB	V	_	2	xcomp	_	_
+5	Tuấn	tuấn	NOUN	N	_	4	iobj	_	_
+6	tiền	tiền	NOUN	N	_	4	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20406
+# text = Nó bị bố đánh .
+1	Nó	nó	PRON	PRO	_	4	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	4	aux:pass	_	_
+3	bố	bố	NOUN	N	_	4	obl:agent	_	_
+4	đánh	đánh	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20407
+# text = Nam được nhà trường khen thưởng .
+1	Nam	nam	NOUN	N	_	4	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	4	aux:pass	_	_
+3	nhà trường	nhà trường	NOUN	N	_	4	obl:agent	_	_
+4	khen thưởng	khen thưởng	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20408
+# text = Máy bay của địch vừa bị quân ta bắn rơi .
+1	Máy bay	máy bay	NOUN	N	_	8	nsubj:pass	_	_
+2	của	của	ADP	PRE	_	3	case	_	_
+3	địch	địch	NOUN	N	_	1	nmod:poss	_	_
+4	vừa	vừa	ADV	ADV	_	5	advmod	_	_
+5	bị	bị	AUX	AUX	_	8	aux:pass	_	_
+6	quân	quân	NOUN	N	_	8	obl:agent	_	_
+7	ta	ta	PRON	PRO	_	6	compound:pron	_	_
+8	bắn	bắn	VERB	V	_	0	root	_	_
+9	rơi	rơi	VERB	V	_	8	xcomp	_	_
+10	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = dev-20409
+# text = Mảnh vườn bị địch phá tan hoang .
+1	Mảnh	mảnh	NOUN	N	_	2	det:clf	_	_
+2	vườn	vườn	NOUN	N	_	5	nsubj:pass	_	_
+3	bị	bị	AUX	AUX	_	5	aux:pass	_	_
+4	địch	địch	NOUN	N	_	5	obl:agent	_	_
+5	phá	phá	NOUN	N	_	0	root	_	_
+6	tan hoang	tan hoang	ADJ	ADJ	_	5	acomp	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20410
+# text = Ông ấy được công chúng tán thưởng .
+1	Ông	ông	NOUN	N	_	5	nsubj:pass	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	được	được	AUX	AUX	_	5	aux:pass	_	_
+4	công chúng	công chúng	VERB	V	_	5	obl:agent	_	_
+5	tán thưởng	tán thưởng	VERB	V	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20411
+# text = Vở kịch được công chúng hoan nghênh .
+1	Vở	vở	NOUN	N	_	2	det:clf	_	_
+2	kịch	kịch	NOUN	N	_	5	nsubj:pass	_	_
+3	được	được	AUX	AUX	_	5	aux:pass	_	_
+4	công chúng	công chúng	NOUN	N	_	5	obl:agent	_	_
+5	hoan nghênh	hoan nghênh	VERB	V	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20412
+# text = Tôi bị đánh bởi nó .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	3	aux:pass	_	_
+3	đánh	đánh	VERB	V	_	0	root	_	_
+4	bởi	bởi	ADP	PRE	_	5	case	_	_
+5	nó	nó	PRON	PRO	_	3	obl:agent	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20413
+# text = Giải thưởng được tài trợ bởi doanh nghiệp .
+1	Giải thưởng	giải thưởng	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	tài trợ	tài trợ	VERB	V	_	0	root	_	_
+4	bởi	bởi	ADP	PRE	_	5	case	_	_
+5	doanh nghiệp	doanh nghiệp	NOUN	N	_	3	obl:agent	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20414
+# text = Ngôi nhà được bao bọc bởi một khu vườn rậm rạp .
+1	Ngôi	ngôi	NOUN	N	_	2	det:clf	_	_
+2	nhà	nhà	NOUN	N	_	4	nsubj:pass	_	_
+3	được	được	AUX	AUX	_	4	aux:pass	_	_
+4	bao bọc	bao bọc	VERB	V	_	0	root	_	_
+5	bởi	bởi	ADP	PRE	_	7	case	_	_
+6	một	một	DET	DET	_	7	det	_	_
+7	khu	khu	NOUN	N	_	4	obl:comp	_	_
+8	vườn	vườn	NOUN	N	_	7	compound	_	_
+9	rậm rạp	rậm rạp	ADJ	ADJ	_	7	amod	_	_
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20415
+# text = Tôi bị đánh .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	3	aux:pass	_	_
+3	đánh	đánh	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20416
+# text = Bé được cho kẹo .
+1	Bé	bé	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	cho	cho	VERB	V	_	0	root	_	_
+4	kẹo	kẹo	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20417
+# text = Nó bị trúng đạn .
+1	Nó	nó	PRON	PRO	_	3	nsubj:pass	_	_
+2	bị	bị	AUX	AUX	_	3	aux:pass	_	_
+3	trúng	trúng	VERB	V	_	0	root	_	_
+4	đạn	đạn	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20418
+# text = Tôi vừa bị mất cắp .
+1	Tôi	tôi	PRON	PRO	_	4	nsubj:pass	_	_
+2	vừa	vừa	ADV	ADV	_	3	advmod	_	_
+3	bị	bị	AUX	AUX	_	4	aux:pass	_	_
+4	mất cắp	mất cắp	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20419
+# text = Đất nước ta đã bị tàn phá nặng nề .
+1	Đất nước	đất nước	NOUN	N	_	5	nsubj:pass	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	bị	bị	AUX	AUX	_	5	aux:pass	_	_
+5	tàn phá	tàn phá	VERB	V	_	0	root	_	_
+6	nặng nề	nặng nề	ADJ	ADJ	_	5	acomp	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20420
+# text = Nhà văn này được trao giải nhất .
+1	Nhà văn	nhà văn	NOUN	N	_	4	nsubj:pass	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	được	được	AUX	AUX	_	4	aux:pass	_	_
+4	trao	trao	VERB	V	_	0	root	_	_
+5	giải	giải	NOUN	N	_	4	obj	_	_
+6	nhất	nhất	NUM	NUM	_	5	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20421
+# text = Nguyễn Du là nhà thơ lớn của Việt Nam .
+1	Nguyễn	nguyễn	NOUN	N	_	4	nsubj:nn	_	_
+2	Du	du	NOUN	N	_	1	flat:name	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	nhà thơ	nhà thơ	NOUN	N	_	0	root	_	_
+5	lớn	lớn	ADJ	ADJ	_	4	amod	_	_
+6	của	của	ADP	PRE	_	7	case	_	_
+7	Việt	việt	NOUN	N	_	4	nmod:poss	_	_
+8	Nam	nam	NOUN	N	_	7	compound	_	_
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20422
+# text = Tôi là người có lỗi .
+1	Tôi	tôi	PRON	PRO	_	3	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	người	người	NOUN	N	_	0	root	_	_
+4	có	có	VERB	V	_	3	acl:subj	_	_
+5	lỗi	lỗi	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20423
+# text = Người có lỗi là tôi .
+1	Người	người	NOUN	N	_	5	nsubj	_	_
+2	có	có	VERB	V	_	1	acl:subj	_	_
+3	lỗi	lỗi	NOUN	N	_	2	obj	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	tôi	tôi	PRON	PRO	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20424
+# text = Đây là một trong vô vàn chuyện nhỏ .
+1	Đây	đây	PRON	PRO	_	6	nsubj	_	_
+2	là	là	AUX	AUX	_	6	cop	_	_
+3	một	một	NUM	NUM	_	6	nummod	_	_
+4	trong	trong	ADP	PRE	_	6	case	_	_
+5	vô vàn	vô vàn	ADJ	ADJ	_	6	advmod:adj	_	_
+6	chuyện	chuyện	NOUN	N	_	0	root	_	_
+7	nhỏ	nhỏ	ADJ	ADJ	_	6	amod	_	_
+8	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20425
+# text = Cái áo rách này là của tôi .
+1	Cái	cái	NOUN	N	_	2	det:clf	_	_
+2	áo	áo	NOUN	N	_	7	nsubj	_	_
+3	rách	rách	ADJ	ADJ	_	2	amod	_	_
+4	này	này	PRON	PRO	_	2	det:pmod	_	_
+5	là	là	AUX	AUX	_	7	cop	_	_
+6	của	của	ADP	PRE	_	7	case	_	_
+7	tôi	tôi	PRON	PRO	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20426
+# text = Bác là bác Biền có phải không ?
+1	Bác	bác	NOUN	N	_	4	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	4	cop	_	_
+3	bác	bác	NOUN	N	_	4	det:clf	_	_
+4	Biền	biền	NOUN	N	_	0	root	_	_
+5	có	có	ADV	ADV	_	6	advmod	_	_
+6	phải	phải	ADJ	ADJ	_	4	parataxis	_	_
+7	không	không	ADV	ADV	_	6	advmod	_	_
+8	?	?	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20427
+# text = Tuổi trẻ là mùa xuân của đất nước .
+1	Tuổi trẻ	tuổi trẻ	NOUN	N	_	3	nsubj:nn	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	mùa xuân	mùa xuân	NOUN	N	_	0	root	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	đất nước	đất nước	NOUN	N	_	3	nmod:poss	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20428
+# text = Cuốc cày là vũ khí .
+1	Cuốc	cuốc	NOUN	N	_	4	nsubj:nn	_	_
+2	cày	cày	NOUN	N	_	1	compound	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	vũ khí	vũ khí	NOUN	N	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20429
+# text = Anh ấy vẫn là anh ấy .
+1	Anh	anh	NOUN	N	_	5	nsubj:nn	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	vẫn	vẫn	ADV	ADV	_	4	advmod	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	anh	anh	NOUN	N	_	0	root	_	_
+6	ấy	ấy	PRON	PRO	_	5	det:pmod	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20430
+# text = Hà Nội là đầu não của phong trào cải cách ở Bắc Kỳ .
+1	Hà	hà	NOUN	N	_	4	nsubj:nn	_	_
+2	Nội	nội	NOUN	N	_	1	compound	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	đầu não	đầu não	NOUN	N	_	0	root	_	_
+5	của	của	ADP	PRE	_	6	case	_	_
+6	phong trào	phong trào	NOUN	N	_	4	nmod:poss	_	_
+7	cải cách	cải cách	VERB	V	_	6	acl:subj	_	_
+8	ở	ở	ADP	PRE	_	9	case	_	_
+9	Bắc	bắc	NOUN	N	_	7	obl:comp	_	_
+10	Kỳ	kỳ	NOUN	N	_	9	compound	_	_
+11	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20431
+# text = Hôm đó chính là ngày sinh của Mịch .
+1	Hôm	hôm	NOUN	N	_	5	nsubj:nn	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	chính	chính	T	T	_	4	discourse	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	ngày sinh	ngày sinh	NOUN	N	_	0	root	_	_
+6	của	của	ADP	PRE	_	7	case	_	_
+7	Mịch	mịch	NOUN	N	_	5	nmod:poss	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20432
+# text = Xu hướng này là hình thức giao lưu giữa các đoàn nghệ thuật .
+1	Xu hướng	xu hướng	NOUN	N	_	4	nsubj:nn	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	hình thức	hình thức	NOUN	N	_	0	root	_	_
+5	giao lưu	giao lưu	VERB	V	_	4	compound:vmod	_	_
+6	giữa	giữa	ADP	PRE	_	8	case	_	_
+7	các	các	DET	DET	_	8	det	_	_
+8	đoàn	đoàn	NOUN	N	_	4	nmod	_	_
+9	nghệ thuật	nghệ thuật	NOUN	N	_	8	nmod	_	_
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20433
+# text = Người mù là người tàn tật .
+1	Người	người	NOUN	N	_	4	nsubj:nn	_	_
+2	mù	mù	ADJ	ADJ	_	1	amod	_	_
+3	là	là	AUX	AUX	_	4	cop	_	_
+4	người	người	NOUN	N	_	0	root	_	_
+5	tàn tật	tàn tật	ADJ	ADJ	_	4	amod	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20434
+# text = Đó là lý do giải thích những vụ vận chuyển ma tuý được tiến hành .
+1	Đó	đó	PRON	PRO	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	lý do	lý do	NOUN	N	_	0	root	_	_
+4	giải thích	giải thích	VERB	V	_	3	acl:subj	_	_
+5	những	những	DET	DET	_	6	det	_	_
+6	vụ	vụ	NOUN	N	_	10	nsubj:xsubj	_	_
+7	vận chuyển	vận chuyển	VERB	V	_	6	acl:subj	_	_
+8	ma tuý	ma tuý	NOUN	N	_	7	obj	_	_
+9	được	được	VERB	V	_	10	aux	_	_
+10	tiến hành	tiến hành	VERB	V	_	4	xcomp	_	_
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20435
+# text = Lan cao và xinh xắn .
+1	Lan	lan	NOUN	N	_	2	nsubj	_	_
+2	cao	cao	ADJ	ADJ	_	0	root	_	_
+3	và	và	CCONJ	CC	_	4	cc	_	_
+4	xinh xắn	xinh xắn	ADJ	ADJ	_	2	conj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20436
+# text = Lan và Linh đều xinh .
+1	Lan	lan	NOUN	N	_	5	nsubj	_	_
+2	và	và	CCONJ	CC	_	3	cc	_	_
+3	Linh	linh	NOUN	N	_	1	conj	_	_
+4	đều	đều	ADV	ADV	_	5	advmod	_	_
+5	xinh	xinh	ADJ	ADJ	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20437
+# text = Tôi gặp cô ấy ở sân ga và hôn cô ấy .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	gặp	gặp	VERB	V	_	0	root	_	_
+3	cô	cô	NOUN	N	_	2	obj	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	ở	ở	ADP	PRE	_	6	case	_	_
+6	sân ga	sân ga	NOUN	N	_	2	obl	_	_
+7	và	và	CCONJ	CC	_	8	cc	_	_
+8	hôn	hôn	VERB	V	_	2	conj	_	_
+9	cô	cô	NOUN	N	_	8	obj	_	_
+10	ấy	ấy	PRON	PRO	_	9	det:pmod	_	_
+11	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20438
+# text = Tôi với anh sẽ đi lên
+1	Tôi	tôi	PRON	PRO	_	5	nsubj	_	_
+2	với	với	CC	CC	_	3	cc	_	_
+3	anh	anh	NOUN	N	_	1	conj	_	_
+4	sẽ	sẽ	ADV	ADV	_	5	advmod	_	_
+5	đi	đi	VERB	V	_	0	root	_	_
+6	lên	lên	VERB	V	_	5	compound:dir	_	_
+
+# sent_id = dev-20439
+# text = Và anh đã yêu em .
+1	Và	và	CCONJ	CC	_	4	cc	_	_
+2	anh	anh	NOUN	N	_	4	nsubj	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	yêu	yêu	VERB	V	_	0	root	_	_
+5	em	em	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20440
+# text = Lan học giỏi và hát hay .
+1	Lan	lan	NOUN	N	_	2	nsubj	_	_
+2	học	học	VERB	V	_	0	root	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	2	acomp	_	_
+4	và	và	CCONJ	CC	_	5	cc	_	_
+5	hát	hát	VERB	V	_	2	conj	_	_
+6	hay	hay	ADJ	ADJ	_	5	acomp	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20441
+# text = Họ đang bơi hoặc đá bóng .
+1	Họ	họ	PRON	PRO	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	bơi	bơi	VERB	V	_	0	root	_	_
+4	hoặc	hoặc	CCONJ	CC	_	5	cc	_	_
+5	đá	đá	VERB	V	_	3	conj	_	_
+6	bóng	bóng	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20442
+# text = Tôi ở lại cùng anh .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	ở	ở	VERB	V	_	0	root	_	_
+3	lại	lại	VERB	V	_	2	compound:svc	_	_
+4	cùng	cùng	CC	CC	_	5	cc	_	_
+5	anh	anh	NOUN	N	_	1	conj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20443
+# text = Xã đứng ra bảo lãnh , vận động dân trở về cải tạo , khai hoang .
+1	Xã	xã	NOUN	N	_	2	nsubj	_	_
+2	đứng	đứng	VERB	V	_	0	root	_	_
+3	ra	ra	VERB	V	_	2	compound:svc	_	_
+4	bảo lãnh	bảo lãnh	VERB	V	_	2	xcomp	_	_
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	vận động	vận động	VERB	V	_	4	conj	_	_
+7	dân	dân	NOUN	N	_	8	nsubj	_	_
+8	trở về	trở về	VERB	V	_	4	ccomp	_	_
+9	cải tạo	cải tạo	VERB	V	_	8	advcl	_	_
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_
+11	khai hoang	khai hoang	VERB	V	_	9	conj	_	_
+12	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20444
+# text = Ngành nghề kinh doanh cốt lõi của FPT là viễn thông , công nghiệp nội dung và các dịch vụ CNTT .
+1	Ngành nghề	ngành nghề	NOUN	N	_	7	nsubj	_	_
+2	kinh doanh	kinh doanh	VERB	V	_	1	compound:vmod	_	_
+3	cốt lõi	cốt lõi	ADJ	ADJ	_	1	amod	_	_
+4	của	của	ADP	PRE	_	5	case	_	_
+5	FPT	fpt	NOUN	NY	_	1	nmod:poss	_	_
+6	là	là	AUX	AUX	_	7	cop	_	_
+7	viễn thông	viễn thông	NOUN	N	_	0	root	_	_
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	công nghiệp	công nghiệp	NOUN	N	_	7	conj	_	_
+10	nội dung	nội dung	NOUN	N	_	9	nmod	_	_
+11	và	và	CCONJ	CC	_	13	cc	_	_
+12	các	các	DET	DET	_	13	det	_	_
+13	dịch vụ	dịch vụ	NOUN	N	_	7	conj	_	_
+14	CNTT	cntt	NOUN	NY	_	13	nmod	_	_
+15	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20445
+# text = Cô ấy không những xinh mà còn thông minh .
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	không những	không những	SCONJ	SC	_	4	mark	_	_
+4	xinh	xinh	ADJ	ADJ	_	0	root	_	_
+5	mà còn	mà còn	SCONJ	SC	_	6	mark	_	_
+6	thông minh	thông minh	ADJ	ADJ	_	4	conj	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20446
+# text = Cô ấy xinh nhưng lười .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	xinh	xinh	ADJ	ADJ	_	0	root	_	_
+4	nhưng	nhưng	SCONJ	SC	_	5	mark	_	_
+5	lười	lười	ADJ	ADJ	_	3	conj	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20447
+# text = Đó là một đảo hoang nằm ở phía tây thuộc biển Thái Bình Dương .
+1	Đó	đó	PRON	PRO	_	4	nsubj	_	_
+2	là	là	AUX	AUX	_	4	cop	_	_
+3	một	một	NUM	NUM	_	4	nummod	_	_
+4	đảo	đảo	NOUN	N	_	6	csubj	_	_
+5	hoang	hoang	ADJ	ADJ	_	4	amod	_	_
+6	nằm	nằm	VERB	V	_	0	root	_	_
+7	ở	ở	PRON	PRO	_	8	case	_	_
+8	phía	phía	NOUN	N	_	6	obl:comp	_	_
+9	tây	tây	NOUN	N	_	8	compound	_	_
+10	thuộc	thuộc	VERB	V	_	6	conj	_	_
+11	biển	biển	NOUN	N	_	10	obl:comp	_	_
+12	Thái	thái	NOUN	N	_	11	compound	_	_
+13	Bình	bình	NOUN	N	_	12	compound	_	_
+14	Dương	dương	NOUN	N	_	12	compound	_	_
+15	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20448
+# text = Mặt trời đang lặn .
+1	Mặt trời	mặt trời	NOUN	N	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	lặn	lặn	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20449
+# text = Anh ấy đã đi từ hôm qua .
+1	Anh	anh	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	đi	đi	VERB	V	_	0	root	_	_
+5	từ	từ	ADP	PRE	_	6	case	_	_
+6	hôm qua	hôm qua	NOUN	N	_	4	obl:tmod	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20450
+# text = Trời vẫn đang mưa .
+1	Trời	trời	NOUN	N	_	4	nsubj	_	_
+2	vẫn	vẫn	ADV	ADV	_	4	advmod	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	mưa	mưa	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20451
+# text = Quả vẫn còn xanh .
+1	Quả	quả	NOUN	N	_	4	nsubj	_	_
+2	vẫn	vẫn	ADV	ADV	_	4	advmod	_	_
+3	còn	còn	ADV	ADV	_	4	advmod	_	_
+4	xanh	xanh	ADJ	ADJ	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20452
+# text = Chúng ta không có vốn cũng bằng không .
+1	Chúng ta	chúng ta	PRON	PRO	_	3	nsubj	_	_
+2	không	không	ADV	ADV	_	3	advmod:neg	_	_
+3	có	có	VERB	V	_	6	csubj	_	_
+4	vốn	vốn	NOUN	N	_	3	obj	_	_
+5	cũng	cũng	ADV	ADV	_	6	advmod	_	_
+6	bằng không	bằng không	ADJ	ADJ	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20453
+# text = Cô ta đã có gia đình rồi .
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	đã	đã	ADV	ADV	_	4	advmod	_	_
+4	có	có	VERB	V	_	0	root	_	_
+5	gia đình	gia đình	NOUN	N	_	4	obj	_	_
+6	rồi	rồi	ADV	ADV	_	4	advmod	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20454
+# text = Họ vừa mới tìm thấy nó rồi .
+1	Họ	họ	PRON	PRO	_	4	nsubj	_	_
+2	vừa	vừa	ADV	ADV	_	4	advmod	_	_
+3	mới	mới	ADV	ADV	_	4	advmod	_	_
+4	tìm	tìm	VERB	V	_	0	root	_	_
+5	thấy	thấy	VERB	V	_	4	compound:svc	_	_
+6	nó	nó	PRON	PRO	_	4	obj	_	_
+7	rồi	rồi	ADV	ADV	_	4	advmod	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20455
+# text = Họ cũng vừa mới tìm thấy nó rồi .
+1	Họ	họ	PRON	PRO	_	5	nsubj	_	_
+2	cũng	cũng	ADV	ADV	_	5	advmod	_	_
+3	vừa	vừa	ADV	ADV	_	5	advmod	_	_
+4	mới	mới	ADV	ADV	_	5	advmod	_	_
+5	tìm	tìm	VERB	V	_	0	root	_	_
+6	thấy	thấy	VERB	V	_	5	compound:svc	_	_
+7	nó	nó	PRON	PRO	_	5	obj	_	_
+8	rồi	rồi	ADV	ADV	_	5	advmod	_	_
+9	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20456
+# text = Ông Chương có thể là người gia trưởng .
+1	Ông	ông	NOUN	N	_	2	det:clf	_	_
+2	Chương	chương	NOUN	N	_	5	nsubj:nn	_	_
+3	có thể	có thể	ADV	ADV	_	5	advmod	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	người	người	NOUN	N	_	0	root	_	_
+6	gia trưởng	gia trưởng	ADJ	ADJ	_	5	amod	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20457
+# text = Có thể ông Chương là người gia trưởng .
+1	Có thể	có thể	ADV	ADV	_	5	advmod	_	_
+2	ông	ông	NOUN	N	_	3	det:clf	_	_
+3	Chương	chương	NOUN	N	_	5	nsubj:nn	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	người	người	NOUN	N	_	0	root	_	_
+6	gia trưởng	gia trưởng	ADJ	ADJ	_	5	amod	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20458
+# text = Nam đi nhanh .
+1	Nam	nam	NOUN	N	_	2	nsubj	_	_
+2	đi	đi	VERB	V	_	0	root	_	_
+3	nhanh	nhanh	ADJ	ADJ	_	2	advmod:adj	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20459
+# text = Nam đi rất nhanh .
+1	Nam	nam	NOUN	N	_	2	nsubj	_	_
+2	đi	đi	VERB	V	_	0	root	_	_
+3	rất	rất	ADV	ADV	_	4	advmod	_	_
+4	nhanh	nhanh	ADJ	ADJ	_	2	advmod:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20460
+# text = Nam đi nhanh quá .
+1	Nam	nam	NOUN	N	_	2	nsubj	_	_
+2	đi	đi	VERB	V	_	0	root	_	_
+3	nhanh	nhanh	ADJ	ADJ	_	2	advmod:adj	_	_
+4	quá	quá	ADV	ADV	_	3	advmod	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20461
+# text = Nó chạy thẳng vào nhà nghỉ .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	chạy	chạy	VERB	V	_	0	root	_	_
+3	thẳng	thẳng	ADJ	ADJ	_	2	advmod:adj	_	_
+4	vào	vào	ADP	PRE	_	5	case	_	_
+5	nhà nghỉ	nhà nghỉ	NOUN	N	_	2	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20462
+# text = Việc đó cần nói hơn .
+1	Việc	việc	NOUN	N	_	4	nsubj	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	cần	cần	AUX	AUX	_	4	aux	_	_
+4	nói	nói	VERB	V	_	0	root	_	_
+5	hơn	hơn	ADJ	ADJ	_	4	advmod:adj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20463
+# text = Xe chạy nhanh hơn .
+1	Xe	xe	NOUN	N	_	2	nsubj	_	_
+2	chạy	chạy	VERB	V	_	0	root	_	_
+3	nhanh	nhanh	ADJ	ADJ	_	2	advmod:adj	_	_
+4	hơn	hơn	ADJ	ADJ	_	3	compound:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20464
+# text = Gió thổi chậm hơn .
+1	Gió	gió	NOUN	N	_	2	nsubj	_	_
+2	thổi	thổi	VERB	V	_	0	root	_	_
+3	chậm	chậm	ADJ	ADJ	_	2	advmod:adj	_	_
+4	hơn	hơn	ADJ	ADJ	_	3	compound:adj	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20465
+# text = Nhà này rộng thênh thang .
+1	Nhà	nhà	NOUN	N	_	3	nsubj	_	_
+2	này	này	PRON	PRO	_	1	det:pmod	_	_
+3	rộng	rộng	ADJ	ADJ	_	0	root	_	_
+4	thênh thang	thênh thang	ADJ	ADJ	_	3	advmod:adj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20466
+# text = Bộ trang phục đó đẹp lộng lẫy .
+1	Bộ	bộ	NOUN	N	_	2	det:clf	_	_
+2	trang phục	trang phục	NOUN	N	_	4	nsubj	_	_
+3	đó	đó	PRON	PRO	_	2	det:pmod	_	_
+4	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+5	lộng lẫy	lộng lẫy	ADJ	ADJ	_	4	advmod:adj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20467
+# text = Cô ấy ngày càng đẹp hơn .
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	ngày càng	ngày càng	ADV:G	ADV:G	_	4	advmod	_	_
+4	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+5	hơn	hơn	ADJ	ADJ	_	4	compound:adj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20468
+# text = Nó dễ dàng thực hiện phép tính .
+1	Nó	nó	PRON	PRO	_	3	nsubj	_	_
+2	dễ dàng	dễ dàng	ADJ	ADJ	_	3	advmod:adj	_	_
+3	thực hiện	thực hiện	VERB	V	_	0	root	_	_
+4	phép tính	phép tính	NOUN	N	_	3	obj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20469
+# text = Bà luôn nhẹ nhàng khuyên bảo đứa cháu .
+1	Bà	bà	NOUN	N	_	4	nsubj	_	_
+2	luôn	luôn	ADV	ADV	_	3	advmod	_	_
+3	nhẹ nhàng	nhẹ nhàng	ADJ	ADJ	_	4	advmod:adj	_	_
+4	khuyên bảo	khuyên bảo	VERB	V	_	0	root	_	_
+5	đứa	đứa	NOUN	N	_	6	det:clf	_	_
+6	cháu	cháu	NOUN	N	_	4	obj	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20470
+# text = Ông ấy hơn 70 tuổi .
+1	Ông	ông	NOUN	N	_	5	nsubj:nn	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	hơn	hơn	ADJ	ADJ	_	4	advmod:adj	_	_
+4	70	70	NUM	NUM	_	5	nummod	_	_
+5	tuổi	tuổi	NOUN	N	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20471
+# text = Gần 2000 người tham gia cuộc diễu hành .
+1	Gần	gần	ADJ	ADJ	_	2	advmod:adj	_	_
+2	2000	2000	NUM	NUM	_	3	nummod	_	_
+3	người	người	NOUN	N	_	4	nsubj	_	_
+4	tham gia	tham gia	VERB	V	_	0	root	_	_
+5	cuộc	cuộc	NOUN	N	_	4	obj	_	_
+6	diễu hành	diễu hành	VERB	V	_	5	compound:vmod	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20472
+# text = Anh ta không tới .
+1	Anh	anh	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	không	không	ADV	ADV	_	4	advmod:neg	_	_
+4	tới	tới	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20473
+# text = Hai bên đường không một bóng người .
+1	Hai	hai	NUM	NUM	_	2	nummod	_	_
+2	bên	bên	NOUN	N	_	6	nsubj:nn	_	_
+3	đường	đường	NOUN	N	_	2	nmod	_	_
+4	không	không	ADV	ADV	_	6	advmod:neg	_	_
+5	một	một	DET	DET	_	6	det	_	_
+6	bóng	bóng	NOUN	N	_	0	root	_	_
+7	người	người	NOUN	N	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20474
+# text = Hoa chưa chăm chỉ .
+1	Hoa	hoa	NOUN	N	_	3	nsubj	_	_
+2	chưa	chưa	ADV	ADV	_	3	advmod:neg	_	_
+3	chăm chỉ	chăm chỉ	ADJ	ADJ	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20475
+# text = Nó chẳng thiết gì nữa .
+1	Nó	nó	PRON	PRO	_	3	nsubj	_	_
+2	chẳng	chẳng	ADV	ADV	_	3	advmod:neg	_	_
+3	thiết	thiết	VERB	V	_	0	root	_	_
+4	gì	gì	PRON	PRO	_	3	obj	_	_
+5	nữa	nữa	ADV	ADV	_	3	advmod	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20476
+# text = Anh ta vẫn không tới .
+1	Anh	anh	NOUN	N	_	5	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	vẫn	vẫn	ADV	ADV	_	4	advmod	_	_
+4	không	không	ADV	ADV	_	5	advmod:neg	_	_
+5	tới	tới	VERB	V	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20477
+# text = Nó vẫn chưa làm bài tập .
+1	Nó	nó	PRON	PRO	_	4	nsubj	_	_
+2	vẫn	vẫn	ADV	ADV	_	3	advmod	_	_
+3	chưa	chưa	ADV	ADV	_	4	advmod:neg	_	_
+4	làm	làm	VERB	V	_	0	root	_	_
+5	bài tập	bài tập	NOUN	N	_	4	obj	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20478
+# text = Doạ thế nó cũng chẳng sợ .
+1	Doạ	doạ	VERB	V	_	6	advcl	_	_
+2	thế	thế	PRON	PRO	_	1	obl	_	_
+3	nó	nó	PRON	PRO	_	6	nsubj	_	_
+4	cũng	cũng	ADV	ADV	_	5	advmod	_	_
+5	chẳng	chẳng	ADV	ADV	_	6	advmod:neg	_	_
+6	sợ	sợ	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20479
+# text = Bà lão mở cửa ra .
+1	Bà	bà	NOUN	N	_	2	det:clf	_	_
+2	lão	lão	NOUN	N	_	3	nsubj	_	_
+3	mở	mở	VERB	V	_	0	root	_	_
+4	cửa	cửa	NOUN	N	_	3	obj	_	_
+5	ra	ra	VERB	V	_	3	advmod:dir	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20480
+# text = Trưởng thôn tập trung dân lại để họp bàn .
+1	Trưởng thôn	trưởng thôn	NOUN	N	_	2	nsubj	_	_
+2	tập trung	tập trung	VERB	V	_	0	root	_	_
+3	dân	dân	NOUN	N	_	2	obj	_	_
+4	lại	lại	VERB	V	_	2	advmod:dir	_	_
+5	để	để	ADP	PRE	_	6	mark:pcomp	_	_
+6	họp bàn	họp bàn	VERB	V	_	2	advcl:objective	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20481
+# text = Thằng bé thu tay về .
+1	Thằng	thằng	NOUN	N	_	2	det:clf	_	_
+2	bé	bé	NOUN	N	_	3	nsubj	_	_
+3	thu	thu	VERB	V	_	0	root	_	_
+4	tay	tay	NOUN	N	_	3	obj	_	_
+5	về	về	VERB	V	_	3	advmod:dir	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20482
+# text = Thuỷ thủ ném hàng xuống .
+1	Thuỷ thủ	thuỷ thủ	NOUN	N	_	2	nsubj	_	_
+2	ném	ném	VERB	V	_	0	root	_	_
+3	hàng	hàng	NOUN	N	_	2	obj	_	_
+4	xuống	xuống	VERB	V	_	2	advmod:dir	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20483
+# text = Nó đã hiểu ngược lại .
+1	Nó	nó	PRON	PRO	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	hiểu	hiểu	VERB	V	_	0	root	_	_
+4	ngược	ngược	ADJ	ADJ	_	3	acomp	_	_
+5	lại	lại	VERB	V	_	4	compound:atov	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20484
+# text = Cậu hãy giơ tay lên cao .
+1	Cậu	cậu	PRON	PRO	_	3	nsubj	_	_
+2	hãy	hãy	ADV	ADV	_	3	advmod	_	_
+3	giơ	giơ	VERB	V	_	0	root	_	_
+4	tay	tay	NOUN	N	_	3	obj	_	_
+5	lên	lên	VERB	V	_	3	advmod:dir	_	_
+6	cao	cao	ADJ	ADJ	_	3	acomp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20485
+# text = Bài đã được chỉnh sửa lần đầu tiên lên website .
+1	Bài	bài	NOUN	N	_	4	nsubj:pass	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	được	được	AUX	AUX	_	4	aux:pass	_	_
+4	chỉnh sửa	chỉnh sửa	VERB	V	_	0	root	_	_
+5	lần	lần	NOUN	N	_	4	obl	_	_
+6	đầu tiên	đầu tiên	ADJ	ADJ	_	5	amod	_	_
+7	lên	lên	VERB	V	_	4	advmod:dir	_	_
+8	website	website	NOUN	NB	_	7	obl	_	_
+9	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20486
+# text = Thiện ác , sướng khổ đều bắt đầu từ trong suy nghĩ mà ra .
+1	Thiện ác	thiện ác	NOUN	N	_	5	nsubj	_	_
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	sướng khổ	sướng khổ	NOUN	N	_	1	conj	_	_
+4	đều	đều	ADV	ADV	_	5	advmod	_	_
+5	bắt đầu	bắt đầu	VERB	V	_	0	root	_	_
+6	từ	từ	ADP	PRE	_	8	case	_	_
+7	trong	trong	ADP	PRE	_	6	compound	_	_
+8	suy nghĩ	suy nghĩ	NOUN	N	_	5	obl:comp	_	_
+9	mà	mà	SCONJ	SC	_	10	mark	_	_
+10	ra	ra	VERB	V	_	5	advmod:dir	_	_
+11	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20487
+# text = Cô ta xinh ra .
+1	Cô	cô	NOUN	N	_	3	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	xinh	xinh	ADJ	ADJ	_	0	root	_	_
+4	ra	ra	VERB	V	_	3	advmod:verb	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20488
+# text = Cô ta đang béo lên .
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	béo	béo	ADJ	ADJ	_	0	root	_	_
+5	lên	lên	VERB	V	_	4	advmod:verb	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20489
+# text = Cô ta đang béo dần lên .
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	béo	béo	ADJ	ADJ	_	0	root	_	_
+5	dần	dần	ADV	ADV	_	4	advmod	_	_
+6	lên	lên	VERB	V	_	4	advmod:verb	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20490
+# text = Giọng của ông ngày càng nhỏ đi .
+1	Giọng	giọng	NOUN	N	_	5	nsubj	_	_
+2	của	của	ADP	PRE	_	3	case	_	_
+3	ông	ông	NOUN	N	_	1	nmod:poss	_	_
+4	ngày càng	ngày càng	ADV:G	ADV:G	_	5	advmod	_	_
+5	nhỏ	nhỏ	ADJ	ADJ	_	0	root	_	_
+6	đi	đi	VERB	V	_	5	advmod:verb	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20491
+# text = Mặt cô ta đang đỏ lên .
+1	Mặt	mặt	NOUN	N	_	5	nsubj	_	_
+2	cô	cô	NOUN	N	_	1	nmod:poss	_	_
+3	ta	ta	PRON	PRO	_	2	compound:pron	_	_
+4	đang	đang	ADV	ADV	_	5	advmod	_	_
+5	đỏ	đỏ	ADJ	ADJ	_	0	root	_	_
+6	lên	lên	VERB	V	_	5	advmod:verb	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20492
+# text = Mặt cô ta đang đỏ dần lên .
+1	Mặt	mặt	NOUN	N	_	5	nsubj	_	_
+2	cô	cô	NOUN	N	_	1	nmod:poss	_	_
+3	ta	ta	PRON	PRO	_	2	compound:pron	_	_
+4	đang	đang	ADV	ADV	_	5	advmod	_	_
+5	đỏ	đỏ	ADJ	ADJ	_	0	root	_	_
+6	dần	dần	ADV	ADV	_	5	advmod	_	_
+7	lên	lên	VERB	V	_	5	advmod:verb	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20493
+# text = Nó cố tình hiểu khác đi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	cố tình	cố tình	VERB	V	_	0	root	_	_
+3	hiểu	hiểu	VERB	V	_	2	xcomp	_	_
+4	khác	khác	ADJ	ADJ	_	3	acomp	_	_
+5	đi	đi	VERB	V	_	4	advmod:verb	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20494
+# text = Nguyễn Văn Nam .
+1	Nguyễn	nguyễn	NOUN	N	_	0	root	_	_
+2	Văn	văn	NOUN	N	_	1	flat:name	_	_
+3	Nam	nam	NOUN	N	_	1	flat:name	_	_
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20495
+# text = Ông cùng Minh Thái Tổ Chu Nguyên Chương lật đổ nhà Nguyên .
+1	Ông	ông	NOUN	N	_	9	nsubj	_	_
+2	cùng	cùng	CC	CC	_	3	cc	_	_
+3	Minh	minh	NOUN	N	_	1	conj	_	_
+4	Thái	thái	NOUN	N	_	3	flat:name	_	_
+5	Tổ	tổ	NOUN	N	_	3	flat:name	_	_
+6	Chu	chu	NOUN	N	_	3	appos	_	_
+7	Nguyên	nguyên	NOUN	N	_	6	flat:name	_	_
+8	Chương	chương	NOUN	N	_	6	flat:name	_	_
+9	lật đổ	lật đổ	VERB	V	_	0	root	_	_
+10	nhà	nhà	NOUN	N	_	9	obj	_	_
+11	Nguyên	nguyên	NOUN	N	_	10	compound	_	_
+12	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = dev-20496
+# text = Trận đấu diễn ra lúc 23h chiều .
+1	Trận	trận	NOUN	N	_	3	nsubj	_	_
+2	đấu	đấu	VERB	V	_	1	compound:vmod	_	_
+3	diễn	diễn	VERB	V	_	0	root	_	_
+4	ra	ra	VERB	V	_	3	compound:svc	_	_
+5	lúc	lúc	NOUN	N	_	3	obl:tmod	_	_
+6	23h	23h	NOUN	NUMX	_	5	nummod	_	_
+7	chiều	chiều	NOUN	N	_	6	flat:time	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20497
+# text = Khoảng 2g sáng 28-9 đã xảy ra sự cố rò rỉ dầu .
+1	Khoảng	khoảng	NOUN	N	_	6	obl:tmod	_	_
+2	2g	2g	NOUN	NUMX	_	1	nummod	_	_
+3	sáng	sáng	NOUN	N	_	2	flat:time	_	_
+4	28-9	28-9	NUM	NUM	_	2	flat:time	_	_
+5	đã	đã	ADV	ADV	_	6	advmod	_	_
+6	xảy	xảy	VERB	V	_	0	root	_	_
+7	ra	ra	VERB	V	_	6	compound:svc	_	_
+8	sự cố	sự cố	NOUN	N	_	9	nsubj	_	_
+9	rò rỉ	rò rỉ	VERB	V	_	6	ccomp	_	_
+10	dầu	dầu	NOUN	N	_	9	obj	_	_
+11	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20498
+# text = Thư được gửi ngày 19 tháng 2 lúc 10:32 AM .
+1	Thư	thư	NOUN	N	_	3	nsubj:pass	_	_
+2	được	được	AUX	AUX	_	3	aux:pass	_	_
+3	gửi	gửi	VERB	V	_	0	root	_	_
+4	ngày	ngày	NOUN	N	_	3	obl:tmod	_	_
+5	19	19	NUM	NUM	_	4	flat:date	_	_
+6	tháng	tháng	NOUN	N	_	4	flat:date	_	_
+7	2	2	NUM	NUM	_	4	flat:date	_	_
+8	lúc	lúc	NOUN	N	_	4	nmod	_	_
+9	10:32	10:32	NUM	NUM	_	8	nummod	_	_
+10	AM	am	NOUN	NY	_	9	flat:time	_	_
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20499
+# text = Con số ước tính khoảng một triệu cá thể .
+1	Con số	con số	NOUN	N	_	2	nsubj	_	_
+2	ước tính	ước tính	VERB	V	_	0	root	_	_
+3	khoảng	khoảng	NOUN	N	_	2	obj	_	_
+4	một	một	NUM	NUM	_	6	nummod	_	_
+5	triệu	triệu	NUM	NUM	_	4	flat:number	_	_
+6	cá thể	cá thể	NOUN	N	_	3	nmod	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20500
+# text = Tổng mức đầu tư dự kiến 2600 tỷ đồng .
+1	Tổng	tổng	NOUN	N	_	4	nsubj	_	_
+2	mức	mức	NOUN	N	_	1	nmod	_	_
+3	đầu tư	đầu tư	VERB	V	_	2	compound:vmod	_	_
+4	dự kiến	dự kiến	VERB	V	_	0	root	_	_
+5	2600	2600	NUM	NUM	_	7	nummod	_	_
+6	tỷ	tỷ	NUM	NUM	_	5	flat:number	_	_
+7	đồng	đồng	NU	NU	_	4	obj	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20501
+# text = tầng tầng lớp lớp người đi .
+1	tầng tầng lớp lớp	tầng tầng lớp lớp	ADJ:G	ADJ:G	_	2	advmod:adj	_	_
+2	người	người	NOUN	N	_	3	nsubj	_	_
+3	đi	đi	VERB	V	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20502
+# text = Tường sơn lam nham lở nhở .
+1	Tường	tường	NOUN	N	_	2	nsubj	_	_
+2	sơn	sơn	VERB	V	_	0	root	_	_
+3	lam nham lở nhở	lam nham lở nhở	ADJ:G	ADJ:G	_	2	acomp	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20503
+# text = Nó cứ xưng ông ông tôi tôi với mọi người .
+1	Nó	nó	PRON	PRO	_	3	nsubj	_	_
+2	cứ	cứ	ADV	ADV	_	3	advmod	_	_
+3	xưng	xưng	VERB	V	_	0	root	_	_
+4	ông ông tôi tôi	ông ông tôi tôi	PRO:G	PRO:G	_	3	obl:comp	_	_
+5	với	với	ADP	PRE	_	7	case	_	_
+6	mọi	mọi	DET	DET	_	7	det	_	_
+7	người	người	NOUN	N	_	3	obl:with	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20504
+# text = Đó là nhân vật trong bộ phim Blue in the Face .
+1	Đó	đó	PRON	PRO	_	3	nsubj	_	_
+2	là	là	AUX	AUX	_	3	cop	_	_
+3	nhân vật	nhân vật	NOUN	N	_	0	root	_	_
+4	trong	trong	ADP	PRE	_	6	case	_	_
+5	bộ	bộ	NOUN	N	_	6	det:clf	_	_
+6	phim	phim	NOUN	NB	_	3	obl	_	_
+7	Blue	blue	FW	FW	_	6	nmod	_	_
+8	in	in	FW	FW	_	7	compound	_	_
+9	the	the	FW	FW	_	7	compound	_	_
+10	Face	face	FW	FW	_	7	compound	_	_
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20505
+# text = Angaria neglecta là một loại ốc biển .
+1	Angaria	angaria	NOUN	NB	_	5	nsubj:nn	_	_
+2	neglecta	neglecta	NOUN	NB	_	1	flat:name	_	_
+3	là	là	AUX	AUX	_	5	cop	_	_
+4	một	một	DET	DET	_	5	det	_	_
+5	loại	loại	NOUN	N	_	0	root	_	_
+6	ốc	ốc	NOUN	N	_	5	nmod	_	_
+7	biển	biển	NOUN	N	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20506
+# text = Bàn học này đẹp quá .
+1	Bàn	bàn	NOUN	N	_	4	nsubj	_	_
+2	học	học	VERB	V	_	1	compound:vmod	_	_
+3	này	này	PRON	PRO	_	1	det:pmod	_	_
+4	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+5	quá	quá	ADV	ADV	_	4	advmod	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20507
+# text = Cái váy xoè rất đẹp .
+1	Cái	cái	NOUN	N	_	2	det:clf	_	_
+2	váy	váy	NOUN	N	_	5	nsubj	_	_
+3	xoè	xoè	VERB	V	_	2	compound:vmod	_	_
+4	rất	rất	ADV	ADV	_	5	advmod	_	_
+5	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20508
+# text = Cái bàn ăn này quá hẹp .
+1	Cái	cái	NOUN	N	_	2	det:clf	_	_
+2	bàn	bàn	NOUN	N	_	6	nsubj	_	_
+3	ăn	ăn	VERB	V	_	2	compound:vmod	_	_
+4	này	này	PRON	PRO	_	2	det:pmod	_	_
+5	quá	quá	ADV	ADV	_	6	advmod	_	_
+6	hẹp	hẹp	ADJ	ADJ	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20509
+# text = Tôi đi học .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	đi	đi	VERB	V	_	0	root	_	_
+3	học	học	VERB	V	_	2	compound:svc	_	_
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20510
+# text = Tôi ngửi thấy mùi khét .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	ngửi	ngửi	VERB	V	_	0	root	_	_
+3	thấy	thấy	VERB	V	_	2	compound:svc	_	_
+4	mùi	mùi	NOUN	N	_	2	obj	_	_
+5	khét	khét	ADJ	ADJ	_	4	compound:amod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20511
+# text = Toán địch đập phá hết đồ đạc .
+1	Toán	toán	NOUN	N	_	2	det:clf	_	_
+2	địch	địch	NOUN	N	_	3	nsubj	_	_
+3	đập	đập	VERB	V	_	0	root	_	_
+4	phá	phá	VERB	V	_	3	compound:svc	_	_
+5	hết	hết	VERB	V	_	3	compound:svc	_	_
+6	đồ đạc	đồ đạc	NOUN	N	_	3	obj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20512
+# text = Nó đã biến mất rồi .
+1	Nó	nó	PRON	PRO	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	biến	biến	VERB	V	_	0	root	_	_
+4	mất	mất	VERB	V	_	3	compound:svc	_	_
+5	rồi	rồi	ADV	ADV	_	3	advmod	_	_
+6	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20513
+# text = Con tàu chìm mất xuống đáy bể .
+1	Con	con	NOUN	N	_	2	det:clf	_	_
+2	tàu	tàu	NOUN	N	_	3	nsubj	_	_
+3	chìm	chìm	VERB	V	_	0	root	_	_
+4	mất	mất	VERB	V	_	3	compound:svc	_	_
+5	xuống	xuống	VERB	V	_	3	advmod:dir	_	_
+6	đáy	đáy	NOUN	N	_	3	obl	_	_
+7	bể	bể	NOUN	N	_	6	nmod	_	_
+8	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20514
+# text = Nó xoá đi một chữ .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	xoá	xoá	VERB	V	_	0	root	_	_
+3	đi	đi	VERB	V	_	2	compound:svc	_	_
+4	một	một	NUM	NUM	_	5	nummod	_	_
+5	chữ	chữ	NOUN	N	_	2	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20515
+# text = Nó cắt đi một miếng .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	cắt	cắt	VERB	V	_	0	root	_	_
+3	đi	đi	VERB	V	_	2	compound:svc	_	_
+4	một	một	NUM	NUM	_	5	nummod	_	_
+5	miếng	miếng	NOUN	N	_	2	obj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20516
+# text = Nó xoá bớt đi một chữ .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	xoá	xoá	VERB	V	_	0	root	_	_
+3	bớt	bớt	VERB	V	_	2	compound:svc	_	_
+4	đi	đi	VERB	V	_	2	compound:svc	_	_
+5	một	một	NUM	NUM	_	6	nummod	_	_
+6	chữ	chữ	NOUN	N	_	2	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20517
+# text = Việc đó rồi sẽ qua đi .
+1	Việc	việc	NOUN	N	_	5	nsubj	_	_
+2	đó	đó	PRON	PRO	_	1	det:pmod	_	_
+3	rồi	rồi	ADV	ADV	_	5	advmod	_	_
+4	sẽ	sẽ	ADV	ADV	_	5	advmod	_	_
+5	qua	qua	VERB	V	_	0	root	_	_
+6	đi	đi	VERB	V	_	5	compound:svc	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20518
+# text = thêm thu bớt chi .
+1	thêm	thêm	VERB	V	_	0	root	_	_
+2	thu	thu	VERB	V	_	1	compound:svc	_	_
+3	bớt	bớt	VERB	V	_	1	xcomp	_	_
+4	chi	chi	VERB	V	_	3	compound:svc	_	_
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20519
+# text = tăng thu giảm chi .
+1	tăng	tăng	VERB	V	_	0	root	_	_
+2	thu	thu	VERB	V	_	1	compound:svc	_	_
+3	giảm	giảm	VERB	V	_	1	xcomp	_	_
+4	chi	chi	VERB	V	_	3	compound:svc	_	_
+5	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20520
+# text = Nó rất tích cực công tác .
+1	Nó	nó	PRON	PRO	_	4	nsubj	_	_
+2	rất	rất	ADV	ADV	_	4	advmod	_	_
+3	tích cực	tích cực	ADJ	ADJ	_	4	advmod:adj	_	_
+4	công tác	công tác	VERB	V	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20521
+# text = Thuốc làm bệnh nặng thêm rất nhiều .
+1	Thuốc	thuốc	NOUN	N	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	0	root	_	_
+3	bệnh	bệnh	NOUN	N	_	4	nsubj	_	_
+4	nặng	nặng	ADJ	ADJ	_	2	ccomp	_	_
+5	thêm	thêm	VERB	V	_	4	compound:atov	_	_
+6	rất	rất	ADV	ADV	_	7	advmod	_	_
+7	nhiều	nhiều	ADJ	ADJ	_	4	acomp	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20522
+# text = Vụ việc đang được cơ quan chức năng tiếp tục điều tra .
+1	Vụ việc	vụ việc	NOUN	N	_	7	nsubj:pass	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	được	được	AUX	AUX	_	7	aux:pass	_	_
+4	cơ quan	cơ quan	NOUN	N	_	7	obl:agent	_	_
+5	chức năng	chức năng	NOUN	N	_	4	nmod	_	_
+6	tiếp tục	tiếp tục	VERB	V	_	7	compound	_	_
+7	điều tra	điều tra	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20523
+# text = Tự nhiên tôi quên khuấy đi .
+1	Tự nhiên	tự nhiên	ADJ	ADJ	_	3	advcl	_	_
+2	tôi	tôi	ADP	PRE	_	3	nsubj	_	_
+3	quên khuấy	quên khuấy	VERB	V	_	0	root	_	_
+4	đi	đi	PART	PRT	_	3	compound:prt	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20524
+# text = Tôi quên khuấy đi mất .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	quên khuấy	quên khuấy	VERB	V	_	0	root	_	_
+3	đi	đi	VERB	V	_	2	compound:prt	_	_
+4	mất	mất	VERB	V	_	2	compound:prt	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20525
+# text = Xã đứng ra bảo lãnh cho tôi .
+1	Xã	xã	NOUN	N	_	2	nsubj	_	_
+2	đứng	đứng	VERB	V	_	0	root	_	_
+3	ra	ra	VERB	V	_	2	compound:dir	_	_
+4	bảo lãnh	bảo lãnh	VERB	V	_	2	xcomp	_	_
+5	cho	cho	ADP	PRE	_	6	case	_	_
+6	tôi	tôi	PRON	PRO	_	4	obl:iobj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20526
+# text = Đàn bò chạy lên trên đồi .
+1	Đàn	đàn	NOUN	N	_	2	det:clf	_	_
+2	bò	bò	NOUN	N	_	3	nsubj	_	_
+3	chạy	chạy	VERB	V	_	0	root	_	_
+4	lên	lên	VERB	V	_	3	compound:dir	_	_
+5	trên	trên	ADP	PRE	_	6	case	_	_
+6	đồi	đồi	NOUN	N	_	3	obl:comp	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20527
+# text = Thuỷ thủ lặn xuống dưới nước .
+1	Thuỷ thủ	thuỷ thủ	NOUN	N	_	2	nsubj	_	_
+2	lặn	lặn	VERB	V	_	0	root	_	_
+3	xuống	xuống	VERB	V	_	2	compound:dir	_	_
+4	dưới	dưới	ADP	PRE	_	5	case	_	_
+5	nước	nước	NOUN	N	_	2	obl:comp	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20528
+# text = Mọi người hãy đi xuống , đừng đi lên .
+1	Mọi	mọi	DET	DET	_	2	det	_	_
+2	người	người	NOUN	N	_	4	nsubj	_	_
+3	hãy	hãy	ADV	ADV	_	4	advmod	_	_
+4	đi	đi	VERB	V	_	0	root	_	_
+5	xuống	xuống	VERB	V	_	4	compound:dir	_	_
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	đừng	đừng	ADV	ADV	_	8	advmod:neg	_	_
+8	đi	đi	VERB	V	_	4	conj	_	_
+9	lên	lên	VERB	V	_	8	compound:dir	_	_
+10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20529
+# text = Cậu đừng đi xuống , hãy trèo lên
+1	Cậu	cậu	NOUN	N	_	3	nsubj	_	_
+2	đừng	đừng	ADV	ADV	_	3	advmod:neg	_	_
+3	đi	đi	VERB	V	_	0	root	_	_
+4	xuống	xuống	VERB	V	_	3	compound:dir	_	_
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	hãy	hãy	ADV	ADV	_	7	advmod	_	_
+7	trèo	trèo	VERB	V	_	3	conj	_	_
+8	lên	lên	VERB	V	_	7	compound:dir	_	_
+
+# sent_id = dev-20530
+# text = Chúng ta đi xuống thuyền
+1	Chúng ta	chúng ta	PRON	PRO	_	2	nsubj	_	_
+2	đi	đi	VERB	V	_	0	root	_	_
+3	xuống	xuống	ADP	PRE	_	4	case	_	_
+4	thuyền	thuyền	NOUN	N	_	2	obl:comp	_	_
+
+# sent_id = dev-20531
+# text = Cả nhà đang ăn sáng .
+1	Cả	cả	DET	DET	_	2	det	_	_
+2	nhà	nhà	NOUN	N	_	4	nsubj	_	_
+3	đang	đang	ADV	ADV	_	4	advmod	_	_
+4	ăn	ăn	VERB	V	_	0	root	_	_
+5	sáng	sáng	NOUN	N	_	4	compound:verbnoun	_	_
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20532
+# text = Chúng tôi đang ăn tối .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	3	nsubj	_	_
+2	đang	đang	ADV	ADV	_	3	advmod	_	_
+3	ăn	ăn	VERB	V	_	0	root	_	_
+4	tối	tối	NOUN	N	_	3	compound:verbnoun	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20533
+# text = Nó quen thói ngủ ngày .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	quen	quen	ADJ	ADJ	_	0	root	_	_
+3	thói	thói	NOUN	N	_	2	obl:adj	_	_
+4	ngủ	ngủ	VERB	V	_	3	acl	_	_
+5	ngày	ngày	NOUN	N	_	4	compound:verbnoun	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20534
+# text = Nước da của cô ấy trắng mượt .
+1	Nước da	nước da	NOUN	N	_	5	nsubj	_	_
+2	của	của	ADP	PRE	_	3	case	_	_
+3	cô	cô	NOUN	N	_	1	nmod:poss	_	_
+4	ấy	ấy	PRON	PRO	_	3	det:pmod	_	_
+5	trắng	trắng	ADJ	ADJ	_	0	root	_	_
+6	mượt	mượt	ADJ	ADJ	_	5	compound:adj	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20535
+# text = Cuộn tơ vàng óng .
+1	Cuộn	cuộn	NOUN	N	_	2	det:clf	_	_
+2	tơ	tơ	NOUN	N	_	3	nsubj	_	_
+3	vàng	vàng	ADJ	ADJ	_	0	root	_	_
+4	óng	óng	ADJ	ADJ	_	3	compound:adj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20536
+# text = Cánh đồng xanh mướt .
+1	Cánh	cánh	NOUN	N	_	2	det:clf	_	_
+2	đồng	đồng	NOUN	N	_	3	nsubj	_	_
+3	xanh	xanh	ADJ	ADJ	_	0	root	_	_
+4	mướt	mướt	ADJ	ADJ	_	3	compound:adj	_	_
+5	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20537
+# text = mỗi ngày một hốt hoảng
+1	mỗi	mỗi	DET	DET	_	4	advmod	_	_
+2	ngày	ngày	NOUN	N	_	1	fixed	_	_
+3	một	một	DET	DET	_	1	fixed	_	_
+4	hốt hoảng	hốt hoảng	ADJ	ADJ	_	0	root	_	_
+
+# sent_id = dev-20538
+# text = Anh đã note bill chưa ?
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	ADV	ADV	_	3	advmod	_	_
+3	note	note	FW	FW	_	0	root	_	_
+4	bill	bill	FW	FW	_	3	flat:foreign	_	_
+5	chưa	chưa	ADV	ADV	_	3	advmod	_	_
+6	?	?	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20539
+# text = Nguyễn Văn An , Điện thoại : 0123456 , Email : an.hus@gmail.com .
+1	Nguyễn	nguyễn	NOUN	N	_	0	root	_	_
+2	Văn	văn	NOUN	N	_	1	flat:name	_	_
+3	An	an	NOUN	N	_	1	flat:name	_	_
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	Điện thoại	điện thoại	NOUN	N	_	1	list	_	_
+6	:	:	PUNCT	PUNCT	_	7	punct	_	_
+7	0123456	0123456	NUM	NUM	_	5	appos:nmod	_	_
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	Email	email	NOUN	NB	_	1	list	_	_
+10	:	:	PUNCT	PUNCT	_	11	punct	_	_
+11	an.hus@gmail.com	an.hus@gmail.com	SYM	SYM	_	9	appos:nmod	_	_
+12	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20540
+# text = Địa chỉ : Số nhà 11 , Phố Trần Hưng Đạo , TP. Hà Nội .
+1	Địa chỉ	địa chỉ	NOUN	N	_	0	root	_	_
+2	:	:	PUNCT	PUNCT	_	3	punct	_	_
+3	Số	số	NOUN	N	_	1	appos:nmod	_	_
+4	nhà	nhà	NOUN	N	_	3	compound	_	_
+5	11	11	NUM	NUM	_	3	nummod	_	_
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	Phố	phố	NOUN	N	_	3	list	_	_
+8	Trần	trần	NOUN	N	_	7	compound	_	_
+9	Hưng	hưng	NOUN	N	_	8	compound	_	_
+10	Đạo	đạo	NOUN	N	_	8	compound	_	_
+11	,	,	PUNCT	PUNCT	_	12	punct	_	_
+12	TP.	tp.	NOUN	NY	_	3	list	_	_
+13	Hà	hà	NOUN	N	_	12	compound	_	_
+14	Nội	nội	NOUN	N	_	13	compound	_	_
+15	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20541
+# text = Địa chỉ : xã Xuân Hồng , huyện Xuân Hồng , tỉnh Nam Định .
+1	Địa chỉ	địa chỉ	NOUN	N	_	0	root	_	_
+2	:	:	PUNCT	PUNCT	_	3	punct	_	_
+3	xã	xã	NOUN	N	_	1	appos:nmod	_	_
+4	Xuân	xuân	NOUN	N	_	3	compound	_	_
+5	Hồng	hồng	NOUN	N	_	4	compound	_	_
+6	,	,	PUNCT	PUNCT	_	3	punct	_	_
+7	huyện	huyện	NOUN	N	_	3	list	_	_
+8	Xuân	xuân	NOUN	N	_	7	compound	_	_
+9	Hồng	hồng	NOUN	N	_	8	compound	_	_
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_
+11	tỉnh	tỉnh	NOUN	N	_	3	list	_	_
+12	Nam	nam	NOUN	N	_	11	compound	_	_
+13	Định	định	NOUN	N	_	12	compound	_	_
+14	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20542
+# text = Tôi có hai cái bánh , em một .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	có	có	VERB	V	_	0	root	_	_
+3	hai	hai	NUM	NUM	_	5	nummod	_	_
+4	cái	cái	NOUN	N	_	3	clf	_	_
+5	bánh	bánh	NOUN	N	_	2	obj	_	_
+6	,	,	PUNCT	PUNCT	_	2	punct	_	_
+7	em	em	NOUN	N	_	1	remnant	_	_
+8	một	một	NUM	NUM	_	3	remnant	_	_
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20543
+# text = Tôi rẽ trái , à phải .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	rẽ	rẽ	VERB	V	_	0	root	_	_
+3	trái	trái	ADJ	ADJ	_	2	obj	_	_
+4	,	,	PUNCT	PUNCT	_	2	punct	_	_
+5	à	à	PRON	PRO	_	2	discourse	_	_
+6	phải	phải	ADJ	ADJ	_	2	reparandum	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20544
+# text = Ông chỉ nói mà không làm .
+1	Ông	ông	NOUN	N	_	3	nsubj	_	_
+2	chỉ	chỉ	ADV	ADV	_	3	advmod	_	_
+3	nói	nói	VERB	V	_	0	root	_	_
+4	mà	mà	SCONJ	SC	_	6	mark	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	làm	làm	VERB	V	_	3	conj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20545
+# text = Việc nhỏ nhưng ý nghĩa lớn .
+1	Việc	việc	NOUN	N	_	2	nsubj	_	_
+2	nhỏ	nhỏ	ADJ	ADJ	_	0	root	_	_
+3	nhưng	nhưng	SCONJ	SC	_	5	mark	_	_
+4	ý nghĩa	ý nghĩa	NOUN	N	_	5	nsubj	_	_
+5	lớn	lớn	ADJ	ADJ	_	2	conj	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20546
+# text = Chủ trương tốt trái lại dân không hiểu .
+1	Chủ trương	chủ trương	NOUN	N	_	2	nsubj	_	_
+2	tốt	tốt	ADJ	ADJ	_	0	root	_	_
+3	trái lại	trái lại	SCONJ	SC	_	6	mark	_	_
+4	dân	dân	NOUN	N	_	6	nsubj	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	hiểu	hiểu	VERB	V	_	2	conj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20547
+# text = Cô ấy không những đẹp mà còn rất thông minh .
+1	Cô	cô	NOUN	N	_	4	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	không những	không những	SCONJ	SC	_	4	mark	_	_
+4	đẹp	đẹp	ADJ	ADJ	_	0	root	_	_
+5	mà còn	mà còn	SCONJ	SC	_	7	mark	_	_
+6	rất	rất	ADV	ADV	_	7	advmod	_	_
+7	thông minh	thông minh	ADJ	ADJ	_	4	conj	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20548
+# text = Đồ đạc chóng hỏng do không bảo quan .
+1	Đồ đạc	đồ đạc	NOUN	N	_	3	nsubj	_	_
+2	chóng	chóng	ADJ	ADJ	_	3	advmod:adj	_	_
+3	hỏng	hỏng	VERB	V	_	0	root	_	_
+4	do	do	SCONJ	SC	_	6	mark	_	_
+5	không	không	ADV	ADV	_	6	advmod:neg	_	_
+6	bảo quan	bảo quan	VERB	V	_	3	advcl	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20549
+# text = Cô nói là ngày mai sẽ đến .
+1	Cô	cô	NOUN	N	_	2	nsubj	_	_
+2	nói	nói	VERB	V	_	0	root	_	_
+3	là	là	SCONJ	SC	_	6	mark	_	_
+4	ngày mai	ngày mai	NOUN	N	_	6	obl:tmod	_	_
+5	sẽ	sẽ	ADV	ADV	_	6	advmod	_	_
+6	đến	đến	VERB	V	_	2	ccomp	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20550
+# text = Trời mưa to nhưng nó vẫn đi .
+1	Trời	trời	NOUN	N	_	2	nsubj	_	_
+2	mưa	mưa	VERB	V	_	7	advcl	_	_
+3	to	to	ADJ	ADJ	_	2	acomp	_	_
+4	nhưng	nhưng	SCONJ	SC	_	7	mark	_	_
+5	nó	nó	PRON	PRO	_	7	nsubj	_	_
+6	vẫn	vẫn	ADV	ADV	_	7	advmod	_	_
+7	đi	đi	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20551
+# text = Bởi anh chăm việc canh nông , Cho nên mới có bồ trong bịch ngoài .
+1	Bởi	bởi	SCONJ	SC	_	3	mark	_	_
+2	anh	anh	NOUN	N	_	3	nsubj	_	_
+3	chăm	chăm	VERB	V	_	0	root	_	_
+4	việc	việc	NOUN	N	_	3	obj	_	_
+5	canh nông	canh nông	NOUN	N	_	4	compound	_	_
+6	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	Cho nên	cho nên	SCONJ	SC	_	9	mark	_	_
+8	mới	mới	ADV	ADV	_	9	advmod	_	_
+9	có	có	VERB	V	_	3	conj	_	_
+10	bồ	bồ	NOUN	N	_	9	obj	_	_
+11	trong	trong	NOUN	N	_	10	nmod	_	_
+12	bịch	bịch	NOUN	N	_	10	conj	_	_
+13	ngoài	ngoài	NOUN	N	_	12	nmod	_	_
+14	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20552
+# text = Tôi mua nhà để ở .
+1	Tôi	tôi	PRON	PRO	_	2	nsubj	_	_
+2	mua	mua	VERB	V	_	0	root	_	_
+3	nhà	nhà	NOUN	N	_	2	obj	_	_
+4	để	để	ADP	PRE	_	5	mark:pcomp	_	_
+5	ở	ở	VERB	V	_	2	advcl:objective	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20553
+# text = Chúng tôi dùng chất lỏng để phân tích sinh hoá .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	2	nsubj	_	_
+2	dùng	dùng	VERB	V	_	0	root	_	_
+3	chất lỏng	chất lỏng	NOUN	N	_	2	obj	_	_
+4	để	để	ADP	PRE	_	5	mark:pcomp	_	_
+5	phân tích	phân tích	VERB	V	_	2	advcl:objective	_	_
+6	sinh hoá	sinh hoá	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20554
+# text = Anh ấy tập luyện nhằm khôi phục thể lực .
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	tập luyện	tập luyện	VERB	V	_	0	root	_	_
+4	nhằm	nhằm	ADP	PRE	_	5	mark:pcomp	_	_
+5	khôi phục	khôi phục	VERB	V	_	3	advcl:objective	_	_
+6	thể lực	thể lực	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20555
+# text = Chính quyền làm thế nhằm trấn an dư luận .
+1	Chính quyền	chính quyền	NOUN	N	_	2	nsubj	_	_
+2	làm	làm	VERB	V	_	0	root	_	_
+3	thế	thế	PRON	PRO	_	2	obj	_	_
+4	nhằm	nhằm	ADP	PRE	_	5	mark:pcomp	_	_
+5	trấn an	trấn an	VERB	V	_	2	advcl:objective	_	_
+6	dư luận	dư luận	NOUN	N	_	5	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20556
+# text = Con học giỏi để cha mẹ vui lòng .
+1	Con	con	NOUN	N	_	2	nsubj	_	_
+2	học	học	VERB	V	_	0	root	_	_
+3	giỏi	giỏi	ADJ	ADJ	_	2	amod	_	_
+4	để	để	ADP	PRE	_	6	mark:pcomp	_	_
+5	cha mẹ	cha mẹ	NOUN	N	_	6	nsubj	_	_
+6	vui lòng	vui lòng	ADJ	ADJ	_	2	advcl:objective	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20557
+# text = Xã bên , lúa tốt .
+1	Xã	xã	NOUN	N	_	5	obl	_	_
+2	bên	bên	NOUN	N	_	1	nmod	_	_
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	lúa	lúa	NOUN	N	_	5	nsubj	_	_
+5	tốt	tốt	ADJ	ADJ	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20558
+# text = Nó nói : anh ta vừa đi .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	nói	nói	VERB	V	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	7	punct	_	_
+4	anh	anh	NOUN	N	_	7	nsubj	_	_
+5	ta	ta	PRON	PRO	_	4	compound:pron	_	_
+6	vừa	vừa	ADV	ADV	_	7	advmod	_	_
+7	đi	đi	VERB	V	_	2	parataxis	_	_
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20559
+# text = Anh ta vừa đi , nó nói .
+1	Anh	anh	NOUN	N	_	4	nsubj	_	_
+2	ta	ta	PRON	PRO	_	1	compound:pron	_	_
+3	vừa	vừa	ADV	ADV	_	4	advmod	_	_
+4	đi	đi	VERB	V	_	0	root	_	_
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	nó	nó	PRON	PRO	_	7	nsubj	_	_
+7	nói	nói	VERB	V	_	4	parataxis	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20560
+# text = Gia đình tôi gồm vợ chồng tôi , con trai , con dâu cháu trai cháu gái .
+1	Gia đình	gia đình	NOUN	N	_	3	nsubj	_	_
+2	tôi	tôi	PRON	PRO	_	1	nmod	_	_
+3	gồm	gồm	VERB	V	_	0	root	_	_
+4	vợ chồng	vợ chồng	NOUN	N	_	3	obj	_	_
+5	tôi	tôi	PRON	PRO	_	4	compound:pron	_	_
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	con trai	con trai	NOUN	N	_	4	conj	_	_
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	con dâu	con dâu	N,	N,	_	4	conj	_	_
+10	cháu	cháu	NOUN	N	_	4	conj	_	_
+11	trai	trai	N,	N,	_	10	nmod	_	_
+12	cháu	cháu	NOUN	N	_	4	conj	_	_
+13	gái	gái	NOUN	N	_	12	nmod	_	_
+14	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20561
+# text = Anh ấy nói rằng tôi đi , cậu nghỉ
+1	Anh	anh	NOUN	N	_	3	nsubj	_	_
+2	ấy	ấy	PRON	PRO	_	1	det:pmod	_	_
+3	nói	nói	VERB	V	_	0	root	_	_
+4	rằng	rằng	SCONJ	SC	_	6	mark	_	_
+5	tôi	tôi	PRON	PRO	_	6	nsubj	_	_
+6	đi	đi	VERB	V	_	3	ccomp	_	_
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	cậu	cậu	NOUN	N	_	9	nsubj	_	_
+9	nghỉ	nghỉ	VERB	V	_	6	conj	_	_
+
+# sent_id = dev-20562
+# text = Ông TGB , chủ tịch FPT , khai mạc hội nghị .
+1	Ông	ông	NOUN	N	_	2	det:clf	_	_
+2	TGB	tgb	NOUN	NY	_	7	nsubj	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	chủ tịch	chủ tịch	NOUN	N	_	2	appos	_	_
+5	FPT	fpt	NOUN	NY	_	4	nmod	_	_
+6	,	,	PUNCT	PUNCT	_	7	punct	_	_
+7	khai mạc	khai mạc	VERB	V	_	0	root	_	_
+8	hội nghị	hội nghị	NOUN	N	_	7	obj	_	_
+9	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20563
+# text = Nguyễn Văn An , Điện thoại : 0123456 , Email : an.hus@gmail.com .
+1	Nguyễn	nguyễn	NOUN	N	_	0	root	_	_
+2	Văn	văn	NOUN	N	_	1	flat:name	_	_
+3	An	an	NOUN	N	_	1	flat:name	_	_
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	Điện thoại	điện thoại	NOUN	N	_	1	list	_	_
+6	:	:	PUNCT	PUNCT	_	7	punct	_	_
+7	0123456	0123456	NOUN	N	_	5	appos:nmod	_	_
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	Email	email	NOUN	NB	_	1	list	_	_
+10	:	:	PUNCT	PUNCT	_	11	punct	_	_
+11	an.hus@gmail.com	an.hus@gmail.com	SYM	SYM	_	9	appos:nmod	_	_
+12	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = dev-20564
+# text = “ Anh ta vừa đi ” , nó nói .
+1	“	“	PUNCT	PUNCT	_	5	punct	_	_
+2	Anh	anh	NOUN	N	_	5	nsubj	_	_
+3	ta	ta	PRON	PRO	_	2	compound:pron	_	_
+4	vừa	vừa	ADV	ADV	_	5	advmod	_	_
+5	đi	đi	VERB	V	_	0	root	_	_
+6	”	”	PUNCT	PUNCT	_	5	punct	_	_
+7	,	,	PUNCT	PUNCT	_	9	punct	_	_
+8	nó	nó	PRON	PRO	_	9	nsubj	_	_
+9	nói	nói	VERB	V	_	5	parataxis	_	_
+10	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20565
+# text = Theo tôi : Ta phải đi .
+1	Theo	theo	VERB	V	_	6	advcl	_	_
+2	tôi	tôi	PRON	PRO	_	1	obj	_	_
+3	:	:	PUNCT	PUNCT	_	6	punct	_	_
+4	Ta	ta	PRON	PRO	_	6	nsubj	_	_
+5	phải	phải	AUX	AUX	_	6	aux	_	_
+6	đi	đi	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20566
+# text = Thứ nhất : Tôi sẽ không nói .
+1	Thứ	thứ	NOUN	N	_	7	obl	_	_
+2	nhất	nhất	NUM	NUM	_	1	nmod	_	_
+3	:	:	PUNNCT	PUNNCT	_	7	punct	_	_
+4	Tôi	tôi	PRON	PRO	_	7	nsubj	_	_
+5	sẽ	sẽ	ADV	ADV	_	6	advmod	_	_
+6	không	không	ADV	ADV	_	7	advmod:neg	_	_
+7	nói	nói	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20567
+# text = Chính phủ yêu cầu những người có bệnh phải cố thủ trong nhà .
+1	Chính phủ	chính phủ	NOUN	N	_	2	nsubj	_	_
+2	yêu cầu	yêu cầu	VERB	V	_	0	root	_	_
+3	những	những	DET	DET	_	4	det	_	_
+4	người	người	NOUN	N	_	8	nsubj:xsubj	_	_
+5	có	có	VERB	V	_	4	acl:subj	_	_
+6	bệnh	bệnh	NOUN	N	_	5	obj	_	_
+7	phải	phải	AUX	AUX	_	8	aux	_	_
+8	cố thủ	cố thủ	VERB	V	_	2	xcomp	_	_
+9	trong	trong	ADP	PRE	_	10	case	_	_
+10	nhà	nhà	NOUN	N	_	8	obl	_	_
+11	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20568
+# text = Ông Ba , tổ trưởng tổ dân phố .
+1	Ông	ông	NOUN	N	_	2	det:clf	_	_
+2	Ba	ba	NOUN	N	_	0	root	_	_
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	tổ trưởng	tổ trưởng	NOUN	N	_	2	appos	_	_
+5	tổ dân phố	tổ dân phố	NOUN	N	_	4	nmod	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20569
+# text = Kẻ phá hoại phải bị trừng trị đích đáng .
+1	Kẻ	kẻ	NOUN	N	_	5	nsubj:pass	_	_
+2	phá hoại	phá hoại	VERB	V	_	1	compound:vmod	_	_
+3	phải	phải	AUX	AUX	_	4	aux	_	_
+4	bị	bị	AUX	AUX	_	5	aux:pass	_	_
+5	trừng trị	trừng trị	VERB	V	_	0	root	_	_
+6	đích đáng	đích đáng	ADJ	ADJ	_	5	acomp	_	_
+7	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20570
+# text = Du kích lấy của địch nhiều vũ khí .
+1	Du kích	du kích	NOUN	N	_	2	nsubj	_	_
+2	lấy	lấy	VERB	V	_	0	root	_	_
+3	của	của	ADP	PRE	_	4	case	_	_
+4	địch	địch	NOUN	N	_	2	obl:iobj	_	_
+5	nhiều	nhiều	ADJ	ADJ	_	6	advmod:adj	_	_
+6	vũ khí	vũ khí	NOUN	N	_	2	obj	_	_
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20571
+# text = Cuộc chiến tranh diễn ra từ năm 1965 đến năm 1975 .
+1	Cuộc	cuộc	NOUN	N	_	3	nsubj	_	_
+2	chiến tranh	chiến tranh	NOUN	N	_	1	compound	_	_
+3	diễn ra	diễn ra	VERB	V	_	0	root	_	_
+4	từ	từ	ADP	PRE	_	5	case	_	_
+5	năm	năm	NOUN	N	_	3	obl:tmod	_	_
+6	1965	1965	NUM	NUM	_	5	flat:date	_	_
+7	đến	đến	ADP	PRE	_	8	case	_	_
+8	năm	năm	NOUN	N	_	5	nmod	_	_
+9	1975	1975	NUM	NUM	_	8	flat:date	_	_
+10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20572
+# text = Đảng viên mất liên lạc với tổ chức .
+1	Đảng viên	đảng viên	NOUN	N	_	2	nsubj	_	_
+2	mất	mất	VERB	V	_	0	root	_	_
+3	liên lạc	liên lạc	NOUN	N	_	2	obj	_	_
+4	với	với	ADP	PRE	_	5	case	_	_
+5	tổ chức	tổ chức	NOUN	N	_	2	obl:with	_	_
+6	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20573
+# text = Ấn Độ được chính phủ Anh quản lí .
+1	Ấn	ấn	NOUN	N	_	6	nsubj:pass	_	_
+2	Độ	độ	NOUN	N	_	1	compound	_	_
+3	được	được	AUX	AUX	_	6	aux:pass	_	_
+4	chính phủ	chính phủ	NOUN	N	_	6	obl:agent	_	_
+5	Anh	anh	NOUN	N	_	4	nmod	_	_
+6	quản lí	quản lí	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = dev-20574
+# text = Đồng bào ở dưới địa đạo nhiều hơn trên mặt đất .
+1	Đồng bào	đồng bào	NOUN	N	_	2	nsubj	_	_
+2	ở	ở	VERB	V	_	0	root	_	_
+3	dưới	dưới	ADP	PRE	_	4	case	_	_
+4	địa đạo	địa đạo	NOUN	N	_	2	obl:comp	_	_
+5	nhiều	nhiều	ADJ	ADJ	_	2	acomp	_	_
+6	hơn	hơn	ADJ	ADJ	_	5	compound:amod	_	_
+7	trên	trên	ADP	PRE	_	8	case	_	_
+8	mặt đất	mặt đất	NOUN	N	_	5	obl:adj	_	_
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20575
+# text = Trong gói súp có muối và bột ngọt .
+1	Trong	trong	ADP	PRE	_	3	case	_	_
+2	gói	gói	NOUN	N	_	3	det:clf	_	_
+3	súp	súp	NOUN	NB	_	4	obl	_	_
+4	có	có	VERB	V	_	0	root	_	_
+5	muối	muối	NOUN	N	_	4	obj	_	_
+6	và	và	CCONJ	CC	_	7	cc	_	_
+7	bột ngọt	bột ngọt	NOUN	N	_	5	conj	_	_
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = dev-20576
+# text = Khi kết thúc nhiệm kì , tôi sẽ nghỉ .
+1	Khi	khi	NOUN	N	_	7	obl:tmod	_	_
+2	kết thúc	kết thúc	VERB	V	_	1	acl:tmod	_	_
+3	nhiệm kì	nhiệm kì	NOUN	N	_	2	obj	_	_
+4	,	,	PUNCT	PUNCT	_	7	punct	_	_
+5	tôi	tôi	PRON	PRO	_	7	nsubj	_	_
+6	sẽ	sẽ	ADV	ADV	_	7	advmod	_	_
+7	nghỉ	nghỉ	VERB	V	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = dev-20577
+# text = Chúng tôi can thiệp vào quá trình mà ARN tạo ra ADN .
+1	Chúng tôi	chúng tôi	PRON	PRO	_	2	nsubj	_	_
+2	can thiệp	can thiệp	VERB	V	_	0	root	_	_
+3	vào	vào	ADP	PRE	_	4	case	_	_
+4	quá trình	quá trình	NOUN	N	_	2	obl:comp	_	_
+5	mà	mà	SCONJ	SC	_	7	mark	_	_
+6	ARN	arn	NOUN	NY	_	7	nsubj	_	_
+7	tạo	tạo	VERB	V	_	4	acl:relcl	_	_
+8	ra	ra	VERB	V	_	7	compound:svc	_	_
+9	ADN	adn	NOUN	NY	_	7	obj	_	_
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20578
+# text = Tóm lại , đường còn xa không ?
+1	Tóm lại	tóm lại	VERB:G	VERB:G	_	5	obl	_	_
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
+3	đường	đường	NOUN	N	_	5	nsubj	_	_
+4	còn	còn	ADV	ADV	_	5	advmod	_	_
+5	xa	xa	ADJ	ADJ	_	0	root	_	_
+6	không	không	ADV	ADV	_	5	advmod	_	_
+7	?	?	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20579
+# text = Tàu sẽ sử dụng 2 động cơ để rời quỹ đạo .
+1	Tàu	tàu	NOUN	N	_	3	nsubj	_	_
+2	sẽ	sẽ	ADV	ADV	_	3	advmod	_	_
+3	sử dụng	sử dụng	VERB	V	_	0	root	_	_
+4	2	2	NUM	NUM	_	5	nummod	_	_
+5	động cơ	động cơ	NOUN	N	_	3	obj	_	_
+6	để	để	ADP	PRE	_	7	mark:pcomp	_	_
+7	rời	rời	VERB	V	_	3	advcl:objective	_	_
+8	quỹ đạo	quỹ đạo	NOUN	N	_	7	obj	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = dev-20580
+# text = Nó ngủ như chết .
+1	Nó	nó	PRON	PRO	_	2	nsubj	_	_
+2	ngủ	ngủ	VERB	V	_	0	root	_	_
+3	như	như	SCONJ	SC	_	4	mark	_	_
+4	chết	chết	VERB	V	_	2	advcl	_	_
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = dev-20581
+# text = Xin chào ! Có thể cho mình hỏi một câu .
+1	Xin	xin	VERB	V	_	5	vocative	_	_
+2	chào	chào	VERB	V	_	1	compound:svc	_	_
+3	!	!	PUNCT	PUNCT	_	1	punct	_	_
+4	Có thể	có thể	ADV	ADV	_	5	advmod	_	_
+5	cho	cho	VERB	V	_	0	root	_	_
+6	mình	mình	PRON	PRO	_	5	obj	_	_
+7	hỏi	hỏi	VERB	V	_	6	acl:subj	_	_
+8	một	một	NUM	NUM	_	9	nummod	_	_
+9	câu	câu	NOUN	N	_	7	obj	_	_
+10	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = dev-20582
+# text = Các chiến sĩ này vừa được tuyên dương .
+1	Các	các	DET	DET	_	2	det	_	_
+2	chiến sĩ	chiến sĩ	NOUN	N	_	6	nsubj:pass	_	_
+3	này	này	PRON	PRO	_	2	det:pmod	_	_
+4	vừa	vừa	ADV	ADV	_	5	advmod	_	_
+5	được	được	AUX	AUX	_	6	aux:pass	_	_
+6	tuyên dương	tuyên dương	VERB	V	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
