@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 33717748dc85723270d3d1b3ae93796db9319c5f
-Merge: 06b3e53 c1a8853
+commit 026d12346f5522766743a2445cc77787af443312
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 9 12:32:33 2023 +0200
 Size: counted 58069 of 58069 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.1232639172797.
 Size: maximum value 13.815511 is for 1000000 words or more.
