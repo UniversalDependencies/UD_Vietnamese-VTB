@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 026d12346f5522766743a2445cc77787af443312
+commit 9715908936baf1020c800fd8b292c77933a29a20
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 12:32:33 2023 +0200
+Date:   Mon Nov 6 13:13:28 2023 +0100
 Size: counted 58069 of 58069 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.1232639172797.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,11 +20,23 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      16477
-Udapi: found 16477 bugs.
+               TOTAL      16472
+Udapi: found 16472 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 58069 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
+[Line 20474 Sent dev-738 Node 30]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20475 Sent dev-738 Node 31]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20477 Sent dev-738 Node 33]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20478 Sent dev-738 Node 34]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20479 Sent dev-738 Node 35]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+...suppressing further errors regarding Warning
+Warnings: 14
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
 *** PASSED ***
