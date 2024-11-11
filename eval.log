@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 9715908936baf1020c800fd8b292c77933a29a20
+commit 57f8b6f7cfaec14102fb1861d9a64b3999180016
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 13:13:28 2023 +0100
+Date:   Sun May 5 13:39:35 2024 +0200
 Size: counted 58069 of 58069 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.1232639172797.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,7 @@ Udapi: found 16472 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 58069 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
+[Line 17774 Sent dev-650 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:mấy:det --> 17:chục triệu:nummod)
 [Line 20474 Sent dev-738 Node 30]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 20475 Sent dev-738 Node 31]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
@@ -34,13 +35,20 @@ Genres: found 1 out of 17 known.
 [Line 20478 Sent dev-738 Node 34]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 20479 Sent dev-738 Node 35]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 ...suppressing further errors regarding Warning
-Warnings: 14
+Warnings: 15
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
+[Line 400 Sent train-s28 Node 3]: [L3 Warning leaf-clf] 'clf' not expected to have children (3:trái:clf --> 2:đến:case)
+[Line 402 Sent train-s28 Node 3]: [L3 Warning leaf-clf] 'clf' not expected to have children (3:trái:clf --> 4:223:nummod)
+[Line 2805 Sent train-s165 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:những:det --> 14:một:nummod)
+[Line 6997 Sent train-s399 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:lần:clf --> 3:này:det)
+[Line 7023 Sent train-s400 Node 4]: [L3 Warning leaf-clf] 'clf' not expected to have children (4:thứ:clf --> 5:ba:nummod)
+[Line 9038 Sent train-s498 Node 8]: [L3 Warning leaf-clf] 'clf' not expected to have children (8:người:clf --> 10:giới thiệu:acl)
+[Line 9310 Sent train-s518 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:bà:clf --> 5:lại:compound)
+Warnings: 7
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
