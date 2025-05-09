@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 57f8b6f7cfaec14102fb1861d9a64b3999180016
+commit 84cd14dd5f4be4666a57fec8b9f356fe6673339a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:39:35 2024 +0200
+Date:   Mon Nov 11 16:49:30 2024 +0100
 Size: counted 58069 of 58069 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.1232639172797.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,45 +20,63 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      16472
-Udapi: found 16472 bugs.
+               TOTAL      16124
+Udapi: found 16124 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 58069 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
-[Line 17774 Sent dev-650 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:mấy:det --> 17:chục triệu:nummod)
-[Line 20474 Sent dev-738 Node 30]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20475 Sent dev-738 Node 31]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20477 Sent dev-738 Node 33]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20478 Sent dev-738 Node 34]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20473 Sent dev-738 Node 29]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 20479 Sent dev-738 Node 35]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 1032 Sent dev-35 Node 24]: [L3 Warning fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
+[Line 1183 Sent dev-40 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
+[Line 2627 Sent dev-88 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Chưa thể' does not have the 'ExtPos' feature
+[Line 3686 Sent dev-128 Node 21]: [L3 Warning fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
+[Line 5139 Sent dev-190 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Vậy là' does not have the 'ExtPos' feature
+[Line 5139 Sent dev-190 Node 1]: [L3 Syntax rel-upos-cc] 'cc' should not be 'PRON' word 'Vậy'
+[Line 12457 Sent dev-453 Node 31]: [L3 Warning fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
+[Line 13768 Sent dev-502 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'xem là' does not have the 'ExtPos' feature
+[Line 14768 Sent dev-534 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'xe đạp ơi những vất vả ngày xưa' does not have the 'ExtPos' feature
+[Line 15596 Sent dev-569 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'xem là' does not have the 'ExtPos' feature
+[Line 17774 Sent dev-650 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:mấy:det --> 17:chục triệu:nummod)
+[Line 18413 Sent dev-678 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'gần như' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 15
-*** PASSED ***
+Syntax errors: 2
+Warnings: 29
+*** FAILED *** with 2 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
+[Line 5212 Sent text-s288 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
+[Line 7536 Sent text-s411 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Bởi rứa' does not have the 'ExtPos' feature
+[Line 8288 Sent text-s452 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'sao cho' does not have the 'ExtPos' feature
+[Line 9810 Sent text-s542 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'mỗi ngày một' does not have the 'ExtPos' feature
+[Line 11932 Sent test-s1666 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'dứt áo ra đi' does not have the 'ExtPos' feature
+Warnings: 5
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
-[Line 400 Sent train-s28 Node 3]: [L3 Warning leaf-clf] 'clf' not expected to have children (3:trái:clf --> 2:đến:case)
-[Line 402 Sent train-s28 Node 3]: [L3 Warning leaf-clf] 'clf' not expected to have children (3:trái:clf --> 4:223:nummod)
-[Line 2805 Sent train-s165 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:những:det --> 14:một:nummod)
-[Line 6997 Sent train-s399 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:lần:clf --> 3:này:det)
-[Line 7023 Sent train-s400 Node 4]: [L3 Warning leaf-clf] 'clf' not expected to have children (4:thứ:clf --> 5:ba:nummod)
-[Line 9038 Sent train-s498 Node 8]: [L3 Warning leaf-clf] 'clf' not expected to have children (8:người:clf --> 10:giới thiệu:acl)
-[Line 9310 Sent train-s518 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:bà:clf --> 5:lại:compound)
-Warnings: 7
-*** PASSED ***
-Validity: 1
+[Line 105 Sent train-s7 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'bên cạnh' does not have the 'ExtPos' feature
+[Line 400 Sent train-s28 Node 3]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:trái:clf --> 2:đến:case)
+[Line 402 Sent train-s28 Node 3]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:trái:clf --> 4:223:nummod)
+[Line 2805 Sent train-s165 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:những:det --> 14:một:nummod)
+[Line 6997 Sent train-s399 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:lần:clf --> 3:này:det)
+[Line 7023 Sent train-s400 Node 4]: [L3 Syntax leaf-clf] 'clf' not expected to have children (4:thứ:clf --> 5:ba:nummod)
+[Line 9038 Sent train-s498 Node 8]: [L3 Syntax leaf-clf] 'clf' not expected to have children (8:người:clf --> 10:giới thiệu:acl)
+[Line 9310 Sent train-s518 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:bà:clf --> 5:lại:compound)
+[Line 9833 Sent train-s553 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Không ngờ' does not have the 'ExtPos' feature
+[Line 20949 Sent train-s1199 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'gần như' does not have the 'ExtPos' feature
+[Line 21034 Sent train-s1206 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'gần như' does not have the 'ExtPos' feature
+[Line 21418 Sent train-s1227 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'có nghĩa' does not have the 'ExtPos' feature
+[Line 24025 Sent train-s1377 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
+Syntax errors: 7
+Warnings: 6
+*** FAILED *** with 7 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.587981449053061) = 0.15076447411617
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
-(TOTAL score=0.390043345747982) * (availability=1) * (validity=1) = 0.390043345747982
-STARS = 2
-UD_Vietnamese-VTB	0.390043345747982	2
+(TOTAL score=0.389791963143659) * (availability=1) * (validity=0.01) = 0.00389791963143659
+STARS = 0
+UD_Vietnamese-VTB	0.00389791963143659	0
