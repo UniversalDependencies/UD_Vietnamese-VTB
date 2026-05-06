@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Vietnamese-VTB:
-commit 389b4d9eb1bb8d6e6e837b97bd1ee28c182fc3ce
-Merge: 66064e4 4216d3a
+commit e8fa54835582fb5d0c767f19f0992675726fa084
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 21:01:32 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'vi_vtb'
 Language code (from CoNLL-U file name) = 'vi'
@@ -25,73 +25,85 @@ Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-dev.conllu
-[Line 1032 Sent dev-35]: [L3 Warning fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
-[Line 1183 Sent dev-40]: [L3 Warning fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
-[Line 2627 Sent dev-88]: [L3 Warning fixed-without-extpos] Fixed expression 'Chưa thể' does not have the 'ExtPos' feature
-[Line 3686 Sent dev-128]: [L3 Warning fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
-[Line 5139 Sent dev-190]: [L3 Warning fixed-without-extpos] Fixed expression 'Vậy là' does not have the 'ExtPos' feature
-[Line 5139 Sent dev-190]: [L3 Syntax rel-upos-cc] 'cc' should not be 'PRON' ('Vậy')
-[Line 7783 Sent dev-281]: [L3 Warning obl-should-be-nmod] The parent (node [15] 'nét') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 8553 Sent dev-310]: [L3 Warning obl-should-be-nmod] The parent (node [13] 'ngày') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 12328 Sent dev-450]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Buổi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 12457 Sent dev-453]: [L3 Warning fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
-[Line 13331 Sent dev-490]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'lúc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-[Line 17774 Sent dev-650]: [L3 Syntax leaf-det] 'det' not expected to have children (16:mấy:det --> 17:chục triệu:nummod)
-[Line 19988 Sent dev-729]: [L3 Syntax too-many-objects] Multiple direct objects [47, 51] ('phí', 'hạng mục') under the predicate 'thu'.
-Syntax errors: 3
-Warnings: 40
-*** FAILED *** with 3 errors
+[Line 1032 Sent dev-35]: [L3 WARNING fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
+[Line 1183 Sent dev-40]: [L3 WARNING fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
+[Line 2627 Sent dev-88]: [L3 WARNING fixed-without-extpos] Fixed expression 'Chưa thể' does not have the 'ExtPos' feature
+[Line 3686 Sent dev-128]: [L3 WARNING fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
+[Line 5139 Sent dev-190]: [L3 WARNING fixed-without-extpos] Fixed expression 'Vậy là' does not have the 'ExtPos' feature
+[Line 5139 Sent dev-190]: [L3 SYNTAX rel-upos-cc] 'cc' should not be 'PRON' ('Vậy')
+[Line 7783 Sent dev-281]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'nét') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8553 Sent dev-310]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'ngày') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12328 Sent dev-450]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'Buổi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 12457 Sent dev-453]: [L3 WARNING fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
+[Line 13331 Sent dev-490]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'lúc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 13768 Sent dev-502]: [L3 WARNING fixed-without-extpos] Fixed expression 'xem là' does not have the 'ExtPos' feature
+[Line 14624 Sent dev-530]: [L3 SYNTAX obl-should-be-nmod] The parent (node [24] 'du lịch') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 14768 Sent dev-534]: [L3 WARNING fixed-without-extpos] Fixed expression 'xe đạp ơi những vất vả ngày xưa' does not have the 'ExtPos' feature
+[Line 14956 Sent dev-541]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'niềm') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 15596 Sent dev-569]: [L3 WARNING fixed-without-extpos] Fixed expression 'xem là' does not have the 'ExtPos' feature
+[Line 16204 Sent dev-590]: [L3 SYNTAX obl-should-be-nmod] The parent (node [51] 'đầu') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 17774 Sent dev-650]: [L3 SYNTAX leaf-det] 'det' not expected to have children (16:mấy:det --> 17:chục triệu:nummod)
+[Line 18413 Sent dev-678]: [L3 WARNING fixed-without-extpos] Fixed expression 'gần như' does not have the 'ExtPos' feature
+[Line 18973 Sent dev-700]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'lần') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 20474 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20475 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20477 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20478 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20479 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 20473 Sent dev-738]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 29
+SYNTAX errors: 14
+*** FAILED *** with 14 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-test.conllu
-[Line 138 Sent text-s8]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'ban nhạc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 424 Sent text-s22]: [L3 Warning obl-should-be-nmod] The parent (node [11] 'anh') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 428 Sent text-s22]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'ngày') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 922 Sent text-s46]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'anh') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1069 Sent text-s53]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'mặt hàng') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1170 Sent text-s59]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'đại học') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1192 Sent text-s60]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'bữa') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1818 Sent text-s102]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'thoại') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1890 Sent text-s107]: [L3 Warning obl-should-be-nmod] The parent (node [3] 'mưu kế') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1949 Sent text-s110]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'quan hệ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-[Line 3643 Sent text-s206]: [L3 Syntax too-many-objects] Multiple direct objects [19, 20] ('hướng', 'Cường') under the predicate 'lạc'.
-[Line 6907 Sent text-s373]: [L3 Syntax too-many-objects] Multiple direct objects [5, 8] ('nó', 'lúa') under the predicate 'gọi'.
-[Line 6979 Sent text-s378]: [L3 Syntax too-many-objects] Multiple direct objects [9, 12] ('ông', 'cớ') under the predicate 'kiếm'.
-[Line 7938 Sent text-s432]: [L3 Syntax too-many-objects] Multiple direct objects [14, 18] ('ai', 'quyền') under the predicate 'có'.
-[Line 8471 Sent text-s464]: [L3 Syntax too-many-objects] Multiple direct objects [2, 4, 5] ('chuyện', 'vậy', 'anh') under the predicate 'Có'.
-[Line 9807 Sent text-s542]: [L3 Syntax too-many-objects] Multiple direct objects [3, 7] ('Chương', 'Hùng') under the predicate 'rời'.
-[Line 13346 Sent test-s1762]: [L3 Syntax too-many-objects] Multiple direct objects [2, 5] ('hệ thống', 'máy') under the predicate 'Gắn'.
-Syntax errors: 7
-Warnings: 70
-*** FAILED *** with 7 errors
+[Line 138 Sent text-s8]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'ban nhạc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 424 Sent text-s22]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'anh') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 428 Sent text-s22]: [L3 SYNTAX obl-should-be-nmod] The parent (node [18] 'ngày') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 922 Sent text-s46]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'anh') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1069 Sent text-s53]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'mặt hàng') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1170 Sent text-s59]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'đại học') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1192 Sent text-s60]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'bữa') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1818 Sent text-s102]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'thoại') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1890 Sent text-s107]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'mưu kế') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1949 Sent text-s110]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'quan hệ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 5212 Sent text-s288]: [L3 WARNING fixed-without-extpos] Fixed expression 'nào đó' does not have the 'ExtPos' feature
+[Line 7536 Sent text-s411]: [L3 WARNING fixed-without-extpos] Fixed expression 'Bởi rứa' does not have the 'ExtPos' feature
+[Line 8288 Sent text-s452]: [L3 WARNING fixed-without-extpos] Fixed expression 'sao cho' does not have the 'ExtPos' feature
+[Line 9810 Sent text-s542]: [L3 WARNING fixed-without-extpos] Fixed expression 'mỗi ngày một' does not have the 'ExtPos' feature
+[Line 11932 Sent test-s1666]: [L3 WARNING fixed-without-extpos] Fixed expression 'dứt áo ra đi' does not have the 'ExtPos' feature
+Warnings: 5
+SYNTAX errors: 72
+*** FAILED *** with 72 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang vi --max-err=10 UD_Vietnamese-VTB/vi_vtb-ud-train.conllu
-[Line 105 Sent train-s7]: [L3 Warning fixed-without-extpos] Fixed expression 'bên cạnh' does not have the 'ExtPos' feature
-[Line 154 Sent train-s10]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'người') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 400 Sent train-s28]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:trái:clf --> 2:đến:case)
-[Line 402 Sent train-s28]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:trái:clf --> 4:223:nummod)
-[Line 456 Sent train-s32]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'gia đình') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 635 Sent train-s44]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'quê hương') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 645 Sent train-s44]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'anh hùng') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1049 Sent train-s66]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'con người') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1100 Sent train-s69]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'tiền bạc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1120 Sent train-s70]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'gia đình') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1200 Sent train-s73]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'tiêu cực') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1204 Sent train-s73]: [L3 Warning obl-should-be-nmod] The parent (node [14] 'tiêu cực') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-[Line 2805 Sent train-s165]: [L3 Syntax leaf-det] 'det' not expected to have children (16:những:det --> 14:một:nummod)
-[Line 4350 Sent train-s266]: [L3 Syntax too-many-objects] Multiple direct objects [13, 19] ('tiêu cực', 'đồng') under the predicate 'tố cáo'.
-[Line 6997 Sent train-s399]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:lần:clf --> 3:này:det)
-[Line 7023 Sent train-s400]: [L3 Syntax leaf-clf] 'clf' not expected to have children (4:thứ:clf --> 5:ba:nummod)
-[Line 9038 Sent train-s498]: [L3 Syntax leaf-clf] 'clf' not expected to have children (8:người:clf --> 10:giới thiệu:acl)
-[Line 9310 Sent train-s518]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:bà:clf --> 5:lại:compound)
-[Line 11079 Sent train-s617]: [L3 Syntax too-many-objects] Multiple direct objects [6, 8] ('tiếng', 'chừng mực') under the predicate 'sử dụng'.
-[Line 15773 Sent train-s884]: [L3 Syntax too-many-objects] Multiple direct objects [7, 12] ('ngòi nổ', 'sao') under the predicate 'tháo'.
-...suppressing further errors regarding Syntax
-Syntax errors: 14
-Warnings: 197
-*** FAILED *** with 14 errors
+[Line 105 Sent train-s7]: [L3 WARNING fixed-without-extpos] Fixed expression 'bên cạnh' does not have the 'ExtPos' feature
+[Line 154 Sent train-s10]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'người') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 400 Sent train-s28]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (3:trái:clf --> 2:đến:case)
+[Line 402 Sent train-s28]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (3:trái:clf --> 4:223:nummod)
+[Line 456 Sent train-s32]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'gia đình') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 635 Sent train-s44]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'quê hương') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 645 Sent train-s44]: [L3 SYNTAX obl-should-be-nmod] The parent (node [16] 'anh hùng') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1049 Sent train-s66]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'con người') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1100 Sent train-s69]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'tiền bạc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1120 Sent train-s70]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'gia đình') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1200 Sent train-s73]: [L3 SYNTAX obl-should-be-nmod] The parent (node [14] 'tiêu cực') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 9833 Sent train-s553]: [L3 WARNING fixed-without-extpos] Fixed expression 'Không ngờ' does not have the 'ExtPos' feature
+[Line 20949 Sent train-s1199]: [L3 WARNING fixed-without-extpos] Fixed expression 'gần như' does not have the 'ExtPos' feature
+[Line 21034 Sent train-s1206]: [L3 WARNING fixed-without-extpos] Fixed expression 'gần như' does not have the 'ExtPos' feature
+[Line 21418 Sent train-s1227]: [L3 WARNING fixed-without-extpos] Fixed expression 'có nghĩa' does not have the 'ExtPos' feature
+[Line 24025 Sent train-s1377]: [L3 WARNING fixed-without-extpos] Fixed expression 'gọi là' does not have the 'ExtPos' feature
+Warnings: 6
+SYNTAX errors: 204
+*** FAILED *** with 204 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
